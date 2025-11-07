@@ -1,7 +1,7 @@
 # Mettiamo tutto sotto una chiave principale 'tesina'
 tesina:
   titolo: "Geografie del Live Electronics"
-  sottotitolo: "Dalla circuiteria creativa agli ecosistemi sonori: prassi elettroacustiche tra sperimentazione americana, istituzioni europee e approcci ecosistemici"
+  sottotitolo: "Come tecnologia e contesti istituzionali hanno trasformato il pensiero compositivo nel Live Electronics: da Mumma e Nono all'IRCAM agli approcci ecosistemici"
   autore: "Giulio Romano De Mattia" # Usiamo 'autore' invece di 'candidato.nome' per coerenza con Pandoc
   
   # Dati per il conservatorio
