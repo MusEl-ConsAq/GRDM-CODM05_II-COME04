@@ -1,17 +1,17 @@
 # Mettiamo tutto sotto una chiave principale 'tesina'
 tesina:
-  titolo: "Il Suono e la Forma"
-  sottotitolo: "Un'analisi della sintesi granulare"
-  autore: "Mario Rossi" # Usiamo 'autore' invece di 'candidato.nome' per coerenza con Pandoc
+  titolo: "Geografie del Live Electronics"
+  sottotitolo: "Dalla circuiteria creativa agli ecosistemi sonori: prassi elettroacustiche tra sperimentazione americana, istituzioni europee e approcci ecosistemici"
+  autore: "Giulio Romano De Mattia" # Usiamo 'autore' invece di 'candidato.nome' per coerenza con Pandoc
   
   # Dati per il conservatorio
   conservatorio: "Conservatorio A. Casella"
   citta: "L'Aquila"
-  corso: "Musica Elettronica DCPL34"
+  corso: "Musica Elettronica DCSL34"
 
   # Dati specifici dell'esame
-  esame: "Sintesi e Campionamento"
-  data: "15/07/2025"
+  esame: "Storia della musica elettrocustica e Storia delle tecnologie elettroacustiche"
+  data: "15/03/2026"
 
   
 environment:
