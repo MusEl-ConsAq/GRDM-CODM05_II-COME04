@@ -22,15 +22,11 @@ csl: styles/consAq-author-date.csl
 nocite: "@*"
 ---
 
-
-
-
 # INTRODUZIONE
 ## Presentazione tema e domanda centrale
 ## Metodologia: analisi fonti primarie
 ## Struttura della tesi
 
----
 
 # CAP. 1: NASCITA DEL LIVE ELECTRONICS
 ## 1.1. Dal tape al live: crisi della musica su nastro
