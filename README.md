@@ -22,9 +22,7 @@ csl: styles/consAq-author-date.csl
 nocite: "@*"
 ---
 
-# INTRODUZIONE!!!
 
-questa è l'introduzione ?
 
 
 # INTRODUZIONE
