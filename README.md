@@ -1,11 +1,11 @@
 ---
-title: "Il Suono e la Forma"
-subtitle: "Un'analisi della sintesi granulare"
-author: "Mario Rossi"
-date: "15/07/2025"
+title: "Geografie del Live Electronics"
+subtitle: "Dalla circuiteria creativa agli ecosistemi sonori: prassi elettroacustiche tra sperimentazione americana, istituzioni europee e approcci ecosistemici"
+author: "Giulio Romano De Mattia"
+date: "15/03/2026"
 conservatorio: "Conservatorio A. Casella, L'Aquila"
-corso: "Musica Elettronica DCPL34"
-esame: "Sintesi e Campionamento"
+corso: "Musica Elettronica DCSL34"
+esame: "Storia della musica elettrocustica e Storia delle tecnologie elettroacustiche"
 abstract: |
   questo dovrebbe essere il sommario...
 header-includes:
