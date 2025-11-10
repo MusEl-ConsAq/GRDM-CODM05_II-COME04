@@ -1,6 +1,6 @@
 ---
 title: "Geografie del Live Electronics"
-subtitle: "Dalla circuiteria creativa agli ecosistemi sonori: prassi elettroacustiche tra sperimentazione americana, istituzioni europee e approcci ecosistemici"
+subtitle: "Come tecnologia e contesti istituzionali hanno trasformato il pensiero compositivo nel Live Electronics: da Mumma e Nono all'IRCAM agli approcci ecosistemici"
 author: "Giulio Romano De Mattia"
 date: "15/03/2026"
 conservatorio: "Conservatorio A. Casella, L'Aquila"
