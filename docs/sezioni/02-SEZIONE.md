@@ -41,11 +41,6 @@ In entrambi i casi, il **microfono diventa strumento attivo**[@roth2023, 61] —
 ### Un possibile contatto diretto
 
 Di Scipio nota un dettaglio significativo: la prima esecuzione ufficiale di *Cartridge Music* ebbe luogo proprio a Colonia nell'ottobre 1960, nello studio dell'artista Mary Bauermeister, e "secondo le ricostruzioni più attendibili, Stockhausen era presente al concerto (egli nel 1967 avrebbe poi sposato Bauermeister)"[@discipio2021, Parte Terza, 314]. Non si può affermare con certezza che *Cartridge Music* abbia esercitato un'influenza diretta su *Mikrophonie I*, quattro anni dopo, ma come osserva Di Scipio: "Certo erano entrambi tempi di 'microfonia', anche se di tipo molto diverso"[@discipio2021, Parte Terza, 314].
-
----
-
-## Differenze di approccio
-
 Nonostante le analogie iniziali, le due opere incarnano **filosofie compositive radicalmente diverse**.
 
 ### Controllo vs Indeterminazione
@@ -71,10 +66,6 @@ Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **M
 Questa posizione intransigente sulla "autenticità" dello strumento contrasta radicalmente con la filosofia di Cage, che nel 1972 dichiarò:
 
 > "Someone said, must it be a tam-tam? I said no, I can imagine the score being used to examine an old Volkswagen musically, to go inside the old thing and bang it and scratch it and do all sorts of things to it."[@roth2023, 64, citando Cott & Stockhausen 1973]
-
----
-
-## Divergenze successive: due tradizioni
 
 Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi.
 
@@ -106,7 +97,7 @@ La portabilità diventa un valore centrale: i musicisti della Cunningham Dance C
 
 Questa tradizione si consolida attraverso formazioni come il **Sonic Arts Union** (con Gordon Mumma, David Behrman, Alvin Lucier e Robert Ashley), l'**ONCE Group**, e più tardi attraverso i **workshop** di hardware hacking che si diffusero negli Stati Uniti e oltre. Il modello è radicalmente diverso da quello europeo: non divisione del lavoro ma **ibridazione di ruoli**; non investimenti massivi ma **economia di mezzi**; non controllo deterministico ma **apertura al processo**; non tecnologia come servizio ma **tecnologia come materiale compositivo**.
 
----
+
 
 ## Due visioni del mondo
 
@@ -119,5 +110,5 @@ Questo panorama è attraversato, dunque, da **due polarità culturali** che, pur
 ## 1.3. Contesto tecnologico: transistor e portabilità
 ## 1.4. Prime esperienze: Sonic Arts Union, ONCE Group
 
----
+
 
