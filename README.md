@@ -83,9 +83,8 @@ Joel Chadabe apre il capitolo "Out of the Studios" del suo *Electric Sound* con 
 
 > "Question: 'How do you perform electronic music without tape?' Answer (said with a shrug of the shoulders and rising inflection): 'Take away the tape.'"[@chadabe1997, 81]
 
-Questa necessità di **"portare la musica elettronica fuori dallo studio"**[@chadabe1997, 81] viene espressa in termini pressoché identici dai due compositori, seppur con sfumature terminologiche diverse. Stockhausen, in una conferenza del 1972, definisce *Mikrophonie I* come **"electronic live music"** in opposizione alla **"electronic music which is produced in a studio"**[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione **"live electronic music"** — probabilmente per la prima volta in assoluto, come nota Di Scipio[@discipio2021, Parte Terza].
-
-L'inversione dei termini ("live electronic" vs "electronic live") non è casuale ma sintomatica di approcci culturali differenti; ciò che accomuna entrambe le opere è tuttavia l'esigenza di **animare**[@pousseur1976, 243] la musica elettronica attraverso la performance dal vivo.
+Questa necessità di **"portare la musica elettronica fuori dallo studio"**[@chadabe1997, 81] viene espressa in termini pressoché identici dai due compositori, seppur con sfumature terminologiche diverse. Stockhausen, in una conferenza del 1972, definisce *Mikrophonie I* come **"electronic live music"** in opposizione alla "electronic music which is produced in a studio"[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione "live electronic music" — probabilmente per la prima volta in assoluto, come nota Di Scipio[@discipio2021, Parte Terza].
+L'inversione dei termini ("live electronic" vs "electronic live") non è casuale ma sintomatica di approcci culturali differenti; ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@pousseur1976, 243] la musica elettronica attraverso la performance dal vivo.
 
 ### La ricerca dei microsounds
 
@@ -122,7 +121,7 @@ Stockhausen, invece, concepisce *Mikrophonie I* secondo la sua **moment-form**, 
 
 ### Oggetti comuni vs strumenti specifici
 
-L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, "figlio di un inventore" e **"privo di supporto istituzionale"**, scelse di **"sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"**[@collins2020, 40]. Gli oggetti inseriti nelle cartucce sono banali: fiammiferi, stuzzicadenti, molle Slinky, piume[@chadabe1997, 81].
+L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, "figlio di un inventore" e "privo di supporto istituzionale", scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40]. Gli oggetti inseriti nelle cartucce sono banali: fiammiferi, stuzzicadenti, molle Slinky, piume[@chadabe1997, 81].
 
 Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **Maihak W49 Hörspielverzerrer**, di cui furono prodotti solo circa 120 esemplari[@roth2023, 66, citando Williams 2012], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61]. Nel 1996, Stockhausen dichiarò:
 
