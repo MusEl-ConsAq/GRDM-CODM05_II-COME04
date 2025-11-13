@@ -2,7 +2,7 @@
 
 Definire con precisione cosa si intenda per "live electronics" presenta difficoltà che vanno ben oltre una semplice questione terminologica. Come osserva Agostino Di Scipio, "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5]. La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno tre decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
 
-## La dominazione del nastro magnetico (1950-1960)
+## Il dominio della *tape music* (1950-1960)
 
 Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente **tape music** — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
 
@@ -13,7 +13,7 @@ Il nastro magnetico era "il primo supporto di registrazione per il suono che fos
 
 Questa modalità di lavoro confinava i compositori negli studi di produzione. **"Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio"**[@mumma1975, 292]. Le opere risultanti venivano poi presentate al pubblico tramite diffusione radiofonica o in concerto attraverso altoparlanti — una situazione che creava evidenti tensioni con le aspettative del pubblico da concerto.
 
-### Il problema della presentazione
+### Il rituale del concerto
 
 Il problema era intrinseco alla natura della presentazione. I compositori che utilizzavano il nastro magnetico "continuously experimented with ways to present their work to audiences"[@mumma1975, 294]. La radiodiffusione e le registrazioni funzionavano bene perché, come nota Mumma, "broadcast and recording are successful because they allow the audience to determine for themselves the formality (or informality) of how they listen"[@mumma1975, 294].
 
@@ -35,7 +35,7 @@ Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni[@mumma1975,
 
 4. Uso del nastro solo per registrare e distribuire i risultati
 
-Ma la svolta cruciale avvenne quando alcuni compositori — Cage in primis:
+Il cambio avvenne quando alcuni compositori — Cage in primis:
 
 > "More significant, some composers **discarded the tape medium as a musical premise** and explored the use of electronic devices, separately and in conjunction with acoustic instruments, as a component for live performance."[@mumma1975, 292]
 
@@ -75,15 +75,6 @@ Come osserva Mumma:
 
 > "These four Cage works were performed widely, particularly by David Tudor and the composer, and were a **considerable stimulus to experimentation in live-electronic music**."[@mumma1975, 293-294]
 
-### Il ruolo di David Tudor come catalizzatore
-
-Il contributo di Tudor a questo processo fu determinante. Come nota Mumma:
-
-> "By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of **solid-state transistor technology**. These transducers became part of the instrumental 'ensemble' for Cage's iconic *Cartridge Music* of 1960."[@mumma1975, 293]
-
-Lavorare con Cage fornì "an early wellspring for Tudor's own evolution from pianist-performer to composer with live electronics"[@mumma1975, 293]. Tudor sviluppò le proprie procedure tecniche:
-
-> "Tudor developed his own technical procedures for Cage's *Variations II*, which extended those of *Cartridge Music* by enhancing the complex internal acoustical resonances of the piano. Tudor often performed *Variations II* as a solo for piano with live electronics, notably at the 1965 ONCE Festival."[@mumma1975, 293]
 
 ## Cartridge Music e Mikrophonie I: opere apripista
 
@@ -152,209 +143,9 @@ Questa posizione intransigente sulla "autenticità" dello strumento contrasta ra
 
 Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi.
 
-### La tradizione europea: istituzionalizzazione e controllo deterministico
-
-Stockhausen, come nota Nicola Bernardini, fu **"il primo a usare la live electronics analogica in opere su larga scala"**[@bernardini2024, 4], con *Mikrophonie I*, *Mixtur* (1964) e *Mantra* (1970). Tuttavia, una delle sue preoccupazioni principali rimase sempre la **"replicabilità deterministica"** delle opere[@bernardini2024, 4]. Questa filosofia — che portò Stockhausen a preferire **materiali preregistrati rispetto alla live electronics** e a creare la propria casa editrice per controllare ogni aspetto della notazione[@bernardini2024, 4] — può essere letta come un tentativo (forse utopico) di lasciare "un percorso prevedibile per la sua musica per i posteri"[@bernardini2024, 4].
-
-Quando le tecnologie digitali divennero disponibili, Stockhausen "era definitivamente distante da esse"[@bernardini2024, 4]. Il compositore tedesco non partecipò alla "ricerca digitale" del live electronics[@bernardini2024, 4], preferendo un approccio più tradizionale alla scrittura strumentale, seppur con una visione moderna costante.
-
-Questa linea evolutiva culmina nella creazione di **IRCAM** (Institut de Recherche et Coordination Acoustique/Musique) a Parigi nel 1977. Fondata da Pierre Boulez con il sostegno del presidente francese Georges Pompidou, IRCAM rappresenta il **modello istituzionale europeo** portato all'estremo: un investimento iniziale di 4.750.000 sterline britanniche, uno staff di 55-60 posizioni fisse più 65-70 temporanee, e un budget annuale di circa 28-30 milioni di franchi francesi[@bernardini2024, 5, citando Born 1995].
-
-Come ricorda Jean-Claude Risset, uno dei primi responsabili del dipartimento computer:
-
-> "**So research at IRCAM was often subordinated to the demands of a composer for a specific piece**. And those demands were not always reasonable and easy to fulfill [...] My personal frustration was that I couldn't work enough on my own."[@chadabe1997, 120]
-
-Il modello IRCAM configura la **tecnologia come servizio alla composizione**, con una chiara divisione del lavoro tra ricercatori, tecnici e compositori.
-
-### La tradizione americana: DIY, portabilità e sperimentazione collettiva
-
-La scena americana segue una traiettoria opposta. Come ricorda David Behrman nella prefazione a *Handmade Electronic Music* di Collins:
-
-> "When I started around 1965, working with homemade circuitry was a necessity: **there were no music synths for sale**."[@collins2020, Foreword]
-
-> "**You didn't have to have an engineering degree to build transistorized music circuits**, and Nic's book makes this clear to a new generation."[@collins2020, Foreword]
-
-La disponibilità della **tecnologia a transistor** dalla fine degli anni '50 fu cruciale. Mumma osserva che "By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of **solid-state transistor technology**"[@mumma2015, 20]. Questi trasduttori divennero parte dell'ensemble strumentale per *Cartridge Music* del 1960[@mumma2015, 20].
-
-La portabilità diventa un valore centrale: i musicisti della Cunningham Dance Company ebbero accesso agli **"equipment standardizzati e prodotti in serie sviluppati dopo il 1965, quando i sintetizzatori di Robert Moog, Donald Buchla e altri divennero commercialmente disponibili"**[@mumma2015, 101]. Ma prima di questa svolta commerciale, la necessità di autocostruzione favorì lo sviluppo di una cultura collettiva di sperimentazione.
-
-Questa tradizione si consolida attraverso formazioni come il **Sonic Arts Union** (con Gordon Mumma, David Behrman, Alvin Lucier e Robert Ashley), l'**ONCE Group**, e più tardi attraverso i **workshop** di hardware hacking che si diffusero negli Stati Uniti e oltre. Il modello è radicalmente diverso da quello europeo: non divisione del lavoro ma **ibridazione di ruoli**; non investimenti massivi ma **economia di mezzi**; non controllo deterministico ma **apertura al processo**; non tecnologia come servizio ma **tecnologia come materiale compositivo**.
-
-## Transistor e la rivoluzione della portabilità
-
-L'emergere del live electronics non fu solo una scelta estetica, ma fu **reso tecnologicamente possibile** da una rivoluzione hardware: il passaggio dai tubi a vuoto ai transistor a stato solido.
-
-### L'enabler tecnologico della fine anni '50
-
-Come nota Mumma:
-
-> "By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of **solid-state transistor technology**. These transducers became part of the instrumental 'ensemble' for Cage's iconic *Cartridge Music* of 1960."[@mumma1975, 293]
-
-La tecnologia a transistor offriva vantaggi cruciali rispetto ai tubi a vuoto che avevano dominato l'elettronica musicale fino a quel momento:
-
-**Dimensioni e peso ridotti:**  
-I transistor erano una frazione delle dimensioni dei tubi a vuoto, permettendo la creazione di equipment **portatile** invece che vincolato permanentemente allo studio.
-
-**Minore consumo energetico:**  
-Mentre i tubi richiedevano alimentazioni da 400-500 volt, i transistor operavano a 12 volt o meno, rendendo possibile l'uso di batterie e l'indipendenza dalle prese elettriche fisse.
-
-**Maggiore affidabilità:**  
-I transistor erano resistenti agli urti e ai movimenti — caratteristica essenziale per equipment da concerto che doveva essere trasportato e montato ripetutamente.
-
-**Costo accessibile:**  
-La produzione di massa dei transistor nei tardi anni '50 li rese economicamente accessibili anche ai compositori indipendenti, senza necessità di budget istituzionali.
-
-### La necessità dell'autocostruzione
-
-Come ricorda David Behrman nella prefazione a *Handmade Electronic Music* di Collins:
-
-> "When I started around 1965, working with homemade circuitry was a necessity: **there were no music synths for sale**."[@collins2020, Foreword]
-
-E soprattutto, la tecnologia a transistor era **accessibile intellettualmente** oltre che economicamente:
-
-> "**You didn't have to have an engineering degree to build transistorized music circuits**, and Nic's book makes this clear to a new generation."[@collins2020, Foreword]
-
-Behrman sintetizza efficacemente il cambiamento di paradigma tecnologico:
-
-> "The transistor, a little later the integrated circuit, and then the microcomputer."[@collins2020, Foreword]
-
-Questa accessibilità tecnologica permise ai compositori americani di sviluppare equipment portatile e personalizzato — il famoso "cybersonic belt-box" di Mumma, costruito proprio con componenti a transistor, ne è l'esempio più emblematico — senza dipendere da grandi istituzioni o budget milionari.
-
-### Dalla stanza al palco: portabilità come filosofia
-
-La portabilità non fu solo una questione pratica ma divenne una **filosofia estetica**. L'equipment che poteva essere trasportato in una valigetta significava:
-
-- Performance possibili ovunque, non solo negli studi attrezzati
-
-- Sperimentazione continua durante i tour
-
-- Condivisione diretta di tecniche tra compositori
-
-- Performance come parte integrante del processo compositivo
-
-Come nota Mumma, entro la metà degli anni '60 i musicisti della Cunningham Dance Company ebbero accesso a "standardized and mass-produced equipment developed after 1965, when the synthesizers of Robert Moog, Donald Buchla, and others became commercially available"[@mumma2015, 101]. Ma prima di questa svolta commerciale, la necessità di autocostruzione favorì lo sviluppo di una **cultura collettiva di sperimentazione** — una comunità di pratiche che sarebbe diventata caratteristica distintiva dell'approccio americano al live electronics.
-
 ## Due visioni del mondo
 
 Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di **due visioni culturali profondamente differenti** sul rapporto tra arte, tecnologia e società: da un lato il modello del **grande istituto di ricerca centralizzato**, dall'altro quello della **rete diffusa di sperimentatori indipendenti**; da un lato la ricerca della **perfezione replicabile**, dall'altro l'accettazione del **processo come valore**; da un lato la **tecnologia come infrastruttura**, dall'altro la **tecnologia come filosofia**.
 
 Questo panorama è attraversato, dunque, da **due polarità culturali** che, pur mantenendo una loro autonomia, si intrecciano e si influenzano reciprocamente attraverso scambi, collaborazioni, e contaminazioni transnazionali. Come osserva Bernardini, l'influenza di Cage sui suoi contemporanei fu "paragonabile all'influenza della scuola di Darmstadt"[@bernardini1986], ma con esiti profondamente diversi che si dipaneranno nei decenni successivi.
 
-## 1.4. Ann Arbor: laboratorio del live electronics americano
-
-Se New York fu il centro della tape music americana nei primi anni '50, **Ann Arbor, Michigan**, rappresentò il luogo di nascita del live electronics come prassi collettiva organizzata — un modello alternativo all'istituzionalizzazione della ricerca elettroacustica.
-
-### Manifestations: Light and Sound (1957)
-
-Come documenta Mumma:
-
-> "In 1957 the members of the production group for *Manifestations: Light and Sound* in Ann Arbor began live performances of amplified small sounds, tape music, and light projection."[@mumma1975, 297]
-
-Il gruppo includeva:
-- **Gordon Mumma** (compositore, ingegnere elettronico)
-- **Robert Ashley** (compositore)
-- **Milton Cohen** (artista visivo, creatore dello Space Theatre)
-
-*Manifestations* non fu solo un collettivo performativo ma un **laboratorio di ricerca multimediale**. Lo Space Theatre di Cohen — uno spazio immersivo con proiezioni su superfici multiple — fornì un contesto unico per sperimentare l'integrazione di elettronica sonora, immagini in movimento e performance dal vivo.
-
-### Cooperative Studio for Electronic Music
-
-Parallelamente a *Manifestations*, Mumma e Ashley svilupparono i propri studi personali che divennero il **Cooperative Studio for Electronic Music** — un modello radicalmente diverso dagli studi istituzionali europei.
-
-Non era un grande centro di ricerca con budget milionari, sale tecnologicamente avanzate e staff permanente. Era invece uno spazio condiviso per la sperimentazione indipendente, dove i compositori potevano:
-- Sviluppare il proprio equipment secondo necessità specifiche
-- Sperimentare senza dover rispondere a istituzioni o finanziatori
-- Condividere tecniche e componenti in modo informale
-- Integrare ricerca e produzione artistica senza separazioni gerarchiche
-
-Come osserva Mumma in un saggio del 1964, "An Electronic Music Studio for the Independent Composer"[@mumma2015b], l'obiettivo era creare un'infrastruttura accessibile che non richiedesse affiliazione istituzionale o grandi risorse finanziarie.
-
-### ONCE Festival e la diffusione del modello
-
-Da questo contesto nacque l'**ONCE Festival**, organizzato a partire dal 1961 e dedicato a nuove forme di performance multimediale. Il festival divenne un punto di riferimento internazionale per l'avanguardia musicale, ospitando prime di opere di Cage, Tudor, e altri pionieri del live electronics.
-
-Nel 1965, l'ONCE Festival presentò la performance di David Tudor di *Variations II* di Cage per pianoforte amplificato[@mumma1975, 293] — un evento che consolidò la reputazione di Ann Arbor come centro vitale per la ricerca sul live electronics.
-
-### Sonic Arts Union: dal locale al globale
-
-Sempre da questo contesto, nel 1966, si formò il **Sonic Arts Union** — il collettivo che avrebbe portato il modello del live electronics DIY in tour attraverso gli Stati Uniti e l'Europa. I membri fondatori furono:
-- Gordon Mumma
-- Robert Ashley
-- David Behrman
-- Alvin Lucier
-
-Il Sonic Arts Union rappresentò l'evoluzione naturale della comunità di pratiche sviluppatasi ad Ann Arbor nel decennio precedente.
-
-### Un modello alternativo
-
-Ann Arbor rappresenta quindi un **paradigma alternativo** di organizzazione della ricerca elettroacustica, caratterizzato da:
-
-**Non divisione del lavoro ma ibridazione di ruoli:**  
-I compositori erano anche ingegneri, costruttori di strumenti, performer, organizzatori.
-
-**Non investimenti massivi ma economia di mezzi:**  
-Autocostruzione, riuso di componenti surplus militari, condivisione di risorse.
-
-**Non controllo centralizzato ma rete diffusa:**  
-Collaborazioni orizzontali, circolazione informale di conoscenze, assenza di gerarchie istituzionali.
-
-**Non tecnologia come servizio ma tecnologia come materiale compositivo:**  
-Il design dei circuiti era parte integrante del processo compositivo, non un servizio fornito da tecnici specializzati.
-
-Questo modello — nato per necessità in assenza di supporto istituzionale — si rivelò sorprendentemente produttivo e influente, generando una comunità di pratiche che si sarebbe diffusa ben oltre Ann Arbor attraverso i tour del Sonic Arts Union, i workshop di hardware hacking, e la circolazione informale di schemi circuitali e idee.
-
-### Altri pionieri del movimento (1960-1970)
-
-Il movimento del live electronics americano non fu il prodotto di singoli geni isolati, ma di una **rete di sperimentatori** che condivisero tecniche, idee e spesso anche equipment. Accanto alle figure centrali di Cage, Tudor, Mumma e Ashley, altri compositori contribuirono in modo determinante allo sviluppo della prassi.
-
-#### Richard Maxfield (1927-1969)
-
-Figura oggi "belatedly recognized"[@mumma1975, 295], Maxfield fu pioniere delle **real-time studio techniques** — tecniche di studio in tempo reale che erano di fatto performance live, usando il nastro magnetico solo per registrare e distribuire i risultati, non come medium compositivo primario.
-
-Le sue opere — *Night Music* (1960), *Amazing Grace* (1960) e *Piano Concert for David Tudor* (1961) — furono tutte composizioni su nastro via live-performance studio techniques. Come osserva Mumma, queste opere e le loro procedure "technical and musical procedures are now widely imitated"[@mumma1975, 295].
-
-Maxfield rappresenta una traiettoria parallela a quella di Cage: l'esplorazione di come rendere la tape music una prassi performativa invece che un prodotto fisso. La sua influenza, inizialmente sottovalutata, divenne evidente solo retrospettivamente quando le sue tecniche vennero adottate da una generazione successiva di compositori.
-
-#### Robert Ashley (nato 1930)
-
-Membro fondatore sia di *Manifestations* che del Sonic Arts Union, Ashley fu centrale nello sviluppo del live electronics ad Ann Arbor. A differenza dei compositori che lavoravano in studi istituzionali, Ashley costruì uno studio progettato specificamente per la performance.
-
-La sua opera *The Fourth of July* (1960) fu:
-
-> "a tape composition for theater as well as concert presentation, was made in a studio of the composer's own design, which allowed for **considerable real-time performance on the equipment**."[@mumma1975, 295]
-
-Questa opera rappresenta uno dei primi esempi di **ibridazione tra tape music e live performance**. Non si trattava semplicemente di eseguire una parte strumentale insieme a un nastro pre-registrato, ma di utilizzare lo studio stesso come strumento performativo.
-
-*Public Opinion Descends Upon the Demonstrators* (1961), per nastro multi-canale, venne eseguito dal vivo secondo l'interazione tra una partitura notata e la risposta del pubblico — anticipando approcci che oggi chiameremmo "interattivi" o "responsivi".
-
-#### Pauline Oliveros (1932-2016)
-
-Oliveros sviluppò nel 1966 una serie di composizioni definite "real-time stereophonic tape compositions"[@mumma1975, 295], di cui *I of IV* è la più conosciuta[@mumma1975, 295]. Il suo lavoro si concentrò sull'esplorazione del feedback e delle risonanze acustiche degli spazi, anticipando approcci che oggi chiameremmo "ecosistemici".
-
-Le sue composizioni in tempo reale non erano registrazioni di performance pre-esistenti, ma opere create attraverso la manipolazione dal vivo di loop, delay e feedback — il nastro magnetico diventava uno strumento performativo piuttosto che un medium di fissazione.
-
-#### Terry Riley (nato 1935)
-
-Riley sviluppò una forma unica di:
-
-> "Live, polyphonic, solo-performance interaction [...] tape recorders + soprano saxophone + electric organ"[@mumma1975, 295]
-
-Opere come *Poppy Nogood and the Phantom Band* (1966) e *Rainbow in Curved Air* (1968)[@mumma1975, 295] pioneristicamente utilizzarono tecniche di loop e layering che sarebbero diventate centrali nella musica ambient e minimalista. Riley creava tessiture polifoniche stratificando in tempo reale brevi loop registrati su nastro, trasformando il tape recorder da dispositivo di riproduzione a strumento di costruzione sonora dal vivo.
-
-Questo approccio — il performer che suona "insieme" alle proprie registrazioni in loop, creando ensemble virtuali — anticipò di decenni tecniche oggi comuni con i loop pedals e il live sampling digitale.
-
-#### Alvin Lucier (nato 1931)
-
-Sebbene Mumma (1975) menzioni Lucier principalmente in relazione al Sonic Arts Union, il suo contributo al live electronics fu determinante. Opere come *Music for Solo Performer* (1965) — dove le onde cerebrali amplificate del performer attivano percussioni attraverso altoparlanti — e *I Am Sitting in a Room* (1970) — esplorazione del feedback acustico attraverso ri-registrazioni successive — rappresentano forme radicali di live electronics che eliminano quasi completamente la presenza del performer-musicista tradizionale, lasciando che i processi elettroacustici si svolgano in modo semi-autonomo.
-
-### Solo pochi prima del 1960
-
-È importante sottolineare, come fa Mumma:
-
-> "**Only a few other composers worked with live-electronic music before 1960.**"[@mumma1975, 297]
-
-Oltre a Cage e ai membri di *Manifestations*, Mumma cita pochi altri casi isolati. Il numero limitato di figure attive prima del 1960 rende ancora più evidente il **turning point** di quell'anno. Come osserva Mumma:
-
-> "Live performance with amplified small sounds aided by the development of new live-performance electronic equipment, became an important activity during the '60s. It gradually attracted the attention of many who, philosophically committed to the tape medium, had previously dismissed live-performance electronic music as an unworthy endeavor."[@mumma1975, 297]
-
-Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 1960 e il 1970 una prassi consolidata, sostenuta da comunità organizzate, eventi dedicati, e una crescente disponibilità di equipment commerciale accessibile.
