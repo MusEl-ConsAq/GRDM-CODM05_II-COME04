@@ -135,14 +135,6 @@ Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Mu
 
 Questo panorama è attraversato, dunque, da **due polarità culturali** che, pur mantenendo una loro autonomia, si intrecciano e si influenzano reciprocamente attraverso scambi, collaborazioni, e contaminazioni transnazionali. Come osserva Bernardini, l'influenza di Cage sui suoi contemporanei fu "paragonabile all'influenza della scuola di Darmstadt"[@bernardini1986], ma con esiti profondamente diversi che si dipaneranno nei decenni successivi.
 
-## 1.1. Dal tape al live: crisi della musica su nastro
-## 1.2. John Cage e l'origine del termine (1962)
-## 1.3. Contesto tecnologico: transistor e portabilità
-## 1.4. Prime esperienze: Sonic Arts Union, ONCE Group
-
-
-
-
 
 # CAP. 2: L'APPROCCIO AMERICANO
 
