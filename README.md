@@ -30,7 +30,10 @@ nocite: "@*"
 
 # GENESI DEL LIVE ELECTRONICS
 
-Definire con precisione cosa si intenda per "live electronics" presenta difficoltà che vanno ben oltre una semplice questione terminologica. Come osserva Agostino Di Scipio, "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5]. La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno tre decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
+Definire con precisione cosa si intenda per *live electronics* presenta difficoltà che vanno ben oltre una semplice questione terminologica. Come osserva Agostino Di Scipio:
+> "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5]. 
+
+La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno due decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
 
 ## Il dominio della *tape music* (1950-1960)
 
@@ -44,12 +47,13 @@ Questa modalità di lavoro confinava i compositori negli studi di produzione. Fi
 
 ### Il rituale del concerto
 
-Il problema era intrinseco alla natura della presentazione. I compositori che utilizzavano il nastro magnetico "continuously experimented with ways to present their work to audiences"[@mumma1975, 294]. La radiodiffusione e le registrazioni funzionavano bene perché, come nota Mumma, "broadcast and recording are successful because they allow the audience to determine for themselves the formality (or informality) of how they listen"[@mumma1975, 294].
-"Playing tapes for audiences in the concert hall is another matter"[@mumma1975, 294]. Come osserva acutamente Mumma:
+Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso della presentazione musicale. I compositori che lavoravano con nastro magnetico si trovavano continuamente a sperimentare modalità per presentare le proprie opere al pubblico, come nota Mumma[@mumma1975, 294]. La radiodiffusione e le registrazioni domestiche funzionavano bene perché permettevano all'ascoltatore di determinare autonomamente il grado di formalità con cui ascoltare. Ma la presentazione dal vivo poneva sfide del tutto diverse: il pubblico da concerto, portava con sé aspettative tradizionali consolidate: "Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at."[@mumma1975, p. 294]
 
-> "The concert audience has strong traditional expectations. **Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at.**"[@mumma1975, p. 294]
+Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].
 
-Questa tensione tra il medium acusmatico — il suono senza fonte visibile — e le convenzioni del concerto tradizionale avrebbe spinto numerosi compositori a cercare alternative.
+I fattori scatenanti di questa crisi erano articolati e interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera come fatto compositivo instantaneo.
+
+In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero rianimare la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
 ### Eccezioni tardive e transizione
 
