@@ -21,62 +21,27 @@ Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso del
 
 Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].
 
-I fattori scatenanti di questa crisi erano articolati e interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera come fatto compositivo instantaneo.
+I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera come fatto compositivo instantaneo.
 
 In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero rianimare la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
 ### Eccezioni tardive e transizione
 
-Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni[@mumma1975, 292]:
+Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni a questo dominio esclusivo della tape music da studio[@mumma1975, 292]. Alcuni compositori sperimentarono con suoni registrati su nastro presentati in concerto dal vivo insieme a strumenti o voci, mentre altri collocarono il nastro in situazioni performative innovative che si allontanavano dai riferimenti alla musica tradizionale. Emersero anche tecniche di studio che permettevano elaborazioni instantanee configurandosi di fatto come performance dal vivo, e casi in cui il nastro veniva impiegato esclusivamente per registrare e distribuire i risultati di performance che non lo utilizzavano come medium compositivo primario[@mumma1975, 292].
 
-1. Suoni registrati su nastro in concerto dal vivo con strumenti o voci
+Il cambio decisivo avvenne quando alcuni compositori — Cage in primis — abbandonarono il nastro come premessa musicale ed esplorarono l'uso di dispositivi elettronici, da soli o in combinazione con strumenti acustici, come componenti per la performance dal vivo[@mumma1975, 292]. Questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnò la nascita del live electronics come prassi distinta. 
 
-2. Nastro in "situazioni performative innovative" senza riferimento alla musica tradizionale
-
-3. Tecniche di studio in tempo reale che erano di fatto performance live
-
-4. Uso del nastro solo per registrare e distribuire i risultati
-
-Il cambio avvenne quando alcuni compositori — Cage in primis:
-
-> "More significant, some composers **discarded the tape medium as a musical premise** and explored the use of electronic devices, separately and in conjunction with acoustic instruments, as a component for live performance."[@mumma1975, 292]
-
-Questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnerà la nascita del live electronics come prassi distinta. Gli anni dal 1960 in avanti vedranno "la performance dal vivo con suoni amplificati di piccola entità, aiutata dallo sviluppo di nuovo equipment elettronico per la performance dal vivo, diventare un'attività importante"[@mumma1975, 297]. Gradualmente, questa prassi "attirò l'attenzione di molti che, filosoficamente impegnati con il medium del nastro, avevano precedentemente liquidato il live electronics come un'impresa indegna"[@mumma1975, 297].
-
-> "Live performance with amplified small sounds aided by the development of new live-performance electronic equipment, became an important activity during the '60s."[@mumma1975, 297]
-
-Gradualmente, questa prassi:
-
-> "attracted the attention of many who, philosophically committed to the tape medium, had previously dismissed live-performance electronic music as an unworthy endeavor."[@mumma1975, 297]
+Durante gli anni '60, la performance dal vivo con suoni amplificati di piccola entità, supportata dallo sviluppo di nuova strumentazione elettronica progettata specificamente per l'uso in concerto, divenne un'attività sempre più rilevante[@mumma1975, 297]. Questa prassi emergente attrasse gradualmente l'attenzione anche di coloro che, inizialmente impegnati filosoficamente con il medium del nastro magnetico, avevano in precedenza considerato il live electronics come un'impresa di scarso interesse[@mumma1975, 297].
 
 ### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage (1942-1960)
 
-*Cartridge Music* non rappresenta un improvviso cambio di rotta nel percorso compositivo di Cage, ma piuttosto il **culmine di un processo di ricerca durato almeno due decenni**. 
+*Cartridge Music* non è un fulmine a ciel sereno nel percorso compositivo di Cage, ma piuttosto il culmine di un processo di ricerca durato almeno due decenni.
 
-Come nota Mumma:
+Dopo otto anni di lavoro innovativo con il *prepared piano*, Cage riprese la composizione con mezzi elettroacustici con *Imaginary Landscape No. 4* (1951), opera per dodici radio con ventiquattro esecutori[@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplorò sistematicamente il ricevitore radio come strumento per la performance dal vivo[@mumma1975, 293].
 
-> "Following eight years of innovative work with the 'prepared piano,' Cage resumed composition for live-electronic means with *Imaginary Landscape No. 4* (1951) for twelve radios with twenty-four performers."[@mumma1975, 293]
+Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizzato microfoni a contatto in *Imaginary Landscape No. 1* (1939), ma non vi tornò fino a *Winter Music* e *Variations II*[@mumma1975, 293]. David Tudor sviluppò entrambe le opere come composizioni per pianoforte amplificato: in *Winter Music* la parte pianistica veniva eseguita dalla tastiera e resa ultra-forte, mentre in *Variations II* i microfoni a contatto elevavano i microsuoni dall'interno del pianoforte a un'udibilità da concerto[@mumma1975, 293].
 
-Quest'opera:
-
-> "with *Radio Music* (1952), *Speech* (1955), and *Music Walk* (1958), explored the radio receiver as a live-performance instrument."[@mumma1975, 293]
-
-Un passaggio cruciale avviene alla fine degli anni '50:
-
-> "Following his use of contact microphones in *Imaginary Landscape No. 1* (1939), Cage did not return to their use until his *Winter Music* and *Variations II*."[@mumma1975, 293]
-
-**David Tudor svilupperà entrambe come opere per pianoforte amplificato**:
-
-> "For *Winter Music* the piano part was performed from the keyboard and made ultra-loud; for *Variations II* contact microphones raised the micro-sounds from inside the piano to concert audibility."[@mumma1975, 293]
-
-Nel 1960, questa ricerca culmina in due opere fondamentali:
-
-> "In 1960 Cage composed his *Music for Amplified Toy Pianos*, which used contact microphones, and **the classic *Cartridge Music***, which used phonograph cartridges."[@mumma1975, 293]
-
-Come osserva Mumma:
-
-> "These four Cage works were performed widely, particularly by David Tudor and the composer, and were a **considerable stimulus to experimentation in live-electronic music**."[@mumma1975, 293-294]
-
+Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispettivamente microfoni a contatto (*Music for Amplified Toy Pianos*) e cartucce fonografiche (*Cartridge Music*)[@mumma1975, 293]. Queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dallo stesso compositore, costituendo uno stimolo considerevole alla sperimentazione nel live electronics[@mumma1975, 293-294].
 
 ## Cartridge Music e Mikrophonie I: opere apripista
 
@@ -96,23 +61,13 @@ L'inversione dei termini ("live electronic" vs "electronic live") non è casuale
 
 Entrambe le opere si fondano su un principio comune: l'**amplificazione e la trasformazione elettronica di suoni altrimenti inaudibili**. 
 
-Nel caso di *Cartridge Music*, Cage utilizza cartucce di giradischi e microfoni a contatto applicati a sedie, tavoli, cestini:
+Nel caso di *Cartridge Music*, Cage utilizza cartucce di giradischi e microfoni a contatto applicati a sedie, tavoli, cestini, inserendovi oggetti comuni come stuzzicadenti, fiammiferi, molle Slinky, fili di pianoforte e piume. Sia i microfoni che le cartucce sono collegati ad amplificatori che inviano il segnale agli altoparlanti, dato che la maggior parte dei suoni prodotti è talmente piccola da richiedere amplificazione per essere udibile[@chadabe1997, 81-82].
 
-> "various suitable objects (toothpicks, matches, slinkies, piano wires, feathers, etc.) are inserted in the cartridges. Both the microphones and cartridges are connected to amplifiers that go to loud-speakers, **the majority of the sounds produced being small and requiring amplification in order to be heard**..."[@chadabe1997, 81-82]
+L'uso dell'amplificazione da parte di Cage fu profetico perché rappresentava un senso particolare di **magnificazione**: invece di amplificare semplicemente suoni non abbastanza forti, egli magnificava microsuoni che senza amplificazione sarebbero stati praticamente inaudibili, rivelando così un intero nuovo mondo di risorse sonore[@mumma1975, 296]. Nicolas Collins sottolinea come la ricchezza sorprendente di questi microsuoni enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) provenienti dagli studi europei di musica elettronica, aprendo le orecchie di un'intera generazione di artisti del suono allo splendore del microfono a contatto[@collins2020, 40].
 
-L'uso dell'amplificazione da parte di Cage fu "prophetic". Come spiega Mumma:
+Stockhausen, da parte sua, descrive il processo compositivo di *Mikrophonie I* attraverso un'immagine medica eloquente: condusse esperimenti eccitando il tam-tam con vari oggetti trovati in casa — vetro, cartone, metallo, legno, gomma, materiali sintetici — mentre teneva e muoveva con la mano un microfono direzionale, utilizzandolo per ascoltare il tam-tam come un dottore esamina un paziente con uno stetoscopio[@chadabe1997, 83-84].
 
-> "Cage's use of amplification was prophetic because it was a special sense of **magnification**. That is, instead of amplifying sounds that were simply not quite loud enough, he **magnified micro-sounds** that **without amplification** were practically inaudible. Electronically magnified, these micro-sounds revealed **a whole new world of sound resources**."[@mumma1975, 296]
-
-Nicolas Collins sottolinea come questa scelta estetica rappresentasse un'alternativa radicale agli studi europei:
-
-> "the surprising richness of these enormously amplified 'microsounds' **rivaled the more labor- (and capital-)intensive synthetic sonorities coming out of the European electronic music studios** and opened the ears of a generation of sound artists to the splendor of the contact mike."[@collins2020, 40]
-
-Stockhausen, da parte sua, descrive il processo compositivo di *Mikrophonie I* con un'immagine medica eloquente:
-
-> "I undertook an experiment in which the tamtam was excited with various objects that I found around the house—objects of glass, cardboard, metal, wood, rubber, synthetics. At the same time, I held and moved with my hand a directional microphone [...] **I used the microphone to listen to the tamtam, the way a doctor examines a patient with a stethoscope**."[@chadabe1997, 83-84]
-
-In entrambi i casi, il **microfono diventa strumento attivo**[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il "micromondo delle vibrazioni acustiche"[@roth2023, 64].
+In entrambi i casi, il "microfono diventa strumento attivo"[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il micromondo delle vibrazioni acustiche[@roth2023, 64].
 
 ### Un possibile contatto diretto
 
