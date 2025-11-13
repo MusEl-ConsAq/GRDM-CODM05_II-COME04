@@ -4,7 +4,7 @@ Definire con precisione cosa si intenda per "live electronics" presenta difficol
 
 ## La dominazione del nastro magnetico (1950-1960)
 
-Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente **tape music** — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
+Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente *tape music* — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
 
 Come osserva Gordon Mumma, "durante gli anni '50 la maggior parte dei compositori trattava il nastro magnetico in un modo 'hands-on' analogo a quello dei cineasti. Come con il film, la tape music era composta largamente attraverso l'editing"[@mumma1975, 292]. Il nastro magnetico era "il primo supporto di registrazione per il suono che fosse ragionevolmente editabile: poteva essere tagliato e giuntato con precisione"[@mumma1975, 292].
 
@@ -15,14 +15,29 @@ Il problema era intrinseco alla natura della presentazione. Come nota Mumma, "ri
 ### Eccezioni tardive e transizione
 
 Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni[@mumma1975, 292]:
+
 1. Suoni registrati su nastro in concerto dal vivo con strumenti o voci
+
 2. Nastro in "situazioni performative innovative" senza riferimento alla musica tradizionale
+
 3. Tecniche di studio in tempo reale che erano di fatto performance live
+
 4. Uso del nastro solo per registrare e distribuire i risultati
+
 
 Ma la svolta cruciale avvenne quando alcuni compositori "**abbandonarono il nastro magnetico come premessa musicale** ed esplorarono l'uso di dispositivi elettronici, separatamente e in congiunzione con strumenti acustici, come componente per la performance dal vivo"[@mumma1975, 292].
 
 Questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnerà la nascita del live electronics come prassi distinta.
+
+### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage
+
+*Cartridge Music* non rappresenta un improvviso cambio di rotta nel percorso compositivo di Cage, ma piuttosto il **culmine di un processo di ricerca durato almeno un decennio**. 
+
+Dopo otto anni di lavoro innovativo con il prepared piano (1942-1951), Cage riprende a comporre per mezzi elettronici dal vivo con *Imaginary Landscape No. 4* (1951) per dodici radio con ventiquattro esecutori[@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplora il ricevitore radio come strumento performativo[@mumma1975, 293].
+
+Un passaggio cruciale avviene alla fine degli anni '50. Dopo aver utilizzato microfoni a contatto in *Imaginary Landscape No. 1* (1939), Cage non torna a questa tecnica fino a *Winter Music* e *Variations II*[@mumma1975, 293]. David Tudor svilupperà entrambe come opere per pianoforte amplificato: in *Winter Music* la parte pianistica viene eseguita dalla tastiera e resa "ultra-loud"; in *Variations II* i microfoni a contatto sollevano i microsounds dall'interno del pianoforte fino a renderli udibili in concerto[@mumma1975, 293].
+
+Nel 1960, questa ricerca culmina in due opere fondamentali: *Music for Amplified Toy Pianos*, che utilizza microfoni a contatto, e **la classica *Cartridge Music***, che impiega cartucce da giradischi[@mumma1975, 293]. Come osserva Mumma, "queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dal compositore stesso, e furono un **considerevole stimolo alla sperimentazione nel live electronics**"[@mumma1975, 293-294].
 
 ## Cartridge Music e Mikrophonie I: opere apripista
 
