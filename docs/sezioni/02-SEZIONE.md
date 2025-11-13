@@ -12,6 +12,16 @@ Questa modalità di lavoro confinava i compositori negli studi di produzione. **
 
 Il problema era intrinseco alla natura della presentazione. Come nota Mumma, "riprodurre nastri per un pubblico in una sala da concerto è tutta un'altra questione. Il pubblico da concerto ha forti aspettative tradizionali. **Il pubblico si aspetta di vedere oltre che di ascoltare una performance, e gli altoparlanti non sono un granché da guardare**"[@mumma1975, 294].
 
+### Il problema della presentazione
+
+Il problema era intrinseco alla natura della presentazione. I compositori che utilizzavano il nastro magnetico "sperimentavano continuamente modi per presentare il loro lavoro al pubblico"[@mumma1975, 294]. La radiodiffusione e le registrazioni funzionavano bene "perché permettono al pubblico di determinare da sé la formalità (o informalità) di come ascoltano"[@mumma1975, 294].
+
+"Riprodurre nastri per un pubblico in una sala da concerto è tutta un'altra questione"[@mumma1975, 294]. Come nota acutamente Mumma:
+
+> "Il pubblico da concerto ha forti aspettative tradizionali. **Il pubblico si aspetta di vedere oltre che di ascoltare una performance, e gli altoparlanti non sono un granché da guardare.**"[@mumma1975, 294]
+
+Questa tensione tra il medium acusmatico — il suono senza fonte visibile — e le convenzioni del concerto tradizionale avrebbe spinto numerosi compositori a cercare alternative.
+
 ### Eccezioni tardive e transizione
 
 Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni[@mumma1975, 292]:
