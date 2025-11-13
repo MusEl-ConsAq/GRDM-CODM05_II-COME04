@@ -32,6 +32,28 @@ nocite: "@*"
 
 Definire con precisione cosa si intenda per "live electronics" presenta difficoltà che vanno ben oltre una semplice questione terminologica. Come osserva Agostino Di Scipio, "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5]. La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno tre decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
 
+## La dominazione del nastro magnetico (1950-1960)
+
+Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente **tape music** — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
+
+Come osserva Gordon Mumma, "durante gli anni '50 la maggior parte dei compositori trattava il nastro magnetico in un modo 'hands-on' analogo a quello dei cineasti. Come con il film, la tape music era composta largamente attraverso l'editing"[@mumma1975, 292]. Il nastro magnetico era "il primo supporto di registrazione per il suono che fosse ragionevolmente editabile: poteva essere tagliato e giuntato con precisione"[@mumma1975, 292].
+
+Questa modalità di lavoro confinava i compositori negli studi di produzione. **"Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio"**[@mumma1975, 292]. Le opere risultanti venivano poi presentate al pubblico tramite diffusione radiofonica o in concerto attraverso altoparlanti — una situazione che creava evidenti tensioni con le aspettative del pubblico da concerto.
+
+Il problema era intrinseco alla natura della presentazione. Come nota Mumma, "riprodurre nastri per un pubblico in una sala da concerto è tutta un'altra questione. Il pubblico da concerto ha forti aspettative tradizionali. **Il pubblico si aspetta di vedere oltre che di ascoltare una performance, e gli altoparlanti non sono un granché da guardare**"[@mumma1975, 294].
+
+### Eccezioni tardive e transizione
+
+Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni[@mumma1975, 292]:
+1. Suoni registrati su nastro in concerto dal vivo con strumenti o voci
+2. Nastro in "situazioni performative innovative" senza riferimento alla musica tradizionale
+3. Tecniche di studio in tempo reale che erano di fatto performance live
+4. Uso del nastro solo per registrare e distribuire i risultati
+
+Ma la svolta cruciale avvenne quando alcuni compositori "**abbandonarono il nastro magnetico come premessa musicale** ed esplorarono l'uso di dispositivi elettronici, separatamente e in congiunzione con strumenti acustici, come componente per la performance dal vivo"[@mumma1975, 292].
+
+Questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnerà la nascita del live electronics come prassi distinta.
+
 ## Cartridge Music e Mikrophonie I: opere apripista
 
 Due composizioni, realizzate a distanza di quattro anni l'una dall'altra, segnano un momento di svolta nella storia della musica elettroacustica: ***Cartridge Music*** (1960) di John Cage e ***Mikrophonie I*** (1964) di Karlheinz Stockhausen. Entrambe condividono una **necessità urgente**: liberare la musica elettronica dal supporto fisso del nastro magnetico e riportarla alla dimensione performativa del concerto.
