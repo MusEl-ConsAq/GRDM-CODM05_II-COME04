@@ -28,15 +28,15 @@ nocite: "@*"
 ## Struttura della tesi
 
 
-# GENESI DEL LIVE ELECTRONICS**
+# GENESI DEL LIVE ELECTRONICS
 
 Definire con precisione cosa si intenda per "live electronics" presenta difficoltà che vanno ben oltre una semplice questione terminologica. Come osserva Agostino Di Scipio, "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5]. La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno tre decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
 
-## **Cartridge Music e Mikrophonie I: opere apripista**
+## Cartridge Music e Mikrophonie I: opere apripista
 
 Due composizioni, realizzate a distanza di quattro anni l'una dall'altra, segnano un momento di svolta nella storia della musica elettroacustica: ***Cartridge Music*** (1960) di John Cage e ***Mikrophonie I*** (1964) di Karlheinz Stockhausen. Entrambe condividono una **necessità urgente**: liberare la musica elettronica dal supporto fisso del nastro magnetico e riportarla alla dimensione performativa del concerto.
 
-### **Uscire dallo studio**
+### Uscire dallo studio
 
 Joel Chadabe apre il capitolo "Out of the Studios" del suo *Electric Sound* con una domanda e una risposta emblematiche:
 
@@ -46,7 +46,7 @@ Questa necessità di **"portare la musica elettronica fuori dallo studio"**[@cha
 
 L'inversione dei termini ("live electronic" vs "electronic live") non è casuale ma sintomatica di approcci culturali differenti; ciò che accomuna entrambe le opere è tuttavia l'esigenza di **animare**[@pousseur1976, 243] la musica elettronica attraverso la performance dal vivo.
 
-### **La ricerca dei microsounds**
+### La ricerca dei microsounds
 
 Entrambe le opere si fondano su un principio comune: l'**amplificazione e la trasformazione elettronica di suoni altrimenti inaudibili**. 
 
@@ -68,17 +68,17 @@ Stockhausen, da parte sua, descrive il processo compositivo di *Mikrophonie I* c
 
 In entrambi i casi, il **microfono diventa strumento attivo**[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il "micromondo delle vibrazioni acustiche"[@roth2023, 64].
 
-### **Un possibile contatto diretto**
+### Un possibile contatto diretto
 
 Di Scipio nota un dettaglio significativo: la prima esecuzione ufficiale di *Cartridge Music* ebbe luogo proprio a Colonia nell'ottobre 1960, nello studio dell'artista Mary Bauermeister, e "secondo le ricostruzioni più attendibili, Stockhausen era presente al concerto (egli nel 1967 avrebbe poi sposato Bauermeister)"[@discipio2021, Parte Terza, 314]. Non si può affermare con certezza che *Cartridge Music* abbia esercitato un'influenza diretta su *Mikrophonie I*, quattro anni dopo, ma come osserva Di Scipio: "Certo erano entrambi tempi di 'microfonia', anche se di tipo molto diverso"[@discipio2021, Parte Terza, 314].
 
 ---
 
-## **Differenze di approccio**
+## Differenze di approccio
 
 Nonostante le analogie iniziali, le due opere incarnano **filosofie compositive radicalmente diverse**.
 
-### **Controllo vs Indeterminazione**
+### Controllo vs Indeterminazione
 
 Chadabe identifica questa divergenza come fondamentale:
 
@@ -90,7 +90,7 @@ Cage definisce un "territorio" di suoni possibili — in *Cartridge Music*, ques
 
 Stockhausen, invece, concepisce *Mikrophonie I* secondo la sua **moment-form**, dove "ogni momento è una struttura miniaturizzata che si regge autonomamente"[@chadabe1997, 41], ma deve essere eseguito "secondo uno schema di connessioni che accompagna la partitura"[@roth2023, 64]. Il compositore sviluppa un **sistema notazionale grafico estremamente dettagliato** per ogni esecutore[@roth2023, 64], prescrivendo con precisione le distanze del microfono, le frequenze dei filtri, le posizioni spaziali.
 
-### **Oggetti comuni vs strumenti specifici**
+### Oggetti comuni vs strumenti specifici
 
 L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, "figlio di un inventore" e **"privo di supporto istituzionale"**, scelse di **"sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"**[@collins2020, 40]. Gli oggetti inseriti nelle cartucce sono banali: fiammiferi, stuzzicadenti, molle Slinky, piume[@chadabe1997, 81].
 
@@ -104,11 +104,11 @@ Questa posizione intransigente sulla "autenticità" dello strumento contrasta ra
 
 ---
 
-## **Divergenze successive: due tradizioni**
+## Divergenze successive: due tradizioni
 
 Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi.
 
-### **La tradizione europea: istituzionalizzazione e controllo deterministico**
+### La tradizione europea: istituzionalizzazione e controllo deterministico
 
 Stockhausen, come nota Nicola Bernardini, fu **"il primo a usare la live electronics analogica in opere su larga scala"**[@bernardini2024, 4], con *Mikrophonie I*, *Mixtur* (1964) e *Mantra* (1970). Tuttavia, una delle sue preoccupazioni principali rimase sempre la **"replicabilità deterministica"** delle opere[@bernardini2024, 4]. Questa filosofia — che portò Stockhausen a preferire **materiali preregistrati rispetto alla live electronics** e a creare la propria casa editrice per controllare ogni aspetto della notazione[@bernardini2024, 4] — può essere letta come un tentativo (forse utopico) di lasciare "un percorso prevedibile per la sua musica per i posteri"[@bernardini2024, 4].
 
@@ -122,7 +122,7 @@ Come ricorda Jean-Claude Risset, uno dei primi responsabili del dipartimento com
 
 Il modello IRCAM configura la **tecnologia come servizio alla composizione**, con una chiara divisione del lavoro tra ricercatori, tecnici e compositori.
 
-### **La tradizione americana: DIY, portabilità e sperimentazione collettiva**
+### La tradizione americana: DIY, portabilità e sperimentazione collettiva
 
 La scena americana segue una traiettoria opposta. Come ricorda David Behrman nella prefazione a *Handmade Electronic Music* di Collins:
 
@@ -138,7 +138,7 @@ Questa tradizione si consolida attraverso formazioni come il **Sonic Arts Union*
 
 ---
 
-## **Due visioni del mondo**
+## Due visioni del mondo
 
 Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di **due visioni culturali profondamente differenti** sul rapporto tra arte, tecnologia e società: da un lato il modello del **grande istituto di ricerca centralizzato**, dall'altro quello della **rete diffusa di sperimentatori indipendenti**; da un lato la ricerca della **perfezione replicabile**, dall'altro l'accettazione del **processo come valore**; da un lato la **tecnologia come infrastruttura**, dall'altro la **tecnologia come filosofia**.
 
