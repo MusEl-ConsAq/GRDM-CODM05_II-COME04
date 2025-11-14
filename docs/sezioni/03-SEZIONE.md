@@ -4,11 +4,9 @@
 
 La scena americana segue una traiettoria opposta. Come ricorda David Behrman nella prefazione a *Handmade Electronic Music* di Collins:
 
-> "When I started around 1965, working with homemade circuitry was a necessity: **there were no music synths for sale**."[@collins2020, Foreword]
+> "When I started around 1965, working with homemade circuitry was a necessity: there were no music synths for sale." [...] "You didn't have to have an engineering degree to build transistorized music circuits, and Nic's book makes this clear to a new generation."[@collins2020, Foreword]
 
-> "**You didn't have to have an engineering degree to build transistorized music circuits**, and Nic's book makes this clear to a new generation."[@collins2020, Foreword]
-
-La disponibilità della **tecnologia a transistor** dalla fine degli anni '50 fu cruciale. Mumma osserva che "By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of **solid-state transistor technology**"[@mumma2015, 20]. Questi trasduttori divennero parte dell'ensemble strumentale per *Cartridge Music* del 1960[@mumma2015, 20].
+La disponibilità della tecnologia a *transistor* dalla fine degli anni 1950 fu cruciale. Mumma osserva che "By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of *solid-state transistor technology*"[@mumma2015, 20]. Questi trasduttori divennero parte dell'ensemble strumentale per *Cartridge Music* del 1960[@mumma2015, 20].
 
 La portabilità diventa un valore centrale: i musicisti della Cunningham Dance Company ebbero accesso agli **"equipment standardizzati e prodotti in serie sviluppati dopo il 1965, quando i sintetizzatori di Robert Moog, Donald Buchla e altri divennero commercialmente disponibili"**[@mumma2015, 101]. Ma prima di questa svolta commerciale, la necessità di autocostruzione favorì lo sviluppo di una cultura collettiva di sperimentazione.
 
@@ -34,24 +32,22 @@ Come documenta Mumma:
 
 > "In 1957 the members of the production group for *Manifestations: Light and Sound* in Ann Arbor began live performances of amplified small sounds, tape music, and light projection."[@mumma1975, 297]
 
-Il gruppo includeva:
+Il gruppo includeva: Gordon Mumma (compositore, ingegnere elettronico), Robert Ashley (compositore), Milton Cohen (artista visivo, creatore dello Space Theatre).
 
-- **Gordon Mumma** (compositore, ingegnere elettronico)
-
-- **Robert Ashley** (compositore)
-
-- **Milton Cohen** (artista visivo, creatore dello Space Theatre)
-
-*Manifestations* non fu solo un collettivo performativo ma un **laboratorio di ricerca multimediale**. Lo Space Theatre di Cohen — uno spazio immersivo con proiezioni su superfici multiple — fornì un contesto unico per sperimentare l'integrazione di elettronica sonora, immagini in movimento e performance dal vivo.
+*Manifestations* non fu solo un collettivo performativo ma un **laboratorio di ricerca multimediale**. Lo Space Theatre di Cohen — uno spazio immersivo con proiezioni su superfici multiple — fornì un contesto unico e raro per sperimentare l'integrazione di elettronica sonora, immagini in movimento e performance dal vivo.
 
 ### Cooperative Studio for Electronic Music
 
 Parallelamente a *Manifestations*, Mumma e Ashley svilupparono i propri studi personali che divennero il **Cooperative Studio for Electronic Music** — un modello radicalmente diverso dagli studi istituzionali europei.
 
 Non era un grande centro di ricerca con budget milionari, sale tecnologicamente avanzate e staff permanente. Era invece uno spazio condiviso per la sperimentazione indipendente, dove i compositori potevano:
-- Sviluppare il proprio equipment secondo necessità specifiche
+
+- sviluppare il proprio equipment secondo necessità specifiche
+
 - Sperimentare senza dover rispondere a istituzioni o finanziatori
+
 - Condividere tecniche e componenti in modo informale
+
 - Integrare ricerca e produzione artistica senza separazioni gerarchiche
 
 Come osserva Mumma in un saggio del 1964, "An Electronic Music Studio for the Independent Composer"[@mumma2015b], l'obiettivo era creare un'infrastruttura accessibile che non richiedesse affiliazione istituzionale o grandi risorse finanziarie.

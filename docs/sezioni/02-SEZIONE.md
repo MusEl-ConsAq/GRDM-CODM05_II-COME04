@@ -8,8 +8,6 @@ La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un ins
 
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
-### Una premessa terminologica necessaria: live non è real-time
-
 Prima di procedere con l'analisi delle opere seminali, è necessario chiarire una distinzione terminologica che attraverserà tutta questa ricerca. I due termini — *live* e *real-time* — vengono spesso usati come sinonimi, ma si riferiscono a dimensioni profondamente diverse della prassi musicale elettroacustica.
 
 Nel campo della computer music, osserva Di Scipio, si è consolidata l'abitudine di parlare principalmente di sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio puramente tecnologico legato alla velocità di elaborazione dei processi computazionali[@discipio2021thinking, 177]. Questo approccio, tuttavia, riduce la complessità della performance a una questione di pura efficienza operativa delle macchine, trascurando dimensioni essenziali dell'evento musicale[@discipio2021thinking, 177].[^1]
