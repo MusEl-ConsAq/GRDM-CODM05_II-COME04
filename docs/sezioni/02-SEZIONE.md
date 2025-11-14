@@ -6,30 +6,6 @@ Definire con precisione cosa si intenda per *live electronics* presenta difficol
 
 La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno due decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
 
-## Il dominio della tape music (1950-1960)
-
-Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente *tape music* — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
-Come osserva Gordon Mumma:
-
-> "During the 1950s most composers treated magnetic tape in a 'hands-on' manner analogous to that of filmmakers. As with film, tape music was composed largely through editing."[@mumma1975, p. 292]
-
-Il nastro magnetico era "il primo supporto di registrazione per il suono che fosse ragionevolmente editabile: poteva essere tagliato e giuntato con precisione"[@mumma1975, 292].
-Questa modalità di lavoro confinava i compositori in dei veri e propri laboratori con macchinari particolarmente ingombranti. Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio [@mumma1975, 292]. Le opere risultanti venivano poi presentate al pubblico tramite diffusione radiofonica o in concerto attraverso altoparlanti — una situazione che creava evidenti tensioni con le aspettative del pubblico da concerto.
-
-### Il rituale del concerto
-
-Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso della presentazione musicale. I compositori che lavoravano con nastro magnetico si trovavano continuamente a sperimentare modalità per presentare le proprie opere al pubblico [@mumma1975, p. 294]. La radiodiffusione e le registrazioni domestiche funzionavano bene perché permettevano all'ascoltatore di determinare autonomamente il grado di formalità con cui ascoltare. Ma la presentazione dal vivo poneva sfide del tutto diverse: il pubblico da concerto portava con sé aspettative tradizionali consolidate: "Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at."[@mumma1975, p. 294]
-
-Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].[^1]
-
-
-[^1]: Non a caso le esperienze di Cage in ambito elettroacustico, come vedremo sotto, sono inscrivibili a pratiche multi-mediali spesso con teatro, danza e luci in un panorama di sperimentazione dove la musica assolve il ruolo di un unico senso, affidando il resto alle altre arti.
-vedi sezione 1.boh.
-
-I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera.
-
-In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare[@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
-
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
 ### Una premessa terminologica necessaria: live non è real-time
@@ -53,6 +29,30 @@ Di Scipio sottolinea un aspetto ulteriore: comprendere appieno cosa significhi *
 > "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, “in the very heart” of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one’s own material and cultural connotations". [@discipio2021thinking, 177]. 
 
 Questa distinzione ha conseguenze pratiche e storiografiche rilevanti. Il live electronics può esistere anche in assenza di tecnologie real-time. Viceversa, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi — come avveniva nelle produzioni in studio degli anni '80 con processori digitali. Ciò che definisce il carattere "live" di una prassi non è la velocità operativa dei circuiti, ma la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
+
+## La crisi della tape music (1950-1960)
+
+Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente *tape music* — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
+Come osserva Gordon Mumma:
+
+> "During the 1950s most composers treated magnetic tape in a 'hands-on' manner analogous to that of filmmakers. As with film, tape music was composed largely through editing."[@mumma1975, p. 292]
+
+Il nastro magnetico era "il primo supporto di registrazione per il suono che fosse ragionevolmente editabile: poteva essere tagliato e giuntato con precisione"[@mumma1975, 292].
+Questa modalità di lavoro confinava i compositori in dei veri e propri laboratori con macchinari particolarmente ingombranti. Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio [@mumma1975, 292]. Le opere risultanti venivano poi presentate al pubblico tramite diffusione radiofonica o in concerto attraverso altoparlanti — una situazione che creava evidenti tensioni con le aspettative del pubblico da concerto.
+
+### Il rituale del concerto
+
+Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso della presentazione musicale. I compositori che lavoravano con nastro magnetico si trovavano continuamente a sperimentare modalità per presentare le proprie opere al pubblico [@mumma1975, p. 294]. La radiodiffusione e le registrazioni domestiche funzionavano bene perché permettevano all'ascoltatore di determinare autonomamente il grado di formalità con cui ascoltare. Ma la presentazione dal vivo poneva sfide del tutto diverse: il pubblico da concerto portava con sé aspettative tradizionali consolidate: "Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at."[@mumma1975, p. 294]
+
+Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].[^1]
+
+
+[^1]: Non a caso le esperienze di Cage in ambito elettroacustico, come vedremo sotto, sono inscrivibili a pratiche multi-mediali spesso con teatro, danza e luci in un panorama di sperimentazione dove la musica assolve il ruolo di un unico senso, affidando il resto alle altre arti.
+vedi sezione 1.boh.
+
+I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera.
+
+In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare[@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
 ### Eccezioni tardive e transizione
 
@@ -131,14 +131,14 @@ Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **M
 
 Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi e vedranno l'impiego dalla tecnologia in maniera drasticamente differente.
 
-## Due visioni del mondo
+### Due visioni del mondo
 
 Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di due visioni culturali profondamente differenti sul rapporto tra arte, tecnologia e società: da un lato il modello del grande istituto di ricerca centralizzato, dall'altro quello della rete diffusa di sperimentatori indipendenti; da un lato la ricerca della perfezione replicabile, dall'altro l'accettazione del processo come valore; da un lato la tecnologia come infrastruttura, dall'altro la tecnologia come filosofia.
 
-Da un lato, l'**approccio DIY americano**, caratterizzato da autocostruzione di circuiti, portabilità dell'equipment, e comunità orizzontali di sperimentatori. Questa tradizione, che esploreremo nel Capitolo 2, si svilupperà attraverso figure come Gordon Mumma, la Sonic Arts Union e l'ONCE Group, trovando ad Ann Arbor il suo laboratorio originario.
+Da un lato, l'approccio DIY americano, caratterizzato da autocostruzione di circuiti, portabilità dell'equipment, e comunità orizzontali di sperimentatori. Questa tradizione, che esploreremo nel Capitolo 2, si svilupperà attraverso figure come Gordon Mumma, la Sonic Arts Union e l'ONCE Group, trovando ad Ann Arbor il suo laboratorio originario.
 
-Dall'altro, il **modello istituzionale europeo**, basato su grandi investimenti, divisione del lavoro tra ricercatori e compositori, e tecnologia come servizio alla creazione. Questa linea evolutiva, che analizzeremo nel Capitolo 3, culminerà nella fondazione di IRCAM a Parigi nel 1977, rappresentando una visione radicalmente diversa del rapporto tra arte e tecnologia.
+Dall'altro, il modello istituzionale europeo, basato su grandi investimenti, divisione del lavoro tra ricercatori e compositori, e tecnologia come servizio alla creazione. Questa linea evolutiva, che analizzeremo nel Capitolo 3, culminerà nella fondazione di IRCAM a Parigi nel 1977, rappresentando una visione radicalmente diversa del rapporto tra arte e tecnologia.
 
-Entrambe le traiettorie furono rese possibili dalla diffusione della **tecnologia a transistor** alla fine degli anni '50, che permise la creazione di equipment portatile e accessibile economicamente — una rivoluzione tecnologica che esamineremo nel dettaglio nel Capitolo 5.
+Entrambe le traiettorie furono rese possibili dalla diffusione della tecnologia a transistor alla fine degli anni '50, che permise la creazione di equipment portatile e accessibile economicamente — una rivoluzione tecnologica che esamineremo nel dettaglio nel Capitolo 5.
 
 Questo panorama è attraversato, dunque, da **due polarità culturali** che, pur mantenendo una loro autonomia, si intrecciano e si influenzano reciprocamente attraverso scambi, collaborazioni, e contaminazioni transnazionali. Come osserva Bernardini, l'influenza di Cage sui suoi contemporanei fu "paragonabile all'influenza della scuola di Darmstadt"[@bernardini1986], ma con esiti profondamente diversi che si dipaneranno nei decenni successivi.
