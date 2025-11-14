@@ -60,8 +60,6 @@ I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: 
 
 In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare[@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
-Hai ragione! Le citazioni indirette devono essere **completamente riorganizzate** per evitare di sembrare copie. Ecco il paragrafo riscritto con parafrasature più profonde:
-
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
 ### Una premessa terminologica necessaria: live non è real-time
@@ -82,9 +80,9 @@ L'uso dell'espressione "tempo reale" per indicare la dimensione performativa cos
 
 Di Scipio sottolinea un aspetto ulteriore: comprendere appieno cosa significhi *live* richiede di considerare 
 
-> the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, “in the very heart” of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one’s own material and cultural connotations. [@discipio2021thinking, 177]. 
+> "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, “in the very heart” of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one’s own material and cultural connotations". [@discipio2021thinking, 177]. 
 
-Questa distinzione ha conseguenze pratiche e storiografiche rilevanti. Il live electronics può esistere anche in assenza di tecnologie real-time — come dimostrano i primi esperimenti di Cage con dispositivi analogici semplici negli anni '60. Viceversa, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi — come avveniva nelle produzioni in studio degli anni '80 con processori digitali. Ciò che definisce il carattere "live" di una prassi non è la velocità operativa dei circuiti, ma la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
+Questa distinzione ha conseguenze pratiche e storiografiche rilevanti. Il live electronics può esistere anche in assenza di tecnologie real-time. Viceversa, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi — come avveniva nelle produzioni in studio degli anni '80 con processori digitali. Ciò che definisce il carattere "live" di una prassi non è la velocità operativa dei circuiti, ma la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
 
 ### Eccezioni tardive e transizione
 
@@ -106,7 +104,12 @@ Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispet
 
 ## Cartridge Music e Mikrophonie I: opere apripista
 
-Due composizioni, realizzate a distanza di quattro anni l'una dall'altra, segnano un momento di svolta nella storia della musica elettroacustica: ***Cartridge Music*** (1960) di John Cage e ***Mikrophonie I*** (1964) di Karlheinz Stockhausen. Entrambe condividono una **necessità urgente**: liberare la musica elettronica dal supporto fisso del nastro magnetico e riportarla alla dimensione performativa del concerto.
+Due composizioni, realizzate a distanza di quattro anni l'una dall'altra, segnano un momento di svolta nella storia della musica elettroacustica: ***Cartridge Music*** (1960) di John Cage e ***Mikrophonie I*** (1964) di Karlheinz Stockhausen. Secondo la storiografia entrambe condividono una **necessità urgente**: liberare la musica elettronica dal supporto fisso del nastro magnetico e riportarla alla dimensione performativa del concerto. In realtà, antecedente a Mikrophonie, la storia americana[@chadabe1997, p. 91] ha visto concretizzarsi nell'ambito del live electronics l'esperienza di Gordon Mumma. Nel pieno fervore del Once Festival (festival creato dal Once Group, di cui Mumma era membro fondante insieme a Robert Ashley e altri artisti), citando Chadabe:
+
+> his Medium Size Mograph 1963, for piano four hands and live electronics, was performed with a circuit that he designed. It was, in his words, “a type of envelope generator that drastically reshaped the amplitude-envelope of the piano sound, so much that itchanged the timbre of the instrument.”[@chadabe1997, p. 91]
+
+Questi elementi legati alla produzione di Mumma saranno trattati in seguito nel capitolo 4.
+Il punto focale di questo capitolo invece è inquadrare con lucidità la portata storica e artistica di questi due brani che hanno contribuito a risollevare le sorti della musica elettroacustica che nella fine degli anni 1950 avvertiva (intendiamoci, principalmente nell'area europea) la necessità di riequilibrare l'aura concertistica come la musica strumentale.
 
 ### Uscire dallo studio
 
@@ -114,25 +117,25 @@ Joel Chadabe apre il capitolo "Out of the Studios" del suo *Electric Sound* con 
 
 > "Question: 'How do you perform electronic music without tape?' Answer (said with a shrug of the shoulders and rising inflection): 'Take away the tape.'"[@chadabe1997, 81]
 
-Questa necessità di **"portare la musica elettronica fuori dallo studio"**[@chadabe1997, 81] viene espressa in termini pressoché identici dai due compositori, seppur con sfumature terminologiche diverse. Stockhausen, in una conferenza del 1972, definisce *Mikrophonie I* come **"electronic live music"** in opposizione alla "electronic music which is produced in a studio"[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione "live electronic music" — probabilmente per la prima volta in assoluto, come nota Di Scipio[@discipio2021, Parte Terza].
-L'inversione dei termini ("live electronic" vs "electronic live") non è casuale ma sintomatica di approcci culturali differenti; ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@pousseur1976, 243] la musica elettronica attraverso la performance dal vivo.
+Questa necessità di "portare la musica elettronica fuori dallo studio"[@chadabe1997, p. 81] viene osservata anche da Gordon Mumma che in un articolo passa in rassegna quelle che oggi definiremmo "best practices" per uno studio modulare, con strumentazione trasferibile dal vivo per le perfomances, è sentita anche da Stockhausen. Egli in una conferenza del 1972, definisce *Mikrophonie I* come "electronic live music" in opposizione alla "electronic music which is produced in a studio"[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione "live electronic music" — probabilmente per la prima volta in assoluto, come nota Di Scipio[@discipio2021, Parte Terza].
+L'inversione dei termini ("live electronic" vs "electronic live") probabilmente è sintomatica di approcci di lavoro e radici culturali differenti (l'idea di musica elettronica per un compositore come Stockhausen proveniente dallo studio WDR di Colonia è di gran lunga lontana da un'idea di elettronica di Cage); ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@pousseur1976, 243] la musica elettronica attraverso la performance dal vivo.
 
 ### La ricerca dei microsounds
 
-Entrambe le opere si fondano su un principio comune: l'**amplificazione e la trasformazione elettronica di suoni altrimenti inaudibili**. 
+Entrambe le opere si fondano su un principio comune: l'amplificazione e la trasformazione elettronica di suoni altrimenti inaudibili. 
 
 Nel caso di *Cartridge Music*, Cage utilizza cartucce di giradischi e microfoni a contatto applicati a sedie, tavoli, cestini, inserendovi oggetti comuni come stuzzicadenti, fiammiferi, molle Slinky, fili di pianoforte e piume. Sia i microfoni che le cartucce sono collegati ad amplificatori che inviano il segnale agli altoparlanti, dato che la maggior parte dei suoni prodotti è talmente piccola da richiedere amplificazione per essere udibile[@chadabe1997, 81-82].
 
-L'uso dell'amplificazione da parte di Cage fu profetico perché rappresentava un senso particolare di **magnificazione**: invece di amplificare semplicemente suoni non abbastanza forti, egli magnificava microsuoni che senza amplificazione sarebbero stati praticamente inaudibili, rivelando così un intero nuovo mondo di risorse sonore[@mumma1975, 296]. Nicolas Collins sottolinea come la ricchezza sorprendente di questi microsuoni enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) provenienti dagli studi europei di musica elettronica, aprendo le orecchie di un'intera generazione di artisti del suono allo splendore del microfono a contatto[@collins2020, 40].
+Cage, invece di amplificare semplicemente suoni non abbastanza forti, magnificava microsuoni che senza amplificazione sarebbero stati praticamente inaudibili, rivelando così un intero nuovo mondo di risorse sonore[@mumma1975, 296]. Nicolas Collins sottolinea come la ricchezza sorprendente di questi microsuoni enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) provenienti dagli studi europei di musica elettronica, aprendo le orecchie di un'intera generazione di artisti del suono allo splendore del microfono a contatto[@collins2020, 40].
 
-Stockhausen, da parte sua, descrive il processo compositivo di *Mikrophonie I* attraverso un'immagine medica eloquente: condusse esperimenti eccitando il tam-tam con vari oggetti trovati in casa — vetro, cartone, metallo, legno, gomma, materiali sintetici — mentre teneva e muoveva con la mano un microfono direzionale, utilizzandolo per ascoltare il tam-tam come un dottore esamina un paziente con uno stetoscopio[@chadabe1997, 83-84].
+Stockhausen, da parte sua, nel il processo compositivo di *Mikrophonie I* condusse esperimenti eccitando il tam-tam con vari oggetti trovati in casa — vetro, cartone, metallo, legno, gomma, materiali sintetici — mentre teneva e muoveva con la mano un microfono direzionale, utilizzandolo per ascoltare il tam-tam[@chadabe1997, 83-84].
 
 In entrambi i casi, il "microfono diventa strumento attivo"[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il micromondo delle vibrazioni acustiche[@roth2023, 64].
 
 ### Un possibile contatto diretto
 
 Di Scipio nota un dettaglio significativo: la prima esecuzione ufficiale di *Cartridge Music* ebbe luogo proprio a Colonia nell'ottobre 1960, nello studio dell'artista Mary Bauermeister, e "secondo le ricostruzioni più attendibili, Stockhausen era presente al concerto (egli nel 1967 avrebbe poi sposato Bauermeister)"[@discipio2021, Parte Terza, 314]. Non si può affermare con certezza che *Cartridge Music* abbia esercitato un'influenza diretta su *Mikrophonie I*, quattro anni dopo, ma come osserva Di Scipio: "Certo erano entrambi tempi di 'microfonia', anche se di tipo molto diverso"[@discipio2021, Parte Terza, 314].
-Nonostante le analogie iniziali, le due opere incarnano **filosofie compositive radicalmente diverse**.
+Nonostante le analogie iniziali, le due opere incarnano filosofie compositive radicalmente diverse.
 
 ### Controllo vs Indeterminazione
 
@@ -142,9 +145,7 @@ Questa divergenza sull'autenticità dello strumento emerge chiaramente nelle dic
 
 Chadabe identifica questa divergenza come fondamentale:
 
-> "Cage's electronic music was different from that of his contemporaries, Stockhausen's for example, because **Cage's structures were based on process and random juxtapositions rather than fixed relationships between sounds**. His electronic music suggests a happy anarchy where all things can be and coexist as themselves. **It does not convey control, technique, expertise**; it does not convey personal, subjective, poetic expression."[@chadabe1997, 83]
-
-> "**Stockhausen's music, on the other hand, does convey control, technique, and expertise**."[@chadabe1997, 83]
+> "Cage's electronic music was different from that of his contemporaries, Stockhausen's for example, because Cage's structures were based on process and random juxtapositions rather than fixed relationships between sounds. His electronic music suggests a happy anarchy where all things can be and coexist as themselves. It does not convey control, technique, expertise; it does not convey personal, subjective, poetic expression." [...] "Stockhausen's music, on the other hand, does convey control, technique, and expertise."[@chadabe1997, 83]
 
 Cage definisce un "territorio" di suoni possibili — in *Cartridge Music*, questo territorio è quello dei "suoni che richiedono amplificazione"[@chadabe1997, 82] — ma lascia che i performer esplorino liberamente questo spazio attraverso partiture grafiche su fogli trasparenti che possono essere sovrapposti in modi diversi[@chadabe1997, 82]. 
 
@@ -156,17 +157,13 @@ L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, 
 
 Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **Maihak W49 Hörspielverzerrer**, di cui furono prodotti solo circa 120 esemplari[@roth2023, 66, citando Williams 2012], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61]. Nel 1996, Stockhausen dichiarò:
 
-> "**It's extremely important to comprehend works, which were born to a particular historical moment, for their uniqueness** [...] **if you try to substitute computerised filter simulations, the characteristic sound goes to hell**."[@roth2023, 64, citando Stockhausen & Kohl 1996]
+> "It's extremely important to comprehend works, which were born to a particular historical moment, for their uniqueness [...] if you try to substitute computerised filter simulations, the characteristic sound goes to hell."[@roth2023, 64, citando Stockhausen & Kohl 1996]
 
-Questa posizione intransigente sulla "autenticità" dello strumento contrasta radicalmente con la filosofia di Cage, che nel 1972 dichiarò:
-
-> "Someone said, must it be a tam-tam? I said no, I can imagine the score being used to examine an old Volkswagen musically, to go inside the old thing and bang it and scratch it and do all sorts of things to it."[@roth2023, 64, citando Cott & Stockhausen 1973]
-
-Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi.
+Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi e vedranno l'impiego dalla tecnologia in maniera drasticamente differente.
 
 ## Due visioni del mondo
 
-Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di **due visioni culturali profondamente differenti** sul rapporto tra arte, tecnologia e società: da un lato il modello del **grande istituto di ricerca centralizzato**, dall'altro quello della **rete diffusa di sperimentatori indipendenti**; da un lato la ricerca della **perfezione replicabile**, dall'altro l'accettazione del **processo come valore**; da un lato la **tecnologia come infrastruttura**, dall'altro la **tecnologia come filosofia**.
+Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di due visioni culturali profondamente differenti sul rapporto tra arte, tecnologia e società: da un lato il modello del grande istituto di ricerca centralizzato, dall'altro quello della rete diffusa di sperimentatori indipendenti; da un lato la ricerca della perfezione replicabile, dall'altro l'accettazione del processo come valore; da un lato la tecnologia come infrastruttura, dall'altro la tecnologia come filosofia.
 
 Da un lato, l'**approccio DIY americano**, caratterizzato da autocostruzione di circuiti, portabilità dell'equipment, e comunità orizzontali di sperimentatori. Questa tradizione, che esploreremo nel Capitolo 2, si svilupperà attraverso figure come Gordon Mumma, la Sonic Arts Union e l'ONCE Group, trovando ad Ann Arbor il suo laboratorio originario.
 
