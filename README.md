@@ -62,9 +62,9 @@ In questo contesto di trasformazione radicale, numerosi compositori cercarono al
 
 Hai ragione! Le citazioni indirette devono essere **completamente riorganizzate** per evitare di sembrare copie. Ecco il paragrafo riscritto con parafrasature più profonde:
 
-## "Live" vs "Real-time" - Una distinzione necessaria**
+## "Live" vs "Real-time" - Una distinzione necessaria
 
-### Una premessa terminologica necessaria: *live* non è *real-time*
+### Una premessa terminologica necessaria: live non è real-time
 
 Prima di procedere con l'analisi delle opere seminali, è necessario chiarire una distinzione terminologica che attraverserà tutta questa ricerca. I due termini — *live* e *real-time* — vengono spesso usati come sinonimi, ma si riferiscono a dimensioni profondamente diverse della prassi musicale elettroacustica.
 
@@ -74,9 +74,9 @@ Nel campo della computer music, osserva Di Scipio, si è consolidata l'abitudine
 
 La distinzione può essere articolata su due livelli:
 
-Il **tempo reale** riguarda le caratteristiche operative dei sistemi informatici. Quando Di Scipio analizza lo sviluppo del real-time computing nella musica elettroacustica a metà degli anni '70, evidenzia come questa categoria si riferisca alla capacità tecnica di un sistema di elaborare e trasformare segnali audio istantaneamente, senza ritardi percettibili[@discipio2021, 4.3]. Si tratta essenzialmente di una proprietà della macchina[@discipio2021, 3.5.1]. È una questione di architettura hardware e software.
+Il "tempo reale" riguarda le caratteristiche operative dei sistemi informatici. Quando Di Scipio analizza lo sviluppo del real-time computing nella musica elettroacustica a metà degli anni '70, evidenzia come questa categoria si riferisca alla capacità tecnica di un sistema di elaborare e trasformare segnali audio istantaneamente, senza ritardi percettibili[@discipio2021, 4.3]. Si tratta essenzialmente di una proprietà della macchina[@discipio2021, 3.5.1]. È una questione di architettura hardware e software.
 
-Il **dal vivo** (*live*) designa invece una condizione performativa ed esperienziale che prescinde dalle capacità tecniche del sistema. Come sottolinea Di Scipio, ciò che caratterizza il live electronics è il fatto che i suoni vengano prodotti e articolati nel momento stesso dell'esecuzione, attraverso l'impiego di dispositivi elettroacustici operati direttamente durante la performance, senza ricorso a materiali pre-registrati[@discipio2021, 3.5.1]. È una questione di presenza, di co-presenza di performer e pubblico in uno spazio condiviso.
+Il "dal vivo" (*live*) designa invece una condizione performativa ed esperienziale che prescinde dalle capacità tecniche del sistema. Come sottolinea Di Scipio, ciò che caratterizza il live electronics è il fatto che i suoni vengano prodotti e articolati nel momento stesso dell'esecuzione, attraverso l'impiego di dispositivi elettroacustici operati direttamente durante la performance, senza ricorso a materiali pre-registrati[@discipio2021, 3.5.1]. È una questione di presenza, di co-presenza di performer e pubblico in uno spazio condiviso.
 
 L'uso dell'espressione "tempo reale" per indicare la dimensione performativa costituisce, secondo Di Scipio, un'imprecisione fuorviante[@discipio2021, 3.5.1]. Il termine *real-time* appartiene al vocabolario tecnico dell'informatica e si applica specificamente a condizioni operative dei sistemi di calcolo[@discipio2021, 3.5.1].
 
