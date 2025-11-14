@@ -30,8 +30,6 @@ I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: 
 
 In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare[@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
-Hai ragione! Le citazioni indirette devono essere **completamente riorganizzate** per evitare di sembrare copie. Ecco il paragrafo riscritto con parafrasature più profonde:
-
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
 ### Una premessa terminologica necessaria: live non è real-time
