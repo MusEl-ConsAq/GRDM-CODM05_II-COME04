@@ -6,7 +6,7 @@ Definire con precisione cosa si intenda per *live electronics* presenta difficol
 
 La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno due decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
 
-## Il dominio della *tape music* (1950-1960)
+## Il dominio della tape music (1950-1960)
 
 Per comprendere la portata rivoluzionaria di opere come *Cartridge Music*, è necessario ricostruire il contesto da cui emergono. Durante tutti gli anni '50, la musica elettroacustica fu quasi esclusivamente *tape music* — musica fissata su nastro magnetico e composta attraverso tecniche di editing in studio.
 Come osserva Gordon Mumma:
@@ -14,23 +14,53 @@ Come osserva Gordon Mumma:
 > "During the 1950s most composers treated magnetic tape in a 'hands-on' manner analogous to that of filmmakers. As with film, tape music was composed largely through editing."[@mumma1975, p. 292]
 
 Il nastro magnetico era "il primo supporto di registrazione per il suono che fosse ragionevolmente editabile: poteva essere tagliato e giuntato con precisione"[@mumma1975, 292].
-Questa modalità di lavoro confinava i compositori negli studi di produzione. Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio [@mumma1975, 292]. Le opere risultanti venivano poi presentate al pubblico tramite diffusione radiofonica o in concerto attraverso altoparlanti — una situazione che creava evidenti tensioni con le aspettative del pubblico da concerto.
+Questa modalità di lavoro confinava i compositori in dei veri e propri laboratori con macchinari particolarmente ingombranti. Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio [@mumma1975, 292]. Le opere risultanti venivano poi presentate al pubblico tramite diffusione radiofonica o in concerto attraverso altoparlanti — una situazione che creava evidenti tensioni con le aspettative del pubblico da concerto.
 
 ### Il rituale del concerto
 
-Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso della presentazione musicale. I compositori che lavoravano con nastro magnetico si trovavano continuamente a sperimentare modalità per presentare le proprie opere al pubblico, come nota Mumma[@mumma1975, 294]. La radiodiffusione e le registrazioni domestiche funzionavano bene perché permettevano all'ascoltatore di determinare autonomamente il grado di formalità con cui ascoltare. Ma la presentazione dal vivo poneva sfide del tutto diverse: il pubblico da concerto, portava con sé aspettative tradizionali consolidate: "Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at."[@mumma1975, p. 294]
+Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso della presentazione musicale. I compositori che lavoravano con nastro magnetico si trovavano continuamente a sperimentare modalità per presentare le proprie opere al pubblico [@mumma1975, p. 294]. La radiodiffusione e le registrazioni domestiche funzionavano bene perché permettevano all'ascoltatore di determinare autonomamente il grado di formalità con cui ascoltare. Ma la presentazione dal vivo poneva sfide del tutto diverse: il pubblico da concerto portava con sé aspettative tradizionali consolidate: "Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at."[@mumma1975, p. 294]
 
-Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].
+Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].[^1]
 
-I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera come fatto compositivo instantaneo.
 
-In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero rianimare la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
+[^1]: Non a caso le esperienze di Cage in ambito elettroacustico, come vedremo sotto, sono inscrivibili a pratiche multi-mediali spesso con teatro, danza e luci in un panorama di sperimentazione dove la musica assolve il ruolo di un unico senso, affidando il resto alle altre arti.
+vedi sezione 1.boh.
+
+I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera.
+
+In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare[@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
+
+Hai ragione! Le citazioni indirette devono essere **completamente riorganizzate** per evitare di sembrare copie. Ecco il paragrafo riscritto con parafrasature più profonde:
+
+## "Live" vs "Real-time" - Una distinzione necessaria**
+
+### Una premessa terminologica necessaria: *live* non è *real-time*
+
+Prima di procedere con l'analisi delle opere seminali, è necessario chiarire una distinzione terminologica che attraverserà tutta questa ricerca. I due termini — *live* e *real-time* — vengono spesso usati come sinonimi, ma si riferiscono a dimensioni profondamente diverse della prassi musicale elettroacustica.
+
+Nel campo della computer music, osserva Di Scipio, si è consolidata l'abitudine di parlare principalmente di sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio puramente tecnologico legato alla velocità di elaborazione dei processi computazionali[@discipio2021thinking, 177]. Questo approccio, tuttavia, riduce la complessità della performance a una questione di pura efficienza operativa delle macchine, trascurando dimensioni essenziali dell'evento musicale[@discipio2021thinking, 177].[^1]
+
+[^1]: Non a caso un centro come l'IRCAM, esempio lampante della potenza di fuoco di un ambiente istituzionalizzato ed elevato ad autorità in campo di ricerca musicale, si avvalse della potenza di calcolo (neanche troppo velata similitudine di potere economico e politico) per aggiudicarsi, volente o nolente, il ruolo di attore centrale nel panorama eurocentrico dell'industria culturale attorno al mercato della musica contemporanea.
+
+La distinzione può essere articolata su due livelli:
+
+Il **tempo reale** riguarda le caratteristiche operative dei sistemi informatici. Quando Di Scipio analizza lo sviluppo del real-time computing nella musica elettroacustica a metà degli anni '70, evidenzia come questa categoria si riferisca alla capacità tecnica di un sistema di elaborare e trasformare segnali audio istantaneamente, senza ritardi percettibili[@discipio2021, 4.3]. Si tratta essenzialmente di una proprietà della macchina[@discipio2021, 3.5.1]. È una questione di architettura hardware e software.
+
+Il **dal vivo** (*live*) designa invece una condizione performativa ed esperienziale che prescinde dalle capacità tecniche del sistema. Come sottolinea Di Scipio, ciò che caratterizza il live electronics è il fatto che i suoni vengano prodotti e articolati nel momento stesso dell'esecuzione, attraverso l'impiego di dispositivi elettroacustici operati direttamente durante la performance, senza ricorso a materiali pre-registrati[@discipio2021, 3.5.1]. È una questione di presenza, di co-presenza di performer e pubblico in uno spazio condiviso.
+
+L'uso dell'espressione "tempo reale" per indicare la dimensione performativa costituisce, secondo Di Scipio, un'imprecisione fuorviante[@discipio2021, 3.5.1]. Il termine *real-time* appartiene al vocabolario tecnico dell'informatica e si applica specificamente a condizioni operative dei sistemi di calcolo[@discipio2021, 3.5.1].
+
+Di Scipio sottolinea un aspetto ulteriore: comprendere appieno cosa significhi *live* richiede di considerare 
+
+> the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, “in the very heart” of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one’s own material and cultural connotations. [@discipio2021thinking, 177]. 
+
+Questa distinzione ha conseguenze pratiche e storiografiche rilevanti. Il live electronics può esistere anche in assenza di tecnologie real-time — come dimostrano i primi esperimenti di Cage con dispositivi analogici semplici negli anni '60. Viceversa, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi — come avveniva nelle produzioni in studio degli anni '80 con processori digitali. Ciò che definisce il carattere "live" di una prassi non è la velocità operativa dei circuiti, ma la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
 
 ### Eccezioni tardive e transizione
 
 Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni a questo dominio esclusivo della tape music da studio[@mumma1975, 292]. Alcuni compositori sperimentarono con suoni registrati su nastro presentati in concerto dal vivo insieme a strumenti o voci, mentre altri collocarono il nastro in situazioni performative innovative che si allontanavano dai riferimenti alla musica tradizionale. Emersero anche tecniche di studio che permettevano elaborazioni instantanee configurandosi di fatto come performance dal vivo, e casi in cui il nastro veniva impiegato esclusivamente per registrare e distribuire i risultati di performance che non lo utilizzavano come medium compositivo primario[@mumma1975, 292].
 
-Il cambio decisivo avvenne quando alcuni compositori — Cage in primis — abbandonarono il nastro come premessa musicale ed esplorarono l'uso di dispositivi elettronici, da soli o in combinazione con strumenti acustici, come componenti per la performance dal vivo[@mumma1975, 292]. Questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnò la nascita del live electronics come prassi distinta. 
+Il cambio decisivo avvenne quando alcuni compositori — Cage in primis — abbandonarono il nastro come premessa musicale ed esplorarono l'uso di dispositivi elettronici, da soli o in combinazione con strumenti acustici, come componenti per la performance dal vivo[@mumma1975, 292]. Secondo Mumma, questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnò la nascita del live electronics come prassi distinta.  
 
 Durante gli anni '60, la performance dal vivo con suoni amplificati di piccola entità, supportata dallo sviluppo di nuova strumentazione elettronica progettata specificamente per l'uso in concerto, divenne un'attività sempre più rilevante[@mumma1975, 297]. Questa prassi emergente attrasse gradualmente l'attenzione anche di coloro che, inizialmente impegnati filosoficamente con il medium del nastro magnetico, avevano in precedenza considerato il live electronics come un'impresa di scarso interesse[@mumma1975, 297].
 
