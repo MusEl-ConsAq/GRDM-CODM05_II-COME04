@@ -35,8 +35,11 @@ Come documenta Mumma:
 > "In 1957 the members of the production group for *Manifestations: Light and Sound* in Ann Arbor began live performances of amplified small sounds, tape music, and light projection."[@mumma1975, 297]
 
 Il gruppo includeva:
+
 - **Gordon Mumma** (compositore, ingegnere elettronico)
+
 - **Robert Ashley** (compositore)
+
 - **Milton Cohen** (artista visivo, creatore dello Space Theatre)
 
 *Manifestations* non fu solo un collettivo performativo ma un **laboratorio di ricerca multimediale**. Lo Space Theatre di Cohen — uno spazio immersivo con proiezioni su superfici multiple — fornì un contesto unico per sperimentare l'integrazione di elettronica sonora, immagini in movimento e performance dal vivo.
@@ -61,17 +64,13 @@ Nel 1965, l'ONCE Festival presentò la performance di David Tudor di *Variations
 
 ### Sonic Arts Union: dal locale al globale
 
-Sempre da questo contesto, nel 1966, si formò il **Sonic Arts Union** — il collettivo che avrebbe portato il modello del live electronics DIY in tour attraverso gli Stati Uniti e l'Europa. I membri fondatori furono:
-- Gordon Mumma
-- Robert Ashley
-- David Behrman
-- Alvin Lucier
+Sempre da questo contesto, nel 1966, si formò il **Sonic Arts Union** — il collettivo che avrebbe portato il modello del live electronics DIY in tour attraverso gli Stati Uniti e l'Europa. I membri fondatori furono Gordon Mumma, Robert Ashley, David Behrman e Alvin Lucier.
 
 Il Sonic Arts Union rappresentò l'evoluzione naturale della comunità di pratiche sviluppatasi ad Ann Arbor nel decennio precedente.
 
 ### Un modello alternativo
 
-Ann Arbor rappresenta quindi un **paradigma alternativo** di organizzazione della ricerca elettroacustica, caratterizzato da:
+Ann Arbor rappresenta quindi un paradigma alternativo di organizzazione della ricerca elettroacustica, caratterizzato da:
 
 **Non divisione del lavoro ma ibridazione di ruoli:**  
 I compositori erano anche ingegneri, costruttori di strumenti, performer, organizzatori.
@@ -93,7 +92,9 @@ Il movimento del live electronics americano non fu il prodotto di singoli geni i
 
 #### Richard Maxfield (1927-1969)
 
-Figura oggi "belatedly recognized"[@mumma1975, 295], Maxfield fu pioniere delle **real-time studio techniques** — tecniche di studio in tempo reale che erano di fatto performance live, usando il nastro magnetico solo per registrare e distribuire i risultati, non come medium compositivo primario.
+Figura oggi "belatedly recognized"[@mumma1975, 295], Maxfield fu pioniere delle **real-time[^2] studio techniques** — tecniche di studio che erano di fatto performance, usando il nastro magnetico solo per registrare e distribuire i risultati, non come medium compositivo primario.
+
+[^2]: real-time usato qui da Mumma impropriamente rispetto alla premessa che abbiamo stabilito in precedenza. Vedi capitolo 1
 
 Le sue opere — *Night Music* (1960), *Amazing Grace* (1960) e *Piano Concert for David Tudor* (1961) — furono tutte composizioni su nastro via live-performance studio techniques. Come osserva Mumma, queste opere e le loro procedure "technical and musical procedures are now widely imitated"[@mumma1975, 295].
 
