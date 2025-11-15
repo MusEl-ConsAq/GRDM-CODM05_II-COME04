@@ -116,7 +116,7 @@ Joel Chadabe apre il capitolo "Out of the Studios" del suo *Electric Sound* con 
 > "Question: 'How do you perform electronic music without tape?' Answer (said with a shrug of the shoulders and rising inflection): 'Take away the tape.'"[@chadabe1997, 81]
 
 Questa necessità di "portare la musica elettronica fuori dallo studio"[@chadabe1997, p. 81] viene osservata anche da Gordon Mumma che in un articolo passa in rassegna quelle che oggi definiremmo "best practices" per uno studio modulare, con strumentazione trasferibile dal vivo per le perfomances, è sentita anche da Stockhausen. Egli in una conferenza del 1972, definisce *Mikrophonie I* come "electronic live music" in opposizione alla "electronic music which is produced in a studio"[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione "live electronic music" — probabilmente per la prima volta in assoluto, come nota Di Scipio[@discipio2021, Parte Terza].
-L'inversione dei termini ("live electronic" vs "electronic live") probabilmente è sintomatica di approcci di lavoro e radici culturali differenti (l'idea di musica elettronica per un compositore come Stockhausen proveniente dallo studio WDR di Colonia è di gran lunga lontana da un'idea di elettronica di Cage); ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@pousseur1976, 243] la musica elettronica attraverso la performance dal vivo.
+L'inversione dei termini ("live electronic" vs "electronic live") probabilmente è sintomatica di approcci di lavoro e radici culturali differenti (l'idea di musica elettronica per un compositore come Stockhausen proveniente dallo studio WDR di Colonia è di gran lunga lontana da un'idea di elettronica di Cage); ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@discipio2021thinking] la musica elettronica attraverso la performance dal vivo.
 
 ### La ricerca dei microsounds
 
@@ -137,7 +137,7 @@ Nonostante le analogie iniziali, le due opere incarnano filosofie compositive ra
 
 ### Controllo vs Indeterminazione
 
-L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, "figlio di un inventore" e "privo di supporto istituzionale", scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40] — fiammiferi, stuzzicadenti, molle, piume. Stockhausen invece richiese equipaggiamento altamente specifico: il filtro Maihak W49 Hörspielverzerrer, di cui furono prodotti solo circa 120 esemplari[@roth2023, 66], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61].
+L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, figlio di un inventore e privo di supporto istituzionale, scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40] — fiammiferi, stuzzicadenti, molle, piume. Stockhausen invece richiese equipaggiamento altamente specifico: il filtro Maihak W49 Hörspielverzerrer, di cui furono prodotti solo circa 120 esemplari[@roth2023, 66], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61].
 
 Questa divergenza sull'autenticità dello strumento emerge chiaramente nelle dichiarazioni dei compositori. Stockhausen nel 1996 affermò l'importanza di comprendere le opere "nella loro unicità" storica, sostenendo che sostituzioni con simulazioni computerizzate avrebbero rovinato il suono caratteristico[@roth2023, 64]. Cage invece nel 1972 dichiarò che la partitura di Cartridge Music poteva essere usata "per esaminare musicalmente una vecchia Volkswagen"[@roth2023, 64].
 
@@ -157,7 +157,9 @@ Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **M
 
 > "It's extremely important to comprehend works, which were born to a particular historical moment, for their uniqueness [...] if you try to substitute computerised filter simulations, the characteristic sound goes to hell."[@roth2023, 64, citando Stockhausen & Kohl 1996]
 
-Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi e vedranno l'impiego dalla tecnologia in maniera drasticamente differente.
+Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi e vedranno l'impiego dalla tecnologia in maniera drasticamente differente.[^3] 
+
+[^3]: Basti pensare poi alla diversità delle esperienze nella prassi Live Electronics. Per esempio quella di Luigi Nono, ospite all'ExperimentalStudio di Friburgo, nel cui laboratorio era presente strumentazione modulare per il processamento del segnale elettroacustico pensato per essere utilizzato dal vivo (fuori dallo studio). Questi strumenti sono stati sostituiti da DSP in personal computer, rimandendo però ignota la posizione poetica del compositore a riguardo.
 
 ### Due visioni del mondo
 
