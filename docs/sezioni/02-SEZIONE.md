@@ -128,10 +128,14 @@ Le differenze emerse in queste opere pionieristiche preannunciano **due traietto
 
 Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di due visioni culturali profondamente differenti sul rapporto tra arte, tecnologia e società: da un lato il modello del grande istituto di ricerca centralizzato, dall'altro quello della rete diffusa di sperimentatori indipendenti; da un lato la ricerca della perfezione replicabile, dall'altro l'accettazione del processo come valore; da un lato la tecnologia come infrastruttura, dall'altro la tecnologia come filosofia.
 
-Da un lato, l'approccio DIY americano, caratterizzato da autocostruzione di circuiti, portabilità dell'equipment, e comunità orizzontali di sperimentatori. Questa tradizione, che esploreremo nel Capitolo 2, si svilupperà attraverso figure come Gordon Mumma, la Sonic Arts Union e l'ONCE Group, trovando ad Ann Arbor il suo laboratorio originario.
+Da un lato, l'approccio DIY americano, caratterizzato da autocostruzione di circuiti, portabilità dell'equipment, e comunità orizzontali di sperimentatori.[^4]
 
-Dall'altro, il modello istituzionale europeo, basato su grandi investimenti, divisione del lavoro tra ricercatori e compositori, e tecnologia come servizio alla creazione. Questa linea evolutiva, che analizzeremo nel Capitolo 3, culminerà nella fondazione di IRCAM a Parigi nel 1977, rappresentando una visione radicalmente diversa del rapporto tra arte e tecnologia.
+[^4]: Questa tradizione, che esploreremo nel Capitolo 2, si svilupperà attraverso figure come Gordon Mumma, la Sonic Arts Union e l'ONCE Group, trovando ad Ann Arbor il suo laboratorio originario.
+
+Dall'altro, il modello istituzionale europeo, basato su grandi investimenti, divisione del lavoro tra ricercatori e compositori, e tecnologia come servizio alla creazione.[^5] 
+
+[^5]: Questa linea evolutiva, che analizzeremo nel Capitolo 3, culminerà nella fondazione di IRCAM a Parigi nel 1977, rappresentando una visione radicalmente diversa del rapporto tra arte e tecnologia.
 
 Entrambe le traiettorie furono rese possibili dalla diffusione della tecnologia a transistor alla fine degli anni '50, che permise la creazione di equipment portatile e accessibile economicamente — una rivoluzione tecnologica che esamineremo nel dettaglio nel Capitolo 5.
 
-Questo panorama è attraversato, dunque, da **due polarità culturali** che, pur mantenendo una loro autonomia, si intrecciano e si influenzano reciprocamente attraverso scambi, collaborazioni, e contaminazioni transnazionali. Come osserva Bernardini, l'influenza di Cage sui suoi contemporanei fu "paragonabile all'influenza della scuola di Darmstadt"[@bernardini1986], ma con esiti profondamente diversi che si dipaneranno nei decenni successivi.
+Questo panorama è attraversato, dunque, da due polarità culturali che, pur mantenendo una loro autonomia, si intrecciano e si influenzano reciprocamente attraverso scambi, collaborazioni, e contaminazioni transnazionali. Come osserva Bernardini, l'influenza di Cage sui suoi contemporanei fu "paragonabile all'influenza della scuola di Darmstadt"[@bernardini1986], ma con esiti profondamente diversi che si dipaneranno nei decenni successivi.
