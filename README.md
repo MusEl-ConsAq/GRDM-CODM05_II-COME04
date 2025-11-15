@@ -1,5 +1,5 @@
 ---
-title: "Geografie del Live Electronics"
+title: "Cosa è Live Electronics"
 subtitle: "Come tecnologia e contesti istituzionali hanno trasformato il pensiero compositivo nel Live Electronics: da Mumma e Nono all'IRCAM agli approcci ecosistemici"
 author: "Giulio Romano De Mattia"
 date: "15/03/2026"
@@ -40,17 +40,16 @@ La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un ins
 
 Prima di procedere con l'analisi delle opere seminali, è necessario chiarire una distinzione terminologica che attraverserà tutta questa ricerca. I due termini — *live* e *real-time* — vengono spesso usati come sinonimi, ma si riferiscono a dimensioni profondamente diverse della prassi musicale elettroacustica.
 
-Nel campo della computer music, osserva Di Scipio, si è consolidata l'abitudine di parlare principalmente di sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio puramente tecnologico legato alla velocità di elaborazione dei processi computazionali[@discipio2021thinking, 177]. Questo approccio, tuttavia, riduce la complessità della performance a una questione di pura efficienza operativa delle macchine, trascurando dimensioni essenziali dell'evento musicale[@discipio2021thinking, 177].[^1]
+Nel campo della computer music, osserva Di Scipio, si è consolidata l'abitudine di parlare principalmente di sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio puramente tecnologico legato alla velocità di elaborazione dei processi computazionali [@discipio2021thinking, 177]. Questo approccio, tuttavia, riduce la complessità della performance a una questione di pura efficienza operativa delle macchine, trascurando dimensioni essenziali dell'evento musicale [@discipio2021thinking, 177].[^1]
 
 [^1]: Non a caso un centro come l'IRCAM, esempio lampante della potenza di fuoco di un ambiente istituzionalizzato ed elevato ad autorità in campo di ricerca musicale, si avvalse della potenza di calcolo (neanche troppo velata similitudine di potere economico e politico) per aggiudicarsi, volente o nolente, il ruolo di attore centrale nel panorama eurocentrico dell'industria culturale attorno al mercato della musica contemporanea.
 
 La distinzione può essere articolata su due livelli:
+Il "tempo reale" riguarda le caratteristiche operative dei sistemi informatici. Quando Di Scipio analizza lo sviluppo del real-time computing nella musica elettroacustica a metà degli anni '70, evidenzia come questa categoria si riferisca alla capacità tecnica di un sistema di elaborare e trasformare segnali audio istantaneamente, senza ritardi percettibili [@discipio2021, 4.3]. Si tratta essenzialmente di una proprietà della macchina[@discipio2021, 3.5.1]. È una questione di architettura hardware e software.
 
-Il "tempo reale" riguarda le caratteristiche operative dei sistemi informatici. Quando Di Scipio analizza lo sviluppo del real-time computing nella musica elettroacustica a metà degli anni '70, evidenzia come questa categoria si riferisca alla capacità tecnica di un sistema di elaborare e trasformare segnali audio istantaneamente, senza ritardi percettibili[@discipio2021, 4.3]. Si tratta essenzialmente di una proprietà della macchina[@discipio2021, 3.5.1]. È una questione di architettura hardware e software.
+Il "dal vivo" (*live*) designa invece una condizione performativa ed esperienziale che prescinde dalle capacità tecniche del sistema. Come sottolinea Di Scipio, ciò che caratterizza il live electronics è il fatto che i suoni vengano prodotti e articolati nel momento stesso dell'esecuzione, attraverso l'impiego di dispositivi elettroacustici operati direttamente durante la performance, senza ricorso a materiali pre-registratic [@discipio2021, 3.5.1]. È una questione di presenza, di co-presenza di performer e pubblico in uno spazio condiviso.
 
-Il "dal vivo" (*live*) designa invece una condizione performativa ed esperienziale che prescinde dalle capacità tecniche del sistema. Come sottolinea Di Scipio, ciò che caratterizza il live electronics è il fatto che i suoni vengano prodotti e articolati nel momento stesso dell'esecuzione, attraverso l'impiego di dispositivi elettroacustici operati direttamente durante la performance, senza ricorso a materiali pre-registrati[@discipio2021, 3.5.1]. È una questione di presenza, di co-presenza di performer e pubblico in uno spazio condiviso.
-
-L'uso dell'espressione "tempo reale" per indicare la dimensione performativa costituisce, secondo Di Scipio, un'imprecisione fuorviante[@discipio2021, 3.5.1]. Il termine *real-time* appartiene al vocabolario tecnico dell'informatica e si applica specificamente a condizioni operative dei sistemi di calcolo[@discipio2021, 3.5.1].
+L'uso dell'espressione "tempo reale" per indicare la dimensione performativa costituisce, secondo Di Scipio, un'imprecisione fuorviante [@discipio2021, 3.5.1]. Il termine *real-time* appartiene al vocabolario tecnico dell'informatica e si applica specificamente a condizioni operative dei sistemi di calcolo[@discipio2021, 3.5.1].
 
 Di Scipio sottolinea un aspetto ulteriore: comprendere appieno cosa significhi *live* richiede di considerare 
 
@@ -80,7 +79,7 @@ vedi sezione 1.boh.
 
 I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera.
 
-In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare[@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
+In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare [@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
 ### Eccezioni tardive e transizione
 
@@ -88,13 +87,13 @@ Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni a questo do
 
 Il cambio decisivo avvenne quando alcuni compositori — Cage in primis — abbandonarono il nastro come premessa musicale ed esplorarono l'uso di dispositivi elettronici, da soli o in combinazione con strumenti acustici, come componenti per la performance dal vivo[@mumma1975, 292]. Secondo Mumma, questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnò la nascita del live electronics come prassi distinta.  
 
-Durante gli anni '60, la performance dal vivo con suoni amplificati di piccola entità, supportata dallo sviluppo di nuova strumentazione elettronica progettata specificamente per l'uso in concerto, divenne un'attività sempre più rilevante[@mumma1975, 297]. Questa prassi emergente attrasse gradualmente l'attenzione anche di coloro che, inizialmente impegnati filosoficamente con il medium del nastro magnetico, avevano in precedenza considerato il live electronics come un'impresa di scarso interesse[@mumma1975, 297].
+Durante gli anni '60, la performance dal vivo con suoni amplificati di piccola entità, supportata dallo sviluppo di nuova strumentazione elettronica progettata specificamente per l'uso in concerto, divenne un'attività sempre più rilevante [@mumma1975, 297]. Questa prassi emergente attrasse gradualmente l'attenzione anche di coloro che, inizialmente impegnati filosoficamente con il medium del nastro magnetico, avevano in precedenza considerato il live electronics come un'impresa di scarso interesse [@mumma1975, 297].
 
 ### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage (1942-1960)
 
 *Cartridge Music* non è un fulmine a ciel sereno nel percorso compositivo di Cage, ma piuttosto il culmine di un processo di ricerca durato almeno due decenni.
 
-Dopo otto anni di lavoro innovativo con il *prepared piano*, Cage riprese la composizione con mezzi elettroacustici con *Imaginary Landscape No. 4* (1951), opera per dodici radio con ventiquattro esecutori[@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplorò sistematicamente il ricevitore radio come strumento per la performance dal vivo[@mumma1975, 293].
+Dopo otto anni di lavoro innovativo con il *prepared piano*, Cage riprese la composizione con mezzi elettroacustici con *Imaginary Landscape No. 4* (1951), opera per dodici radio con ventiquattro esecutori [@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplorò sistematicamente il ricevitore radio come strumento per la performance dal vivo[@mumma1975, 293].
 
 Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizzato microfoni a contatto in *Imaginary Landscape No. 1* (1939), ma non vi tornò fino a *Winter Music* e *Variations II*[@mumma1975, 293]. David Tudor sviluppò entrambe le opere come composizioni per pianoforte amplificato: in *Winter Music* la parte pianistica veniva eseguita dalla tastiera e resa ultra-forte, mentre in *Variations II* i microfoni a contatto elevavano i microsuoni dall'interno del pianoforte a un'udibilità da concerto[@mumma1975, 293].
 
@@ -122,13 +121,13 @@ L'inversione dei termini ("live electronic" vs "electronic live") probabilmente 
 
 Entrambe le opere si fondano su un principio comune: l'amplificazione e la trasformazione elettronica di suoni altrimenti inaudibili. 
 
-Nel caso di *Cartridge Music*, Cage utilizza cartucce di giradischi e microfoni a contatto applicati a sedie, tavoli, cestini, inserendovi oggetti comuni come stuzzicadenti, fiammiferi, molle Slinky, fili di pianoforte e piume. Sia i microfoni che le cartucce sono collegati ad amplificatori che inviano il segnale agli altoparlanti, dato che la maggior parte dei suoni prodotti è talmente piccola da richiedere amplificazione per essere udibile[@chadabe1997, 81-82].
+Nel caso di *Cartridge Music*, Cage utilizza cartucce di giradischi e microfoni a contatto applicati a sedie, tavoli, cestini, inserendovi oggetti comuni come stuzzicadenti, fiammiferi, molle Slinky, fili di pianoforte e piume. Sia i microfoni che le cartucce sono collegati ad amplificatori che inviano il segnale agli altoparlanti, dato che la maggior parte dei suoni prodotti è talmente piccola da richiedere amplificazione per essere udibile [@chadabe1997, 81-82].
 
-Cage, invece di amplificare semplicemente suoni non abbastanza forti, magnificava microsuoni che senza amplificazione sarebbero stati praticamente inaudibili, rivelando così un intero nuovo mondo di risorse sonore[@mumma1975, 296]. Nicolas Collins sottolinea come la ricchezza sorprendente di questi microsuoni enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) provenienti dagli studi europei di musica elettronica, aprendo le orecchie di un'intera generazione di artisti del suono allo splendore del microfono a contatto[@collins2020, 40].
+Cage, invece di amplificare semplicemente suoni non abbastanza forti, magnificava microsuoni che senza amplificazione sarebbero stati praticamente inaudibili, rivelando così un intero nuovo mondo di risorse sonore [@mumma1975, 296]. Nicolas Collins sottolinea come la ricchezza sorprendente di questi microsuoni enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) provenienti dagli studi europei di musica elettronica, aprendo le orecchie di un'intera generazione di artisti del suono allo splendore del microfono a contatto[@collins2020, 40].
 
 Stockhausen, da parte sua, nel il processo compositivo di *Mikrophonie I* condusse esperimenti eccitando il tam-tam con vari oggetti trovati in casa — vetro, cartone, metallo, legno, gomma, materiali sintetici — mentre teneva e muoveva con la mano un microfono direzionale, utilizzandolo per ascoltare il tam-tam[@chadabe1997, 83-84].
 
-In entrambi i casi, il "microfono diventa strumento attivo"[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il micromondo delle vibrazioni acustiche[@roth2023, 64].
+In entrambi i casi, il "microfono diventa strumento attivo"[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il micromondo delle vibrazioni acustiche [@roth2023, 64].
 
 ### Un possibile contatto diretto
 
@@ -137,7 +136,7 @@ Nonostante le analogie iniziali, le due opere incarnano filosofie compositive ra
 
 ### Controllo vs Indeterminazione
 
-L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, figlio di un inventore e privo di supporto istituzionale, scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40] — fiammiferi, stuzzicadenti, molle, piume. Stockhausen invece richiese equipaggiamento altamente specifico: il filtro Maihak W49 Hörspielverzerrer, di cui furono prodotti solo circa 120 esemplari[@roth2023, 66], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61].
+L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, figlio di un inventore e privo di supporto istituzionale, scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40] — fiammiferi, stuzzicadenti, molle, piume. Stockhausen invece richiese equipaggiamento altamente specifico: il filtro Maihak W49 Hörspielverzerrer, di cui furono prodotti solo circa 120 esemplari [@roth2023, 66], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61].
 
 Questa divergenza sull'autenticità dello strumento emerge chiaramente nelle dichiarazioni dei compositori. Stockhausen nel 1996 affermò l'importanza di comprendere le opere "nella loro unicità" storica, sostenendo che sostituzioni con simulazioni computerizzate avrebbero rovinato il suono caratteristico[@roth2023, 64]. Cage invece nel 1972 dichiarò che la partitura di Cartridge Music poteva essere usata "per esaminare musicalmente una vecchia Volkswagen"[@roth2023, 64].
 
@@ -145,15 +144,15 @@ Chadabe identifica questa divergenza come fondamentale:
 
 > "Cage's electronic music was different from that of his contemporaries, Stockhausen's for example, because Cage's structures were based on process and random juxtapositions rather than fixed relationships between sounds. His electronic music suggests a happy anarchy where all things can be and coexist as themselves. It does not convey control, technique, expertise; it does not convey personal, subjective, poetic expression." [...] "Stockhausen's music, on the other hand, does convey control, technique, and expertise."[@chadabe1997, 83]
 
-Cage definisce un "territorio" di suoni possibili — in *Cartridge Music*, questo territorio è quello dei "suoni che richiedono amplificazione"[@chadabe1997, 82] — ma lascia che i performer esplorino liberamente questo spazio attraverso partiture grafiche su fogli trasparenti che possono essere sovrapposti in modi diversi[@chadabe1997, 82]. 
+Cage definisce un "territorio" di suoni possibili — in *Cartridge Music*, questo territorio è quello dei "suoni che richiedono amplificazione"[@chadabe1997, 82] — ma lascia che i performer esplorino liberamente questo spazio attraverso partiture grafiche su fogli trasparenti che possono essere sovrapposti in modi diversi [@chadabe1997, 82]. 
 
-Stockhausen, invece, concepisce *Mikrophonie I* secondo la sua **moment-form**, dove "ogni momento è una struttura miniaturizzata che si regge autonomamente"[@chadabe1997, 41], ma deve essere eseguito "secondo uno schema di connessioni che accompagna la partitura"[@roth2023, 64]. Il compositore sviluppa un **sistema notazionale grafico estremamente dettagliato** per ogni esecutore[@roth2023, 64], prescrivendo con precisione le distanze del microfono, le frequenze dei filtri, le posizioni spaziali.
+Stockhausen, invece, concepisce *Mikrophonie I* secondo la sua **moment-form**, dove "ogni momento è una struttura miniaturizzata che si regge autonomamente"[@chadabe1997, 41], ma deve essere eseguito "secondo uno schema di connessioni che accompagna la partitura"[@roth2023, 64]. Il compositore sviluppa un **sistema notazionale grafico estremamente dettagliato** per ogni esecutore [@roth2023, 64], prescrivendo con precisione le distanze del microfono, le frequenze dei filtri, le posizioni spaziali.
 
 ### Oggetti comuni vs strumenti specifici
 
-L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, "figlio di un inventore" e "privo di supporto istituzionale", scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40]. Gli oggetti inseriti nelle cartucce sono banali: fiammiferi, stuzzicadenti, molle Slinky, piume[@chadabe1997, 81].
+L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, "figlio di un inventore" e "privo di supporto istituzionale", scelse di "sviluppare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni"[@collins2020, 40]. Gli oggetti inseriti nelle cartucce sono banali: fiammiferi, stuzzicadenti, molle Slinky, piume [@chadabe1997, 81].
 
-Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **Maihak W49 Hörspielverzerrer**, di cui furono prodotti solo circa 120 esemplari[@roth2023, 66, citando Williams 2012], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61]. Nel 1996, Stockhausen dichiarò:
+Stockhausen, invece, richiede equipaggiamento altamente specifico: il filtro **Maihak W49 Hörspielverzerrer**, di cui furono prodotti solo circa 120 esemplari [@roth2023, 66, citando Williams 2012], e un tam-tam Paiste da 60 pollici appositamente selezionato[@roth2023, 61]. Nel 1996, Stockhausen dichiarò:
 
 > "It's extremely important to comprehend works, which were born to a particular historical moment, for their uniqueness [...] if you try to substitute computerised filter simulations, the characteristic sound goes to hell."[@roth2023, 64, citando Stockhausen & Kohl 1996]
 
