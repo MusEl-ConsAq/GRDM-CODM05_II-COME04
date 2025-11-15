@@ -1,6 +1,6 @@
 # Mettiamo tutto sotto una chiave principale 'tesina'
 tesina:
-  titolo: "Geografie del Live Electronics"
+  titolo: "Cosa è Live Electronics"
   sottotitolo: "Come tecnologia e contesti istituzionali hanno trasformato il pensiero compositivo nel Live Electronics: da Mumma e Nono all'IRCAM agli approcci ecosistemici"
   autore: "Giulio Romano De Mattia" # Usiamo 'autore' invece di 'candidato.nome' per coerenza con Pandoc
   
