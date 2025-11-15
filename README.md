@@ -176,6 +176,7 @@ Questo panorama è attraversato, dunque, da **due polarità culturali** che, pur
 
 # CAP. 2: L'APPROCCIO AMERICANO
 
+
 ### La tradizione americana: DIY, portabilità e sperimentazione collettiva
 
 La scena americana segue una traiettoria opposta. Come ricorda David Behrman nella prefazione a *Handmade Electronic Music* di Collins:
