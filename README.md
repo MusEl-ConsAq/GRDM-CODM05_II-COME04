@@ -669,10 +669,6 @@ Come riflette Mumma sulla fine del San Francisco Tape Music Center — contempor
 
 Ann Arbor fece esattamente questo: creò un ecosistema culturale vitale, produsse innovazioni tecniche e estetiche fondamentali, influenzò modelli organizzativi in tutto il Nord America — tutto "with modest community support", fuori dalle strutture istituzionali consolidate, in una città universitaria del Midwest che divenne temporaneamente il centro dell'avanguardia musicale americana.
 
-Procedo a scrivere le sezioni su Ashley e Behrman, integrandole nel flusso narrativo già esistente del capitolo 03-SEZIONE.md.
-
----
-
 ## Robert Ashley: il teatro elettronico come prassi performativa
 
 Se Gordon Mumma rappresentò l'ingegnere-compositore e David Tudor il performer-compositore, Robert Ashley (nato 1930) incarnò la figura del compositore-regista, trasformando il live electronics in un medium teatrale dove voce, elettronica e spazio scenico si fondevano in un'unità inscindibile.
@@ -858,21 +854,6 @@ Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 
 
 ## 3.4. Limiti del modello: ricerca vs arte
 
-### La tradizione europea: istituzionalizzazione e controllo deterministico
-
-Stockhausen, come nota Nicola Bernardini, fu **"il primo a usare la live electronics analogica in opere su larga scala"**[@bernardini2024, 4], con *Mikrophonie I*, *Mixtur* (1964) e *Mantra* (1970). Tuttavia, una delle sue preoccupazioni principali rimase sempre la **"replicabilità deterministica"** delle opere[@bernardini2024, 4]. Questa filosofia — che portò Stockhausen a preferire **materiali preregistrati rispetto alla live electronics** e a creare la propria casa editrice per controllare ogni aspetto della notazione[@bernardini2024, 4] — può essere letta come un tentativo (forse utopico) di lasciare "un percorso prevedibile per la sua musica per i posteri"[@bernardini2024, 4].
-
-Quando le tecnologie digitali divennero disponibili, Stockhausen "era definitivamente distante da esse"[@bernardini2024, 4]. Il compositore tedesco non partecipò alla "ricerca digitale" del live electronics[@bernardini2024, 4], preferendo un approccio più tradizionale alla scrittura strumentale, seppur con una visione moderna costante.
-
-Questa linea evolutiva culmina nella creazione di **IRCAM** (Institut de Recherche et Coordination Acoustique/Musique) a Parigi nel 1977. Fondata da Pierre Boulez con il sostegno del presidente francese Georges Pompidou, IRCAM rappresenta il **modello istituzionale europeo** portato all'estremo: un investimento iniziale di 4.750.000 sterline britanniche, uno staff di 55-60 posizioni fisse più 65-70 temporanee, e un budget annuale di circa 28-30 milioni di franchi francesi[@bernardini2024, 5, citando Born 1995].
-
-Come ricorda Jean-Claude Risset, uno dei primi responsabili del dipartimento computer:
-
-> "**So research at IRCAM was often subordinated to the demands of a composer for a specific piece**. And those demands were not always reasonable and easy to fulfill [...] My personal frustration was that I couldn't work enough on my own."[@chadabe1997, 120]
-
-Il modello IRCAM configura la **tecnologia come servizio alla composizione**, con una chiara divisione del lavoro tra ricercatori, tecnici e compositori.
-
-
 
 # CAP. 5: TRANSISTOR E TRASFORMAZIONE TECNOLOGICA
 
@@ -883,61 +864,6 @@ Il modello IRCAM configura la **tecnologia come servizio alla composizione**, co
 ## 5.3. Impatto sulla prassi compositiva
 
 ## 5.4. Esempi comparati (Mumma vs IRCAM)
-
-## Transistor e la rivoluzione della portabilità
-
-L'emergere del live electronics non fu solo una scelta estetica, ma fu **reso tecnologicamente possibile** da una rivoluzione hardware: il passaggio dai tubi a vuoto ai transistor a stato solido.
-
-### L'enabler tecnologico della fine anni '50
-
-Come nota Mumma:
-
-> "By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of **solid-state transistor technology**. These transducers became part of the instrumental 'ensemble' for Cage's iconic *Cartridge Music* of 1960."[@mumma1975, 293]
-
-La tecnologia a transistor offriva vantaggi cruciali rispetto ai tubi a vuoto che avevano dominato l'elettronica musicale fino a quel momento:
-
-**Dimensioni e peso ridotti:**  
-I transistor erano una frazione delle dimensioni dei tubi a vuoto, permettendo la creazione di equipment **portatile** invece che vincolato permanentemente allo studio.
-
-**Minore consumo energetico:**  
-Mentre i tubi richiedevano alimentazioni da 400-500 volt, i transistor operavano a 12 volt o meno, rendendo possibile l'uso di batterie e l'indipendenza dalle prese elettriche fisse.
-
-**Maggiore affidabilità:**  
-I transistor erano resistenti agli urti e ai movimenti — caratteristica essenziale per equipment da concerto che doveva essere trasportato e montato ripetutamente.
-
-**Costo accessibile:**  
-La produzione di massa dei transistor nei tardi anni '50 li rese economicamente accessibili anche ai compositori indipendenti, senza necessità di budget istituzionali.
-
-### La necessità dell'autocostruzione
-
-Come ricorda David Behrman nella prefazione a *Handmade Electronic Music* di Collins:
-
-> "When I started around 1965, working with homemade circuitry was a necessity: **there were no music synths for sale**."[@collins2020, Foreword]
-
-E soprattutto, la tecnologia a transistor era **accessibile intellettualmente** oltre che economicamente:
-
-> "**You didn't have to have an engineering degree to build transistorized music circuits**, and Nic's book makes this clear to a new generation."[@collins2020, Foreword]
-
-Behrman sintetizza efficacemente il cambiamento di paradigma tecnologico:
-
-> "The transistor, a little later the integrated circuit, and then the microcomputer."[@collins2020, Foreword]
-
-Questa accessibilità tecnologica permise ai compositori americani di sviluppare equipment portatile e personalizzato — il famoso "cybersonic belt-box" di Mumma, costruito proprio con componenti a transistor, ne è l'esempio più emblematico — senza dipendere da grandi istituzioni o budget milionari.
-
-### Dalla stanza al palco: portabilità come filosofia
-
-La portabilità non fu solo una questione pratica ma divenne una **filosofia estetica**. L'equipment che poteva essere trasportato in una valigetta significava:
-
-- Performance possibili ovunque, non solo negli studi attrezzati
-
-- Sperimentazione continua durante i tour
-
-- Condivisione diretta di tecniche tra compositori
-
-- Performance come parte integrante del processo compositivo
-
-Come nota Mumma, entro la metà degli anni '60 i musicisti della Cunningham Dance Company ebbero accesso a "standardized and mass-produced equipment developed after 1965, when the synthesizers of Robert Moog, Donald Buchla, and others became commercially available"[@mumma2015, 101]. Ma prima di questa svolta commerciale, la necessità di autocostruzione favorì lo sviluppo di una **cultura collettiva di sperimentazione** — una comunità di pratiche che sarebbe diventata caratteristica distintiva dell'approccio americano al live electronics.
-
 
 
 # CAP. 6: APPROCCI ECOSISTEMICI CONTEMPORANEI
