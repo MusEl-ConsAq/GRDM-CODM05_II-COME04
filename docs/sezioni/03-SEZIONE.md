@@ -142,11 +142,11 @@ Come sintetizza Collins, "in no other composer's work is the ethos of music impl
 
 Il "garden of shared ideas with minimal fences"[@mumma2015, 152] che Tudor contribuì a coltivare negli anni '60 produsse frutti che continuarono a maturare per decadi, influenzando generazioni successive di compositori, performers, e costruttori di strumenti. La sua eredità non consiste tanto in un repertorio di opere definite quanto in un *modo di lavorare* — collaborativo, sperimentale, tecnologicamente curioso, pedagogicamente generoso — che continua a caratterizzare le pratiche di hardware hacking e DIY electronics nel XXI secolo.
 
-# Ann Arbor: laboratorio del live electronics americano
+## Ann Arbor: laboratorio del live electronics americano
 
 Se New York fu il centro della tape music americana nei primi anni Cinquanta, Ann Arbor, Michigan, rappresentò il luogo di nascita del live electronics come prassi collettiva organizzata — un modello alternativo all'istituzionalizzazione della ricerca elettroacustica che si stava consolidando in Europa.
 
-## Manifestations: Light and Sound (1957-1964)
+### Manifestations: Light and Sound (1957-1964)
 
 L'inizio può essere datato con precisione. Come documenta Gordon Mumma:
 
@@ -178,7 +178,7 @@ Un'innovazione cruciale fu lo sviluppo, da parte di Mumma e Ashley, di una tecni
 
 Il debutto ufficiale pubblico di *Manifestations: Light and Sound* avvenne nel gennaio 1961 all'Alumni Memorial Hall del University of Michigan Museum of Art[@mumma2015b, 9]. La produzione più nota fu *Teatro dello spazio — luce e suono*, presentata alla Biennale di Venezia nel settembre 1964[@mumma1975, 315].
 
-## Il Cooperative Studio for Electronic Music (1960)
+### Il Cooperative Studio for Electronic Music (1960)
 
 Parallelamente alle attività dello Space Theatre, all'inizio del 1960 Mumma e Ashley fondarono il **Cooperative Studio for Electronic Music** — un modello radicalmente diverso dagli studi istituzionali che dominavano la ricerca elettroacustica in Europa[@mumma2015b, 10].
 
@@ -200,7 +200,7 @@ Il saggio includeva configurazioni dettagliate dell'equipment, rationale per la 
 
 Un aspetto cruciale era la **portabilità**. Mumma sottolineava come il compositore che costruisce uno studio indipendente con equipment mobile avrebbe avuto un vantaggio rispetto a chi lavora con gli apparatus montati su rack o console tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine dei grandi equipment di laboratorio per le proporzioni più compatte dei componenti hi-fi ad alta impedenza, era possibile configurare un sistema dove l'intero studio fosse "within arm's reach of the comfortably seated composer"[@mumma2015b, 19-20].
 
-## L'ONCE Festival (1961-1965): istituzione anti-istituzionale
+### L'ONCE Festival (1961-1965): istituzione anti-istituzionale
 
 Dal contesto dello Space Theatre e del Cooperative Studio nacque, nel 1961, l'**ONCE Festival** — un evento che sarebbe diventato "a major, multi-stage locus for international new music in the American Midwest for much of the 1960s"[@mumma2015b, 1].
 
@@ -281,7 +281,7 @@ Artisti visitatori includevano John Cage e David Tudor (multiple appearances), m
 
 Un aspetto cruciale fu la presenza di David Tudor, che nel 1965 performò *Variations II* di Cage come solo for piano with live electronics — "notably at the 1965 ONCE Festival"[@mumma1975, 293]. Questa performance consolidò la reputazione di Ann Arbor come centro vitale per la ricerca sul live electronics.
 
-## L'ecosistema culturale
+### L'ecosistema culturale
 
 L'ONCE Festival non sviluppò in isolamento. Era "but one of numerous related cultural activities in Ann Arbor, extending from the purely graphic arts to the performance realm and including several thriving collaborations"[@mumma2015b, 30].
 
@@ -302,6 +302,143 @@ Le attività collaterali includevano:
 7. **Mary Ashley's Truck**: ensemble teatrale formato nel 1965, che performava multimedia events, a volte per le strade di Ann Arbor[@mumma2015b, 33]
 
 8. **"New Music for Pianos" series**: stabilita nel 1965 da Ashley e Mumma in connessione con l'ONCE Group[@mumma2015b, 33]
+
+Procedo alla scrittura dell'intera sezione su Gordon Mumma per il capitolo 03-SEZIONE.md, usando esclusivamente fonti verificabili dal project knowledge.
+
+## Gordon Mumma e l'invenzione dei "cybersonics"
+
+Se John Cage fornì la visione filosofica che rese pensabile il superamento della tape music, e David Tudor sviluppò la prassi performativa del live electronics, fu Gordon Mumma (1930-) a elaborare sistematicamente le soluzioni tecniche che trasformarono l'elettronica dal vivo in una pratica compositiva autonoma e riproducibile. La sua traiettoria professionale incarna perfettamente il nuovo tipo di figura artistica che emergeva negli anni Sessanta: non più solo compositore, ma compositore-performer-ingegnere in un'identità unica e indivisibile.
+
+### Ann Arbor e l'ecosistema indipendente (1952-1966)
+
+Mumma giunse alla University of Michigan nel 1952, dove frequentò per soli due anni i seminari di composizione di Ross Lee Finney. In quel breve periodo incontrò altri studenti di composizione destinati a diventare figure centrali della scena sperimentale americana: Robert Ashley, George Cacioppo, Roger Reynolds e Donald Scavarda. Fu anche esposto a compositori ospiti portati da Finney, tra cui Karlheinz Stockhausen, la cui lecture del 1954 sull'idea di "independent composer" risuonò profondamente con Mumma e Ashley.
+
+Nonostante l'interruzione degli studi formali, Mumma rimase ad Ann Arbor fino al 1966, mantenendo solo connessioni informali con l'università. Come ricorda la biografa Michelle Fillion, egli visse "on the fringe of academia", sostenendosi con lavori occasionali: negozi di musica e libri, assistente in reparti ospedalieri e sale operatorie, technical writer, cornista in ensemble professionali e semi-professionali, e music reviewer per il *Michigan Daily* dal 1955. Questa posizione ai margini dell'istituzione accademica, lungi dall'essere un limite, si rivelò condizione essenziale per sviluppare un approccio radicalmente alternativo alla musica elettroacustica.
+
+### Il Cooperative Studio for Electronic Music (1958): modello anti-istituzionale
+
+All'inizio del 1958, Mumma e Robert Ashley fondarono il **Cooperative Studio for Electronic Music** ad Ann Arbor. La scelta del termine "cooperative" non era casuale: si trattava di un modello radicalmente diverso dagli studi istituzionali europei come quello di Colonia o Milano. Come Mumma stesso chiarì in un saggio del 1964 significativamente intitolato "An Electronic Music Studio for the Independent Composer", l'obiettivo era creare un'infrastruttura accessibile che non richiedesse affiliazione istituzionale né grandi risorse finanziarie[@mumma2015b, 18].
+
+Lo studio non era un grande centro di ricerca con budget milionari e staff permanente, ma uno spazio condiviso dove sperimentare in modo indipendente, sviluppare equipment secondo necessità specifiche, e condividere informalmente tecniche e componenti. Il principio guida era: economia di mezzi unita a massima libertà creativa[@mumma2015b, 18-24]. La distinzione cruciale rispetto ai modelli europei era che non esisteva separazione gerarchica tra ricerca e produzione artistica: il compositore era anche il tecnico, il costruttore, il performer.
+
+Lo studio produceva musica elettronica dal vivo per lo Space Theatre di Milton Cohen, colonne sonore per filmmaker indipendenti come George Manupelli, e progettava equipment cybersonic unico per la performance dal vivo[@mumma2015b, 30-31]. Questa integrazione di funzioni — creazione artistica, progettazione tecnica, produzione commerciale — anticipava di decenni quello che oggi chiameremmo un approccio "maker" alla tecnologia musicale.
+
+### Cybersonics: dalla tecnologia alla filosofia
+
+Nel 1961, Mumma fondò con l'ingegnere elettronico William Ribbens la **Cybersonics**, una piccola compagnia ad Ann Arbor per il design e la produzione di equipment per sound-editing e processing destinato alla live-electronic music, al cinema e alla televisione. Ma "cybersonics" non era solo il nome di una compagnia: era un concetto tecnico e una filosofia compositiva.
+
+Mumma definì i cybersonics come un principio di feedback elettronico dal vivo attraverso il quale qualche aspetto del suono viene reimmesso nel processo elettronico, modificando così il suono mediante caratteristiche derivate direttamente dal suono stesso. Gli elementi chiave erano: un loop di feedback, il suono che modifica sé stesso, caratteristiche derivate dal suono stesso, nessun controllo esterno arbitrario.
+
+Ma Mumma estese il concetto ben oltre la dimensione puramente tecnica. Come scrisse, il concetto di "collaboration" poteva essere esteso anche a livelli tecnologici: i cybersonics rappresentavano una situazione in cui il processing elettronico delle attività sonore viene determinato (o influenzato) dalle interazioni dei suoni con sé stessi — un'interazione essa stessa "collaborativa". Il processo diventava così intrinsecamente interattivo e teatrale: persone, strumenti, tecnologia e spazio performativo lavoravano insieme in modo collaborativo.
+
+Il termine era correlato a "cybernetics" — la scienza del controllo automatico attraverso principi di feedback — ed era reso possibile dall'emergente tecnologia a transistor. I transistor a stato solido, disponibili commercialmente dalla fine degli anni Cinquanta, erano cruciali per la portabilità: permettevano la miniaturizzazione dell'equipment e resero possibile la cybersonic belt-box portatile che divenne il marchio distintivo di Mumma.
+
+### Dal nastro magnetico al live electronics: evoluzione di una prassi
+
+L'evoluzione personale di Mumma rispecchia quella dell'intero campo. Come egli stesso racconta in un saggio del 1967, il suo lavoro professionale in musica elettronica iniziò nel 1952 con colonne sonore per film e musica elettronica per teatro. Nel 1958 aveva stabilito uno studio di musica elettronica, e verso la fine degli anni Cinquanta stava esplorando le complessità risonanti della performance di musica elettronica dal vivo con Robert Ashley nelle produzioni dello Space Theatre di Milton Cohen. Da quel momento, il suo lavoro si era evoluto dalla primacy del nastro magnetico come medium verso una preoccupazione quasi completa per il processing di suoni acustici attraverso mezzi elettronici di live-performance[@mumma2015, 167].
+
+Questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnò la nascita del live electronics come prassi distinta. Nel suo saggio fondamentale "Live-Electronic Music" pubblicato nel 1975 nel manuale standard di Jon H. Appleton e Ronald C. Perera, Mumma osservava che durante gli anni Cinquanta la maggior parte dei compositori trattava il nastro magnetico in modo analogo a quello dei filmmaker che lavoravano con la pellicola: come film, la tape music veniva composta largamente attraverso l'editing[@mumma1975, 292]. Il nastro magnetico era il primo medium di storage per il suono che fosse ragionevolmente editabile: poteva essere tagliato e giuntato con precisione[@mumma1975, 292].
+
+Fino al 1960 vi erano pochissime eccezioni all'uso del nastro magnetico come medium esclusivamente da studio[@mumma1975, 292]. Queste eccezioni cominciarono ad apparire verso la fine degli anni Cinquanta e aumentarono rapidamente durante gli anni Sessanta. Alcuni compositori usavano suono registrato in concerto dal vivo con strumenti o voci. Altri esploravano l'uso del nastro in situazioni performative innovative senza riferimento alla musica tradizionale, oppure sviluppavano tecniche di studio in tempo reale che erano esse stesse performance dal vivo, usando il nastro solo per registrare il risultato per la distribuzione[@mumma1975, 292].
+
+Più significativamente, alcuni compositori scartarono il medium del nastro come premessa musicale ed esplorarono l'uso di dispositivi elettronici, separatamente e in congiunzione con strumenti acustici, come base per la live-performance[@mumma1975, 292]. Durante gli anni Sessanta, la performance dal vivo con suoni amplificati di piccola entità, supportata dallo sviluppo di nuova strumentazione elettronica progettata specificamente per l'uso in concerto, divenne un'attività sempre più importante[@mumma1975, 297].
+
+### Medium Size Mograph 1 (1963): la prima composizione cybersonic
+
+Nel 1963, Mumma completò *Medium Size Mograph 1* per piano a quattro mani e cybersonic console, la sua prima composizione pienamente cybersonic. L'opera fu eseguita in premiere al Richmond Professional Institute in Virginia nell'aprile 1963, e divenne un pilastro del repertorio del duo pianistico "New Music for Pianos" di Ashley e Mumma, insieme agli altri Mographs di Mumma e ad altre opere.
+
+La configurazione tecnica era rivoluzionaria nella sua semplicità apparente: un pianoforte con il coperchio chiuso e smorzato da una coperta pesante, pickup di vibrazione attaccati vicino alla soundboard, una piccola scatola cybersonic portatile, e un loudspeaker sotto il piano. La circuiteria cybersonica modificava le caratteristiche inherenti del suono del piano: l'attack transient veniva compresso (reso più quieto), l'energia veniva distribuita sulla porzione successiva dell'envelope, e la durata della parte finale veniva estesa.
+
+Il risultato sonoro era straniante. Come Mumma osservò, ciò che l'audience sentiva era predominantemente il suono dal loudspeaker: ovviamente proveniva dal piano, ma era al massimo un "cugino acustico distante". L'innovazione chiave era che una piccola scatola portatile poteva, con mezzi relativamente semplici, effettivamente creare un "nuovo" strumento da uno convenzionale.
+
+Un aneddoto illumina tanto il carattere precario quanto l'inventiva della scena. Durante un Q&A post-performance, la scatola cybersonica fu rubata, sospendendo la vita performativa dell'opera fino a quando Mumma non ne costruì un'altra.
+
+### Mesa (1966): complessità tecnologica e collaborazione con Tudor
+
+Nel 1966, Mumma ricevette una commissione da Merce Cunningham per comporre musica per una nuova danza moderna intitolata *Place*. Mumma aveva già iniziato a lavorare su un pezzo per David Tudor, e decise di modificare e completare questo progetto più rapidamente del previsto per soddisfare la commissione. Il titolo del pezzo era *Mesa*.
+
+Circa due settimane prima dell'inizio del tour, Mumma si recò a Stony Point per lavorare con Tudor, portando la sua circuiteria per *Mesa* sostanzialmente completata così che potessero provare il pezzo con il bandoneon. Furono "intense workdays": Mumma aiutò anche Tudor con questioni tecniche per il tour, poiché Tudor sovrintendeva alla tecnologia musicale per la Cunningham Dance Company. Sperimentarono insieme: "We played long, sustained acoustic sounds back and forth, comparing his instrument [bandoneon] with my horn and with electronic sound". Come ricordò Mumma, "trust developed between us".
+
+La configurazione generale di *Mesa* era indicata in un diagramma pubblicato negli atti dell'Audio Engineering Society Convention dell'ottobre 1967. Sei microfoni venivano utilizzati: quattro microfoni centrali attaccati al bandoneon (due per lato), ciascuno sensibile a bande di frequenza differenti, più due "adder microphones" che captavano il suono ambientale e il suono dall'altro lato del bandoneon. Questo produceva sei canali differenti di sound processing.
+
+I due canali interni erano di primaria importanza per la musica, mentre gli altri quattro canali fungevano da "outriggers". Attraverso circuiteria logica, i segnali di controllo e i segnali di programma venivano instradati da un canale all'altro durante la performance. Le uscite di programma processate dai moduli VCA venivano applicate direttamente ad amplificatori di potenza e quindi a loudspeakers in punti differenti dell'auditorium. I canali outrigger erano solitamente uditi da dietro l'audience.
+
+All'interno di ciascun blocco del sistema, le funzioni di modificazione sonora erano interconnesse in modo complesso. Lo **spectrum transfer** era un frequency shifter con equalizzazione, dove l'ammontare dello shift di frequenza era determinato sia da segnali di controllo interni variabili sia da un segnale esterno derivato dal bandoneon stesso. Il **multiplier** traduceva porzioni dello spettro di programma per interi e equalizzava il prodotto. Il **product valve** era una combinazione di amplitude e phase modulator. Il **modifier route-gate logic** era un adder con tre input e due output, con un segnale di controllo che determinava le proporzioni degli input e il bilanciamento degli output. La **formant modulation** era una classe di voltage-controlled comb filter, con bandwidths e center frequencies continuamente variabili.
+
+I **VCA (Voltage Controlled Attenuators)**, sviluppati in collaborazione con William Ribbens, includevano circuiteria di time delay che modellava l'envelope del segnale di programma. La tensione di controllo derivava sia dal segnale originale del bandoneon sia dal modulo logico esterno di route-gate, che determinava aspetti della modificazione sonora e, in congiunzione con le azioni del suonatore di bandoneon, stabiliva la continuità musicale.
+
+Tutti i segnali di controllo per queste funzioni di modificazione sonora derivavano dai suoni del bandoneon stesso. Alcuni erano frequency (o phase) modulated, altri erano amplitude modulated, e parte del bias nel modulo VCA derivava dall'integrazione di somme di segnali di controllo e programma. Poiché i segnali di controllo erano automaticamente derivati dai materiali sonori stessi, Mumma chiamava il processo e la musica "cybersonic".
+
+La situazione performativa più estrema per *Mesa* era possibile quando questi moduli logici operavano nelle loro modalità completamente automatiche, creando un duo tra il bandoneonista e la circuiteria elettronica. Più spesso operavano semi-automaticamente, con un performer umano che prendeva decisioni e sovrapponeva parti della logica interna. Solitamente questo secondo performer era Mumma stesso.
+
+### Hornpipe (1967): l'ecologia acustica portatile
+
+*Hornpipe*, completato nel 1967, divenne il principale veicolo da tour di Mumma fino ai primi anni Ottanta, con almeno trentadue performance negli Stati Uniti, in Europa e in Giappone. L'opera rappresenta forse l'apice dell'approccio cybersonic di Mumma, combinando sofisticazione tecnologica, portabilità estrema, e un approccio ecologico allo spazio performativo.
+
+La console cybersonica per *Hornpipe* era un piccolo computer analogico e signal processor di progettazione propria di Mumma. Gli input di segnale alla console erano due piccoli microfoni di tipo lavalier da attaccare ai lati opposti della cintura. Le uscite a livello di linea della console viaggiavano attraverso un cavo ombelicale verso l'amplificatore stereofonico e i loudspeakers altrove nel venue performativo. Sebbene Mumma continuasse a sviluppare la circuiteria cybersonica interna, la configurazione esterna di questa scatola rimase largamente invariata dalla sua costruzione nel 1967 alle performance finali di *Hornpipe* nei primi anni Ottanta.
+
+All'interno della cybersonic belt-box c'erano quattro parallel voltage control amplifiers (VCA) per canale. Il microphone preamp forniva l'informazione acustica fornita dal suonatore di corno e le risonanze acustiche di quei suoni nel venue su un percorso audio in linea retta agli amplificatori VCA. Ciascun amplificatore si connetteva attraverso circuiti risonanti a un feedback loop, che convertiva i suoni acustici in segnali elettronici e li teneva in time-information storage (T) finché l'unità cybersonica determinava di aver raccolto informazione acustica sufficiente. A quel punto il gate control (G) si apriva, passando i segnali sonori immagazzinati attraverso l'output ombelicale all'amplificatore esterno e ai loudspeakers. Il tempo di "apertura" dei gates era determinato dalle complesse interazioni dei suoni ottenuti dai microfoni. L'overload era controllato da una funzione di peak-limiting.
+
+Un aspetto importante di *Hornpipe* era la sua strumentazione per corno, eseguita sia tradizionalmente che con tecniche estese, inclusi i multifonici. Venivano usati due corni differenti: un Waldhorn o corno "naturale" (senza valvole), il corno da caccia eroico del passato, e un corno a valvole moderno (un double horn o cosiddetto French horn). I suoni del corno erano generati non solo con un tradizionale bocchin
+
+o a forma di cono basato sull'embouchure, ma anche con ance doppie speciali. Il rapido scambio tra corni e procedure di embouchure faceva parte del teatro di *Hornpipe* mentre Mumma si muoveva attraverso lo spazio performativo, esplorando la diversità delle sue risonanze.
+
+La premessa strutturale di base di *Hornpipe* era preconcepita, ed era determinata da una combinazione delle capacità tecniche dell'equipment, delle proprietà acustiche del venue, e dell'input musicale del cornista. Poiché i microfoni "sentivano" sia i suoni originali del corno che le risonanze di quei suoni dall'interno del venue, si verificavano influenze incrociate interattive, in qualche modo come in una situazione ecologica — o "eco-logica".
+
+*Hornpipe* iniziava come un solo per corno, durante il quale la console cybersonica "ascoltava" silenziosamente, monitorando le risonanze del corno nello spazio acustico e aggiustando i suoi circuiti elettronici per complementare queste risonanze. Quando aveva immagazzinato informazione sufficiente, un gate si apriva e la "risposta" elettronica della console veniva udita dai loudspeakers. Il cornista rispondeva in duo, valutando le risonanze dello spazio performativo e scegliendo sonorità che avrebbero supportato, riequilibrato, o sovvertito le attività della console cybersonica. Il cornista era anche in grado di disattivare la circuiteria cybersonica suonando suoni che erano al di fuori della costellazione risonante. La performance terminava quando il cornista forniva nuova informazione sonora che deliberatamente contraddiceva le risonanze accumulate ed effettivamente spegneva l'attività di risposta della console.
+
+### L'ONCE Festival (1961-1965): comunità come infrastruttura
+
+Il Cooperative Studio e la sperimentazione cybersonica non si svilupparono in isolamento, ma furono parte integrante di un ecosistema culturale più ampio che aveva il suo fulcro nell'ONCE Festival. Come Mumma stesso scrisse nel 1967, "the ONCE Festival happened because a community of artists took matters into their own hands"[@mumma2015b, 24].
+
+Nel 1960, su suggerimento del poeta Keith Waldrop, un gruppo di artisti decise di produrre un festival di musica nuova. Il nucleo iniziale includeva compositori (Robert Ashley, George Cacioppo, Gordon Mumma, Roger Reynolds, Donald Scavarda, Bruce Wise), architetti (Harold Borkin, Joseph Wehrer), filmmaker (George Manupelli), e artisti visivi (Mary Ashley, Milton Cohen). Il loro common ground era semplice: tutti vivevano ad Ann Arbor[@mumma2015b, 24].
+
+Sebbene alcuni membri del gruppo insegnassero alla University of Michigan, virtualmente tutti gli sforzi per arruolare supporto da quell'istituzione incontrarono resistenza e persino animosità[@mumma2015b, 24]. Durante l'ONCE Festival del 1963, ci fu un boicottaggio quasi unanime dei concerti da parte della faculty della School of Music, con pressione applicata agli studenti di musica di fare altrettanto sulla base che tali attività fossero accademicamente, culturalmente e moralmente disreputabili[@mumma2015b, 30].
+
+Fu un'organizzazione locale non universitaria, il Dramatic Arts Center, a fornire il supporto essenziale. Come Mumma osservò, la differenza essenziale era che il Dramatic Arts Center faceva parte della loro comunità immediata e manteneva la sua retorica. Il suo supporto permise loro di realizzare qualcosa di proprio, indipendente dalla depersonalizzazione dei monoliti di finanziamento[@mumma2015b, 28]. Il supporto era sempre diretto e immediato, senza overhead amministrativo[@mumma2015b, 35].
+
+In totale, ventinove concerti di musica nuova furono presentati durante sei ONCE Festivals, includendo sessantasette premiere performances su un totale di circa centocinquanta opere di ottantotto compositori contemporanei. L'ONCE Festival del 1964, il più ambizioso, ebbe un budget totale di meno di 7.000 dollari, con una perdita di 3.000 dollari assunta dal Dramatic Arts Center. L'ONCE AGAIN del 1965 fu il primo festival in profitto, con sold-out crowds — il turnout per un singolo concerto fu più del doppio della dimensione di tutte le performances di qualsiasi festival precedente messe insieme[@mumma2015b, 27].
+
+Le esigenze del formato festival, con la sua programmazione serrata di attività diverse, scatenarono un momentum creativo che eventi una-volta-all'anno non avrebbero prodotto. Con a volte solo poche settimane di preavviso, programmavano opere che non erano ancora completate o in pochi casi nemmeno pienamente concepite. Come Mumma ricordò, la più nuda indicazione che un compositore stesse pensando a un'opera nuova era sufficiente per loro per prendere azione. In quest'ultimo caso, la persona responsabile per la programmazione, pubblicità e produzione di un concerto avrebbe fabbricato un titolo per un'opera ancora non finita del compositore. Alcune delle composizioni di maggior successo risultarono da questo programma a velocità vertiginosa[@mumma2015b, 35].
+
+### Sonic Arts Union (1966-1976): repertory ensemble del live electronics
+
+La formazione del Sonic Arts Union iniziò durante l'ONCE Festival del 1964, quando David Behrman e Alvin Lucier incontrarono Robert Ashley e Gordon Mumma. Come ricorda Ashley, Lucier ebbe un concerto alla Brandeis University dove Mumma, Behrman e Ashley vennero, e dopo stavano prendendo un paio di drink, e Lucier disse: "That was a successful concert. We should do this someplace else." Così iniziarono a farlo da qualche altra parte[@chadabe1997, 102].
+
+Il quartetto eseguì il suo primo evento condiviso al Rose Art Museum alla Brandeis University il 19 aprile 1966, iniziando un vigoroso roster nazionale e internazionale di concerti per risorse elettroniche dal vivo e acustiche. Il loro primo billing come "Sonic Arts Group" fu al Winter Fest nella New England Life Hall di Boston il 3 febbraio 1967; nel 1968 il gruppo rivide il suo nome in "Sonic Arts Union" e rimase attivo fino al 1976, con riunioni occasionali dopo[@mumma2015b, xxxii].
+
+La filosofia operativa era semplice: "Basically, we'd each just play a piece in a concert, and the other guys would help you with your piece if you needed somebody to do something"[@chadabe1997, 102]. Il Sonic Arts Union, come il San Francisco Tape Music Center e l'ONCE Group, si era formato come gruppo per mettere in comune risorse, focalizzare l'attenzione pubblica, e cooperare in progetti congiunti. Ma fondamentalmente lavoravano come individui all'interno degli ambienti collaborativi che avevano formato[@chadabe1997, 102].
+
+Il repertorio individuale era straordinariamente diverso. I pezzi di Ashley includevano *Wolfman*, *The Entrance*, *Frogs*, *Purposeful Lady Slow Afternoon*, *Fancy Free*, e *Orange Dessert*. I pezzi di Behrman includevano *Runthrough*, *Wavetrain*, *A New Team Takes Over*, *Islands in the River of Experience* (con Katharine Morton), e *Sinescreen*. I pezzi di Lucier includevano *Music for Solo Performer*, *Vespers*, *I Am Sitting in a Room*, *The Duke of York*, e *Bird and Person Dyning*. I pezzi di Mumma includevano *Mesa*, *Hornpipe*, *I Saw Her Dance* (con Barbara Lloyd, nastro di Steven Drews, e slides di Mary Lucier), *Ambivex*, e *12 Passenger Pigeon*. Come Mumma rifletteva: "The variety of those pieces—I still can't believe how different they were..."[@chadabe1997, 102].
+
+Lucier ricorda il tour europeo del 1969: "We went everywhere, from Rome to Oslo, Helsinki, Switzerland, London. We did almost sixteen performances in thirty days." Il tour era esauriente ma eccitante. "We did each other's pieces. We did David's *Runthrough*. Once when he wasn't there, we did Gordon's *Mesa* with mouth organs. We did Bob's *Wolfman* and *Fancy Free*, where each player had an attache case and a cassette machine. We did his *Frogs*, where he had these lights and devices that would sense proximity. Gordon had this wonderful sophisticated electronic circuitry for *Hornpipe*"[@chadabe1997, 102].
+
+Entro il 1976, le persone coinvolte si erano riassemblate in formazioni differenti. Ashley era diventato direttore del Center for Contemporary Music al Mills College. Lucier si era unito alla faculty della Wesleyan University. Mumma si era unito alla faculty dell'University of California. E Behrman si unì ad Ashley al Mills College per iniziare una nuova e influente linea di lavoro con personal computers[@chadabe1997, 102].
+
+Ashley riflette sugli ultimi anni: "Then Sonic Arts Union went through a kind of crisis of what the music meant to the audience. It was like somebody shut the door, it was like running into furniture in the dark"[@chadabe1997, 102]. Ricorda aneddoti di rifiuto: "I don't know if you remember, but you could go to a concert and afterwards somebody would come up to you and say, 'I hate your music'"[@chadabe1997, 102].
+
+### La collaborazione con Cage e Tudor: un giardino di idee condivise
+
+La collaborazione di Mumma con John Cage iniziò nel 1953, ma divenne tecnicamente cruciale nel maggio 1960, quando Mumma e Robert Ashley organizzarono performance di Cage e Tudor all'Ann Arbor High School, con Mumma che forniva assistenza tecnica. Per *Cartridge Music* (1960), la cui premessa di Cage era l'uso di "amplified small sounds from resonating objects", Tudor visitò lo Space Theatre durante il primo concerto con Cage ad Ann Arbor e ordinò immediatamente due unità Cybersonics che Mumma costruì specificamente per lui. Tudor le avrebbe usate estensivamente negli anni seguenti[@mumma2015, 152].
+
+Nell'estate 1966, Cage e Tudor erano "desperate for solutions to the disastrous technical problems of touring with *Variations V*". Mumma riuscì a ridurre "the technological overload by a half, while maintaining all the basic functions"[@mumma2015, 152]. Questo tipo di problem-solving tecnico era essenziale per mantenere la Cunningham Dance Company operativa in tour.
+
+Dal 1966 al 1973, Mumma fu musician e technical assistant con la Cunningham Dance Company, condividendo la pit con Cage e Tudor, tourando da Brooklyn's Academy of Music a Rio de Janeiro a Parigi a Persepolis a Belgrade. Compose musica per le coreografie di Cunningham, inclusa *Mesa* per *Place* (1966), e collaborò con Cage e Tudor per altre produzioni[@mumma2015, 167-174].
+
+La relazione con Tudor fu particolarmente stretta. Come Mumma caratterizzò, la collaborazione creativa tra Tudor, Cage, Pauline Oliveros, Lowell Cross, Alvin Lucier e se stesso fu "a garden of shared ideas with minimal fences"[@mumma2015, 152]. Lo strumento che Tudor probabilmente usò di più durante tutta la sua carriera fu costruito da Gordon Mumma (o William Ribbens): lo **Spectrum Transfer**, un versatile ring modulator che appare in diagrammi e fotografie estensivamente dal momento in cui Tudor lo ricevette nel 1965 fino ai primi anni Novanta — quasi trent'anni di uso continuativo[@collins2020, Chapter 25].
+
+Mumma e Tudor lavoravano bene insieme, condividendo spazio, tempo, idee e attività produttive con conflitti minimi. Eppure le loro procedure compositive erano largamente differenti l'una dall'altra. Mentre Mumma esplorava la modificazione elettronica di suoni acustici, Tudor esplorava la modificazione acustica di suoni di origini elettroniche, spesso mediante oggetti risonanti ai quali piccoli loudspeakers erano fisicamente attaccati. Eppure si incrociavano anche, si sovrapponevano, e a volte usavano le risorse sonore l'uno dell'altro per ulteriore lavoro creativo con le proprie procedure[@mumma2015, 152-153].
+
+### Legacy: dalla necessità alla tradizione
+
+L'approccio di Mumma — autocostruzione di equipment, integrazione di composizione e tecnologia, performance come ricerca — non fu semplicemente una scelta estetica, ma inizialmente una necessità. Come David Behrman ricorda nella prefazione a *Handmade Electronic Music* di Collins, "when I started around 1965, working with homemade circuitry was a necessity: there were no music synths for sale"[@collins2020, Foreword]. Ma Behrman aggiunge anche: "You didn't have to have an engineering degree to build transistorized music circuits, and Nic's book makes this clear to a new generation"[@collins2020, Foreword].
+
+Questa necessità si trasformò in tradizione. Come osservò Behrman nel 1997, "there was a tradition that came from Tudor and Mumma to build your own electronic music devices. And one could say that there's an American tradition that goes back to Harry Partch about building your own instrument"[@chadabe1997, 102].
+
+Il modello Mumma — compositore indipendente, studio cooperativo, tecnologia DIY, community support, economia di mezzi, massima libertà creativa — rimane rilevante. Le sue opere cybersoniche "rapidly became technologically obsolete" quando i componenti commerciali prodotti in serie divennero la norma a metà anni Settanta. Ma i principi sottostanti — feedback, interazione, collaborazione tra umano e macchina, specificità del sito, ecologia acustica — continuano a informare pratiche contemporanee di live electronics e interactive music.
+
+Gordon Mumma dimostrò che era possibile fare musica elettroacustica sofisticata al di fuori delle grandi istituzioni, che il compositore poteva essere anche l'ingegnere, che l'equipment poteva essere portatile, che la tecnologia poteva essere un partner collaborativo piuttosto che un servitore passivo. In questo senso, il suo contributo alla nascita del live electronics fu non solo tecnico ma profondamente politico: la democratizzazione dell'accesso ai mezzi di produzione elettroacustica.
+
 
 ## Tecnologia transistor e l'autocostruzione necessaria
 
@@ -359,7 +496,7 @@ Come riflette Mumma sulla fine del San Francisco Tape Music Center — contempor
 
 Ann Arbor fece esattamente questo: creò un ecosistema culturale vitale, produsse innovazioni tecniche e estetiche fondamentali, influenzò modelli organizzativi in tutto il Nord America — tutto "with modest community support", fuori dalle strutture istituzionali consolidate, in una città universitaria del Midwest che divenne temporaneamente il centro dell'avanguardia musicale americana.
 
-### Altri pionieri del movimento (1960-1970)
+## Altri pionieri del movimento (1960-1970)
 
 Il movimento del live electronics americano non fu il prodotto di singoli geni isolati, ma di una **rete di sperimentatori** che condivisero tecniche, idee e spesso anche equipment. Accanto alle figure centrali di Cage, Tudor, Mumma e Ashley, altri compositori contribuirono in modo determinante allo sviluppo della prassi.
 
@@ -416,16 +553,3 @@ Oltre a Cage e ai membri di *Manifestations*, Mumma cita pochi altri casi isolat
 > "Live performance with amplified small sounds aided by the development of new live-performance electronic equipment, became an important activity during the '60s. It gradually attracted the attention of many who, philosophically committed to the tape medium, had previously dismissed live-performance electronic music as an unworthy endeavor."[@mumma1975, 297]
 
 Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 1960 e il 1970 una prassi consolidata, sostenuta da comunità organizzate, eventi dedicati, e una crescente disponibilità di equipment commerciale accessibile.
-
-
-## 2.1. DIY e circuiti autocostruiti
-
-## 2.2. Gordon Mumma e il cybersonics
-
-### 2.2.1. *Mesa* (1966)
-
-### 2.2.2. *Hornpipe* (1967): analisi dettagliata
-
-## 2.3. Portabilità come filosofia
-
-## 2.4. Il circuito come processo compositivo
