@@ -725,6 +725,40 @@ Questa transizione — dall'elettronica analogica autocostruita ai personal comp
 
 Queste due figure — Ashley con il suo teatro elettronico che integrava voce, feedback e multimedia, Behrman con i suoi circuiti autocostruiti che esploravano l'indeterminacy e la semi-autonomia — completano il quadro della scena di Ann Arbor e del Sonic Arts Union. Insieme a Mumma, Tudor e Lucier, rappresentarono una rete di sperimentatori che condividevano strumenti, idee, competenze tecniche, e soprattutto una filosofia: che il live electronics non fosse semplicemente tape music performata dal vivo, ma una pratica radicalmente nuova che richiedeva nuovi strumenti, nuovi spazi performativi, e nuove forme di collaborazione.
 
+
+# Alvin Lucier e l'esplorazione dei fenomeni elettroacustici
+
+Tra i protagonisti della scena sperimentale americana degli anni Sessanta, Alvin Lucier elaborò una metodologia unica nell'ambito della live electronics, incentrata sull'utilizzo della tecnologia come mezzo di investigazione scientifica del suono. A differenza di un impiego tradizionale dell'elettronica a fini espressivi, Lucier sfruttò apparati tecnici per portare alla percezione umana fenomeni acustici normalmente invisibili, convertendo l'evento musicale in un laboratorio di ricerca acustica aperto al pubblico.
+
+## Music for Solo Performer (1965): onde cerebrali come materiale sonoro
+
+L'opera che segna l'apporto più innovativo di Lucier allo sviluppo del live electronics è *Music for Solo Performer* (1965), prima composizione a impiegare in tempo reale segnali elettroencefalografici come sostanza sonora. Il lavoro scaturì dalla partnership con il fisico Edmond Dewan, ricercatore presso gli Air Force Cambridge Research Laboratories, il quale illustrò a Lucier la possibilità di accedere alle onde alpha cerebrali attraverso uno stato mentale di non-visualizzazione. Questa attività neurologica, sebbene di minima entità energetica, poteva divenire udibile grazie all'amplificazione elettronica[@chadabe1997, 96-97].
+
+La configurazione tecnologica prevedeva il posizionamento di tre elettrodi d'argento della Grass Instrument sul cuoio capelluto dell'esecutore, destinati a rilevare la corrente alpha. Questo segnale cerebrale a bassa tensione (circa 10 Hz), che si manifesta durante le fasi mentali non-visive, veniva potenziato tramite un amplificatore differenziale Cybersonics dotato di filtro passa-basso a 12 Hz per eliminare interferenze. Il segnale così trattato veniva quindi inviato a una serie di altoparlanti che, per risonanza simpatica, mettevano in vibrazione strumenti a percussione dislocati nello spazio performativo[@mumma2015lucier, 49].
+
+Gordon Mumma, tra gli interpreti storici del brano, ha documentato la complessa procedura esecutiva. Un assistente tecnico applicava gli elettrodi dopo aver deterso lo scalpo con alcol, utilizzando una pasta conduttiva speciale e garze per fissarli saldamente. Seguiva la verifica della resistenza elettrica (inferiore a 10.000 ohm) e la regolazione dei parametri dell'amplificatore. Questa operazione, della durata di vari minuti, generava un'immediata suspance nel pubblico, non sempre consapevole della natura dell'intervento[@mumma2015lucier, 52-53].
+
+La fase d'attesa prima dell'emersione dei primi suoni costituiva un momento di grande mistero. Solo successivamente si poteva osservare la correlazione tra l'aprirsi degli occhi del solista e la cessazione dell'attività alpha. Al contrario, la chiusura degli occhi non garantiva la ripresa del fenomeno, che richiedeva il raggiungimento dello stato di non-visualizzazione, un'abilità che l'esecutore acquisiva con l'allenamento. La riuscita della performance dipendeva dunque dal controllo di variabili imprevedibili, e l'artista capace di generare sequenze prolungate di impulsi alpha distribuibili acusticamente nello spazio creava un'autentica prova di virtuosismo.
+
+Lucier ha chiarito la portata concettuale dell'opera, sottolineando come avesse voluto rappresentare l'immagine di un individuo in stato di quiete che sprigiona un flusso energetico in grado di saturare l'ambiente sonoro. Questa visione gli appariva di notevole potenza poetica[@chadabe1997, 97]. Il compositore ha inoltre evidenziato come i suoi suoni assolvessero spesso a una "funzione lavorativa", impiegando le tecnologie per indagini acustiche in modo analogo a un ingegnere.
+
+## L'approccio tecnologico: esplorazione acustica e fenomeni fisici
+
+La relazione di Lucier con la tecnologia si distingueva nettamente da quella di altri sperimentatori contemporanei. Mentre compositori come Gordon Mumma progettavano circuiti complessi per generare e modificare il suono, Lucier adoperava l'apparato elettronico principalmente come strumento di rivelazione e amplificazione di fenomeni acustici preesistenti. In *The Queen of the South* (1972), per esempio, impiegò onde sinusoidali fatte risuonare attraverso una superficie ricoperta di materiale granulare (come sabbia o caffè), innescando vibrazioni che producevano le figure di Chladni, modelli geometrici che rendevano visibile la struttura delle oscillazioni.
+
+Questa metodologia riflette un interesse profondo per la fisicità del suono e per i processi acustici naturali che la tecnologia può rendere osservabili. L'apparecchiatura elettronica non mirava a creare sonorità artificiali, bensì a manifestare proprietà sonore altrimenti impercettibili, trasformando l'esperienza concertistica in un processo di scoperta collettiva.
+
+## Contexto: Sonic Arts Union e il touring europeo
+
+Lucier fu cofondatore del Sonic Arts Union con Robert Ashley, David Behrman e Gordon Mumma. Il collettivo, nato nel 1966, adottava un modello operativo collaborativo in cui ogni autore presentava le proprie composizioni, con il supporto degli altri membri quando necessario. Il catalogo del gruppo spaziava attraverso linguaggi molto diversi: accanto a *Music for Solo Performer*, Lucier contribuì con lavori come *Vespers* (1968), *I Am Sitting in a Room* (1969), *The Duke of York* (1969-1971) e *Bird and Person Dyning* (1975).
+
+Nel 1969 il Sonic Arts Union realizzò un intenso tour europeo toccando Roma, Oslo, Helsinki, Svizzera e Londra, con sedici concerti in soli trenta giorni. Lucier rievoca come la compagnia arrivasse nelle città spesso il giorno stesso del concerto, ignara della sistemazione alberghiera. La prima tappa era sempre la sala concerti per coordinarsi con i tecnici, seguita da un lavoro febbrile di allestimento. L'esperienza, sebbene estenuante, risultava carica di stimoli. L'esecuzione incrociata dei rispettivi repertori creava talvolta difficoltà di ricezione nel pubblico, disorientato dall'eterogeneità radicale dei linguaggi proposti.
+
+## Conclusione: live electronics come indagine fenomenologica
+
+Il contributo fondamentale di Lucier alla definizione del live electronics risiede nell'aver sviluppato un orientamento che privilegia l'osservazione e l'amplificazione di processi acustici naturali rispetto alla sintesi o manipolazione elettronica del suono. Opere come *Music for Solo Performer* dimostrano come la tecnologia possa rendere accessibili alla percezione fenomeni biologici e fisici altrimenti occultati. Questa prospettiva fenomenologica, che attribuisce al compositore il ruolo di rivelatore di proprietà acustiche immanenti piuttosto che di creatore di strutture sonore artificiali, costituisce una delle direzioni più originali emerse nella musica elettronica dal vivo nel decisivo decennio 1960-1970.
+
+
 ## Altri pionieri del movimento (1960-1970)
 
 Il movimento del live electronics americano non fu il prodotto di singoli geni isolati, ma di una **rete di sperimentatori** che condivisero tecniche, idee e spesso anche equipment. Accanto alle figure centrali di Cage, Tudor, Mumma e Ashley, altri compositori contribuirono in modo determinante allo sviluppo della prassi.
@@ -772,6 +806,7 @@ Oltre a Cage e ai membri di *Manifestations*, Mumma cita pochi altri casi isolat
 Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 1960 e il 1970 una prassi consolidata, sostenuta da comunità organizzate, eventi dedicati, e una crescente disponibilità di equipment commerciale accessibile.
 
 
+
 # CAP. 3: IRCAM E IL MODELLO ISTITUZIONALE
 
 ## 3.1. Genesi politica di IRCAM (1970–1977)
@@ -783,16 +818,25 @@ Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 
 ## 3.4. Limiti del modello: ricerca vs arte
 
 
-# CAP. 5: TRANSISTOR E TRASFORMAZIONE TECNOLOGICA
+# capitolo 5
 
-## 5.1. Vacuum tubes → transistors → IC
+## Salvatore Martirano: dalla multimedialità alla simbiosi uomo-macchina
 
-## 5.2. Miniaturizzazione e democratizzazione
+Il percorso artistico di Salvatore Martirano segna un momento cruciale nell'evoluzione della musica elettronica, rappresentando il ponte tra le prime sperimentazioni analogiche e l'integrazione dei sistemi digitali nella performance dal vivo. La sua produzione si articola in due fasi distinte: una prima orientata verso un approccio multimediale di forte impatto teatrale e politico, e una successiva dedicata alla progettazione di uno strumento computazionale che ridefinisse i confini della collaborazione umano-tecnologica.
 
-## 5.3. Impatto sulla prassi compositiva
+La prima fase creativa culmina con *L's GA* (1967-68), opera che affronta il problema pratico della complessità cablata degli impianti elettronici attraverso una soluzione radicalmente scenica. Martirano risolve le difficoltà tecniche del feedback microfonico incorporando il microfono all'interno di una maschera antigas accoppiata a un elmetto da aviatore, creando così un dispositivo ibrido che diviene elemento centrale della drammaturgia. L'opera, che unisce la figura del politico mascherato, una bombola di elio, proiezioni cinematografiche multiple e nastro magnetico, sviluppa ulteriormente le ricerche avviate con *Underworld* (1965). In questo lavoro precedente, il significato emerge principalmente attraverso le inflessioni vocali, con l'obiettivo di trasformare il discorso di Lincoln in una sequenza di stereotipi che rappresentano le diverse posizioni dell'universo politico. Il momento culminante dell'opera arriva quando l'attore, respirando elio, vede la propria voce trasformarsi in un suono stridulo e grottesco, in un crescendo di follia vocale che amplifica la critica sociale.
 
-## 5.4. Esempi comparati (Mumma vs IRCAM)
+Dopo questa esperienza multimediale, Martirano intraprende una direzione completamente nuova, spostando la sua attenzione verso le potenzialità del computer digitale. Nel suo studio universitario, supera i convenzionali approcci di programmazione per creare uno strumento unico derivato da procedure computazionali, il Sal-Mar Construction, completato nel 1972 e subito riconosciuto come sistema all'avanguardia.
 
+L'architettura di questo strumento rivoluzionario si basa su un ampio pannello di controllo organizzato in una matrice complessa di punti sensibili al tocco, distribuiti secondo una logica funzionale. Ventiquattro di questi punti corrispondono ad altrettanti altoparlanti disposti nello spazio performativo, mentre altri gruppi controllano intere sequenze di continuità musicale piuttosto che singoli parametri. La logica interna, come spiegato dallo stesso Martirano, si fonda su sistemi di registri programmabili e porte logiche organizzate in una struttura gerarchica che procede dal macro al micro livello.
+
+> "The Sal-Mar Construction is a live-performance instrument of collaboration because its digital computer and memory functions share musical decisions at the process level with the human performer"[@mumma2015, 93]
+
+Il sistema di controllo incorpora una caratteristica simile a uno zoom ottico, permettendo al performer di navigare attraverso i diversi livelli della gerarchia strutturale. L'esperienza performativa assume connotati paradossali, come descritto dallo stesso Martirano: se da un lato la complessità del sistema rende impossibile un'analisi razionale in tempo reale, dall'altro il performer sviluppa una forma di intuizione predittiva che gli permette di interagire con la logica del sistema in un dialogo continuo.
+
+> "It was too complex to analyze. But it was possible to predict what sound would result [...] Control was an illusion. But I was in the loop. I was trading swaps with the logic. I enabled paths. Or better, I steered. It was like driving a bus"[@chadabe1997, 291]
+
+Questa relazione simbiotica tra compositore e macchina anticipa questioni fondamentali sull'agenzia creativa e la natura del controllo nell'era digitale, temi che avrebbero dominato il dibattito sulle performance con sistemi computazionali nei decenni successivi.
 
 # CAP. 6: APPROCCI ECOSISTEMICI CONTEMPORANEI
 
