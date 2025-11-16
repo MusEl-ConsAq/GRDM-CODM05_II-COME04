@@ -148,10 +148,7 @@ Se New York fu il centro della tape music americana nei primi anni '50, Ann Arbo
 
 ### Manifestations: Light and Sound (1957)
 
-Come documenta Mumma:
-
-> "In 1957 the members of the production group for *Manifestations: Light and Sound* in Ann Arbor began live performances of amplified small sounds, tape music, and light projection."[@mumma1975, 297]
-
+Secondo quanto riportato da Mumma, nel 1957 il collettivo di produzione di "Manifestations: Light and Sound" di Ann Arbor iniziò a esibirsi dal vivo utilizzando suoni di piccoli oggetti amplificati, musiche preregistrate su nastro e proiezioni luminose.
 Il gruppo includeva: Gordon Mumma (compositore, ingegnere elettronico), Robert Ashley (compositore), Milton Cohen (artista visivo, creatore dello Space Theatre).
 
 *Manifestations* non fu solo un collettivo performativo ma un **laboratorio di ricerca multimediale**. Lo Space Theatre di Cohen — uno spazio immersivo con proiezioni su superfici multiple — fornì un contesto unico e raro per sperimentare l'integrazione di elettronica sonora, immagini in movimento e performance dal vivo.
