@@ -231,7 +231,6 @@ Le attività collaterali includevano:
 
 8. **"New Music for Pianos" series**: stabilita nel 1965 da Ashley e Mumma in connessione con l'ONCE Group[@mumma2015b, 33]
 
-Procedo alla scrittura dell'intera sezione su Gordon Mumma per il capitolo 03-SEZIONE.md, usando esclusivamente fonti verificabili dal project knowledge.
 
 ## Gordon Mumma e l'invenzione dei "cybersonics"
 
