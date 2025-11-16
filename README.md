@@ -514,62 +514,6 @@ Il modello Mumma - compositore indipendente, studio cooperativo, tecnologia DIY,
 
 Gordon Mumma dimostrò che era possibile fare musica elettroacustica sofisticata al di fuori delle grandi istituzioni, che il compositore poteva essere anche l'ingegnere, che l'attrezzatura poteva essere portatile, che la tecnologia poteva essere un partner collaborativo piuttosto che un servitore passivo. In questo senso, il suo contributo alla nascita del live electronics fu non solo tecnico ma profondamente politico: la democratizzazione dell'accesso ai mezzi di produzione elettroacustica.
 
-## Tecnologia transistor e l'autocostruzione necessaria
-
-Un fattore cruciale che rese possibile il modello di Ann Arbor fu la rivoluzione tecnologica in corso. Come nota Mumma riguardo agli sviluppi della fine anni Cinquanta:
-
-> By the late 1950s Cage had Tudor searching for a variety of electronic transducers, which were then becoming commonplace in the development of solid-state transistor technology.[@mumma1975, 293]
-
-La tecnologia a transistor offriva vantaggi cruciali rispetto ai tubi a vuoto: dimensioni ridotte, minore consumo energetico (permettendo l'uso di batterie), maggiore affidabilità, e costo accessibile.
-
-David Behrman, nella prefazione a *Handmade Electronic Music* di Nicolas Collins, riassume l'importanza di questa transizione:
-
-> When I started around 1965, working with homemade circuitry was a necessity: **there were no music synths for sale**.[@collins2020, Foreword]
-
-E soprattutto:
-
-> You didn't have to have an engineering degree to build transistorized music circuits.[@collins2020, Foreword]
-
-Nel 1963, Mumma fondò **Cybersonics** con l'electronic engineer William Ribbens — "a small electronic design company in Ann Arbor for the design and production of sound-editing and processing equipment for live-electronic music, film, and television"[@mumma2015b, xxx].
-
-Mumma definì "cybersonics" come "a live-electronic feedback principle by which some aspect of the sound is fed back into the electronic process, thus modifying sound 'by characteristics derived directly from the sound itself'"[@mumma2015b, xxx]. La sua prima composizione fully cybersonic fu *Medium Size Mograph 1963* per piano four hands e cybersonic console[@mumma2015b, xxx].
-
-## Un modello alternativo
-
-Ann Arbor rappresenta quindi un paradigma alternativo di organizzazione della ricerca elettroacustica, caratterizzato da principi specifici:
-
-**Non divisione del lavoro ma ibridazione di ruoli**:  
-I compositori erano anche ingegneri, costruttori di strumenti, performer, organizzatori. Mumma progettava circuiti, Ashley produceva film, Cohen costruiva strutture architettoniche.
-
-**Non investimenti massivi ma economia di mezzi**:  
-Autocostruzione, riuso di componenti, condivisione di risorse. Come ricordato da Mumma riguardo al Cooperative Studio, il loro informal character e self-organized approach non attirò supporto da foundations — "we couldn't count on any artistic patronage, because we were just a group of people, not a formally constituted entity"[@bernardini, citato in project knowledge].
-
-**Non controllo centralizzato ma rete diffusa**:  
-Collaborazioni orizzontali, circolazione informale di conoscenze, assenza di gerarchie istituzionali. Le decision-making processes erano collettive, non burocratiche.
-
-**Non tecnologia come servizio ma tecnologia come materiale compositivo**:  
-Il design dei circuiti era parte integrante del processo compositivo, non un servizio fornito da tecnici specializzati.
-
-### Impatto e legacy
-
-L'impatto del modello di Ann Arbor fu significativo e duraturo:
-
-> The festival served as a model for similar community-based contemporary arts organizations in Seattle (New Dimensions in Music), Toronto (Isaacs Gallery series), and Tucson (New Arts Workshop), to name just a few. The festival also assisted in decentralizing the focus of contemporary performance activities from New York City.[@mumma2015b, 30]
-
-Come sintetizza Mumma:
-
-> On the whole, ONCE had shown that a successful contemporary arts project can break free of the combined stranglehold of commerce, pedagog, and geographical centralization with modest community support.[@mumma2015b, 30]
-
-Nel 1966, performances di David Behrman e Alvin Lucier agli ONCE Festivals portarono alla formazione del **Sonic Arts Union** — il collettivo che avrebbe portato il modello del live electronics DIY in tour attraverso gli Stati Uniti e l'Europa[@mumma2015b, 33]. I membri fondatori furono Gordon Mumma, Robert Ashley, David Behrman e Alvin Lucier.
-
-Il Sonic Arts Union rappresentò l'evoluzione naturale della comunità di pratiche sviluppatasi ad Ann Arbor nel decennio precedente — un modello nato per necessità in assenza di supporto istituzionale che si rivelò sorprendentemente produttivo e influente, generando una comunità di pratiche che si sarebbe diffusa ben oltre Ann Arbor attraverso i tour, i workshop di hardware hacking, e la circolazione informale di schemi circuitali e idee.
-
-Come riflette Mumma sulla fine del San Francisco Tape Music Center — contemporaneo di Ann Arbor ma con traiettoria diversa — quando la Rockefeller Foundation richiese "major fiscal responsibility" per continuare il supporto:
-
-> There's nothing more responsible than a group making something happen without any money.[@chadabe, 91]
-
-Ann Arbor fece esattamente questo: creò un ecosistema culturale vitale, produsse innovazioni tecniche e estetiche fondamentali, influenzò modelli organizzativi in tutto il Nord America — tutto "with modest community support", fuori dalle strutture istituzionali consolidate, in una città universitaria del Midwest che divenne temporaneamente il centro dell'avanguardia musicale americana.
-
 ## Robert Ashley: il teatro elettronico come prassi performativa
 
 Se Gordon Mumma rappresentò l'ingegnere-compositore e David Tudor il performer-compositore, Robert Ashley (nato 1930) incarnò la figura del compositore-regista, trasformando il live electronics in un medium teatrale dove voce, elettronica e spazio scenico si fondevano in un'unità inscindibile.
