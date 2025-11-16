@@ -496,10 +496,6 @@ Come riflette Mumma sulla fine del San Francisco Tape Music Center — contempor
 
 Ann Arbor fece esattamente questo: creò un ecosistema culturale vitale, produsse innovazioni tecniche e estetiche fondamentali, influenzò modelli organizzativi in tutto il Nord America — tutto "with modest community support", fuori dalle strutture istituzionali consolidate, in una città universitaria del Midwest che divenne temporaneamente il centro dell'avanguardia musicale americana.
 
-Procedo a scrivere le sezioni su Ashley e Behrman, integrandole nel flusso narrativo già esistente del capitolo 03-SEZIONE.md.
-
----
-
 ## Robert Ashley: il teatro elettronico come prassi performativa
 
 Se Gordon Mumma rappresentò l'ingegnere-compositore e David Tudor il performer-compositore, Robert Ashley (nato 1930) incarnò la figura del compositore-regista, trasformando il live electronics in un medium teatrale dove voce, elettronica e spazio scenico si fondevano in un'unità inscindibile.
