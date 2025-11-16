@@ -72,132 +72,110 @@ La traiettoria di David Tudor incarna perfettamente la fluidità di ruoli caratt
 
 ## Ann Arbor: laboratorio del live electronics americano
 
-Se New York fu il centro della tape music americana nei primi anni Cinquanta, Ann Arbor, Michigan, rappresentò il luogo di nascita del live electronics come prassi collettiva organizzata — un modello alternativo all'istituzionalizzazione della ricerca elettroacustica che si stava consolidando in Europa.
+Mentre New York costituiva il fulcro della tape music statunitense all'inizio degli anni Cinquanta, la città di Ann Arbor in Michigan emerse come terreno di coltura per lo sviluppo del live electronics come pratica collettiva organizzata, proponendo un modello alternativo rispetto al percorso di istituzionalizzazione della ricerca elettroacustica allora predominante in Europa.
 
 ### Manifestations: Light and Sound (1957-1964)
 
-L'inizio può essere datato con precisione. Come documenta Gordon Mumma:
+La genesi di questo movimento può essere individuata con precisione nel 1957, quando il collettivo di produzione di *Manifestations: Light and Sound* diede avvio a performances dal vivo caratterizzate dall'amplificazione di micro-suoni, musica su nastro e proiezioni luminose[@mumma1975, 297]. 
 
-> In 1957 the members of the production group for *Manifestations: Light and Sound* in Ann Arbor began live performances of amplified small sounds, tape music, and light projection.[@mumma1975, 297]
+Quel medesimo anno segnò anche i pionieristici Vortex Concerts di Jordan Belson e Henry Jacobs al Morrison Planetarium di San Francisco, esperienze parallele nell'integrazione tra elementi sonori elettronici e visuali. Tuttavia, mentre l'esperienza californiana rimase circoscritta, ad Ann Arbor si sviluppò un ecosistema culturale completo e interconnesso.
 
-Quello stesso anno, 1957, vedeva a San Francisco i pionieristici Vortex Concerts di Jordan Belson e Henry Jacobs al Morrison Planetarium — esperimenti paralleli nell'integrazione di elettronica sonora e proiezioni luminose[@mumma1975, 333]. Ma mentre Vortex rimase un fenomeno isolato, Ann Arbor sviluppò un ecosistema culturale completo e interconnesso.
-
-Il nucleo iniziale del gruppo *Manifestations* comprendeva figure provenienti da discipline diverse: Gordon Mumma (compositore e ingegnere elettronico), Robert Ashley (compositore), Milton Cohen (artista visivo, faculty member della University of Michigan School of Architecture and Design), gli architetti Harold Borkin e Joseph Wehrer, e il filmmaker George Manupelli[@mumma2015b, 9-10].
+Il nucleo originario di *Manifestations* riuniva personalità da ambiti disciplinari differenti: oltre ai compositori Gordon Mumma e Robert Ashley, partecipavano l'artista visivo Milton Cohen della University of Michigan School of Architecture and Design, gli architetti Harold Borkin e Joseph Wehrer, e il filmmaker George Manupelli.
 
 ### Lo Space Theatre di Milton Cohen
 
-Il cuore fisico e concettuale di *Manifestations* fu lo **Space Theatre** ideato da Milton Cohen — uno spazio immersivo che trasformava radicalmente il rapporto tra audience, immagine e suono. La struttura evolse da una prima "spheroid canopy" installata nello studio di Cohen su East Liberty Street nell'agosto 1959, fino a diventare una dome geodetica portatile montata al University of Michigan Museum of Art[@mumma2015b, 9].
+Il centro fisico e concettuale di *Manifestations* fu lo **Space Theatre** concepito da Milton Cohen, ambiente immersivo che ridefiniva radicalmente le relazioni tra pubblico, immagine e suono. La struttura si evolse dalla prima "spheroid canopy" installata nello studio di Cohen nell'agosto 1959 fino al raggiungimento di una cupola geodetica portatile allestita presso il University of Michigan Museum of Art.
 
-Il concetto di Cohen, come osserva Mumma, differiva radicalmente dal teatro convenzionale:
+La visione di Cohen si distanziava consapevolmente dai canoni teatrali tradizionali, adottando invece una forma seriale e ciclica che eliminava le consuete strutture narrative di introduzione, climax e conclusione. Ogni performance serale della durata di due ore manteneva un carattere aperto, incoraggiando il pubblico a permanere nello spazio "fintanto che l'esperienza si dimostra stimolante"[@mumma2015b, 9].
 
-> It differs from conventional theater in that it is serial and cyclic in form, dispensing with traditional introduction, climax, and conclusion. Each two-hour evening performance is open-ended, inviting the audience, in Cohen's words, "to remain as long as the experience proves invigorating."[@mumma2015b, 9]
+Le rappresentazioni settimanali nello studio di Cohen fungevano da laboratorio permanente di sperimentazione multimediale. Le proiezioni - comprendenti filmati realizzati appositamente, diapositive, prismi e specchi - si muovevano sull'intera superficie della cupola, superando i confini del campo visivo periferico degli spettatori. Parallelamente, la musica elettronica composta principalmente da Mumma e Ashley, con sporadici contributi di figure come Luciano Berio e Karlheinz Stockhausen, circolava nell'ambiente attraverso sistemi di diffusione multipli, alternando momenti di rinforzo del dramma visivo ad altri di contrappunto intenzionale.
 
-Le performances settimanali nello studio di Cohen divennero un laboratorio continuo di ricerca multimediale. Le proiezioni — filmati appositamente creati, slides, prismi e specchi — si muovevano sull'intera superficie della dome, estendendosi oltre la periferia visiva degli spettatori. La musica elettronica, composta principalmente da Mumma e Ashley (con occasionali contributi di Luciano Berio, Karlheinz Stockhausen e altri giovani compositori), circolava nello spazio attraverso sistemi di diffusione multipli, a volte rafforzando il dramma visivo, altre volte giocando in contrappunto[@mumma2015b, 9].
+Il significato dello Space Theatre per l'evoluzione del live electronics fu duplice: da un lato fornì un contesto eccezionale per sperimentare l'integrazione tra elettronica, immagini in movimento e performance dal vivo in ambiente spazialmente immersivo; dall'altro impose l'esigenza tecnica di creare musica elettronica funzionale a performances continuative piuttosto che come prodotto registrato definitivo.
 
-L'importanza dello Space Theatre per lo sviluppo del live electronics fu duplice. Da un lato, fornì un contesto unico — raro negli Stati Uniti di quegli anni — per sperimentare l'integrazione di elettronica sonora, immagini in movimento e performance dal vivo in un ambiente spazialmente immersivo. Dall'altro, impose una necessità tecnica: creare musica elettronica che potesse funzionare in un contesto di performance continua e non come oggetto registrato definitivo.
+Le performances del 1957-1958 furono frequentemente realizzate interamente in tempo reale, impiegando suoni amplificati elettronicamente ricavati da piccoli oggetti, strumenti tradizionali modificati o generatori elettronici autocostruiti. Tali materiali sonori venivano registrati su nastro magnetico - da brevi loop di pochi centimetri a nastri di lunga durata - per essere successivamente riprodotti durante le esecuzioni e modificati in diretta attraverso operazioni di mixing, filtraggio e riverberazione.
 
-Come ricorda Mumma:
+Un avanzamento tecnico cruciale fu lo sviluppo da parte di Mumma e Ashley di una tecnica di registrazione e riproduzione quadrifonica realizzata privatamente, anticipando di anni la disponibilità commerciale della quadrifonia. Composizioni come *Mirrors for Milton Cohen* (1960-61) di Mumma sfruttarono appieno questa potenzialità, indirizzando ciascuna traccia a differenti altoparlanti disposti attorno alla cupola e trasformando la localizzazione e il movimento del suono in elementi drammaturgici fondamentali.
 
-> The most important characteristic of our music for the Space Theatre is that it is developed as a live-performance medium using tape only as a means of storage and retrieval of sound.[@mumma2015b, 11-12]
+La presentazione ufficiale al pubblico di *Manifestations: Light and Sound* avvenne nel gennaio 1961 presso l'Alumni Memorial Hall del University of Michigan Museum of Art, mentre la produzione più celebre, *Teatro dello spazio — luce e suono*, fu presentata alla Biennale di Venezia nel settembre 1964.
 
-Le performances del 1957 e 1958 furono spesso interamente "live", utilizzando suoni amplificati elettronicamente da piccoli oggetti, strumenti convenzionali modificati, o generatori elettronici costruiti su misura[@mumma2015b, 12]. Questi suoni venivano registrati su nastro magnetico — da brevi loop di pochi centimetri a lunghe strisce — e poi riprodotti in performance, modificati dal vivo attraverso processi di mixing, filtering e reverberation[@mumma2015b, 12].
+### Il Cooperative Studio for Electronic Music (1958)
 
-Un'innovazione cruciale fu lo sviluppo, da parte di Mumma e Ashley, di una tecnica di registrazione e riproduzione **quadrifonica** (quattro canali indipendenti) — realizzata privatamente, anni prima che la quadrifonia diventasse commercialmente disponibile[@mumma2015b, note 4]. Opere come *Mirrors for Milton Cohen* (1960-61) di Mumma sfruttarono appieno questa possibilità, con ogni traccia diretta a un altoparlante diverso che circondava la dome, rendendo la localizzazione e il movimento del suono elementi drammatici fondamentali[@mumma2015b, 12-13].
+In parallelo alle attività dello Space Theatre, all'inizio del 1958 Mumma e Ashley istituirono il **Cooperative Studio for Electronic Music**, modellando un'alternativa radicale rispetto agli studi istituzionali che dominavano la ricerca elettroacustica europea.
 
-Il debutto ufficiale pubblico di *Manifestations: Light and Sound* avvenne nel gennaio 1961 all'Alumni Memorial Hall del University of Michigan Museum of Art[@mumma2015b, 9]. La produzione più nota fu *Teatro dello spazio — luce e suono*, presentata alla Biennale di Venezia nel settembre 1964[@mumma1975, 315].
+Piuttosto che costituire un centro di ricerca con budget consistenti e personale permanente, lo studio fungeva da spazio condiviso per la sperimentazione indipendente, strutturato in tre unità operative: due home studios dedicati alla composizione elettronica individuale di Mumma e Ashley, più un terzo spazio più ridotto presso lo studio di Cohen per le performances dello Space Theatre.
 
-### Il Cooperative Studio for Electronic Music (1960)
-
-Parallelamente alle attività dello Space Theatre, all'inizio del 1960 Mumma e Ashley fondarono il **Cooperative Studio for Electronic Music** — un modello radicalmente diverso dagli studi istituzionali che dominavano la ricerca elettroacustica in Europa[@mumma2015b, 10].
-
-Non era un grande centro di ricerca con budget milionari, sale tecnologicamente avanzate e staff permanente. Era invece uno spazio condiviso per la sperimentazione indipendente, costituito da tre facilities: due home studios per la composizione individuale di musica elettronica (uno di Mumma, uno di Ashley), e un terzo più piccolo nello studio di Cohen per le performances dello Space Theatre[@mumma2015b, 10-11].
-
-Nato inizialmente per fornire musica elettronica allo Space Theatre, lo studio si evolse rapidamente per fornire colonne sonore a filmmaker indipendenti e film commerciali, e soprattutto per progettare "cybersonic equipment" unico per la musica elettronica dal vivo[@mumma2015b, 10].
+Nato inizialmente per fornire materiale sonoro allo Space Theatre, lo studio ampliò progressivamente le sue funzioni includendo la realizzazione di colonne sonore per filmmaker indipendenti e produzioni commerciali, nonché la progettazione di "cybersonic equipment" specificamente destinato alla musica elettronica dal vivo.
 
 ### La filosofia dello studio indipendente
 
-Nel 1964, Mumma scrisse un saggio fondamentale — commissionato nientemeno che da Robert Moog — intitolato "An Electronic Music Studio for the Independent Composer"[@mumma2015b, 15-21]. Il testo fornisce uno sguardo prezioso sulle risorse tecnologiche che stavano diventando accessibili al compositore indipendente che lavorava "off the grid" degli studi commerciali e del finanziamento istituzionale.
+Nel 1964 Mumma redasse un saggio fondamentale dal titolo "An Electronic Music Studio for the Independent Composer", offrendo una prospettiva preziosa sulle risorse tecnologiche divenute accessibili al compositore indipendente operante al di fuori dei circuiti istituzionali.
 
-Come osserva Mumma nell'introduzione:
+Il compositore possiede l'alternativa di costruire il proprio studio assumendo personalmente le responsabilità ingegneristiche e finanziarie. Questo compito non risulta così impegnativo come potrebbe inizialmente apparire, specialmente negli Stati Uniti dove un'ampia selezione di componenti high-fi è disponibile a costi ragionevoli[@mumma2015b, 15].
 
-> The composer has the alternative of building his own studio and assuming the engineering and financial responsibilities himself. This task is not as awesome as might at first be imagined, particularly in the United States, where a wide selection of high-fidelity components is available at reasonable cost.[@mumma2015b, 15]
+L'obiettivo dichiarato consisteva nel creare un'infrastruttura accessibile che non richiedesse affiliazioni istituzionali o ingenti risorse economiche - uno studio domestico low-cost rivolto a giovani compositori.
 
-L'obiettivo dichiarato era creare un'infrastruttura accessibile che non richiedesse affiliazione istituzionale o grandi risorse finanziarie — un low-cost home studio rivolto a giovani compositori[@mumma2015b, 3].
+Il saggio includeva configurazioni dettagliate delle attrezzature, criteri per la selezione dei componenti e riflessioni sui processi compositivi per la tape music del periodo. Forniva inoltre specifiche tecniche relative alle attrezzature impiegate nelle principali opere elettroniche di Mumma dell'epoca ONCE, incluse le iconiche *Megaton for Wm. Burroughs* (1963-64) e *The Dresden Interleaf 13 February 1945* (1965).
 
-Il saggio includeva configurazioni dettagliate dell'equipment, rationale per la selezione dei componenti, e insight sui processi compositivi per la tape music di quel periodo. Forniva inoltre dati specifici sull'equipment usato nelle principali opere elettroniche di Mumma dell'era ONCE, incluse le iconiche *Megaton for Wm. Burroughs* (1963-64) e *The Dresden Interleaf 13 February 1945* (1965)[@mumma2015b, 3].
-
-Un aspetto cruciale era la **portabilità**. Mumma sottolineava come il compositore che costruisce uno studio indipendente con equipment mobile avrebbe avuto un vantaggio rispetto a chi lavora con gli apparatus montati su rack o console tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine dei grandi equipment di laboratorio per le proporzioni più compatte dei componenti hi-fi ad alta impedenza, era possibile configurare un sistema dove l'intero studio fosse "within arm's reach of the comfortably seated composer"[@mumma2015b, 19-20].
+Un aspetto cruciale riguardava la **portabilità**. Mumma sottolineava come il compositore che costruisse uno studio indipendente con attrezzature mobili avrebbe beneficiato di un vantaggio rispetto a chi lavorava con apparati fissi tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine delle grandi attrezzature di laboratorio a favore delle dimensioni compatte dei componenti hi-fi ad alta impedenza, risultava possibile configurare un sistema dove l'intero studio fosse "alla portata del compositore comodamente seduto"[@mumma2015b, 19-20].
 
 ### L'ONCE Festival (1961-1965): istituzione anti-istituzionale
 
-Dal contesto dello Space Theatre e del Cooperative Studio nacque, nel 1961, l'**ONCE Festival** — un evento che sarebbe diventato "a major, multi-stage locus for international new music in the American Midwest for much of the 1960s"[@mumma2015b, 1].
+Dal contesto dello Space Theatre e del Cooperative Studio emerse nel 1961 l'**ONCE Festival**, destinato a divenire "un luogo principale e multisede per la nuova musica internazionale nel Midwest americano per gran parte degli anni Sessanta"[@mumma2015b, 1].
 
 ### Genesi: la proposta di Waldrop
 
-Come racconta Mumma:
+Nel 1960, su suggerimento del poeta Keith Waldrop, il collettivo decise di organizzare un festival di nuova musica. Il nucleo fondatore comprendeva compositori (Robert Ashley, George Cacioppo, Gordon Mumma, Roger Reynolds, Donald Scavarda, Bruce Wise), architetti (Harold Borkin, Joseph Wehrer), filmmaker (George Manupelli) e artisti visivi (Mary Ashley, Milton Cohen). Il loro terreno comune era semplice: tutti risiedevano ad Ann Arbor.
 
-> In 1960 at the suggestion of poet Keith Waldrop, the group decided to produce a festival of new music.[@mumma2015b, 24]
-
-Il nucleo fondatore comprendeva compositori (Robert Ashley, George Cacioppo, Gordon Mumma, Roger Reynolds, Donald Scavarda, Bruce Wise), architetti (Harold Borkin, Joseph Wehrer), filmmaker (George Manupelli), e artisti visivi (Mary Ashley, Milton Cohen). Il loro common ground era semplice: "They all lived in Ann Arbor"[@mumma2015b, 24].
-
-Il gruppo aveva già lavorato insieme su vari progetti dall'inizio del 1960: lo Space Theatre di Cohen, il Cooperative Studio di Ashley e Mumma, la produzione di diversi film[@mumma2015b, 24]. Ma organizzare un festival richiedeva supporto finanziario per pubblicità e ingaggio di musicisti.
+Il gruppo aveva già collaborato a vari progetti dall'inizio del 1960, includendo lo Space Theatre di Cohen, il Cooperative Studio di Ashley e Mumma, e la produzione di diversi film. Tuttavia, l'organizzazione di un festival richiedeva supporto finanziario per pubblicità e compensi dei musicisti.
 
 ### Il conflitto con l'università
 
-Sebbene alcuni membri del gruppo insegnassero alla University of Michigan, "virtually all efforts to enlist support from that institution met with resistance and even animosity"[@mumma2015b, 24].
+Nonostante alcuni membri del gruppo insegnassero presso la University of Michigan, "praticamente tutti i tentativi di ottenere supporto da quell'istituzione incontrarono resistenza e persino animosità"[@mumma2015b, 24].
 
-Questa resistenza si trasformò in aperto conflitto negli anni successivi. Come documenta Mumma:
+Questa resistenza si trasformò in conflitto aperto negli anni successivi. "Una resistenza distinta si sviluppò all'interno della comunità della University of Michigan School of Music. La competizione fu probabilmente un fattore quando, in seguito al primo ONCE Festival, venne finalmente organizzata una serie di musica contemporanea sotto gli auspici universitari"[@mumma2015b, 29-30].
 
-> A distinct resistance developed among the community of the University of Michigan School of Music. Competition was a likely factor when, following the first ONCE Festival, a contemporary music series was finally organized under university auspices.[@mumma2015b, 29-30]
+Il punto critico fu raggiunto durante l'ONCE Festival del 1963: "Durante il festival del 1963 si verificò un boicottaggio quasi unanime dei concerti da parte dei docenti della School of Music, con pressioni applicate agli studenti di musica per fare altrettanto sulla base del fatto che tali attività fossero accademicamente, culturalmente e moralmente disdicevoli"[@mumma2015b, 30].
 
-Il punto critico fu raggiunto durante l'ONCE Festival del 1963:
+Le discussioni e i conflitti tra studenti e professori "sconvolgevano i programmi delle lezioni per settimane attorno a ciascun festival". Per alcuni studenti performers, ONCE divenne "un'attività extracurricolare che quasi completamente usurpava la loro attenzione".
 
-> During the 1963 ONCE Festival there was a nearly unanimous boycott of the concerts by the School of Music faculty, with pressure applied to music students to do likewise on the grounds that such activities were academically, culturally, and morally disreputable.[@mumma2015b, 30]
+Il paradosso della situazione raggiunse l'apice quando "due ensemble di altre importanti università parteciparono a questo stesso ONCE Festival, a proprie spese" - mentre la locale School of Music manteneva il boicottaggio.
 
-Le discussioni e i conflitti tra studenti e professori "disrupted classroom schedules for weeks surrounding each festival"[@mumma2015b, 29]. Per alcuni studenti performers, ONCE divenne "an extracurricular activity that almost completely usurped their attention"[@mumma2015b, 30].
+### Il Dramatic Arts Center: un sostenitore improbabile
 
-L'assurdità della situazione raggiunse il culmine quando "two ensembles from other major universities participated in this very ONCE Festival, at their own expense" — mentre la locale School of Music boicottava[@mumma2015b, 30].
+Fu un'organizzazione locale, non universitaria, a salvare il progetto. Ashley e Reynolds si rivolsero al **Dramatic Arts Center**, che forniva già da anni supporto modesto a programmi di repertory theater e cinema sperimentale ad Ann Arbor.
 
-### Il Dramatic Arts Center: un supporter improbabile
+La missione del Center - "incoraggiare sviluppi importanti ma poco conosciuti nelle arti, inclusa la creazione sperimentale in drammaturgia, musica, film e altri media" - era simile agli obiettivi dichiarati delle fondazioni nazionali che avevano rifiutato le richieste di ONCE. Tuttavia esisteva una differenza essenziale: "La differenza essenziale era che il Dramatic Arts Center faceva parte della nostra comunità immediata e sosteneva la sua retorica. Il suo supporto ci permise di realizzare qualcosa di nostro, indipendente dalla spersonalizzazione dei colossi finanziari"[@mumma2015b, 28].
 
-Fu un'organizzazione locale, non universitaria, a salvare il progetto. Ashley e Reynolds si rivolsero al **Dramatic Arts Center**, che forniva già da anni modest support a programmi di repertory theater e film sperimentale ad Ann Arbor[@mumma2015b, 24].
+Il supporto era "sempre diretto e immediato", senza overhead amministrativo. Questa precaria situazione finanziaria presentava i suoi vantaggi: "indipendenza e flessibilità".
 
-La mission del Center — "encourage important but little-known developments in the arts, including experimental creation in drama, music, films, and other media" — era simile agli stated purposes delle foundations nazionali che avevano rifiutato le richieste di ONCE. Ma c'era una differenza essenziale, come osserva Mumma:
+### Sei festival, ventinove concerti
 
-> The essential difference was that the Dramatic Arts Center was part of our immediate community and stood by its rhetoric. Its support permitted us to accomplish something of our own, independent of the depersonalization of the funding monoliths.[@mumma2015b, 28]
+Il primo ONCE Festival (febbraio-marzo 1961) consistette di quattro concerti in due weekend consecutivi. Il concerto inaugurale presentò membri del Domaine Musical Ensemble di Parigi con il compositore Luciano Berio e la cantante Cathy Berberian. Il terzo concerto fu un recital di Paul Jacobs dedicato alla "classic piano music of the serial era".
 
-Il supporto era "always direct and immediate", senza overhead amministrativo[@mumma2015b, 35]. Questa precarious financial situation aveva i suoi vantaggi: "independence and flexibility"[@mumma2015b, 35].
-
-### Sei festival, ventinovè concerti
-
-Il primo ONCE Festival (febbraio-marzo 1961) consistette di quattro concerti in due weekend consecutivi. Il concerto di apertura presentò membri del Domaine Musical Ensemble di Parigi con il compositore Luciano Berio e la cantante Cathy Berberian. Il terzo concerto fu un recital di Paul Jacobs di "classic piano music of the serial era"[@mumma2015b, 24-25].
-
-Tutti i concerti furono registrati per ritrasmissione FM sulla radio dell'università, WUOM. Il pubblico fu near capacity. Il costo dell'intero festival: $3,000. Ticket sales: $1,700. Il Dramatic Arts Center coprì la differenza[@mumma2015b, 25].
+Tutti i concerti furono registrati per ritrasmissione FM sulla radio universitaria WUOM. Il pubblico raggiunse quasi la capienza massima. Il costo totale del festival ammontò a $3,000. I ricavi dei biglietti: $1,700. Il Dramatic Arts Center coprì la differenza.
 
 I festival successivi crebbero in dimensioni e ambizione:
-- **ONCE 1962** (febbraio): sei concerti, controversia feroce dopo il programma di La Monte Young e Terry Jennings[@mumma2015b, 25]
+- **ONCE 1962** (febbraio): sei concerti, accesa controversia seguì il programma di La Monte Young e Terry Jennings
 - **ONCE 1963** (febbraio): quattro concerti
-- **ONCE 1964**: controversie, flyer provocatorio
-- **ONCE 1965** (febbraio): quattro concerti più una lecture, con ensemble di Lukas Foss, musicisti da New York (David Behrman, Philip Corner, Malcolm Goldstein, Max Neuhaus), Udo Kasemets da Toronto[@mumma2015b, 26]
-- **ONCE AGAIN 1965** (settembre): sul tetto del parking garage di Maynard Street, capacità di 500 posti a sedere più 200 in piedi, sold-out enorme[@mumma2015b, 26-27]
+- **ONCE 1964**: controversie, volantino provocatorio
+- **ONCE 1965** (febbraio): quattro concerti più una lezione, con ensemble di Lukas Foss, musicisti da New York (David Behrman, Philip Corner, Malcolm Goldstein, Max Neuhaus), Udo Kasemets da Toronto
+- **ONCE AGAIN 1965** (settembre): sul tetto del parcheggio di Maynard Street, capienza di 500 posti a sedere più 200 in piedi, enormi sold-out
 
-In totale: 29 concerti presentati durante sei ONCE Festivals, includendo 67 premiere performances su un totale di 147 opere di 88 compositori contemporanei[@mumma2015b, 27].
+Complessivamente: 29 concerti presentati durante sei ONCE Festivals, includendo 67 prime esecuzioni su un totale di 147 opere di 88 compositori contemporanei.
 
-### Venues non convenzionali
+### Sedi non convenzionali
 
-La progressione dei venues rivela molto sulla natura del festival. Dopo i primi due anni nella small auditorium della First Unitarian Church, quando "rehearsals and concerts became an imposition on church activities", il terzo festival si trasferì al meeting hall dell'Ann Arbor Community Center. Quando servì uno spazio ancora più grande, fu ingaggiata la local VFW Hall[@mumma2015b, 28-29].
+La progressione delle sedi rivela molto sulla natura del festival. Dopo i primi due anni nella piccola auditorium della First Unitarian Church, quando "le prove e i concerti divennero un'imposizione per le attività della chiesa", il terzo festival si trasferì al meeting hall dell'Ann Arbor Community Center. Quando fu necessario uno spazio più ampio, venne ingaggiata la locale VFW Hall.
 
-Per il sesto festival, ONCE AGAIN, il city council fu petizionato per l'uso del municipal parking garage. Come commenta Mumma:
+Per il sesto festival, ONCE AGAIN, il consiglio comunale fu petizionato per l'uso del parcheggio municipale. "La nostra serie di sedi concertistiche non tradizionali si rivelò curiosamente stimolante, contribuendo al dinamismo del progetto ONCE. I compositori dovettero considerare le implicazioni di ambienti insoliti nella creazione e presentazione delle loro opere"[@mumma2015b, 28].
 
-> Our series of untraditional concert venues proved curiously stimulating, contributing to the dynamism of the ONCE project. The composers had to consider the implications of unusual settings in the creation and presentation of their works.[@mumma2015b, 28]
-
-Un esempio: la premiere di *The Dresden Interleaf 13 February 1945* di Mumma al quinto festival (20 febbraio 1965 — il ventesimo anniversario del bombardamento di Dresda) richiese un sistema di multiple speaker che circondava il pubblico. Ma poiché l'audience era seduta contro i muri della VFW Hall, gli speaker dovettero essere montati considerevolmente sopra le loro teste. Mumma scoprì che un'azienda locale, Lahti, produceva lightweight mini U-5 speakers che potevano essere appesi in tutta la sala con semplice spago da pacchi. Sedici di questi piccoli speaker fornirono una dispersione migliore rispetto a quattro grandi speaker, eliminando il "point-source effect" indesiderato[@mumma2015b, 29].
+Un esempio significativo: la prima esecuzione di *The Dresden Interleaf 13 February 1945* di Mumma al quinto festival (20 febbraio 1965 - ventesimo anniversario del bombardamento di Dresda) richiese un sistema di altoparlanti multipli che circondasse il pubblico. Tuttavia, poiché il pubblico era seduto contro le pareti della VFW Hall, gli altoparlanti dovettero essere montati considerevolmente sopra le loro teste. Mumma scoprì che un'azienda locale, Lahti, produceva piccoli altoparlanti mini U-5 leggeri che potevano essere appesi nell'intera sala con semplice spago da imballaggio. Sedici di questi piccoli altoparlanti fornirono una dispersione sonora migliore rispetto a quattro altoparlanti grandi, eliminando l'indesiderato "effetto punto-sorgente".
 
 ### Opere e artisti
 
-Alcune delle opere più significative dell'era includono:
+Tra le opere più significative dell'epoca si annoverano:
 
-- Mumma: *Sinfonia for 12 Instruments and Magnetic Tape* (1960, ONCE 1961), *Medium Size Mograph 1963* (prima composizione fully "cybersonic")[@chadabe, 91-92], *Megaton for Wm. Burroughs* (1963-64, ONCE 1964), *The Dresden Interleaf 13 February 1945* (1965)
+- Mumma: *Sinfonia for 12 Instruments and Magnetic Tape* (1960, ONCE 1961), *Medium Size Mograph 1963* (prima composizione completamente "cibernetica"), *Megaton for Wm. Burroughs* (1963-64, ONCE 1964), *The Dresden Interleaf 13 February 1945* (1965)
 
 - Ashley: *in memoriam...Crazy Horse* (1964), opere di "electronic music theater"
 
@@ -205,32 +183,31 @@ Alcune delle opere più significative dell'era includono:
 
 - Cage: *Variations IV* (1965)
 
-Artisti visitatori includevano John Cage e David Tudor (multiple appearances), membri del Judson Dance Theater (Trisha Brown, Lucinda Childs, Alex e Deborah Hay, Steve Paxton, Robert Rauschenberg)[@mumma2015b, 26].
+Tra gli artisti ospiti figuravano John Cage e David Tudor (multiple apparizioni), membri del Judson Dance Theater (Trisha Brown, Lucinda Childs, Alex e Deborah Hay, Steve Paxton, Robert Rauschenberg).
 
-Un aspetto cruciale fu la presenza di David Tudor, che nel 1965 performò *Variations II* di Cage come solo for piano with live electronics — "notably at the 1965 ONCE Festival"[@mumma1975, 293]. Questa performance consolidò la reputazione di Ann Arbor come centro vitale per la ricerca sul live electronics.
+Un aspetto cruciale fu la presenza di David Tudor, che nel 1965 eseguì *Variations II* di Cage come assolo per pianoforte con live electronics - "notevolmente all'ONCE Festival del 1965". Questa performance consolidò la reputazione di Ann Arbor come centro vitale per la ricerca sul live electronics.
 
 ### L'ecosistema culturale
 
-L'ONCE Festival non sviluppò in isolamento. Era "but one of numerous related cultural activities in Ann Arbor, extending from the purely graphic arts to the performance realm and including several thriving collaborations"[@mumma2015b, 30].
+L'ONCE Festival non si sviluppò in isolamento. Era "solamente una delle numerose attività culturali correlate ad Ann Arbor, estendentesi dalle pure arti grafiche al regno performativo e includendo diverse collaborazioni fiorenti"[@mumma2015b, 30].
 
 Le attività collaterali includevano:
 
-1. **Space Theatre**: le performances dello Space Theatre di Cohen continuarono, culminando nelle elaborate produzioni *Teatro dello spazio* alla Biennale di Venezia nel settembre 1964[@mumma2015b, 30]
+1. **Space Theatre**: le performances dello Space Theatre di Cohen continuarono, culminando nelle elaborate produzioni *Teatro dello spazio* alla Biennale di Venezia nel settembre 1964
 
-2. **Cooperative Studio for Electronic Music**: forniva musica per filmmaker indipendenti e film commerciali, progettava "cybersonic equipment" per live performance[@mumma2015b, 30-31]
+2. **Cooperative Studio for Electronic Music**: forniva musica per filmmaker indipendenti e film commerciali, progettava "cybersonic equipment" per live performance
 
-3. **Ann Arbor Film Festival**: co-sponsorizzato dal Dramatic Arts Center e dalla Student Cinema Guild, sotto la direzione di George Manupelli, presentato annualmente dal 1963[@mumma2015b, 31]
+3. **Ann Arbor Film Festival**: co-sponsorizzato dal Dramatic Arts Center e dalla Student Cinema Guild, sotto la direzione di George Manupelli, presentato annualmente dal 1963
 
-4. **ONCE Chamber Ensemble**: gruppo flessibile composto da ONCE regulars, studenti e faculty della University of Michigan, musicisti della community, formato secondo le necessità del programma[@mumma2015b, 31]
+4. **ONCE Chamber Ensemble**: gruppo flessibile composto da partecipanti regolari di ONCE, studenti e docenti della University of Michigan, musicisti della comunità, formato secondo le necessità del programma
 
-5. **ONCE Group**: large touring ensemble che presentava large-scale theater works creati collaborativamente, con più di due dozzine di performances in tour negli Stati Uniti e un repertorio di dieci opere collaborative originali[@mumma2015b, 32-33]
+5. **ONCE Group**: grande ensemble itinerante che presentava opere teatrali di larga scala create collaborativamente, con oltre venti performances in tour negli Stati Uniti e un repertorio di dieci opere collaborative originali
 
-6. **ONCE Friends**: attività di contemporary music estesa attraverso l'anno in concerti individuali e registrazioni[@mumma2015b, 33]
+6. **ONCE Friends**: attività di musica contemporanea estesa durante l'anno in concerti individuali e registrazioni
 
-7. **Mary Ashley's Truck**: ensemble teatrale formato nel 1965, che performava multimedia events, a volte per le strade di Ann Arbor[@mumma2015b, 33]
+7. **Mary Ashley's Truck**: ensemble teatrale formato nel 1965, che eseguiva eventi multimediali, a volte per le strade di Ann Arbor
 
-8. **"New Music for Pianos" series**: stabilita nel 1965 da Ashley e Mumma in connessione con l'ONCE Group[@mumma2015b, 33]
-
+8. **"New Music for Pianos" series**: stabilita nel 1965 da Ashley e Mumma in connessione con l'ONCE Group
 
 ## Gordon Mumma e l'invenzione dei "cybersonics"
 
