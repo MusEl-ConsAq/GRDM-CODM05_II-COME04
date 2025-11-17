@@ -80,6 +80,15 @@ I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: 
 
 In questo contesto di trasformazione radicale, numerosi compositori cercarono alternative alla presentazione tradizionale di musica su nastro, sperimentando forme di live electronics che potessero ri-animare [@discipio2021thinking] la dimensione performativa della musica elettroacustica e rispondere alle aspettative di presenza e visibilità del pubblico.
 
+### Uscire dallo studio
+
+Joel Chadabe apre il capitolo "Out of the Studios" del suo *Electric Sound* con una domanda e una risposta emblematiche:
+
+> "Question: 'How do you perform electronic music without tape?' Answer (said with a shrug of the shoulders and rising inflection): 'Take away the tape.'"[@chadabe1997, p. 81]
+
+Questa necessità di "portare la musica elettronica fuori dallo studio"[@chadabe1997, p. 81] viene osservata anche da Gordon Mumma che in un articolo passa in rassegna quelle che oggi definiremmo "best practices" per uno studio modulare, con strumentazione trasferibile dal vivo per le perfomances, è sentita anche da Stockhausen. Egli in una conferenza del 1972, definisce *Mikrophonie I* come "electronic live music" in opposizione alla "electronic music which is produced in a studio"[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione "live electronic music" — probabilmente per la prima volta in assoluto, come nota Di Scipio [@discipio2021, Parte Terza].
+L'inversione dei termini ("live electronic" vs "electronic live") probabilmente è sintomatica di approcci di lavoro e radici culturali differenti (l'idea di musica elettronica per un compositore come Stockhausen proveniente dallo studio WDR di Colonia è di gran lunga lontana da un'idea di elettronica di Cage); ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@discipio2021thinking] la musica elettronica attraverso la performance dal vivo.
+
 ### Eccezioni tardive e transizione
 
 Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni a questo dominio esclusivo della tape music da studio [@mumma1975, 292]. Alcuni compositori sperimentarono con suoni registrati su nastro presentati in concerto dal vivo insieme a strumenti o voci, mentre altri collocarono il nastro in situazioni performative innovative che si allontanavano dai riferimenti alla musica tradizionale. Emersero anche tecniche di studio che permettevano elaborazioni instantanee configurandosi di fatto come performance dal vivo, e casi in cui il nastro veniva impiegato esclusivamente per registrare e distribuire i risultati di performance che non lo utilizzavano come medium compositivo primario [@mumma1975, 292].
@@ -87,6 +96,45 @@ Verso la fine degli anni '50 iniziarono ad apparire alcune eccezioni a questo do
 Il cambio decisivo avvenne quando alcuni compositori — Cage in primis — abbandonarono il nastro come premessa musicale ed esplorarono l'uso di dispositivi elettronici, da soli o in combinazione con strumenti acustici, come componenti per la performance dal vivo [@mumma1975, 292]. Secondo Mumma, questa transizione — dal nastro come medium compositivo primario all'elettronica come strumento performativo — segnò la nascita del live electronics come prassi distinta.  
 
 Durante gli anni '60, la performance dal vivo con suoni amplificati di piccola entità, supportata dallo sviluppo di nuova strumentazione elettronica progettata specificamente per l'uso in concerto, divenne un'attività sempre più rilevante [@mumma1975, 297]. Questa prassi emergente attrasse gradualmente l'attenzione anche di coloro che, inizialmente impegnati filosoficamente con il medium del nastro magnetico, avevano in precedenza considerato il live electronics come un'impresa di scarso interesse [@mumma1975, 297].
+
+## Due pionieri in un panorama globale
+
+Tra il 1960 e il 1965, la scena della musica live electronics conobbe una significativa espansione a livello internazionale. Secondo le ricostruzioni storiche, in questo periodo l'attività si concentrò principalmente negli Stati Uniti, favorita da un vivace clima sperimentale e dalla precoce accessibilità della tecnologia a stato solido [@mumma1975, p. 296]. Accanto a figure americane come Robert Ashley, Alvin Lucier, Gordon Mumma e David Tudor, fiorivano esperienze parallele in Giappone con Takahisa Kosugi, in Francia con Gil Wolman, in Italia con Giuseppe Chiari e in Germania con Karlheinz Stockhausen. Fu in questo contesto di fermento globale che due composizioni, sebbene radicalmente diverse per filosofia e metodo, divennero emblematiche della nuova direzione performativa dell'elettronica: *Cartridge Music* (1960) di John Cage e *Mikrophonie I* (1964) di Karlheinz Stockhausen.
+
+### Un incontro a Colonia: la sfida di Cage
+
+Nell'ottobre del 1960, la prima esecuzione ufficiale di *Cartridge Music* di John Cage ebbe luogo a Colonia, nello studio dell'artista Mary Bauermeister. Secondo le ricostruzioni più attendibili, tra il pubblico era presente Karlheinz Stockhausen [@discipio2021, Parte Terza, p. 314]. Quel concerto rappresentò un momento di potente discontinuità per il panorama elettroacustico europeo. Cage, figlio di un inventore e privo di un solido supporto istituzionale, presentava una musica elettronica costruita non con i costosi strumenti degli studi specializzati, ma con cartucce di giradischi, microfoni a contatto e oggetti quotidiani come stuzzicadenti, molle e piume [@collins2020, p. 40; @chadabe1997, p. 81-82]. L'opera rivelava un intero universo di microsuoni, reso udibile attraverso una semplice amplificazione, e la sua partitura grafica, composta da fogli trasparenti sovrapponibili, istituiva un campo di possibilità aperto all'esplorazione dei performer piuttosto che un oggetto musicale rigidamente definito [@chadabe1997, p. 82]. In questo contesto, Cage coniò per la prima volta l'espressione "live electronic music" [@discipio2021, Parte Terza, p. 314], suggellando la rottura con il paradigma della musica su nastro.
+
+### La risposta di Stockhausen: controllo e sistematizzazione
+
+Quattro anni dopo, Stockhausen diede la sua risposta a quella stessa intuizione con *Mikrophonie I*. Se Cage aveva lanciato la sfida della "microfonia" – l'esplorazione attiva del micromondo sonoro attraverso il microfono – Stockhausen ne colse il potenziale per reindirizzarlo all'interno di una poetica del controllo assoluto. L'opera impiega sì un principio simile di amplificazione di suoni minuti, ma lo incanala in un apparato esecutivo di straordinaria complessità e precisione. Sei performer, ciascuno con un ruolo rigidamente definito, agiscono su un tam-tam di grandi dimensioni: due lo eccitano con una gamma di oggetti, due ne esplorano la superficie con microfoni direzionali seguendo scrupolose indicazioni spaziali, e due manipolano filtri e potenziometri per trasformare il suono in tempo reale [@chadabe1997, p. 83-84; @mooney2016]. L'equipaggiamento non è più quello della tecnologia quotidiana, ma è altamente specializzato, incluso un raro filtro Maihak e un tam-tam Paiste appositamente selezionato [@roth2023, p. 61-66]. La partitura, basata sul principio della "moment-form", prescrive nel dettaglio ogni parametro, dalle distanze microfoniche alle frequenze dei filtri, trasformando l'intuizione esplorativa di Cage in un architettura sonora deterministicamente controllata [@chadabe1997, p. 83-84; @roth2023, p. 64].
+
+### Una ricerca comune, due visioni del mondo
+
+Entrambe le opere condividono la scoperta del microfono come strumento attivo, capace di rivelare un "nuovo mondo di risorse sonore" [@mumma1975, p. 296]. La ricchezza dei microsuoni amplificati in *Cartridge Music* era tale da rivaleggiare, come notato da Nicolas Collins, con le sonorità più laboriose prodotte negli studi elettronici europei [@collins2020, p. 40]. Tuttavia, le filosofie sottostanti non avrebbero potuto essere più distanti. Come sintetizza efficacemente Joel Chadabe, la musica di Cage proponeva un'"anarchia felice" basata su processi e giustapposizioni casuali, mentre quella di Stockhausen comunicava "controllo, tecnica ed expertise" [@chadabe1997, p. 83]. Questa divergenza è palpabile nelle loro dichiarazioni: Cage affermava che la sua partitura poteva servire a "esaminare musicalmente una vecchia Volkswagen" [@roth2023, p. 64], mentre Stockhausen sosteneva con forza che sostituire i filtri originali con simulazioni avrebbe distrutto l'unicità storica dell'opera [@roth2023, p. 64].
+
+### Cdue traiettorie da una comune intuizione
+
+Sebbene non si possa stabilire un nesso causale certo, il potenziale incontro del 1960 a Colonia cristallizza un passaggio cruciale nella storia del live electronics. *Cartridge Music* funse da potente agente destabilizzante, introducendo nel cuore dell'Europa colta un'idea di elettronica povera, processuale e filosofica. *Mikrophonie I* rappresentò la risposta di un compositore istituzionale, che assorbì il principio della "microfonia" ma lo tradusse nel linguaggio del rigore, della complessità strutturale e del controllo tecnologico specialistico. Come osserva Agostino Di Scipio, erano entrambi "tempi di microfonia, anche se di tipo molto diverso" [@discipio2021, Parte Terza, p. 314]. Da questa comune intuizione nacquero così due traiettorie fondative, destinate a influenzare in modo duraturo lo sviluppo della musica elettroacustica dal vivo.
+
+
+## Oltre la diade: accenni a un panorama plurale
+
+Sebbene *Cartridge Music* e *Mikrophonie I* dominino la storiografia del live electronics, incarnando rispettivamente l'approccio DIY americano e il modello istituzionale europeo, la loro non fu una rivoluzione solitaria. Tra il 1960 e il 1970, ricerche parallele fiorivano in contesti geografici e culturali profondamente diversi, ciascuna elaborando soluzioni originali al problema di liberare la musica elettronica dal nastro magnetico e riportarla alla dimensione performativa del concerto.
+
+In Italia, Luigi Nono trovò all'ExperimentalStudio der Heinrich-Strobel-Stiftung des Südwestfunks di Friburgo un modello alternativo sia rispetto agli studi radiofonici italiani che alle grandi istituzioni come IRCAM. Dal 1980, come ospite permanente dello studio — e dal 1983 come "artistic advisor" — Nono sviluppò un approccio basato sulla residenza artistica prolungata, trascorrendo ore innumerevoli in studio insieme a interpreti e tecnici in un processo di sperimentazione continua. Come avrebbe ricordato Hans Peter Haller, le parole ricorrenti di Nono erano "unsteady – emotional – searching – always different – always better". Questo "ecosistema di Friburgo" produsse, in meno di un decennio, una serie impressionante di capolavori che spaziavano dal colossale *Prometeo – Tragedia dell'Ascolto* alle più intime *Risonanze erranti*, opere in cui tecniche come i delay multipli e asimmetrici, i pitch shift microtonali e la dislocazione del suono nello spazio divennero la "firma" del compositore. Il modello Nono rappresentava una terza via: né il grande centro di ricerca centralizzato né l'autocostruzione DIY, ma piuttosto un'infrastruttura esistente disposta a investire tempo e risorse per permettere al compositore di sviluppare lentamente una forte visione estetica attraverso la sperimentazione profonda.
+
+Negli Stati Uniti, intorno a figure come Gordon Mumma e Robert Ashley nella città di Ann Arbor, si stava formando un intero ecosistema basato sull'autocostruzione, la collaborazione orizzontale e la portabilità delle tecnologie. Nel 1958, Ashley e Mumma fondarono il Cooperative Studio for Electronic Music, uno studio domestico low-cost esplicitamente concepito per essere accessibile senza affiliazioni istituzionali o ingenti risorse economiche. Il Cooperative Studio forniva musica per filmmaker indipendenti, progettava "cybersonic equipment" per performance dal vivo, e incarnava un principio fondamentale: sacrificando la calibrazione precisa delle grandi attrezzature di laboratorio a favore delle dimensioni compatte dei componenti hi-fi ad alta impedenza, era possibile configurare un sistema dove "l'intero studio fosse alla portata del compositore comodamente seduto" [@mumma2015, p. 19-20].
+
+Questo spirito cooperativo trovò espressione istituzionale nell'ONCE Festival (1961-1965), che presentò complessivamente ventinove concerti con sessantasette prime esecuzioni di circa centocinquanta opere di ottantotto compositori contemporanei [@mumma2015, p. 30]. Significativamente, quando alcuni membri del gruppo tentarono di ottenere supporto dalla University of Michigan, incontrarono "resistenza e persino animosità", con un boicottaggio quasi unanime dei concerti da parte dei docenti della School of Music durante il festival del 1963 [@mumma2015, p. 24, 29-30]. Il supporto venne invece dal Dramatic Arts Center, un'organizzazione locale non universitaria che manteneva un rapporto diretto e immediato con la comunità, senza overhead amministrativo [@mumma2015, p. 30]. L'ONCE Festival non era isolato, ma parte di un ricco ecosistema culturale che includeva lo Space Theatre di Milton Cohen (le cui produzioni culminarono alla Biennale di Venezia nel 1964), l'Ann Arbor Film Festival, e il Sonic Arts Union — quest'ultimo formato nel 1966 quando David Behrman e Alvin Lucier incontrarono Ashley e Mumma durante l'ONCE Festival del 1964 [@chadabe1997, p. 102].
+
+Anche l'Italia vide fiorire scene parallele. A Roma, nel 1964, si formò il Gruppo di Improvvisazione Nuova Consonanza, una collaborazione internazionale che includeva i compositori americani Larry Austin, John Eaton e William Smith insieme agli europei Mario Bertoncini, Aldo Clementi, Franco Evangelisti, Roland Kayn e Ivan Vandor [@mumma1975, p. 316]. Nel 1966, sempre a Roma, venne organizzato MEV (Musica Elettronica Viva), ensemble principalmente di musicisti americani — tra cui Frederic Rzewski, Alvin Curran e Richard Teitelbaum — che nel giro di due anni passò dalla musica composta all'improvvisazione libera fino ad abbandonare nel 1968 "interamente le strutture musicali e sociali formali" [@mumma1975, p. 316]. A Firenze, Giuseppe Chiari compose dal 1964 al 1966 una serie di "azioni musicali" che facevano "largo impiego di microfoni a contatto" [@bernardini1986, p. 68].
+
+Il Giappone sviluppò una scena particolarmente significativa. Takahisa Kosugi compose *Micro 1* (1961), opera per solo microfono, seguita da una serie di lavori poetici con elettronica radio-frequency e audio-frequency [@mumma1975, p. 299]. Toshi Ichiyanagi, che aveva studiato a New York con John Cage tra il 1956 e il 1961, al suo ritorno in Giappone compose un repertorio di opere per strumenti occidentali e giapponesi modificati elettronicamente, tra cui *Space* (1966), *Activities for Orchestra* (1967) e *Music for Living Spaces* (1970), quest'ultima un'installazione per l'Expo di Osaka [@mumma1975, p. 299]. Allo Studio NHK di Tokyo, Joji Yuasa utilizzò uno speciale magnetofono a cinque piste per opere come *Icon (on the source of white noise)* (1967), con diffusione del suono variabile da cinque a venticinque canali indipendenti [@discipio2021, Parte Seconda, p. 273]. La convergenza tra sperimentazione americana e giapponese trovò espressione simbolica nel Cross Talk Intermedia Festival, presentato a Tokyo nel febbraio 1969 nella struttura olimpica di Kenzo Tange progettata da Kenzo Tange, che vide la partecipazione di Mumma, Ashley, Lucier, Reynolds e VanDerBeek insieme a Ichiyanagi, Kosugi, Takemitsu e Yuasa [@mumma1975, p. 318].
+
+Questo ricco e policentrico contesto rivela come il live electronics non fosse semplicemente l'antitesi della tape music, ma rappresentasse piuttosto un campo di sperimentazione multiplo in cui convergevano preoccupazioni estetiche, necessità tecnologiche, modelli organizzativi e visioni culturali profondamente diverse. I compositori attivi in questi vari contesti condividevano l'urgenza di superare la fissazione su nastro e recuperare la dimensione performativa, ma elaboravano soluzioni radicalmente diverse: dalla residenza artistica prolungata di Nono a Friburgo, agli studi cooperativi e ai festival indipendenti di Ann Arbor, dai collettivi improvvisativi romani alle collaborazioni transpacifiche. È a questo ecosistema nordamericano — caratterizzato dall'autocostruzione dei circuiti, dalla collaborazione orizzontale, dalla portabilità delle tecnologie e dalla necessità trasformata in filosofia — che dedicheremo il prossimo capitolo, esplorando come figure come Gordon Mumma, David Tudor, Alvin Lucier e i membri del Sonic Arts Union abbiano elaborato non solo nuove tecnologie, ma un modello completamente alternativo di prassi compositiva e performativa.
+
+# IL MODELLO AMERICANO: COMUNITÀ, DIY E SPERIMENTAZIONE COLLETTIVA
 
 ### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage (1942-1960)
 
@@ -98,79 +146,6 @@ Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizza
 
 Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispettivamente microfoni a contatto (*Music for Amplified Toy Pianos*) e tesinte fonografiche (*Cartridge Music*)[@mumma1975, 293]. Queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dallo stesso compositore, costituendo uno stimolo considerevole alla sperimentazione nel live electronics[@mumma1975, 293-294].
 
-## Cartridge Music e Mikrophonie I: opere apripista
-
-Due composizioni, realizzate a distanza di quattro anni l'una dall'altra, segnano un momento di svolta nella storia della musica elettroacustica: *Cartridge Music* (1960) di John Cage e *Mikrophonie I* (1964) di Karlheinz Stockhausen. Secondo la storiografia entrambe condividono una necessità urgente: liberare la musica elettronica dal supporto fisso del nastro magnetico e riportarla alla dimensione performativa del concerto. In realtà, antecedente a Mikrophonie, la storia americana [@chadabe1997, p. 91] ha visto concretizzarsi nell'ambito del live electronics l'esperienza di Gordon Mumma. Nel pieno fervore del Once Festival (festival creato dal Once Group, di cui Mumma era membro fondante insieme a Robert Ashley e altri artisti), citando Chadabe:
-
-> his Medium Size Mograph 1963, for piano four hands and live electronics, was performed with a circuit that he designed. It was, in his words, “a type of envelope generator that drastically reshaped the amplitude-envelope of the piano sound, so much that it changed the timbre of the instrument.”[@chadabe1997, p. 91]
-
-Questi elementi legati alla produzione di Mumma saranno trattati in seguito nel capitolo 4.
-Il punto focale di questo capitolo invece è inquadrare con lucidità la portata storica e artistica di questi due brani che hanno contribuito a risollevare le sorti della musica elettroacustica che nella fine degli anni 1950 avvertiva ( principalmente nell'area europea) la necessità di riequilibrare l'aura concertistica come la musica strumentale.
-
-### Uscire dallo studio
-
-Joel Chadabe apre il capitolo "Out of the Studios" del suo *Electric Sound* con una domanda e una risposta emblematiche:
-
-> "Question: 'How do you perform electronic music without tape?' Answer (said with a shrug of the shoulders and rising inflection): 'Take away the tape.'"[@chadabe1997, p. 81]
-
-Questa necessità di "portare la musica elettronica fuori dallo studio"[@chadabe1997, p. 81] viene osservata anche da Gordon Mumma che in un articolo passa in rassegna quelle che oggi definiremmo "best practices" per uno studio modulare, con strumentazione trasferibile dal vivo per le perfomances, è sentita anche da Stockhausen. Egli in una conferenza del 1972, definisce *Mikrophonie I* come "electronic live music" in opposizione alla "electronic music which is produced in a studio"[@roth2023, 64, citando Cott & Stockhausen 1973]. Cage, parlando di *Cartridge Music* nel 1962, aveva coniato l'espressione "live electronic music" — probabilmente per la prima volta in assoluto, come nota Di Scipio [@discipio2021, Parte Terza].
-L'inversione dei termini ("live electronic" vs "electronic live") probabilmente è sintomatica di approcci di lavoro e radici culturali differenti (l'idea di musica elettronica per un compositore come Stockhausen proveniente dallo studio WDR di Colonia è di gran lunga lontana da un'idea di elettronica di Cage); ciò che accomuna entrambe le opere è tuttavia l'esigenza di *animare*[@discipio2021thinking] la musica elettronica attraverso la performance dal vivo.
-
-### La ricerca dei microsounds
-
-Entrambe le opere si fondano su un principio comune: l'amplificazione e la trasformazione elettronica di suoni altrimenti inaudibili. 
-
-Nel caso di *Cartridge Music*, Cage utilizza cartucce di giradischi e microfoni a contatto applicati a sedie, tavoli, cestini, inserendovi oggetti comuni come stuzzicadenti, fiammiferi, molle Slinky, fili di pianoforte e piume. Sia i microfoni che le cartucce sono collegati ad amplificatori che inviano il segnale agli altoparlanti, dato che la maggior parte dei suoni prodotti è talmente piccola da richiedere amplificazione per essere udibile [@chadabe1997, 81-82].
-
-Cage, invece di amplificare semplicemente suoni non abbastanza forti, magnificava microsuoni che senza amplificazione sarebbero stati praticamente inaudibili, rivelando così un intero nuovo mondo di risorse sonore [@mumma1975, 296]. Nicolas Collins sottolinea come la ricchezza sorprendente di questi microsuoni enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) provenienti dagli studi europei di musica elettronica, aprendo le orecchie di un'intera generazione di artisti del suono allo splendore del microfono a contatto [@collins2020, 40].
-
-Stockhausen, da parte sua, nel processo compositivo di *Mikrophonie I* condusse esperimenti eccitando il tam-tam con vari oggetti trovati in casa — vetro, cartone, metallo, legno, gomma, materiali sintetici — mentre teneva e muoveva con la mano un microfono direzionale, utilizzandolo per ascoltare il tam-tam [@chadabe1997, 83-84].
-
-In entrambi i casi, il "microfono diventa strumento attivo"[@roth2023, 61] — non un semplice dispositivo di captazione ma un vero e proprio strumento musicale che esplora il micromondo delle vibrazioni acustiche [@roth2023, 64].
-
-### Un possibile contatto diretto
-
-Di Scipio nota un dettaglio significativo: la prima esecuzione ufficiale di *Cartridge Music* ebbe luogo proprio a Colonia nell'ottobre 1960, nello studio dell'artista Mary Bauermeister, e "secondo le ricostruzioni più attendibili, Stockhausen era presente al concerto (egli nel 1967 avrebbe poi sposato Bauermeister)"[@discipio2021, Parte Terza, 314]. Non si può affermare con certezza che *Cartridge Music* abbia esercitato un'influenza diretta su *Mikrophonie I*, quattro anni dopo, ma come osserva Di Scipio: "Certo erano entrambi tempi di 'microfonia', anche se di tipo molto diverso"[@discipio2021, Parte Terza, 314].
-Nonostante le analogie iniziali, le due opere, come vediamo nel prossimo paragrafo, incarnano filosofie compositive radicalmente diverse.
-
-### Controllo vs Indeterminazione
-
-L'approccio agli strumenti riflette questa dicotomia. Collins osserva che Cage, figlio di un inventore e privo di supporto istituzionale, scelse di creare nuovi strumenti dalla tecnologia quotidiana e da oggetti comuni. Stockhausen invece richiese equipaggiamento altamente specifico: il filtro Maihak W49 Hörspielverzerrer, di cui furono prodotti solo circa 120 esemplari, e un tam-tam Paiste da 60 pollici appositamente selezionato [@roth2023, 61-66].
-
-Questa divergenza sull'autenticità dello strumento emerge chiaramente nelle dichiarazioni dei compositori. Stockhausen nel 1996 affermò l'importanza di comprendere le opere "nella loro unicità" storica, sostenendo che sostituzioni con simulazioni computerizzate avrebbero rovinato il suono caratteristico [@roth2023, 64]. D'altra parte Cage invece nel 1972 dichiarò che la partitura di Cartridge Music poteva essere usata "per esaminare musicalmente una vecchia Volkswagen"[@roth2023, 64].
-
-Chadabe identifica questa divergenza come fondamentale:
-
-> "Cage's electronic music was different from that of his contemporaries, Stockhausen's for example, because Cage's structures were based on process and random juxtapositions rather than fixed relationships between sounds. His electronic music suggests a happy anarchy where all things can be and coexist as themselves. It does not convey control, technique, expertise; it does not convey personal, subjective, poetic expression." [...] "Stockhausen's music, on the other hand, does convey control, technique, and expertise."[@chadabe1997, 83]
-
-Cage definisce un "territorio" di suoni possibili — in *Cartridge Music*, questo territorio è quello dei "suoni che richiedono amplificazione" — ma lascia che i performer esplorino liberamente questo spazio attraverso partiture grafiche su fogli trasparenti che possono essere sovrapposti in modi diversi [@chadabe1997, 82]. 
-
-Stockhausen, invece, concepisce *Mikrophonie I* secondo la sua **moment-form**, dove "ogni momento è una struttura miniaturizzata che si regge autonomamente"[@chadabe1997, 41], ma deve essere eseguito "secondo uno schema di connessioni che accompagna la partitura"[@roth2023, 64]. Il compositore sviluppa un **sistema notazionale grafico estremamente dettagliato** per ogni esecutore, prescrivendo con precisione le distanze del microfono, le frequenze dei filtri, le posizioni spaziali.
-
-> "It's extremely important to comprehend works, which were born to a particular historical moment, for their uniqueness [...] if you try to substitute computerised filter simulations, the characteristic sound goes to hell."[@roth2023, 64, citando Stockhausen & Kohl 1996]
-
-Le differenze emerse in queste opere pionieristiche preannunciano **due traiettorie evolutive profondamente diverse** per il live electronics, che si cristallizzeranno negli anni successivi e vedranno l'impiego dalla tecnologia in maniera drasticamente differente.[^3] 
-
-[^3]: Basti pensare poi alla diversità delle esperienze nella prassi Live Electronics. Per esempio quella di Luigi Nono, ospite all'ExperimentalStudio di Friburgo, nel cui laboratorio era presente strumentazione modulare per il processamento del segnale elettroacustico pensato per essere utilizzato dal vivo (fuori dallo studio). Questi strumenti sono stati sostituiti da DSP in personal computer, rimandendo però ignota la posizione poetica del compositore a riguardo.
-
-### Due visioni del mondo
-
-Questa divergenza — che prende avvio dalle analogie iniziali tra *Cartridge Music* e *Mikrophonie I* — non è semplicemente una questione di scelte estetiche diverse. È l'espressione di due visioni culturali profondamente differenti sul rapporto tra arte, tecnologia e società: da un lato il modello del grande istituto di ricerca centralizzato, dall'altro quello della rete diffusa di sperimentatori indipendenti; da un lato la ricerca della perfezione replicabile, dall'altro l'accettazione del processo come valore; da un lato la tecnologia come infrastruttura, dall'altro la tecnologia come filosofia.
-
-Da un lato, l'approccio DIY americano, caratterizzato da autocostruzione di circuiti, portabilità dell'equipment, e comunità orizzontali di sperimentatori.[^4]
-
-[^4]: Questa tradizione, che esploreremo nel Capitolo 2, si svilupperà attraverso figure come Gordon Mumma, la Sonic Arts Union e l'ONCE Group, trovando ad Ann Arbor il suo laboratorio originario.
-
-Dall'altro, il modello istituzionale europeo, basato su grandi investimenti, divisione del lavoro tra ricercatori e compositori, e tecnologia come servizio alla creazione.[^5] 
-
-[^5]: Questa linea evolutiva, che analizzeremo nel Capitolo 3, culminerà nella fondazione di IRCAM a Parigi nel 1977, rappresentando una visione radicalmente diversa del rapporto tra arte e tecnologia.
-
-Entrambe le traiettorie furono rese possibili dalla diffusione della tecnologia a transistor alla fine degli anni '50, che permise la creazione di equipment portatile e accessibile economicamente — una rivoluzione tecnologica che esamineremo nel dettaglio nel Capitolo 5.
-
-Questo panorama è attraversato, dunque, da due polarità culturali che, pur mantenendo una loro autonomia, si intrecciano e si influenzano reciprocamente attraverso scambi, collaborazioni, e contaminazioni transnazionali. Come osserva Bernardini, l'influenza di Cage sui suoi contemporanei fu "paragonabile all'influenza della scuola di Darmstadt"[@bernardini1986], ma con esiti profondamente diversi che si dipaneranno nei decenni successivi.
-
-
-# CAP. 2: L'APPROCCIO AMERICANO
 
 ## David Tudor: dal virtuosismo pianistico alla composizione elettroacustica
 
@@ -258,7 +233,7 @@ Il nucleo originario di *Manifestations* riuniva personalità da ambiti discipli
 
 Il centro fisico e concettuale di *Manifestations* fu lo **Space Theatre** concepito da Milton Cohen, ambiente immersivo che ridefiniva radicalmente le relazioni tra pubblico, immagine e suono. La struttura si evolse dalla prima "spheroid canopy" installata nello studio di Cohen nell'agosto 1959 fino al raggiungimento di una cupola geodetica portatile allestita presso il University of Michigan Museum of Art.
 
-La visione di Cohen si distanziava consapevolmente dai canoni teatrali tradizionali, adottando invece una forma seriale e ciclica che eliminava le consuete strutture narrative di introduzione, climax e conclusione. Ogni performance serale della durata di due ore manteneva un carattere aperto, incoraggiando il pubblico a permanere nello spazio "fintanto che l'esperienza si dimostra stimolante"[@mumma2015b, 9].
+La visione di Cohen si distanziava consapevolmente dai canoni teatrali tradizionali, adottando invece una forma seriale e ciclica che eliminava le consuete strutture narrative di introduzione, climax e conclusione. Ogni performance serale della durata di due ore manteneva un carattere aperto, incoraggiando il pubblico a permanere nello spazio "fintanto che l'esperienza si dimostra stimolante"[@mumma2015, 9].
 
 Le rappresentazioni settimanali nello studio di Cohen fungevano da laboratorio permanente di sperimentazione multimediale. Le proiezioni - comprendenti filmati realizzati appositamente, diapositive, prismi e specchi - si muovevano sull'intera superficie della cupola, superando i confini del campo visivo periferico degli spettatori. Parallelamente, la musica elettronica composta principalmente da Mumma e Ashley, con sporadici contributi di figure come Luciano Berio e Karlheinz Stockhausen, circolava nell'ambiente attraverso sistemi di diffusione multipli, alternando momenti di rinforzo del dramma visivo ad altri di contrappunto intenzionale.
 
@@ -282,17 +257,17 @@ Nato inizialmente per fornire materiale sonoro allo Space Theatre, lo studio amp
 
 Nel 1964 Mumma redasse un saggio fondamentale dal titolo "An Electronic Music Studio for the Independent Composer", offrendo una prospettiva preziosa sulle risorse tecnologiche divenute accessibili al compositore indipendente operante al di fuori dei circuiti istituzionali.
 
-Il compositore possiede l'alternativa di costruire il proprio studio assumendo personalmente le responsabilità ingegneristiche e finanziarie. Questo compito non risulta così impegnativo come potrebbe inizialmente apparire, specialmente negli Stati Uniti dove un'ampia selezione di componenti high-fi è disponibile a costi ragionevoli[@mumma2015b, 15].
+Il compositore possiede l'alternativa di costruire il proprio studio assumendo personalmente le responsabilità ingegneristiche e finanziarie. Questo compito non risulta così impegnativo come potrebbe inizialmente apparire, specialmente negli Stati Uniti dove un'ampia selezione di componenti high-fi è disponibile a costi ragionevoli[@mumma2015, 15].
 
 L'obiettivo dichiarato consisteva nel creare un'infrastruttura accessibile che non richiedesse affiliazioni istituzionali o ingenti risorse economiche - uno studio domestico low-cost rivolto a giovani compositori.
 
 Il saggio includeva configurazioni dettagliate delle attrezzature, criteri per la selezione dei componenti e riflessioni sui processi compositivi per la tape music del periodo. Forniva inoltre specifiche tecniche relative alle attrezzature impiegate nelle principali opere elettroniche di Mumma dell'epoca ONCE, incluse le iconiche *Megaton for Wm. Burroughs* (1963-64) e *The Dresden Interleaf 13 February 1945* (1965).
 
-Un aspetto cruciale riguardava la **portabilità**. Mumma sottolineava come il compositore che costruisse uno studio indipendente con attrezzature mobili avrebbe beneficiato di un vantaggio rispetto a chi lavorava con apparati fissi tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine delle grandi attrezzature di laboratorio a favore delle dimensioni compatte dei componenti hi-fi ad alta impedenza, risultava possibile configurare un sistema dove l'intero studio fosse "alla portata del compositore comodamente seduto"[@mumma2015b, 19-20].
+Un aspetto cruciale riguardava la **portabilità**. Mumma sottolineava come il compositore che costruisse uno studio indipendente con attrezzature mobili avrebbe beneficiato di un vantaggio rispetto a chi lavorava con apparati fissi tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine delle grandi attrezzature di laboratorio a favore delle dimensioni compatte dei componenti hi-fi ad alta impedenza, risultava possibile configurare un sistema dove l'intero studio fosse "alla portata del compositore comodamente seduto"[@mumma2015, 19-20].
 
 ### L'ONCE Festival (1961-1965): istituzione anti-istituzionale
 
-Dal contesto dello Space Theatre e del Cooperative Studio emerse nel 1961 l'**ONCE Festival**, destinato a divenire "un luogo principale e multisede per la nuova musica internazionale nel Midwest americano per gran parte degli anni Sessanta"[@mumma2015b, 1].
+Dal contesto dello Space Theatre e del Cooperative Studio emerse nel 1961 l'**ONCE Festival**, destinato a divenire "un luogo principale e multisede per la nuova musica internazionale nel Midwest americano per gran parte degli anni Sessanta"[@mumma2015, 1].
 
 ### Genesi: la proposta di Waldrop
 
@@ -302,11 +277,11 @@ Il gruppo aveva già collaborato a vari progetti dall'inizio del 1960, includend
 
 ### Il conflitto con l'università
 
-Nonostante alcuni membri del gruppo insegnassero presso la University of Michigan, "praticamente tutti i tentativi di ottenere supporto da quell'istituzione incontrarono resistenza e persino animosità"[@mumma2015b, 24].
+Nonostante alcuni membri del gruppo insegnassero presso la University of Michigan, "praticamente tutti i tentativi di ottenere supporto da quell'istituzione incontrarono resistenza e persino animosità"[@mumma2015, 24].
 
-Questa resistenza si trasformò in conflitto aperto negli anni successivi. "Una resistenza distinta si sviluppò all'interno della comunità della University of Michigan School of Music. La competizione fu probabilmente un fattore quando, in seguito al primo ONCE Festival, venne finalmente organizzata una serie di musica contemporanea sotto gli auspici universitari"[@mumma2015b, 29-30].
+Questa resistenza si trasformò in conflitto aperto negli anni successivi. "Una resistenza distinta si sviluppò all'interno della comunità della University of Michigan School of Music. La competizione fu probabilmente un fattore quando, in seguito al primo ONCE Festival, venne finalmente organizzata una serie di musica contemporanea sotto gli auspici universitari"[@mumma2015, 29-30].
 
-Il punto critico fu raggiunto durante l'ONCE Festival del 1963: "Durante il festival del 1963 si verificò un boicottaggio quasi unanime dei concerti da parte dei docenti della School of Music, con pressioni applicate agli studenti di musica per fare altrettanto sulla base del fatto che tali attività fossero accademicamente, culturalmente e moralmente disdicevoli"[@mumma2015b, 30].
+Il punto critico fu raggiunto durante l'ONCE Festival del 1963: "Durante il festival del 1963 si verificò un boicottaggio quasi unanime dei concerti da parte dei docenti della School of Music, con pressioni applicate agli studenti di musica per fare altrettanto sulla base del fatto che tali attività fossero accademicamente, culturalmente e moralmente disdicevoli"[@mumma2015, 30].
 
 Le discussioni e i conflitti tra studenti e professori "sconvolgevano i programmi delle lezioni per settimane attorno a ciascun festival". Per alcuni studenti performers, ONCE divenne "un'attività extracurricolare che quasi completamente usurpava la loro attenzione".
 
@@ -316,7 +291,7 @@ Il paradosso della situazione raggiunse l'apice quando "due ensemble di altre im
 
 Fu un'organizzazione locale, non universitaria, a salvare il progetto. Ashley e Reynolds si rivolsero al **Dramatic Arts Center**, che forniva già da anni supporto modesto a programmi di repertory theater e cinema sperimentale ad Ann Arbor.
 
-La missione del Center - "incoraggiare sviluppi importanti ma poco conosciuti nelle arti, inclusa la creazione sperimentale in drammaturgia, musica, film e altri media" - era simile agli obiettivi dichiarati delle fondazioni nazionali che avevano rifiutato le richieste di ONCE. Tuttavia esisteva una differenza essenziale: "La differenza essenziale era che il Dramatic Arts Center faceva parte della nostra comunità immediata e sosteneva la sua retorica. Il suo supporto ci permise di realizzare qualcosa di nostro, indipendente dalla spersonalizzazione dei colossi finanziari"[@mumma2015b, 28].
+La missione del Center - "incoraggiare sviluppi importanti ma poco conosciuti nelle arti, inclusa la creazione sperimentale in drammaturgia, musica, film e altri media" - era simile agli obiettivi dichiarati delle fondazioni nazionali che avevano rifiutato le richieste di ONCE. Tuttavia esisteva una differenza essenziale: "La differenza essenziale era che il Dramatic Arts Center faceva parte della nostra comunità immediata e sosteneva la sua retorica. Il suo supporto ci permise di realizzare qualcosa di nostro, indipendente dalla spersonalizzazione dei colossi finanziari"[@mumma2015, 28].
 
 Il supporto era "sempre diretto e immediato", senza overhead amministrativo. Questa precaria situazione finanziaria presentava i suoi vantaggi: "indipendenza e flessibilità".
 
@@ -339,7 +314,7 @@ Complessivamente: 29 concerti presentati durante sei ONCE Festivals, includendo 
 
 La progressione delle sedi rivela molto sulla natura del festival. Dopo i primi due anni nella piccola auditorium della First Unitarian Church, quando "le prove e i concerti divennero un'imposizione per le attività della chiesa", il terzo festival si trasferì al meeting hall dell'Ann Arbor Community Center. Quando fu necessario uno spazio più ampio, venne ingaggiata la locale VFW Hall.
 
-Per il sesto festival, ONCE AGAIN, il consiglio comunale fu petizionato per l'uso del parcheggio municipale. "La nostra serie di sedi concertistiche non tradizionali si rivelò curiosamente stimolante, contribuendo al dinamismo del progetto ONCE. I compositori dovettero considerare le implicazioni di ambienti insoliti nella creazione e presentazione delle loro opere"[@mumma2015b, 28].
+Per il sesto festival, ONCE AGAIN, il consiglio comunale fu petizionato per l'uso del parcheggio municipale. "La nostra serie di sedi concertistiche non tradizionali si rivelò curiosamente stimolante, contribuendo al dinamismo del progetto ONCE. I compositori dovettero considerare le implicazioni di ambienti insoliti nella creazione e presentazione delle loro opere"[@mumma2015, 28].
 
 Un esempio significativo: la prima esecuzione di *The Dresden Interleaf 13 February 1945* di Mumma al quinto festival (20 febbraio 1965 - ventesimo anniversario del bombardamento di Dresda) richiese un sistema di altoparlanti multipli che circondasse il pubblico. Tuttavia, poiché il pubblico era seduto contro le pareti della VFW Hall, gli altoparlanti dovettero essere montati considerevolmente sopra le loro teste. Mumma scoprì che un'azienda locale, Lahti, produceva piccoli altoparlanti mini U-5 leggeri che potevano essere appesi nell'intera sala con semplice spago da imballaggio. Sedici di questi piccoli altoparlanti fornirono una dispersione sonora migliore rispetto a quattro altoparlanti grandi, eliminando l'indesiderato "effetto punto-sorgente".
 
@@ -361,7 +336,7 @@ Un aspetto cruciale fu la presenza di David Tudor, che nel 1965 eseguì *Variati
 
 ### L'ecosistema culturale
 
-L'ONCE Festival non si sviluppò in isolamento. Era "solamente una delle numerose attività culturali correlate ad Ann Arbor, estendentesi dalle pure arti grafiche al regno performativo e includendo diverse collaborazioni fiorenti"[@mumma2015b, 30].
+L'ONCE Festival non si sviluppò in isolamento. Era "solamente una delle numerose attività culturali correlate ad Ann Arbor, estendentesi dalle pure arti grafiche al regno performativo e includendo diverse collaborazioni fiorenti"[@mumma2015, 30].
 
 Le attività collaterali includevano:
 
@@ -517,11 +492,11 @@ Gordon Mumma dimostrò che era possibile fare musica elettroacustica sofisticata
 
 Se Gordon Mumma rappresentò l'ingegnere-compositore e David Tudor il performer-compositore, Robert Ashley (nato 1930) incarnò la figura del compositore-regista, trasformando il live electronics in un medium teatrale dove voce, elettronica e spazio scenico si fondevano in un'unità inscindibile.
 
-Il percorso di Ashley iniziò nei primi anni '50 alla University of Michigan, dove incontrò Mumma negli stessi seminari di composizione di Ross Lee Finney. Ma fu il coinvolgimento con lo Space Theatre di Milton Cohen, dal 1957, a determinare la direzione della sua ricerca. Come ricorda Mumma, visitando lo studio di Ashley al 507 Granger Avenue, ascoltò la sua composizione su nastro appena completata *The Fox*, che rivelò "the unique and subtle nuances of his speaking voice"[@mumma2015b, 252] — le radici, ancora non previste allora, della straordinaria virtuosità verbale che avrebbe caratterizzato il suo lavoro teatrale successivo, in particolare le opere liriche.
+Il percorso di Ashley iniziò nei primi anni '50 alla University of Michigan, dove incontrò Mumma negli stessi seminari di composizione di Ross Lee Finney. Ma fu il coinvolgimento con lo Space Theatre di Milton Cohen, dal 1957, a determinare la direzione della sua ricerca. Come ricorda Mumma, visitando lo studio di Ashley al 507 Granger Avenue, ascoltò la sua composizione su nastro appena completata *The Fox*, che rivelò "the unique and subtle nuances of his speaking voice"[@mumma2015, 252] — le radici, ancora non previste allora, della straordinaria virtuosità verbale che avrebbe caratterizzato il suo lavoro teatrale successivo, in particolare le opere liriche.
 
 ### Lo studio come strumento performativo
 
-Nel 1960, Ashley e Mumma fondarono insieme il Cooperative Studio for Electronic Music[@mumma2015b, 10]. Ma mentre Mumma si orientava verso la costruzione di circuiti portatili per la performance dal vivo, Ashley sviluppò un approccio differente: costruì uno studio progettato specificamente non per la produzione di tape music come oggetto finito, ma come **ambiente per la performance in tempo reale**.
+Nel 1960, Ashley e Mumma fondarono insieme il Cooperative Studio for Electronic Music[@mumma2015, 10]. Ma mentre Mumma si orientava verso la costruzione di circuiti portatili per la performance dal vivo, Ashley sviluppò un approccio differente: costruì uno studio progettato specificamente non per la produzione di tape music come oggetto finito, ma come **ambiente per la performance in tempo reale**.
 
 L'opera *The Fourth of July* (1960) esemplifica questo approccio. Come osserva Mumma, fu "a tape composition for theater as well as concert presentation, was made in a studio of the composer's own design, which allowed for considerable real-time performance on the equipment"[@mumma1975, 295]. 
 
@@ -539,15 +514,15 @@ Ashley utilizzò anche sintetizzatori Moog e tecniche microfoniche non convenzio
 
 ### Il "New Music for Pianos" e le collaborazioni
 
-Nel 1965, Ashley e Mumma stabilirono la serie **"New Music for Pianos"** in connessione con l'ONCE Group[@mumma2015b, 33]. Come ricorda Mumma, "touring the Midwest in his old Lincoln Continental, we took our New Music for Pianos series on the road"[@mumma2015b, 252]. Il repertorio includeva musica per uno e due pianoforti, percussioni, corno, e talvolta elettronica integrata — eseguivano composizioni proprie e di altri, insieme a collaborazioni con il filmmaker George Manupelli come *Five Short Films* (1965)[@mumma2015b, 252].
+Nel 1965, Ashley e Mumma stabilirono la serie **"New Music for Pianos"** in connessione con l'ONCE Group[@mumma2015, 33]. Come ricorda Mumma, "touring the Midwest in his old Lincoln Continental, we took our New Music for Pianos series on the road"[@mumma2015, 252]. Il repertorio includeva musica per uno e due pianoforti, percussioni, corno, e talvolta elettronica integrata — eseguivano composizioni proprie e di altri, insieme a collaborazioni con il filmmaker George Manupelli come *Five Short Films* (1965)[@mumma2015, 252].
 
-Questa serie itinerante incarnava perfettamente lo spirito del movimento: nessuna grande istituzione, nessun budget sostanzioso, solo due compositori in un'auto che portavano la new music nelle comunità del Midwest americano. Come osserva Mumma con affetto: "This fox went out on more than 100 nights, hunting out ensembles of performing friends"[@mumma2015b, 252].
+Questa serie itinerante incarnava perfettamente lo spirito del movimento: nessuna grande istituzione, nessun budget sostanzioso, solo due compositori in un'auto che portavano la new music nelle comunità del Midwest americano. Come osserva Mumma con affetto: "This fox went out on more than 100 nights, hunting out ensembles of performing friends"[@mumma2015, 252].
 
 ### Il teatro elettronico multimediale
 
 Ashley fu centrale nello sviluppo di quello che chiamava "electronic music theater". Un esempio rappresentativo è *in memoriam...Crazy Horse* (1964), presentato all'ONCE Festival. Le sue opere integravano sistematicamente dimensioni visive, spaziali e performative con l'elettronica sonora.
 
-Nel 1965 formò **Mary Ashley's Truck**, ensemble teatrale che performava multimedia events, "sometimes on the streets of Ann Arbor"[@mumma2015b, 33]. Questo spostamento del live electronics letteralmente "nelle strade" — fuori dalle sale da concerto, fuori dagli studi, nello spazio pubblico urbano — rappresentava una radicalizzazione ulteriore della ricerca di nuovi contesti performativi per la musica elettroacustica.
+Nel 1965 formò **Mary Ashley's Truck**, ensemble teatrale che performava multimedia events, "sometimes on the streets of Ann Arbor"[@mumma2015, 33]. Questo spostamento del live electronics letteralmente "nelle strade" — fuori dalle sale da concerto, fuori dagli studi, nello spazio pubblico urbano — rappresentava una radicalizzazione ulteriore della ricerca di nuovi contesti performativi per la musica elettroacustica.
 
 Il repertorio del Sonic Arts Union rifletteva questa diversità di approcci. Come ricorda Lucier del tour europeo del 1969, performavano opere di Ashley come *Wolfman*, *Fancy Free* (dove "each player had an attache case and a cassette machine"), e *Frogs* (dove Ashley "had these lights and devices that would sense proximity")[@chadabe1997, 102]. Ogni opera sperimentava con differenti modalità di interazione tra performer, tecnologia, spazio e audience.
 
@@ -734,7 +709,7 @@ Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 
 ## 3.4. Limiti del modello: ricerca vs arte
 
 
-# capitolo 5
+# capitolo 5 bozze...
 
 ## Salvatore Martirano: dalla multimedialità alla simbiosi uomo-macchina
 
@@ -773,6 +748,12 @@ Questa relazione simbiotica tra compositore e macchina anticipa questioni fondam
 
 ## Prospettive future
 
+
+
+
+# Appendice A
+
+## Interviste di una vita dal vivo
 
 
 
