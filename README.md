@@ -1,6 +1,6 @@
 ---
-title: "Cosa è Live Electronics"
-subtitle: "Come tecnologia e contesti istituzionali hanno trasformato il pensiero compositivo nel Live Electronics: da Mumma e Nono all'IRCAM agli approcci ecosistemici"
+title: "Live Electronics: un racconto plurale. Oltre i confini di una storiografia eurocentrica."
+subtitle: "Tecnologia, contesti istituzionali e trasformazione il pensiero musicale e della prassi nel Live Electronics: Le storie "
 author: "Giulio Romano De Mattia"
 date: "15/03/2026"
 conservatorio: "Conservatorio A. Casella, L'Aquila"
@@ -38,24 +38,23 @@ La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un ins
 
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
-Prima di procedere con l'analisi delle opere seminali, è necessario chiarire una distinzione terminologica che attraverserà tutta questa ricerca. I due termini — *live* e *real-time* — vengono spesso usati come sinonimi, ma si riferiscono a dimensioni profondamente diverse della prassi musicale elettroacustica.
+Prima di approfondire l'analisi delle opere fondamentali, è essenziale chiarire una distinzione terminologica che percorrerà l'intera ricerca. I termini *live* e *real-time*, sebbene spesso utilizzati come sinonimi, designano dimensioni profondamente differenti della pratica musicale elettroacustica.
 
-Nel campo della computer music, osserva Di Scipio, si è consolidata l'abitudine di parlare principalmente di sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio puramente tecnologico legato alla velocità di elaborazione dei processi computazionali [@discipio2021thinking, 177]. Questo approccio, tuttavia, riduce la complessità della performance a una questione di pura efficienza operativa delle macchine, trascurando dimensioni essenziali dell'evento musicale [@discipio2021thinking, 177].[^1]
+Nel dominio della computer music, come nota Di Scipio, si è affermata la tendenza a riferirsi principalmente a sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio essenzialmente tecnologico legato alla velocità di elaborazione computazionale. Questo orientamento, tuttavia, finisce per ridurre la complessità dell'evento performativo a una mera questione di efficienza operativa delle macchine, tralasciando dimensioni fondamentali dell'esperienza musicale [@discipio2021thinking, 177].
 
-[^1]: Non a caso un centro come l'IRCAM, esempio lampante della potenza di fuoco di un ambiente istituzionalizzato ed elevato ad autorità in campo di ricerca musicale, si avvalse della potenza di calcolo (neanche troppo velata similitudine di potere economico e politico) per aggiudicarsi, volente o nolente, il ruolo di attore centrale nel panorama eurocentrico dell'industria culturale attorno al mercato della musica contemporanea.
+La distinzione può essere articolata su due piani concettuali distinti:
 
-La distinzione può essere articolata su due livelli:
-Il "tempo reale" riguarda le caratteristiche operative dei sistemi informatici. Quando Di Scipio analizza lo sviluppo del real-time computing nella musica elettroacustica a metà degli anni '70, evidenzia come questa categoria si riferisca alla capacità tecnica di un sistema di elaborare e trasformare segnali audio istantaneamente, senza ritardi percettibili [@discipio2021, 4.3]. Si tratta essenzialmente di una proprietà della macchina [@discipio2021, 3.5.1]. È una questione di architettura hardware e software.
+Il concetto di "tempo reale" concerne le caratteristiche operative dei sistemi informatici. Quando si esamina lo sviluppo del real-time computing nella musica elettroacustica verso la metà degli anni Settanta, emerge come questa categoria si riferisca specificamente alla capacità tecnica di un sistema di processare e trasformare segnali audio in modo immediato, senza ritardi percettibili. Si tratta fondamentalmente di una proprietà intrinseca della macchina, legata alla sua architettura hardware e software.
 
-Il "dal vivo" (*live*) designa invece una condizione performativa ed esperienziale che prescinde dalle capacità tecniche del sistema. Come sottolinea Di Scipio, ciò che caratterizza il live electronics è il fatto che i suoni vengano prodotti e articolati nel momento stesso dell'esecuzione, attraverso l'impiego di dispositivi elettroacustici operati direttamente durante la performance, senza ricorso a materiali pre-registratic [@discipio2021, 3.5.1]. È una questione di presenza, di co-presenza di performer e pubblico in uno spazio condiviso.
+D'altro canto, l'espressione "dal vivo" (*live*) designa una condizione performativa ed esperienziale che trascende le capacità tecniche del sistema. Ciò che contraddistingue il live electronics è la produzione e articolazione dei suoni nel momento stesso dell'esecuzione, attraverso dispositivi elettroacustici azionati direttamente durante la performance, senza ricorso a materiali preregistrati. È una questione che attiene alla presenza, alla co-presenza di esecutori e pubblico in uno spazio condiviso.
 
-L'uso dell'espressione "tempo reale" per indicare la dimensione performativa costituisce, secondo Di Scipio, un'imprecisione fuorviante [@discipio2021, 3.5.1]. Il termine *real-time* appartiene al vocabolario tecnico dell'informatica e si applica specificamente a condizioni operative dei sistemi di calcolo [@discipio2021, 3.5.1].
+L'utilizzo dell'espressione "tempo reale" per indicare la dimensione performativa rappresenta, secondo Di Scipio, un'imprecisione concettuale significativa. Il termine *real-time* appartiene al lessico tecnico dell'informatica e si applica specificamente alle condizioni operative dei sistemi di calcolo.
 
-Di Scipio sottolinea un aspetto ulteriore: comprendere appieno cosa significhi *live* richiede di considerare 
+Di Scipio mette in luce un ulteriore aspetto cruciale: comprendere appieno il significato di *live* richiede di considerare 
 
-> "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, “in the very heart” of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one’s own material and cultural connotations". [@discipio2021thinking, 177]. 
+> "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, "in the very heart" of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one's own material and cultural connotations". [@discipio2021thinking, 177].
 
-Questa distinzione ha conseguenze pratiche e storiografiche rilevanti. Il live electronics può esistere anche in assenza di tecnologie real-time. Viceversa, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi — come avveniva nelle produzioni in studio degli anni '80 con processori digitali. Ciò che definisce il carattere "live" di una prassi non è la velocità operativa dei circuiti, ma la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
+Questa distinzione possiede implicazioni pratiche e storiografiche di notevole rilievo. Il live electronics può esistere anche in assenza di tecnologie real-time. Al contrario, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi - come avveniva nelle produzioni in studio degli anni Ottanta con processori digitali. Ciò che definisce il carattere "live" di una pratica non è la velocità operativa dei circuiti, bensì la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
 
 ## La crisi della tape music (1950-1960)
 
