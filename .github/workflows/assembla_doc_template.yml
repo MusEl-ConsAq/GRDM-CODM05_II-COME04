@@ -35,8 +35,6 @@ jobs:
         apt-get install -y nodejs
         # Installa mermaid-filter globalmente
         npm install --global mermaid-filter
-        # Verifica installazione
-        mermaid-filter --help
         # Installa anche mermaid-cli (necessario per mermaid-filter)
         npm install --global @mermaid-js/mermaid-cli
 
@@ -120,6 +118,7 @@ jobs:
           --pdf-engine=xelatex \
           --template=styles/templatePandoc.latex \
           --syntax-highlighting=tango \
+          --filter mermaid-filter \
           --filter pandoc-crossref \
           --lua-filter=lua-filters/multibib.lua \
           -o "$PDF_NAME"
