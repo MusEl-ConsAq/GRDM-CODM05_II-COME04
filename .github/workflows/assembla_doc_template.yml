@@ -29,7 +29,7 @@ jobs:
         mkdir -p /etc/apt/keyrings
 
         # 3. Scarica e aggiungi la chiave GPG di NodeSource
-        curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
+        curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
 
         # 4. Aggiungi il repository NodeSource (Node.js 20 LTS)
         NODE_MAJOR=20
