@@ -1,4 +1,15 @@
-# CAP. 2: L'APPROCCIO AMERICANO
+# IL MODELLO AMERICANO: COMUNITÀ, DIY E SPERIMENTAZIONE COLLETTIVA
+
+### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage (1942-1960)
+
+*Cartridge Music* non è un fulmine a ciel sereno nel percorso compositivo di Cage, ma piuttosto il culmine di un processo di ricerca durato almeno due decenni.
+
+Dopo otto anni di lavoro innovativo con il *prepared piano*, Cage riprese la composizione con mezzi elettroacustici con *Imaginary Landscape No. 4* (1951), opera per dodici radio con ventiquattro esecutori [@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplorò sistematicamente il ricevitore radio come strumento per la performance dal vivo [@mumma1975, 293].
+
+Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizzato microfoni a contatto in *Imaginary Landscape No. 1* (1939), ma non vi tornò fino a *Winter Music* e *Variations II*[@mumma1975, 293]. David Tudor sviluppò entrambe le opere come composizioni per pianoforte amplificato: in *Winter Music* la parte pianistica veniva eseguita dalla tastiera e resa ultra-forte, mentre in *Variations II* i microfoni a contatto elevavano i microsuoni dall'interno del pianoforte a un'udibilità da concerto [@mumma1975, 293].
+
+Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispettivamente microfoni a contatto (*Music for Amplified Toy Pianos*) e tesinte fonografiche (*Cartridge Music*)[@mumma1975, 293]. Queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dallo stesso compositore, costituendo uno stimolo considerevole alla sperimentazione nel live electronics[@mumma1975, 293-294].
+
 
 ## David Tudor: dal virtuosismo pianistico alla composizione elettroacustica
 
@@ -86,7 +97,7 @@ Il nucleo originario di *Manifestations* riuniva personalità da ambiti discipli
 
 Il centro fisico e concettuale di *Manifestations* fu lo **Space Theatre** concepito da Milton Cohen, ambiente immersivo che ridefiniva radicalmente le relazioni tra pubblico, immagine e suono. La struttura si evolse dalla prima "spheroid canopy" installata nello studio di Cohen nell'agosto 1959 fino al raggiungimento di una cupola geodetica portatile allestita presso il University of Michigan Museum of Art.
 
-La visione di Cohen si distanziava consapevolmente dai canoni teatrali tradizionali, adottando invece una forma seriale e ciclica che eliminava le consuete strutture narrative di introduzione, climax e conclusione. Ogni performance serale della durata di due ore manteneva un carattere aperto, incoraggiando il pubblico a permanere nello spazio "fintanto che l'esperienza si dimostra stimolante"[@mumma2015b, 9].
+La visione di Cohen si distanziava consapevolmente dai canoni teatrali tradizionali, adottando invece una forma seriale e ciclica che eliminava le consuete strutture narrative di introduzione, climax e conclusione. Ogni performance serale della durata di due ore manteneva un carattere aperto, incoraggiando il pubblico a permanere nello spazio "fintanto che l'esperienza si dimostra stimolante"[@mumma2015, 9].
 
 Le rappresentazioni settimanali nello studio di Cohen fungevano da laboratorio permanente di sperimentazione multimediale. Le proiezioni - comprendenti filmati realizzati appositamente, diapositive, prismi e specchi - si muovevano sull'intera superficie della cupola, superando i confini del campo visivo periferico degli spettatori. Parallelamente, la musica elettronica composta principalmente da Mumma e Ashley, con sporadici contributi di figure come Luciano Berio e Karlheinz Stockhausen, circolava nell'ambiente attraverso sistemi di diffusione multipli, alternando momenti di rinforzo del dramma visivo ad altri di contrappunto intenzionale.
 
@@ -110,17 +121,17 @@ Nato inizialmente per fornire materiale sonoro allo Space Theatre, lo studio amp
 
 Nel 1964 Mumma redasse un saggio fondamentale dal titolo "An Electronic Music Studio for the Independent Composer", offrendo una prospettiva preziosa sulle risorse tecnologiche divenute accessibili al compositore indipendente operante al di fuori dei circuiti istituzionali.
 
-Il compositore possiede l'alternativa di costruire il proprio studio assumendo personalmente le responsabilità ingegneristiche e finanziarie. Questo compito non risulta così impegnativo come potrebbe inizialmente apparire, specialmente negli Stati Uniti dove un'ampia selezione di componenti high-fi è disponibile a costi ragionevoli[@mumma2015b, 15].
+Il compositore possiede l'alternativa di costruire il proprio studio assumendo personalmente le responsabilità ingegneristiche e finanziarie. Questo compito non risulta così impegnativo come potrebbe inizialmente apparire, specialmente negli Stati Uniti dove un'ampia selezione di componenti high-fi è disponibile a costi ragionevoli[@mumma2015, 15].
 
 L'obiettivo dichiarato consisteva nel creare un'infrastruttura accessibile che non richiedesse affiliazioni istituzionali o ingenti risorse economiche - uno studio domestico low-cost rivolto a giovani compositori.
 
 Il saggio includeva configurazioni dettagliate delle attrezzature, criteri per la selezione dei componenti e riflessioni sui processi compositivi per la tape music del periodo. Forniva inoltre specifiche tecniche relative alle attrezzature impiegate nelle principali opere elettroniche di Mumma dell'epoca ONCE, incluse le iconiche *Megaton for Wm. Burroughs* (1963-64) e *The Dresden Interleaf 13 February 1945* (1965).
 
-Un aspetto cruciale riguardava la **portabilità**. Mumma sottolineava come il compositore che costruisse uno studio indipendente con attrezzature mobili avrebbe beneficiato di un vantaggio rispetto a chi lavorava con apparati fissi tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine delle grandi attrezzature di laboratorio a favore delle dimensioni compatte dei componenti hi-fi ad alta impedenza, risultava possibile configurare un sistema dove l'intero studio fosse "alla portata del compositore comodamente seduto"[@mumma2015b, 19-20].
+Un aspetto cruciale riguardava la **portabilità**. Mumma sottolineava come il compositore che costruisse uno studio indipendente con attrezzature mobili avrebbe beneficiato di un vantaggio rispetto a chi lavorava con apparati fissi tipici degli studi istituzionali. Sacrificando la calibrazione precisa e la stabilità a lungo termine delle grandi attrezzature di laboratorio a favore delle dimensioni compatte dei componenti hi-fi ad alta impedenza, risultava possibile configurare un sistema dove l'intero studio fosse "alla portata del compositore comodamente seduto"[@mumma2015, 19-20].
 
 ### L'ONCE Festival (1961-1965): istituzione anti-istituzionale
 
-Dal contesto dello Space Theatre e del Cooperative Studio emerse nel 1961 l'**ONCE Festival**, destinato a divenire "un luogo principale e multisede per la nuova musica internazionale nel Midwest americano per gran parte degli anni Sessanta"[@mumma2015b, 1].
+Dal contesto dello Space Theatre e del Cooperative Studio emerse nel 1961 l'**ONCE Festival**, destinato a divenire "un luogo principale e multisede per la nuova musica internazionale nel Midwest americano per gran parte degli anni Sessanta"[@mumma2015, 1].
 
 ### Genesi: la proposta di Waldrop
 
@@ -130,11 +141,11 @@ Il gruppo aveva già collaborato a vari progetti dall'inizio del 1960, includend
 
 ### Il conflitto con l'università
 
-Nonostante alcuni membri del gruppo insegnassero presso la University of Michigan, "praticamente tutti i tentativi di ottenere supporto da quell'istituzione incontrarono resistenza e persino animosità"[@mumma2015b, 24].
+Nonostante alcuni membri del gruppo insegnassero presso la University of Michigan, "praticamente tutti i tentativi di ottenere supporto da quell'istituzione incontrarono resistenza e persino animosità"[@mumma2015, 24].
 
-Questa resistenza si trasformò in conflitto aperto negli anni successivi. "Una resistenza distinta si sviluppò all'interno della comunità della University of Michigan School of Music. La competizione fu probabilmente un fattore quando, in seguito al primo ONCE Festival, venne finalmente organizzata una serie di musica contemporanea sotto gli auspici universitari"[@mumma2015b, 29-30].
+Questa resistenza si trasformò in conflitto aperto negli anni successivi. "Una resistenza distinta si sviluppò all'interno della comunità della University of Michigan School of Music. La competizione fu probabilmente un fattore quando, in seguito al primo ONCE Festival, venne finalmente organizzata una serie di musica contemporanea sotto gli auspici universitari"[@mumma2015, 29-30].
 
-Il punto critico fu raggiunto durante l'ONCE Festival del 1963: "Durante il festival del 1963 si verificò un boicottaggio quasi unanime dei concerti da parte dei docenti della School of Music, con pressioni applicate agli studenti di musica per fare altrettanto sulla base del fatto che tali attività fossero accademicamente, culturalmente e moralmente disdicevoli"[@mumma2015b, 30].
+Il punto critico fu raggiunto durante l'ONCE Festival del 1963: "Durante il festival del 1963 si verificò un boicottaggio quasi unanime dei concerti da parte dei docenti della School of Music, con pressioni applicate agli studenti di musica per fare altrettanto sulla base del fatto che tali attività fossero accademicamente, culturalmente e moralmente disdicevoli"[@mumma2015, 30].
 
 Le discussioni e i conflitti tra studenti e professori "sconvolgevano i programmi delle lezioni per settimane attorno a ciascun festival". Per alcuni studenti performers, ONCE divenne "un'attività extracurricolare che quasi completamente usurpava la loro attenzione".
 
@@ -144,7 +155,7 @@ Il paradosso della situazione raggiunse l'apice quando "due ensemble di altre im
 
 Fu un'organizzazione locale, non universitaria, a salvare il progetto. Ashley e Reynolds si rivolsero al **Dramatic Arts Center**, che forniva già da anni supporto modesto a programmi di repertory theater e cinema sperimentale ad Ann Arbor.
 
-La missione del Center - "incoraggiare sviluppi importanti ma poco conosciuti nelle arti, inclusa la creazione sperimentale in drammaturgia, musica, film e altri media" - era simile agli obiettivi dichiarati delle fondazioni nazionali che avevano rifiutato le richieste di ONCE. Tuttavia esisteva una differenza essenziale: "La differenza essenziale era che il Dramatic Arts Center faceva parte della nostra comunità immediata e sosteneva la sua retorica. Il suo supporto ci permise di realizzare qualcosa di nostro, indipendente dalla spersonalizzazione dei colossi finanziari"[@mumma2015b, 28].
+La missione del Center - "incoraggiare sviluppi importanti ma poco conosciuti nelle arti, inclusa la creazione sperimentale in drammaturgia, musica, film e altri media" - era simile agli obiettivi dichiarati delle fondazioni nazionali che avevano rifiutato le richieste di ONCE. Tuttavia esisteva una differenza essenziale: "La differenza essenziale era che il Dramatic Arts Center faceva parte della nostra comunità immediata e sosteneva la sua retorica. Il suo supporto ci permise di realizzare qualcosa di nostro, indipendente dalla spersonalizzazione dei colossi finanziari"[@mumma2015, 28].
 
 Il supporto era "sempre diretto e immediato", senza overhead amministrativo. Questa precaria situazione finanziaria presentava i suoi vantaggi: "indipendenza e flessibilità".
 
@@ -167,7 +178,7 @@ Complessivamente: 29 concerti presentati durante sei ONCE Festivals, includendo 
 
 La progressione delle sedi rivela molto sulla natura del festival. Dopo i primi due anni nella piccola auditorium della First Unitarian Church, quando "le prove e i concerti divennero un'imposizione per le attività della chiesa", il terzo festival si trasferì al meeting hall dell'Ann Arbor Community Center. Quando fu necessario uno spazio più ampio, venne ingaggiata la locale VFW Hall.
 
-Per il sesto festival, ONCE AGAIN, il consiglio comunale fu petizionato per l'uso del parcheggio municipale. "La nostra serie di sedi concertistiche non tradizionali si rivelò curiosamente stimolante, contribuendo al dinamismo del progetto ONCE. I compositori dovettero considerare le implicazioni di ambienti insoliti nella creazione e presentazione delle loro opere"[@mumma2015b, 28].
+Per il sesto festival, ONCE AGAIN, il consiglio comunale fu petizionato per l'uso del parcheggio municipale. "La nostra serie di sedi concertistiche non tradizionali si rivelò curiosamente stimolante, contribuendo al dinamismo del progetto ONCE. I compositori dovettero considerare le implicazioni di ambienti insoliti nella creazione e presentazione delle loro opere"[@mumma2015, 28].
 
 Un esempio significativo: la prima esecuzione di *The Dresden Interleaf 13 February 1945* di Mumma al quinto festival (20 febbraio 1965 - ventesimo anniversario del bombardamento di Dresda) richiese un sistema di altoparlanti multipli che circondasse il pubblico. Tuttavia, poiché il pubblico era seduto contro le pareti della VFW Hall, gli altoparlanti dovettero essere montati considerevolmente sopra le loro teste. Mumma scoprì che un'azienda locale, Lahti, produceva piccoli altoparlanti mini U-5 leggeri che potevano essere appesi nell'intera sala con semplice spago da imballaggio. Sedici di questi piccoli altoparlanti fornirono una dispersione sonora migliore rispetto a quattro altoparlanti grandi, eliminando l'indesiderato "effetto punto-sorgente".
 
@@ -189,7 +200,7 @@ Un aspetto cruciale fu la presenza di David Tudor, che nel 1965 eseguì *Variati
 
 ### L'ecosistema culturale
 
-L'ONCE Festival non si sviluppò in isolamento. Era "solamente una delle numerose attività culturali correlate ad Ann Arbor, estendentesi dalle pure arti grafiche al regno performativo e includendo diverse collaborazioni fiorenti"[@mumma2015b, 30].
+L'ONCE Festival non si sviluppò in isolamento. Era "solamente una delle numerose attività culturali correlate ad Ann Arbor, estendentesi dalle pure arti grafiche al regno performativo e includendo diverse collaborazioni fiorenti"[@mumma2015, 30].
 
 Le attività collaterali includevano:
 
@@ -345,11 +356,11 @@ Gordon Mumma dimostrò che era possibile fare musica elettroacustica sofisticata
 
 Se Gordon Mumma rappresentò l'ingegnere-compositore e David Tudor il performer-compositore, Robert Ashley (nato 1930) incarnò la figura del compositore-regista, trasformando il live electronics in un medium teatrale dove voce, elettronica e spazio scenico si fondevano in un'unità inscindibile.
 
-Il percorso di Ashley iniziò nei primi anni '50 alla University of Michigan, dove incontrò Mumma negli stessi seminari di composizione di Ross Lee Finney. Ma fu il coinvolgimento con lo Space Theatre di Milton Cohen, dal 1957, a determinare la direzione della sua ricerca. Come ricorda Mumma, visitando lo studio di Ashley al 507 Granger Avenue, ascoltò la sua composizione su nastro appena completata *The Fox*, che rivelò "the unique and subtle nuances of his speaking voice"[@mumma2015b, 252] — le radici, ancora non previste allora, della straordinaria virtuosità verbale che avrebbe caratterizzato il suo lavoro teatrale successivo, in particolare le opere liriche.
+Il percorso di Ashley iniziò nei primi anni '50 alla University of Michigan, dove incontrò Mumma negli stessi seminari di composizione di Ross Lee Finney. Ma fu il coinvolgimento con lo Space Theatre di Milton Cohen, dal 1957, a determinare la direzione della sua ricerca. Come ricorda Mumma, visitando lo studio di Ashley al 507 Granger Avenue, ascoltò la sua composizione su nastro appena completata *The Fox*, che rivelò "the unique and subtle nuances of his speaking voice"[@mumma2015, 252] — le radici, ancora non previste allora, della straordinaria virtuosità verbale che avrebbe caratterizzato il suo lavoro teatrale successivo, in particolare le opere liriche.
 
 ### Lo studio come strumento performativo
 
-Nel 1960, Ashley e Mumma fondarono insieme il Cooperative Studio for Electronic Music[@mumma2015b, 10]. Ma mentre Mumma si orientava verso la costruzione di circuiti portatili per la performance dal vivo, Ashley sviluppò un approccio differente: costruì uno studio progettato specificamente non per la produzione di tape music come oggetto finito, ma come **ambiente per la performance in tempo reale**.
+Nel 1960, Ashley e Mumma fondarono insieme il Cooperative Studio for Electronic Music[@mumma2015, 10]. Ma mentre Mumma si orientava verso la costruzione di circuiti portatili per la performance dal vivo, Ashley sviluppò un approccio differente: costruì uno studio progettato specificamente non per la produzione di tape music come oggetto finito, ma come **ambiente per la performance in tempo reale**.
 
 L'opera *The Fourth of July* (1960) esemplifica questo approccio. Come osserva Mumma, fu "a tape composition for theater as well as concert presentation, was made in a studio of the composer's own design, which allowed for considerable real-time performance on the equipment"[@mumma1975, 295]. 
 
@@ -367,15 +378,15 @@ Ashley utilizzò anche sintetizzatori Moog e tecniche microfoniche non convenzio
 
 ### Il "New Music for Pianos" e le collaborazioni
 
-Nel 1965, Ashley e Mumma stabilirono la serie **"New Music for Pianos"** in connessione con l'ONCE Group[@mumma2015b, 33]. Come ricorda Mumma, "touring the Midwest in his old Lincoln Continental, we took our New Music for Pianos series on the road"[@mumma2015b, 252]. Il repertorio includeva musica per uno e due pianoforti, percussioni, corno, e talvolta elettronica integrata — eseguivano composizioni proprie e di altri, insieme a collaborazioni con il filmmaker George Manupelli come *Five Short Films* (1965)[@mumma2015b, 252].
+Nel 1965, Ashley e Mumma stabilirono la serie **"New Music for Pianos"** in connessione con l'ONCE Group[@mumma2015, 33]. Come ricorda Mumma, "touring the Midwest in his old Lincoln Continental, we took our New Music for Pianos series on the road"[@mumma2015, 252]. Il repertorio includeva musica per uno e due pianoforti, percussioni, corno, e talvolta elettronica integrata — eseguivano composizioni proprie e di altri, insieme a collaborazioni con il filmmaker George Manupelli come *Five Short Films* (1965)[@mumma2015, 252].
 
-Questa serie itinerante incarnava perfettamente lo spirito del movimento: nessuna grande istituzione, nessun budget sostanzioso, solo due compositori in un'auto che portavano la new music nelle comunità del Midwest americano. Come osserva Mumma con affetto: "This fox went out on more than 100 nights, hunting out ensembles of performing friends"[@mumma2015b, 252].
+Questa serie itinerante incarnava perfettamente lo spirito del movimento: nessuna grande istituzione, nessun budget sostanzioso, solo due compositori in un'auto che portavano la new music nelle comunità del Midwest americano. Come osserva Mumma con affetto: "This fox went out on more than 100 nights, hunting out ensembles of performing friends"[@mumma2015, 252].
 
 ### Il teatro elettronico multimediale
 
 Ashley fu centrale nello sviluppo di quello che chiamava "electronic music theater". Un esempio rappresentativo è *in memoriam...Crazy Horse* (1964), presentato all'ONCE Festival. Le sue opere integravano sistematicamente dimensioni visive, spaziali e performative con l'elettronica sonora.
 
-Nel 1965 formò **Mary Ashley's Truck**, ensemble teatrale che performava multimedia events, "sometimes on the streets of Ann Arbor"[@mumma2015b, 33]. Questo spostamento del live electronics letteralmente "nelle strade" — fuori dalle sale da concerto, fuori dagli studi, nello spazio pubblico urbano — rappresentava una radicalizzazione ulteriore della ricerca di nuovi contesti performativi per la musica elettroacustica.
+Nel 1965 formò **Mary Ashley's Truck**, ensemble teatrale che performava multimedia events, "sometimes on the streets of Ann Arbor"[@mumma2015, 33]. Questo spostamento del live electronics letteralmente "nelle strade" — fuori dalle sale da concerto, fuori dagli studi, nello spazio pubblico urbano — rappresentava una radicalizzazione ulteriore della ricerca di nuovi contesti performativi per la musica elettroacustica.
 
 Il repertorio del Sonic Arts Union rifletteva questa diversità di approcci. Come ricorda Lucier del tour europeo del 1969, performavano opere di Ashley come *Wolfman*, *Fancy Free* (dove "each player had an attache case and a cassette machine"), e *Frogs* (dove Ashley "had these lights and devices that would sense proximity")[@chadabe1997, 102]. Ogni opera sperimentava con differenti modalità di interazione tra performer, tecnologia, spazio e audience.
 
