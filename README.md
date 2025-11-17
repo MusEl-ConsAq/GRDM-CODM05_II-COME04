@@ -1,6 +1,6 @@
 ---
-title: "Cosa è Live Electronics"
-subtitle: "Come tecnologia e contesti istituzionali hanno trasformato il pensiero compositivo nel Live Electronics: da Mumma e Nono all'IRCAM agli approcci ecosistemici"
+title: "Live Electronics: un racconto plurale. Oltre i confini di una storiografia eurocentrica."
+subtitle: "Tecnologia, contesti istituzionali e trasformazione il pensiero musicale e della prassi nel Live Electronics: Le storie "
 author: "Giulio Romano De Mattia"
 date: "15/03/2026"
 conservatorio: "Conservatorio A. Casella, L'Aquila"
