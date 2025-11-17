@@ -1,5 +1,5 @@
 
-```mermaid
+```{.mermaid loc=docs/images}
 mindmap
   root((SCENARIO NORD-AMERICANO<br/>1957-1973))
     ANN ARBOR: Laboratorio collettivo
