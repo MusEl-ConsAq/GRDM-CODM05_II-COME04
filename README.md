@@ -30,11 +30,11 @@ nocite: "@*"
 
 # GENESI DEL LIVE ELECTRONICS
 
-Definire con precisione cosa si intenda per *live electronics* presenta difficoltà che vanno ben oltre una semplice questione terminologica. Come osserva Agostino Di Scipio:
+La definizione precisa di *live electronics* incontra problematiche che superano la mera dimensione terminologica. Secondo l'analisi di Agostino Di Scipio:
 
-> "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5]. 
+> "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5].
 
-La locuzione cerca, in realtà, di raccogliere sotto un'unica etichetta **un insieme eterogeneo di prassi esecutive** che si sviluppano nell'arco di almeno due decenni del Novecento, in contesti geografici e istituzionali profondamente diversi.
+L'espressione rappresenta piuttosto il tentativo di riunire sotto una singola denominazione **una molteplicità eterogenea di pratiche esecutive** sviluppatesi nel corso di almeno vent'anni del Novecento, attraverso contesti geografici e istituzionali profondamente differenziati.
 
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
