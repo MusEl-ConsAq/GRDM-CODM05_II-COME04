@@ -1,9 +1,6 @@
-# Appendice A
+# Appendice A - Interviste dalle vite "dal vivo"
 
-## Interviste dalle vite "dal vivo"
-
-
-### Giuseppe Silvi
+## Giuseppe Silvi
 
 #### Secondo te è considerabile live electronics?
 

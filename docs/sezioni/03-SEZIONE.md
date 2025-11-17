@@ -1,3 +1,161 @@
+
+```mermaid
+mindmap
+  root((SCENARIO NORD-AMERICANO<br/>1957-1973))
+    ANN ARBOR: Laboratorio collettivo
+      Manifestations 1957-1964
+        Mumma, Ashley
+        Milton Cohen Space Theatre
+        Amplified small sounds
+        Light + Sound + Film
+      ONCE Festival 1961-1969
+        67 premiere
+        ONCE Group ensemble itinerante
+        ONCE Chamber Ensemble
+        Collaborazioni interdisciplinari
+      Cooperative Studio 1960
+        Mumma + Ashley
+        Studio come strumento performativo
+        Cybersonic equipment design
+        Film soundtracks
+      Ecosistema completo
+        Ann Arbor Film Festival 1963
+        Mary Ashley's Truck 1965
+        New Music for Pianos series
+        University of Michigan network
+    
+    GORDON MUMMA: Ingegnere-compositore
+      Cybersonics filosofia
+        Cybersonics company + Ribbens
+        Compositore = ingegnere
+        Circuiti custom per ogni opera
+        Portabilità cybersonic belt-box
+      Opere chiave
+        Medium Size Mograph 1 1963
+        Mesa 1966 per Cunningham
+        Hornpipe 1967
+        Spectrum Transfer ring modulator per Tudor
+      Filosofia tecnica
+        DIY necessity → tradition
+        Feedback e interazione
+        Acustica ecologica
+        Democratizzazione accesso
+      Collaborazioni
+        Cunningham Dance Company 1966-73
+        Cage + Tudor dal 1960
+        Sonic Arts Union
+    
+    ROBERT ASHLEY: Compositore-regista
+      Teatro elettronico
+        Space Theatre Milton Cohen 1957
+        Voce + elettronica + spazio
+        Studio come performance environment
+      Opere
+        The Fox tape speaking voice
+        The Fourth of July 1960
+        Public Opinion 1961
+        The Wolfman 1964
+      Approccio
+        Real-time studio techniques
+        Nastro come storage non prodotto finale
+        Audience interaction
+        Ibridazione tape live
+    
+    DAVID TUDOR: Performer-compositore
+      Filosofia compositiva
+        Release what's there
+        The object should teach you
+        Oggetti risonanti + speaker
+        Compound instrument assemblaggio provvisorio
+      Opere Tecniche
+        Rainforest I-IV 1968-1973
+        Bandoneon! 1966
+        Fluorescent Sound
+        Transducers elettromagnetici
+      Legacy pedagogico
+        Chocorua workshop 1973
+        Composers Inside Electronics
+        Hardware hacking tradition
+        Open-form scores
+      Equipment
+        Spectrum Transfer Mumma
+        Uso 30 anni 1965-1990s
+        Modular devices custom
+    
+    ALTRI PIONIERI
+      Richard Maxfield 1927-69
+        Real-time studio techniques
+        Night Music 1960
+        Piano Concert for Tudor 1961
+        Tape as performance not product
+      Pauline Oliveros 1932-2016
+        I of IV 1966
+        Real-time stereophonic
+        Feedback acustico
+        Approccio ecosistemico
+      Terry Riley 1935-
+        Poppy Nogood 1966
+        Rainbow in Curved Air 1968
+        Loop + layering techniques
+        Sax + tape recorders + organ
+      Alvin Lucier 1931-2021
+        Music for Solo Performer 1965
+        I Am Sitting in a Room 1970
+        Vespers 1968
+        Processi semi-autonomi
+    
+    SONIC ARTS UNION 1966-1973
+      Membri
+        Gordon Mumma
+        Robert Ashley
+        Alvin Lucier
+        David Behrman
+      Caratteristiche
+        Collettivo senza gerarchia
+        Condivisione equipment
+        Touring USA + Europa
+        Ognuno fa proprie opere
+      Fine 1973
+        Mumma → UC Santa Cruz
+        Ashley → Mills College
+        Behrman → Mills College
+        Crisi di cosa significasse musica
+    
+    COLLABORAZIONE CAGE + TUDOR
+      Cartridge Music 1960
+        Tudor ordina cybersonics da Mumma
+        Amplified small sounds
+        Contact microphones
+      Cunningham Dance Company
+        Mumma musicista + tech assistant 1966-73
+        Variations V 1966 problem-solving
+        Mesa per Place 1966
+        Tour Brooklyn Rio Paris Persepolis
+      Filosofia condivisa
+        Giardino di idee condivise
+        Recinti minimi
+        Scambio equipment e tecniche
+        Procedure compositive diverse
+    
+    LEGACY: Necessità → Tradizione
+      Necessità iniziale pre-1965
+        No synths commerciali
+        DIY obbligatorio
+        Transistor accessibili
+        No engineering degree necessaria
+      Tradizione americana
+        Tudor + Mumma → generazioni successive
+        Partch costruire propri strumenti
+        Hardware hacking continuo
+        Democratizzazione mezzi produzione
+      Principi duraturi
+        Feedback
+        Interazione umano-macchina
+        Site-specificity
+        Ecologia acustica
+        Collaborazione creativa
+```
+
 # IL MODELLO AMERICANO: COMUNITÀ, DIY E SPERIMENTAZIONE COLLETTIVA
 
 ### John Cage: Dal Prepared Piano ai Microsuoni Amplificati**
