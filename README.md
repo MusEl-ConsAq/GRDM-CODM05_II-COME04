@@ -16,7 +16,6 @@ toc: true
 toc-depth: 2
 bibliography:
   bib: docs/bibliografia.bib
-  dis: docs/discografia.bib
   sit: docs/sitografia.bib
 csl: styles/consAq-author-date.csl
 nocite: "@*"
@@ -779,12 +778,9 @@ Ringrazio Luca Spanedda per la lucidità con cui osserva la storia e per l'aiuto
 Ringrazio Agositno Di Scipio per la sua vocazione storica che ha inquadrato la correlazione di pensiero e tecnologia con un'indagine critica per la storia delle prassi elettroacustiche su cui mi sono affidato come cardine portante per la scrittura della tesina.
 
 
-# Appendice A
+# Appendice A - Interviste dalle vite "dal vivo"
 
-## Interviste dalle vite "dal vivo"
-
-
-### Giuseppe Silvi
+## Giuseppe Silvi
 
 #### Secondo te è considerabile live electronics?
 
@@ -824,11 +820,6 @@ Con elettroacustico intendo un passaggio della musica dal solo dominio acustico 
 # BIBLIOGRAFIA
 
 ::: {#refs-bib}
-:::
-
-# DISCOGRAFIA
-
-::: {#refs-dis}
 :::
 
 # SITOGRAFIA
