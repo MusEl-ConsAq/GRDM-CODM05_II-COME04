@@ -31,7 +31,3 @@ Tutto questo mi fa ricordare quella volta in cui Walter Branchi ci chiese: «per
 #### Nota
 
 Con elettroacustico intendo un passaggio della musica dal solo dominio acustico ad un dominio elettro-acustico. Con dominio intendo sia campo che dominazione, l'uomo, dominando l'elettricità, ha dominato nuove dimensioni dell'essere uomo al mondo. L'elettronica è una fase dell'essere elettrico che ha sfumature tecnologiche, l'introduzione successiva di soluzioni evolute a problemi sollevati dal mondo elettrico. Voglio dire, quando si entra nella fase elettronica? Ciò ha portato un cambio radicale su scala planetaria? No, non come l'introduzione dell'elettricità. Sì ci sono stati salti, notevoli, miniaturizzazioni, soluzioni assurde! ma il passaggio da un dominio acustico a uno elettro-acustico non è stato risolto saltando in un altro dominio. Anche l'odierno uso di dispositivi a elaborazione numerica è inserito in una catena elettro-acustica. La chitarra elettrica è un salto dalla chitarra classica. Se poi la fanno anche elettronica non cambia più nulla --- sto dando per scontato che si consideri l'amplificazione parte dello strumento che chiamiamo Chitarra Elettrica. Elettroacustico per me è un dominio dell'essere. Elettronico è una delle classificazioni tecnologiche di quel dominio. L'oscillatore virtuale è più virtuale di un Beethoven sul divano di casa? «La parola è la cosa stessa, ma non è la stessa cosa». (Ferraris)
-
-### Marco Di Gasbarro
-
-### Davide Tedesco
