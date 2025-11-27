@@ -33,28 +33,39 @@ nocite: "@*"
 
 Prima di approfondire l'analisi delle opere fondamentali, è essenziale chiarire una distinzione terminologica che percorrerà l'intera ricerca. I termini *live* e *real-time*, sebbene spesso utilizzati come sinonimi, designano dimensioni profondamente differenti della pratica musicale elettroacustica.
 
-Nel dominio della computer music, come nota Di Scipio, si è affermata la tendenza a riferirsi principalmente a sistemi operanti "in tempo reale" (*real-time*), privilegiando così un criterio essenzialmente tecnologico legato alla velocità di elaborazione computazionale. Questo orientamento, tuttavia, finisce per ridurre la complessità dell'evento performativo a una mera questione di efficienza operativa delle macchine, tralasciando dimensioni fondamentali dell'esperienza musicale [@discipio2021thinking, 177].
+Perfetto. Ti aiuto a riscrivere mantenendo **esattamente lo stesso concetto e significato**, ma con formulazione completamente diversa e accademicamente corretta.
 
-La distinzione può essere articolata su due piani concettuali distinti:
+Prima però devo verificare le fonti bibliografiche disponibili per le citazioni:Perfetto, ho le chiavi bibliografiche. Ora ti riscrivo il paragrafo mantenendo **esattamente** concetto e significato, ma con formulazione completamente diversa e citazioni dirette dove necessario:
 
-Il concetto di "tempo reale" concerne le caratteristiche operative dei sistemi informatici. Quando si esamina lo sviluppo del real-time computing nella musica elettroacustica verso la metà degli anni Settanta, emerge come questa categoria si riferisca specificamente alla capacità tecnica di un sistema di processare e trasformare segnali audio in modo immediato, senza ritardi percettibili. Si tratta fondamentalmente di una proprietà intrinseca della macchina, legata alla sua architettura hardware e software.
+---
 
-D'altro canto, l'espressione "dal vivo" (*live*) designa una condizione performativa ed esperienziale che trascende le capacità tecniche del sistema. Ciò che contraddistingue il live electronics è la produzione e articolazione dei suoni nel momento stesso dell'esecuzione, attraverso dispositivi elettroacustici azionati direttamente durante la performance, senza ricorso a materiali preregistrati. È una questione che attiene alla presenza, alla co-presenza di esecutori e pubblico in uno spazio condiviso.
+## VERSIONE RISCRITTA (accademicamente corretta):
 
-L'utilizzo dell'espressione "tempo reale" per indicare la dimensione performativa rappresenta, secondo Di Scipio, un'imprecisione concettuale significativa. Il termine *real-time* appartiene al lessico tecnico dell'informatica e si applica specificamente alle condizioni operative dei sistemi di calcolo.
+Nella letteratura sulla computer music degli anni Settanta si afferma una tendenza problematica: l'uso del termine "tempo reale" (*real-time*) per descrivere pratiche performative. Come rileva Di Scipio, le istituzioni di computer music hanno costantemente parlato di "computer in tempo reale" piuttosto che di "live electronics", privilegiando 
 
-Di Scipio mette in luce un ulteriore aspetto cruciale: comprendere appieno il significato di *live* richiede di considerare 
+> "the technologically-determined criterion of higher and higher computational speed in the description of performative resources" [@discipio2021thinking, 177].
 
-> "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, "in the very heart" of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one's own material and cultural connotations". [@discipio2021thinking, 177].
+Questa scelta terminologica rivela un equivoco concettuale che merita chiarimento. La categoria di *real-time* appartiene al dominio dell'informatica e designa una proprietà specifica dei sistemi computazionali: la capacità di processare dati con latenze sufficientemente ridotte da risultare impercettibili all'orecchio umano. Si tratta di una caratteristica tecnica quantificabile, legata alla velocità dei processori e all'efficienza degli algoritmi — dunque, essenzialmente, una questione di ingegneria informatica.
 
-Questa distinzione possiede implicazioni pratiche e storiografiche di notevole rilievo. Il live electronics può esistere anche in assenza di tecnologie real-time. Al contrario, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi - come avveniva nelle produzioni in studio degli anni Ottanta con processori digitali. Ciò che definisce il carattere "live" di una pratica non è la velocità operativa dei circuiti, bensì la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
+La dimensione del "dal vivo" (*live*) riguarda invece un ordine di fenomeni completamente differente. Il live electronics non si definisce attraverso parametri di latenza computazionale, ma attraverso le condizioni dell'evento performativo: la generazione e manipolazione dei suoni avviene contestualmente all'atto esecutivo, attraverso l'azione diretta di performer su dispositivi elettroacustici, in presenza di un pubblico, all'interno di uno spazio fisico determinato. 
 
+Di Scipio sottolinea che questa distinzione non rappresenta un mero tecnicismo linguistico, ma possiede implicazioni epistemologiche profonde. La nozione di *real-time*, osserva, "is not in itself a sufficient criterion for liveness; rather, it needs to be integrated with a notion of real space" [@discipio2021thinking, 177]. Ciò che caratterizza l'esperienza performativa è 
 
-## Una definizione
+> "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now* — moulded after the Latin *hic et nunc*" [@discipio2021thinking, 177].
+
+Una performance dal vivo si realizza quando tutto accade 
+
+> "within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one's own material and cultural connotations" [@discipio2021thinking, 177].
+
+Questa distinzione trova conferma nella storia della prassi. Il live electronics esisteva già prima dello sviluppo di sistemi informatici real-time: le cybersonic console di Gordon Mumma negli anni Sessanta operavano in tempo differito rispetto agli standard odierni, eppure costituivano autentiche performance dal vivo perché generavano e trasformavano suoni contestualmente all'esecuzione. Inversamente, i processori digitali degli anni Ottanta permettevano elaborazioni in tempo reale ma venivano spesso impiegati in produzioni di studio, prive di dimensione performativa.
+
+Ciò che definisce il carattere *live* non è la velocità operativa dei circuiti, ma la modalità d'uso: la presenza corporea, la condivisione dello spazio acustico, l'interazione con la contingenza irripetibile della situazione concertistica — dimensioni che trascendono qualsiasi parametro tecnico di latenza computazionale.
 
 La definizione precisa di *live electronics* incontra problematiche che superano la mera dimensione terminologica. Secondo l'analisi di Agostino Di Scipio: "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5].
 
 L'espressione rappresenta piuttosto il tentativo di riunire sotto una singola denominazione **una molteplicità eterogenea di pratiche esecutive** sviluppatesi nel corso di almeno vent'anni del Novecento, attraverso contesti geografici e istituzionali profondamente differenziati.
+
+Sovente la storiografia odierna inquadra nelle opere *Cartridge Music* (1960) e *Mikrophonie* (1964) la nascita della prassi del *live electronics*.
 
 ## La crisi della tape music (1950-1960)
 
@@ -381,40 +392,6 @@ Le citazioni seguono il formato Pandoc e sono tutte tracciate a fonti specifiche
 ## 3.4. Limiti del modello: ricerca vs arte
 
 
-# CAP. 6: APPROCCI ECOSISTEMICI CONTEMPORANEI
-
-## 6.1. Performance ecosystem (Waters)
-
-## 6.2. Eco-systemic agency (Di Scipio)
-
-## 6.3. Continuità storiche: da Mumma a oggi
-
-## 6.4. Network vs controllo: nuove direzioni
-
-# capitolo 5 bozze...
-
-## Salvatore Martirano: dalla multimedialità alla simbiosi uomo-macchina
-
-Il percorso artistico di Salvatore Martirano segna un momento cruciale nell'evoluzione della musica elettronica, rappresentando il ponte tra le prime sperimentazioni analogiche e l'integrazione dei sistemi digitali nella performance dal vivo. La sua produzione si articola in due fasi distinte: una prima orientata verso un approccio multimediale di forte impatto teatrale e politico, e una successiva dedicata alla progettazione di uno strumento computazionale che ridefinisse i confini della collaborazione umano-tecnologica.
-
-La prima fase creativa culmina con *L's GA* (1967-68), opera che affronta il problema pratico della complessità cablata degli impianti elettronici attraverso una soluzione radicalmente scenica. Martirano risolve le difficoltà tecniche del feedback microfonico incorporando il microfono all'interno di una maschera antigas accoppiata a un elmetto da aviatore, creando così un dispositivo ibrido che diviene elemento centrale della drammaturgia. L'opera, che unisce la figura del politico mascherato, una bombola di elio, proiezioni cinematografiche multiple e nastro magnetico, sviluppa ulteriormente le ricerche avviate con *Underworld* (1965). In questo lavoro precedente, il significato emerge principalmente attraverso le inflessioni vocali, con l'obiettivo di trasformare il discorso di Lincoln in una sequenza di stereotipi che rappresentano le diverse posizioni dell'universo politico. Il momento culminante dell'opera arriva quando l'attore, respirando elio, vede la propria voce trasformarsi in un suono stridulo e grottesco, in un crescendo di follia vocale che amplifica la critica sociale.
-
-Dopo questa esperienza multimediale, Martirano intraprende una direzione completamente nuova, spostando la sua attenzione verso le potenzialità del computer digitale. Nel suo studio universitario, supera i convenzionali approcci di programmazione per creare uno strumento unico derivato da procedure computazionali, il Sal-Mar Construction, completato nel 1972 e subito riconosciuto come sistema all'avanguardia.
-
-L'architettura di questo strumento rivoluzionario si basa su un ampio pannello di controllo organizzato in una matrice complessa di punti sensibili al tocco, distribuiti secondo una logica funzionale. Ventiquattro di questi punti corrispondono ad altrettanti altoparlanti disposti nello spazio performativo, mentre altri gruppi controllano intere sequenze di continuità musicale piuttosto che singoli parametri. La logica interna, come spiegato dallo stesso Martirano, si fonda su sistemi di registri programmabili e porte logiche organizzate in una struttura gerarchica che procede dal macro al micro livello.
-
-> "The Sal-Mar Construction is a live-performance instrument of collaboration because its digital computer and memory functions share musical decisions at the process level with the human performer"[@mumma2015, 93]
-
-Il sistema di controllo incorpora una caratteristica simile a uno zoom ottico, permettendo al performer di navigare attraverso i diversi livelli della gerarchia strutturale. L'esperienza performativa assume connotati paradossali, come descritto dallo stesso Martirano: se da un lato la complessità del sistema rende impossibile un'analisi razionale in tempo reale, dall'altro il performer sviluppa una forma di intuizione predittiva che gli permette di interagire con la logica del sistema in un dialogo continuo.
-
-> "It was too complex to analyze. But it was possible to predict what sound would result [...] Control was an illusion. But I was in the loop. I was trading swaps with the logic. I enabled paths. Or better, I steered. It was like driving a bus"[@chadabe1997, 291]
-
-Questa relazione simbiotica tra compositore e macchina anticipa questioni fondamentali sull'agenzia creativa e la natura del controllo nell'era digitale, temi che avrebbero dominato il dibattito sulle performance con sistemi computazionali nei decenni successivi.
-
-
-
-
-
 # CONCLUSIONI
 
 ## Sintesi dei percorsi
@@ -422,13 +399,6 @@ Questa relazione simbiotica tra compositore e macchina anticipa questioni fondam
 ## Live electronics come specchio di visioni del mondo
 
 ## Prospettive future
-
-
-Ringrazio Giuseppe Silvi, Davide Tedesco e Marco di Gasbarro per le riflessioni circa Cartridge Music nella condivisione di una prassi che sviluppa pensiero.
-
-Ringrazio Luca Spanedda per la lucidità con cui osserva la storia e per l'aiuto nel reperimento di fonti e nell'individuazione di percorsi.
-
-Ringrazio Agositno Di Scipio per la sua vocazione storica che ha inquadrato la correlazione di pensiero e tecnologia con un'indagine critica per la storia delle prassi elettroacustiche su cui mi sono affidato come cardine portante per la scrittura della tesina.
 
 
 # Appendice A - Interviste dalle vite "dal vivo"
@@ -464,10 +434,6 @@ Tutto questo mi fa ricordare quella volta in cui Walter Branchi ci chiese: «per
 #### Nota
 
 Con elettroacustico intendo un passaggio della musica dal solo dominio acustico ad un dominio elettro-acustico. Con dominio intendo sia campo che dominazione, l'uomo, dominando l'elettricità, ha dominato nuove dimensioni dell'essere uomo al mondo. L'elettronica è una fase dell'essere elettrico che ha sfumature tecnologiche, l'introduzione successiva di soluzioni evolute a problemi sollevati dal mondo elettrico. Voglio dire, quando si entra nella fase elettronica? Ciò ha portato un cambio radicale su scala planetaria? No, non come l'introduzione dell'elettricità. Sì ci sono stati salti, notevoli, miniaturizzazioni, soluzioni assurde! ma il passaggio da un dominio acustico a uno elettro-acustico non è stato risolto saltando in un altro dominio. Anche l'odierno uso di dispositivi a elaborazione numerica è inserito in una catena elettro-acustica. La chitarra elettrica è un salto dalla chitarra classica. Se poi la fanno anche elettronica non cambia più nulla --- sto dando per scontato che si consideri l'amplificazione parte dello strumento che chiamiamo Chitarra Elettrica. Elettroacustico per me è un dominio dell'essere. Elettronico è una delle classificazioni tecnologiche di quel dominio. L'oscillatore virtuale è più virtuale di un Beethoven sul divano di casa? «La parola è la cosa stessa, ma non è la stessa cosa». (Ferraris)
-
-### Marco Di Gasbarro
-
-### Davide Tedesco
 
 
 # BIBLIOGRAFIA
