@@ -31,23 +31,16 @@ nocite: "@*"
 
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
-Prima di approfondire l'analisi delle opere fondamentali, è essenziale chiarire una distinzione terminologica che percorrerà l'intera ricerca. I termini *live* e *real-time*, sebbene spesso utilizzati come sinonimi, designano dimensioni profondamente differenti della pratica musicale elettroacustica.
+Prima di approfondire l'analisi delle opere fondamentali che vanno a corroborare la tesi, è essenziale chiarire una distinzione terminologica che percorrerà l'intera ricerca. I termini *live* e *real-time*, sebbene spesso utilizzati come sinonimi, designano dimensioni profondamente differenti della pratica musicale elettroacustica.
 
-Nella letteratura sulla computer music degli anni Settanta si afferma una tendenza problematica: l'uso del termine "tempo reale" (*real-time*) per descrivere pratiche performative. Come rileva Di Scipio, le istituzioni di computer music hanno costantemente parlato di "computer in tempo reale" piuttosto che di "live electronics", privilegiando 
-
-> "the technologically-determined criterion of higher and higher computational speed in the description of performative resources" [@discipio2021thinking, 177].
+Nella letteratura sulla computer music degli anni Settanta si afferma una tendenza problematica: l'uso del termine "tempo reale" (*real-time*) per descrivere pratiche performative. Come rileva Di Scipio, le istituzioni di computer music hanno costantemente parlato di "computer in tempo reale" piuttosto che di "live electronics", privilegiando "the technologically-determined criterion of higher and higher computational speed in the description of performative resources" [@discipio2021thinking, 177].
 
 Questa scelta terminologica rivela un equivoco concettuale che merita chiarimento. La categoria di *real-time* appartiene al dominio dell'informatica e designa una proprietà specifica dei sistemi computazionali: la capacità di processare dati con latenze sufficientemente ridotte da risultare impercettibili all'orecchio umano. Si tratta di una caratteristica tecnica quantificabile, legata alla velocità dei processori e all'efficienza degli algoritmi — dunque, essenzialmente, una questione di ingegneria informatica.
 
 La dimensione del "dal vivo" (*live*) riguarda invece un ordine di fenomeni completamente differente. Il live electronics non si definisce attraverso parametri di latenza computazionale, ma attraverso le condizioni dell'evento performativo: la generazione e manipolazione dei suoni avviene contestualmente all'atto esecutivo, attraverso l'azione diretta di performer su dispositivi elettroacustici, in presenza di un pubblico, all'interno di uno spazio fisico determinato. 
 
-Di Scipio sottolinea che questa distinzione non rappresenta un mero tecnicismo linguistico, ma possiede implicazioni epistemologiche profonde. La nozione di *real-time*, osserva, "is not in itself a sufficient criterion for liveness; rather, it needs to be integrated with a notion of real space" [@discipio2021thinking, 177]. Ciò che caratterizza l'esperienza performativa è 
-
-> "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now* — moulded after the Latin *hic et nunc*" [@discipio2021thinking, 177].
-
-Una performance dal vivo si realizza quando tutto accade 
-
-> "within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one's own material and cultural connotations" [@discipio2021thinking, 177].
+Di Scipio sottolinea che questa distinzione non rappresenta un mero tecnicismo linguistico, ma possiede implicazioni epistemologiche profonde. La nozione di *real-time*, osserva, "is not in itself a sufficient criterion for liveness; rather, it needs to be integrated with a notion of real space" [@discipio2021thinking, 177]. Ciò che caratterizza l'esperienza performativa è "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now* — moulded after the Latin *hic et nunc*" [@discipio2021thinking, 177].
+Una performance dal vivo si realizza quando tutto accade "within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one's own material and cultural connotations" [@discipio2021thinking, 177].
 
 Questa distinzione trova conferma nella storia della prassi. Il live electronics esisteva già prima dello sviluppo di sistemi informatici real-time: le cybersonic console di Gordon Mumma negli anni Sessanta operavano in tempo differito rispetto agli standard odierni, eppure costituivano autentiche performance dal vivo perché generavano e trasformavano suoni contestualmente all'esecuzione. Inversamente, i processori digitali degli anni Ottanta permettevano elaborazioni in tempo reale ma venivano spesso impiegati in produzioni di studio, prive di dimensione performativa.
 
@@ -57,7 +50,7 @@ La definizione precisa di *live electronics* incontra problematiche che superano
 
 L'espressione rappresenta piuttosto il tentativo di riunire sotto una singola denominazione **una molteplicità eterogenea di pratiche esecutive** sviluppatesi nel corso di almeno vent'anni del Novecento, attraverso contesti geografici e istituzionali profondamente differenziati.
 
-Sovente la storiografia odierna inquadra nelle opere *Cartridge Music* (1960) e *Mikrophonie* (1964) la nascita della prassi del *live electronics*.
+Sovente la storiografia odierna inquadra nelle opere *Cartridge Music* (1960) e *Mikrophonie* (1964) la nascita della prassi del *live electronics*. Nei prossimi paragrafi ci soffermeremo su alcuni aspetti e caratteri che hanno contribuito a alla nascita del *live electrinics*, primo fra tutti la crisi della *tape music*.
 
 ## La crisi della tape music (1950-1960)
 
