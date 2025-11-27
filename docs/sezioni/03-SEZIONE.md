@@ -37,6 +37,9 @@ Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizza
 
 Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispettivamente microfoni a contatto (*Music for Amplified Toy Pianos*) e tesinte fonografiche (*Cartridge Music*)[@mumma1975, 293]. Queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dallo stesso compositore, costituendo uno stimolo considerevole alla sperimentazione nel live electronics[@mumma1975, 293-294].
 
+\clearpage
+
+# PARTE VECCHIA
 
 ## David Tudor: dal virtuosismo pianistico alla composizione elettroacustica
 
