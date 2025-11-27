@@ -855,7 +855,7 @@ Come scrive nella prefazione a *Handmade Electronic Music*, esisteva una tradizi
 
 Gordon Mumma fondò nel 1960 ad Ann Arbor il **Cooperative Studio for Electronic Music**, il primo studio indipendente del suo genere negli Stati Uniti. Come spiega Mumma, l'idea centrale era che gli individui potessero riunirsi e mettere in comune le risorse, dove il termine "cooperativo" aveva precise ramificazioni politiche che il gruppo considerava necessarie[@mumma2015].
 
-Lo studio si distingueva dai modelli europei per la sua essenziale **mobilità**:  L'attrezzatura non era installata in modo permanente ma progettata per essere portatile, consentendo di trasportarla per performance in diversi spazi. Questa caratteristica fu resa possibile dall'avvento della tecnologia a transistor, che ridusse i costi energetici e aumentò l'affidabilità rispetto ai precedenti sistemi a valvole[@rbma2016].
+Lo studio si distingueva dai modelli europei per la sua essenziale **mobilità**:  L'attrezzatura non era installata in modo permanente ma progettata per essere portatile, consentendo di trasportarla per performance in diversi spazi. Questa caratteristica fu resa possibile dall'avvento della tecnologia a transistor, che ridusse i costi energetici e aumentò l'affidabilità rispetto ai precedenti sistemi a valvole[@Dewar2018].
 
 ### Il ONCE Festival (1961-1965)
 
@@ -881,7 +881,7 @@ Questo modello pedagogico-collaborativo si rivelò fondamentale per trasmettere 
 
 ### Dal studio alla scena
 
-Come già anticipato nel capitolo 1, la musica su nastro soffriva di un problema fondamentale: la sua immobilità. Gli studi istituzionali, come il Columbia-Princeton Center, erano installazioni massive e fisse. Fu la tecnologia a transistor, con la sua miniaturizzazione[@rbma2016], l'affidabilità e i ridotti costi energetici, a rendere finalmente possibile portare l'elettronica fuori dallo studio.
+Come già anticipato nel capitolo 1, la musica su nastro soffriva di un problema fondamentale: la sua immobilità. Gli studi istituzionali, come il Columbia-Princeton Center, erano installazioni massive e fisse. Fu la tecnologia a transistor, con la sua miniaturizzazione[@Dewar2018], l'affidabilità e i ridotti costi energetici, a rendere finalmente possibile portare l'elettronica fuori dallo studio.
 Pioniere in questo fu David Tudor, il cui lavoro con la Merce Cunningham Dance Company richiedeva setup portatili, progettati secondo criteri di flessibilità, portabilità e basso costo. Gordon Mumma portò avanti questa ricerca costruendo per Hornpipe (1967) una console cybersonica indossabile, una "belt-box" che permetteva al performer di suonare il corno con le mani libere[@mumma1975, 324].
 Questa portabilità, tuttavia, aveva un prezzo: i setup erano notoriamente instabili. Come riportato in una testimonianza citata da Collins, i circuiti potevano sembrare grovigli di fili e richiedevano cure costanti, paragonabili a quelle di "un'anziana signora con tre dozzine di gatti". La performance diventava così un evento rischioso, in cui il fallimento tecnico era un'evenienza sempre presente[@collins2020].
 
@@ -973,7 +973,7 @@ Le citazioni seguono il formato Pandoc e sono tutte tracciate a fonti specifiche
 - @lucier1988: Alvin Lucier, liner notes e varie interviste
 - @collins2004: Nicolas Collins, "Composers Inside Electronics", Leonardo Music Journal (2004)
 - @Teboul2023: Ezra Teboul, "Circuit music, circuit scores" (2015)
-- @rbma2016: Red Bull Music Academy, interviste varie (2016)
+- @Dewar2018: Red Bull Music Academy, interviste varie (2016)
 - @davies2005: Hugh Davies obituary (2005)
 - @haskell1984: Barbara Haskell, essay (1984)
 
