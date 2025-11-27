@@ -54,7 +54,7 @@ David Tudor affrontò queste partiture grafiche con un rigore quasi scientifico,
 
 ### Dalla notazione grafica al diagramma di sistema
 
-Ezra Teboul definisce la circuit music come una musica il cui sistema notazionale primario è costituito da schemi circuitali e diagrammi, anziché da partiture tradizionali. In questa prospettiva, il circuito cessa di essere un semplice strumento esecutivo per diventare esso stesso la partitura, ridefinendo radicalmente la figura del compositore come progettista di sistemi generativi di comportamenti sonori[@teboul2015].
+Ezra Teboul definisce la circuit music come una musica il cui sistema notazionale primario è costituito da schemi circuitali e diagrammi, anziché da partiture tradizionali. In questa prospettiva, il circuito cessa di essere un semplice strumento esecutivo per diventare esso stesso la partitura, ridefinendo radicalmente la figura del compositore come progettista di sistemi generativi di comportamenti sonori[@Teboul2023].
 
 La filosofia compositiva di David Tudor incarnava perfettamente l'etica del circuit music. Come spiega in un'intervista del 1972: "I try to find out what's there—not to make it do what I want, but to **release what's there**. The object should teach you what it wants to hear"[@collins2004]. Questa inversione della relazione composer-instrument,dove lo strumento "insegna" al compositore piuttosto che essere piegato alla volontà compositiva, divenne centrale per la pratica del live electronics. In questo Tudor è stato un catalizzatore dell'indeterminazione di Cage, portando l'indeterminazione come essenza stessa della convivenza con la macchina nella performance. 
 
@@ -176,7 +176,7 @@ Gordon Mumma articolò questa critica in termini quasi politici: "The idea of 'p
 
 ### "Post-optimality" e l'estetica del junk
 
-Ezra Teboul conia il termine **post-optimality** per descrivere questa scelta deliberata dell'inefficienza: "circuit music as utopia—a glimpse at technology after the profit motive"[@teboul2015]. L'uso di componenti surplus militari, di kit economici, di self-built circuits non era solo necessità economica, ma rappresentava una **posizione critica** verso la logica della produzione capitalistica.
+Ezra Teboul conia il termine **post-optimality** per descrivere questa scelta deliberata dell'inefficienza: "circuit music as utopia—a glimpse at technology after the profit motive"[@Teboul2023]. L'uso di componenti surplus militari, di kit economici, di self-built circuits non era solo necessità economica, ma rappresentava una **posizione critica** verso la logica della produzione capitalistica.
 
 Barbara Haskell, in un saggio del 1984, identificò un'**aesthetic of junk** nella scena americana: "assemblage, scrap materials, things that the society has discarded"[@haskell1984]. Questa estetica collegava i compositori del live electronics a un più ampio movimento artistico americano—da Rauschenberg a Fluxus—che valorizzava i materiali di scarto come critica implicita alla cultura del consumo.
 
@@ -224,7 +224,7 @@ Gordon Mumma dimostrò che "era possibile fare musica elettroacustica sofisticat
 
 Ma il circuit music non fu solo una soluzione pragmatica a vincoli economici. Fu una **pratica critica** che interrogava il rapporto tra tecnologia, autorialità e produzione culturale. La scelta di componenti surplus, di self-built instruments, di sistemi instabili era un rifiuto della logica del "prodotto" a favore di un'etica del processo.
 
-Come osserva Teboul, il circuit music offriva "a glimpse at technology after the profit motive"[@teboul2015]—una visione utopica di come potrebbe funzionare la produzione tecnologica al di fuori delle logiche capitaliste. Questa dimensione politica, spesso implicita, divenne più esplicita negli anni Settanta con il movimento DIY punk e negli anni Duemila con il circuit bending.
+Come osserva Teboul, il circuit music offriva "a glimpse at technology after the profit motive"[@Teboul2023]—una visione utopica di come potrebbe funzionare la produzione tecnologica al di fuori delle logiche capitaliste. Questa dimensione politica, spesso implicita, divenne più esplicita negli anni Settanta con il movimento DIY punk e negli anni Duemila con il circuit bending.
 
 ### Legacy contemporaneo
 
@@ -247,7 +247,7 @@ Le citazioni seguono il formato Pandoc e sono tutte tracciate a fonti specifiche
 - @chadabe1997: Joel Chadabe, *Electric Sound* (1997)
 - @lucier1988: Alvin Lucier, liner notes e varie interviste
 - @collins2004: Nicolas Collins, "Composers Inside Electronics", Leonardo Music Journal (2004)
-- @teboul2015: Ezra Teboul, "Circuit music, circuit scores" (2015)
+- @Teboul2023: Ezra Teboul, "Circuit music, circuit scores" (2015)
 - @rbma2016: Red Bull Music Academy, interviste varie (2016)
 - @davies2005: Hugh Davies obituary (2005)
 - @haskell1984: Barbara Haskell, essay (1984)
