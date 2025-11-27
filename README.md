@@ -873,31 +873,23 @@ Il gruppo si sciolse nel 1976 quando i membri presero posizioni accademiche: Ash
 
 ### Composers Inside Electronics (1973-1990s)
 
-**Composers Inside Electronics** nacque nel 1973 da un workshop a Chocorua, New Hampshire, attorno all'opera *Rainforest* di David Tudor. Il gruppo includeva Nicolas Collins, John Driscoll, Paul DeMarinis, Phil Edelstein, Linda Fisher e altri. Collins spiega: "We were learning by doing—taking apart Tudor's instruments, building our own versions, understanding how they worked by replicating them"[@collins2004].
+Il collettivo Composers Inside Electronics si formò nel 1973 a partire da un workshop dedicato a Rainforest di David Tudor. Secondo Nicolas Collins, i partecipanti, tra cui John Driscoll e Paul DeMarinis, imparavano facendo: smontavano gli strumenti di Tudor, ne costruivano versioni proprie e ne comprendevano il funzionamento attraverso la replicazione[@collins2004].
 
-Questo modello **pedagogico-collaborativo** fu fondamentale per trasmettere il know-how tecnico alla generazione successiva. Collins scrive: "Hardware hacking shifts the focus from inventing new products to exploring processes. The circuits and techniques described in this book are not copyrightable 'intellectual property'—they form part of a community of shared knowledge"[@collins2020, 6]. La conoscenza circolava come "samizdat literature", copiata e ricondivisa senza restrizioni commerciali[@collins2020].
+Questo modello pedagogico-collaborativo si rivelò fondamentale per trasmettere il sapere tecnico a una nuova generazione. Collins sottolinea come l'hacking hardware spostasse l'attenzione dall'inventare nuovi prodotti all'esplorazione di processi, con circuiti e tecniche che formavano un patrimonio di conoscenza condivisa e non protetta da copyright[@collins2020].
 
 ## Portabilità e performance: l'estetica della precarietà
 
 ### Dal studio alla scena
 
-Un problema fondamentale del tape music era la sua **immobilità**. Gli studi come quello della Columbia-Princeton Electronic Music Center erano "massive installations that could not be moved"[@chadabe1997]. La tecnologia transistor rivoluzionò questa situazione: "Miniaturization, reduced energy costs, increased reliability compared to tubes"[@rbma2016] resero possibile portare l'elettronica fuori dallo studio.
+Come già anticipato nel capitolo 1, la musica su nastro soffriva di un problema fondamentale: la sua immobilità. Gli studi istituzionali, come il Columbia-Princeton Center, erano installazioni massive e fisse. Fu la tecnologia a transistor, con la sua miniaturizzazione[@rbma2016], l'affidabilità e i ridotti costi energetici, a rendere finalmente possibile portare l'elettronica fuori dallo studio.
+Pioniere in questo fu David Tudor, il cui lavoro con la Merce Cunningham Dance Company richiedeva setup portatili, progettati secondo criteri di flessibilità, portabilità e basso costo. Gordon Mumma portò avanti questa ricerca costruendo per Hornpipe (1967) una console cybersonica indossabile, una "belt-box" che permetteva al performer di suonare il corno con le mani libere[@mumma1975, 324].
+Questa portabilità, tuttavia, aveva un prezzo: i setup erano notoriamente instabili. Come riportato in una testimonianza citata da Collins, i circuiti potevano sembrare grovigli di fili e richiedevano cure costanti, paragonabili a quelle di "un'anziana signora con tre dozzine di gatti". La performance diventava così un evento rischioso, in cui il fallimento tecnico era un'evenienza sempre presente[@collins2020].
 
-David Tudor, lavorando con la **Merce Cunningham Dance Company** dal 1953, fu pioniere dei setup elettronici portatili. Tudor spiegò: "flexibility, portability, and cost" erano i criteri fondamentali[@chadabe1997]. Mumma costruì per *Hornpipe* (1967) una **belt-box**, una console cybersonica indossabile: "The circuitry was housed in a small box that could be worn on a belt, leaving the performer's hands free to play the horn"[@mumma1975, 324].
+L'episodio leggendario del disastroso debutto di Bandoneon! - che avevamo accennato sopra - dovuto a circuit boards cablati al contrario, è esemplare. Eppure, questa precarietà non era considerata un difetto, ma una caratteristica intrinseca all'approccio esplorativo del gruppo, in netto contrasto con l'omogeneità e la stabilità dei sistemi commerciali.
 
-### La precarietà come pratica performativa
+Prendiamo come esempio un altro lavoro fondamentale di Tudor: *Rainforest* (1968) Questo rappresentò una soluzione elegante al problema della portabilità: invece di trasportare strumenti elettronici pesanti, Tudor usava **transducers** (Rolen-Star) applicati a "physical materials" — oggetti trovati sul posto — trasformandoli in **instrumental loudspeakers**[@nakai2021, 246].
 
-Ma questa portabilità aveva un prezzo. I setup erano notoriamente **instabili**. Nicolas Collins cita una testimonianza dal *Leonardo Music Journal*: "wire-spewing circuits" che richiedevano "tending to them like an old lady with 3 dozen cats"[@collins2020]. La performance diventava un **evento rischioso**, dove il fallimento tecnico era sempre possibile.
-
-Il disastro di *Bandoneon!* (1966), dove i circuit boards furono cablati al contrario causando un "total system failure", divenne leggendario[@nakai2021, 274-275]. Ma questa precarietà non fu vista come un difetto del sistema—era **intrinseca** all'approccio. Mumma distingueva tra l'"explorer tendency" del suo circolo e l'"homogeneity" dei sistemi commerciali stabili[@chadabe1997, 102].
-
-### Rainforest: oggetti risonanti come strumenti portatili
-
-*Rainforest* (1968) di David Tudor rappresentò una soluzione elegante al problema della portabilità. Invece di trasportare strumenti elettronici pesanti, Tudor usava **transducers** (Rolen-Star) applicati a "physical materials"—oggetti trovati sul posto—trasformandoli in **instrumental loudspeakers**[@nakai2021, 246].
-
-You Nakai spiega: "Transducers on physical materials to create speakers with specific resonant characteristics"[@nakai2021, 246]. Gli oggetti non erano semplicemente amplificati, ma diventavano parte attiva del sistema: "parametric objects that 'speak'"[@nakai2021]. In *Rainforest IV* (versione collaborativa con Composers Inside Electronics), ogni performer sceglieva i propri "resonant objects", creando un ecosistema sonoro unico per ogni performance.
-
-Questa soluzione incarnava perfettamente l'etica del circuit music: invece di imporre comportamenti standardizzati attraverso equipment industriale, il compositore progettava un **sistema** che si adattava ai materiali disponibili localmente, valorizzando le loro proprietà specifiche.
+You Nakai spiega che gli oggetti, scelti per le loro specifiche caratteristiche risonanti, non erano semplicemente amplificati, ma diventavano parte attiva e parametrica del sistema sonoro. Nella versione collaborativa Rainforest IV, ogni performer selezionava i propri "oggetti risonanti", creando un ecosistema sonoro unico per ogni esecuzione. Questa soluzione incarnava perfettamente l'etica della circuit music: progettare un sistema che si adattasse e valorizzasse le proprietà specifiche dei materiali disponibili localmente, piuttosto che imporre un comportamento standardizzato attraverso attrezzature industriali.
 
 ## Resistenza alla corporatizzazione e "post-optimality"
 
