@@ -29,12 +29,6 @@ nocite: "@*"
 
 # GENESI DEL LIVE ELECTRONICS
 
-La definizione precisa di *live electronics* incontra problematiche che superano la mera dimensione terminologica. Secondo l'analisi di Agostino Di Scipio:
-
-> "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5].
-
-L'espressione rappresenta piuttosto il tentativo di riunire sotto una singola denominazione **una molteplicità eterogenea di pratiche esecutive** sviluppatesi nel corso di almeno vent'anni del Novecento, attraverso contesti geografici e istituzionali profondamente differenziati.
-
 ## "Live" vs "Real-time" - Una distinzione necessaria
 
 Prima di approfondire l'analisi delle opere fondamentali, è essenziale chiarire una distinzione terminologica che percorrerà l'intera ricerca. I termini *live* e *real-time*, sebbene spesso utilizzati come sinonimi, designano dimensioni profondamente differenti della pratica musicale elettroacustica.
@@ -54,6 +48,15 @@ Di Scipio mette in luce un ulteriore aspetto cruciale: comprendere appieno il si
 > "the indivisibility of time-space coordinates in lived experience, in fact often evoked by the common language expression the *here and now*-moulded after the Latin *hic et nunc*. Clearly, "in the very heart" of a performance, everything happens within and across a larger ecology of actions and perceptions that cannot be abstracted from a particular physical space of one's own material and cultural connotations". [@discipio2021thinking, 177].
 
 Questa distinzione possiede implicazioni pratiche e storiografiche di notevole rilievo. Il live electronics può esistere anche in assenza di tecnologie real-time. Al contrario, sistemi capaci di elaborazioni in tempo reale possono operare in contesti non performativi - come avveniva nelle produzioni in studio degli anni Ottanta con processori digitali. Ciò che definisce il carattere "live" di una pratica non è la velocità operativa dei circuiti, bensì la dimensione performativa dell'evento: la presenza fisica, la condivisione dello spazio, l'interazione con il *qui e ora* irripetibile della situazione concertistica.
+
+
+## Una definizione
+
+La definizione precisa di *live electronics* incontra problematiche che superano la mera dimensione terminologica. Secondo l'analisi di Agostino Di Scipio:
+
+> "la possibilità di gestire mezzi elettronici ed elettroacustici in concerto — 'dal vivo' — non nasce certo negli anni 1960: i molteplici strumenti di liuteria elettronica della prima metà del '900 erano ovviamente destinati a tale impiego"[@discipio2021, 3.5].
+
+L'espressione rappresenta piuttosto il tentativo di riunire sotto una singola denominazione **una molteplicità eterogenea di pratiche esecutive** sviluppatesi nel corso di almeno vent'anni del Novecento, attraverso contesti geografici e istituzionali profondamente differenziati.
 
 ## La crisi della tape music (1950-1960)
 
