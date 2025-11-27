@@ -1,0 +1,299 @@
+name: "David Tudor"
+birth: "1926-01-20"
+death: "1996-08-13"
+
+works:
+  - year: 1950
+    title: "Premiere of Pierre Boulez's Second Piano Sonata"
+    category: "performance"
+    role: ["interpreter"]
+    description: "American premiere of Boulez's work, establishing Tudor as leading interpreter of new music"
+    venue: "Carnegie Recital Hall, New York"
+    significance: "breakthrough_performance"
+    equipment: ["Grand piano"]
+    notes: "Tudor worked extensively on this piece, consulting Artaud's writings to understand its musical continuity"
+
+  - year: 1952
+    title: "Music of Changes (by John Cage)"
+    category: "performance"
+    role: ["interpreter"]
+    description: "Premiere of Cage's first fully chance-determined composition"
+    collaborators: "John Cage"
+    venue: "Cherry Lane Theatre, New York"
+    significance: "landmark_interpretation"
+    equipment: ["Grand piano", "Stopwatch", "Custom templates and rulers"]
+    technical_notes: "Tudor created realization score using stopwatch and mathematical formulas by Hans Rademacher"
+
+  - year: 1954
+    title: "34'46.776\" for a Pianist (by John Cage)"
+    category: "performance"
+    role: ["interpreter"]
+    description: "Prepared piano piece composed specifically for Tudor"
+    collaborators: "John Cage"
+    venue: "Donauschingen Music Festival, Germany"
+    significance: "collaborative_work"
+    equipment: ["Prepared piano", "Various physical objects for preparation", "Whistles"]
+    technical_notes: "Tudor created extensive physical preparations and list of materials; known as 'Whistle Piece'"
+
+  - year: 1959
+    title: "Five Piano Pieces for David Tudor (by Sylvano Bussotti)"
+    category: "performance"
+    role: ["interpreter"]
+    description: "Cycle of pieces treating Tudor as the instrument"
+    collaborators: "Sylvano Bussotti"
+    venue: "International Summer Courses for New Music, Darmstadt"
+    significance: "instrumental_treatment"
+    equipment: ["Grand piano", "Yellow work gloves", "Various preparations for piano interior"]
+    technical_notes: "Tudor performed Piece 3 wearing yellow work gloves to introduce uncertainty"
+
+  - year: 1959
+    title: "For Pianist (by Christian Wolff)"
+    category: "performance"
+    role: ["interpreter"]
+    description: "Solo piece using cueing system based on physical coordination thresholds"
+    collaborators: "Christian Wolff"
+    venue: "Staatliche Hochschule für Musik, Cologne"
+    significance: "coordination_study"
+    equipment: ["Grand piano", "Custom interactive score fragments", "Movable paper templates"]
+    technical_notes: "Tudor created interactive realization scores with movable fragments"
+
+  - year: 1964
+    title: "Fluorescent Sound"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "First electronic composition, recognized retrospectively"
+    collaborators: "Robert Rauschenberg"
+    venue: "Moderna Museet, Stockholm"
+    significance: "first_electronic"
+    equipment: ["Custom modular electronics", "Oscillators", "Filters", "Amplifiers"]
+    notes: "Title assigned retrospectively"
+
+  - year: 1966
+    title: "Bandoneon!"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "First work explicitly credited as composer"
+    collaborators: "Gordon Mumma, Fred Waldhauer, Robert Kieronski, Lowell Cross"
+    venue: "69th Regiment Armory, NYC"
+    significance: "first_credited"
+    equipment: ["Bandoneon", "15-channel processing system", "Cybersonic Spectrum Transfer", "Multiple phase shifters", "Custom filters", "Modular electronics"]
+    technical_notes: "Bandoneon + 15 processing channels, Cybersonic Spectrum Transfer, modular electronics"
+
+  - year: 1968
+    title: "Rainforest (Version I)"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "First version of iconic work using instrumental loudspeakers"
+    venue: "SUNY Buffalo"
+    significance: "major_work"
+    equipment: ["Electronic sound sources", "Transducers", "Various physical objects as loudspeakers", "Oscillators", "Filters", "Amplifiers"]
+    technical_notes: "Electronic sounds → transducers → physical objects (instrumental loudspeakers)"
+
+  - year: 1973
+    title: "Rainforest IV"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "Open-form collaborative version"
+    collaborators: "Composers Inside Electronics (Nicolas Collins, John Driscoll, Paul DeMarinis, Phil Edelstein, Linda Fisher)"
+    significance: "collaborative_landmark"
+    equipment: ["Multiple transducer systems", "Various found objects", "Custom electronics", "Oscillators", "Filters", "Mixers"]
+    technical_notes: "Multiple performers creating sound sculptures with transducers"
+
+  - year: 1975
+    title: "Toneburst"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "Created for Merce Cunningham's Sounddance"
+    collaborators: "Merce Cunningham Dance Company"
+    performance_count: "Over 50 performances 1975-1994"
+    equipment: ["Multiple oscillators", "Filters", "Envelope generators", "Custom toneburst generators", "Mixers", "Amplifiers"]
+    technical_notes: "Electronic sound system with multiple oscillators and filters"
+
+  - year: 1976
+    title: "Composers Inside Electronics Formation"
+    category: "live_electronics"
+    role: "founder/collaborator"
+    description: "Co-founded collective of electronic musicians"
+    collaborators: "John Driscoll, Phil Edelstein, Ralph Jones, Martin Kalve, John D. S. Adams"
+    significance: "collaborative_collective"
+    equipment: ["Various custom electronic instruments", "Modular systems", "Transducers", "Found objects"]
+    notes: "Originally called 'Penumbra Raincoast' before Paris Festival d'Automne"
+
+  - year: 1984
+    title: "Dialects"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "Complex electronic work using multiple sound sources"
+    venue: "Moderna Museet, Stockholm"
+    equipment: ["Multiple voltage-controlled systems", "Oscillators", "Filters", "Modulators", "Custom control systems", "Mixers"]
+    technical_notes: "Multiple voltage-controlled systems with interactive processing"
+
+  - year: 1992
+    title: "Neural Network Plus"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "Late major work using neural network technology"
+    venue: "Paris Opera"
+    significance: "late_major_work"
+    equipment: ["Neural network synthesizers", "Pattern recognition systems", "Computers", "Custom interfaces", "Multiple output systems"]
+    technical_notes: "Neural network synthesizers, pattern recognition systems"
+
+  - year: 1994
+    title: "Pepscillator"
+    category: "live_electronics"
+    role: ["composer"]
+    description: "One of final electronic works"
+    venue: "Exploratorium, San Francisco"
+    equipment: ["Complex oscillator system", "Multiple modulation paths", "Filters", "Custom control voltage systems", "Mixers"]
+    technical_notes: "Complex oscillator system with multiple modulation paths"
+
+instruments_developed:
+  - name: "Cybersonic Spectrum Transfer (Instrument 0450)"
+    year: 1966
+    description: "Strumento di processing audio complesso per Bandoneon!"
+    used_in: "Bandoneon!"
+    collaborators: "Gordon Mumma"
+    significance: "Uno dei primi strumenti di processing spettrale"
+
+  - name: "Instrumental Loudspeakers"
+    year: 1968
+    description: "Oggetti fisici trasformati in altoparlanti tramite trasduttori"
+    used_in: "Rainforest series"
+    significance: "Concept fondamentale della serie Rainforest"
+
+  - name: "Multi-output Phase Shifter (Instrument 0007)"
+    period: "1960s"
+    description: "Phase shifter con multiple uscite"
+    used_in: "Varie composizioni elettroniche"
+
+  - name: "90-degree Phase Splitter (Instrument 0037)"
+    period: "1960s"
+    description: "Splitter di fase a 90 gradi"
+
+  - name: "180-degree Phase Shifter (Instrument 0006)"
+    period: "1960s"
+    description: "Phase shifter a 180 gradi"
+
+  - name: "Beat Frequency Oscillator (Instrument 0021)"
+    period: "1960s"
+    description: "Oscillatore a battimenti"
+
+  - name: "Harmonic Generator (Instrument 0173)"
+    period: "1960s"
+    description: "Generatore di armoniche, usato anche come Spike Generator"
+
+  - name: "Lenkurt Modulator (Instrument 0116/0174)"
+    period: "1960s"
+    description: "Modulatore per telecomunicazioni riconfigurato"
+
+  - name: "Olson Microphone Preamplifier TR-86 (Instrument 0022)"
+    period: "1960s"
+    description: "Preamplificatore microfono modificato"
+
+  - name: "Forrest M. Mims Percussion Synthesizer (Instrument 0025)"
+    period: "1960s"
+    description: "Sintetizzatore di percussioni"
+
+  - name: "PAiA Synthesispin (Instrument 0265/0511)"
+    period: "1970s"
+    description: "Sintetizzatore modulare"
+
+  - name: "Tube Box (Instrument 0448)"
+    period: "1970s"
+    description: "Processore a valvole"
+
+  - name: "Toneburst Generator (Instrument 0118)"
+    period: "1970s"
+    description: "Generatore di burst tonali"
+
+  - name: "Output Splitter (Instrument 0002/0000)"
+    period: "1970s"
+    description: "Splitter di uscita per sistemi multi-canale"
+
+  - name: "Pulse Generator (Instrument 0474)"
+    period: "1970s"
+    description: "Generatore di impulsi"
+
+  - name: "White Noise Generator (Instrument 0493)"
+    period: "1970s"
+    description: "Generatore di rumore bianco"
+
+  - name: "Z-amp (Instrument 0175/0176)"
+    period: "1970s"
+    description: "Amplificatore personalizzato"
+
+  - name: "Neural Network Synthesizers"
+    year: 1992
+    description: "Sintetizzatori basati su reti neurali"
+    used_in: "Neural Network Plus"
+    significance: "Tra i primi usi di reti neurali in musica"
+
+  - name: "Pepscillator System"
+    year: 1994
+    description: "Complesso sistema di oscillatori modulanti"
+    used_in: "Pepscillator"
+    significance: "Ultimo grande sistema sviluppato"
+
+career_phases:
+  - period: "1950-1963"
+    primary_role: "interpreter"
+    focus: "Piano performance of avant-garde music"
+    notable_composers: ["Boulez", "Cage", "Feldman", "Wolff", "Brown", "Stockhausen", "Bussotti"]
+    main_equipment: ["Grand piano", "Prepared piano", "Stopwatch", "Custom templates"]
+
+  - period: "1964-1996" 
+    primary_role: ["composer"]
+    focus: "Live electronic music and instrument building"
+    main_equipment: ["Custom modular electronics", "Oscillators", "Filters", "Transducers", "Found objects", "Computers"]
+    transition_notes: "Gradual shift from interpreter to composer, with overlapping period in early 1960s"
+
+key_transition_works:
+  - year: 1964
+    work: "Fluorescent Sound"
+    significance: "First electronic composition (retroactively acknowledged)"
+
+  - year: 1966
+    work: "Bandoneon!"
+    significance: "First explicitly credited composition"
+
+  - year: 1968
+    work: "Rainforest I"
+    significance: "First major recognized composition"
+
+collaborators_regular:
+  - "John Cage"
+  - "Merce Cunningham"
+  - "Gordon Mumma"
+  - "Christian Wolff"
+  - "Morton Feldman"
+  - "Earle Brown"
+  - "Karlheinz Stockhausen"
+  - "Sylvano Bussotti"
+  - "Pierre Boulez"
+  - "Composers Inside Electronics members"
+
+archival_collections:
+  - name: "David Tudor Papers"
+    location: "Getty Research Institute, Los Angeles"
+    content: "177.5 linear feet of scores, notes, correspondence, recordings"
+
+  - name: "David Tudor Collection"
+    location: "Wesleyan University, Middletown, Connecticut"
+    content: "Approximately 500 instruments, 150 built by Tudor"
+
+  - name: "Merce Cunningham Dance Foundation Records"
+    location: "New York Public Library"
+    content: "Audio/video recordings of Cunningham performances"
+
+  - name: "davidtudor.org"
+    description: "Online archive maintained by John D. S. Adams and D'arcy Philip Gray"
+
+influences:
+  - "Antonin Artaud"
+  - "Rudolf Steiner"
+  - "Emile Jaques-Dalcroze"
+  - "Ferruccio Busoni"
+  - "John Cage"
+
+methodology: "Tudor often used commercial components reconfigured in unconventional ways, ignoring the original designers' intentions. His approach was to discover what components actually do rather than what they were supposed to do."
+collection_notes: "Circa 150 strumenti costruiti da Tudor sono conservati nella David Tudor Collection alla Wesleyan University, catalogati con numeri Rogalsky"

@@ -1,0 +1,158 @@
+name: "Robert Ashley"
+birth: "1930-03-28"
+death: "2014-03-03"
+nationality: "American"
+
+works:
+  - year: 1960
+    title: "The Fourth of July"
+    category: "tape_music"
+    role: ["composer"]
+    description: "Movement from the multi-movement tape work 'Issues I', composed for Milton Cohen's Space Theatre."
+    context: "Presented at ONCE Festival 1961"
+
+  - year: 1961
+    title: "Public Opinion Descends upon the Demonstrators"
+    category: "tape_music"
+    role: ["composer"]
+    description: "Multi-channel tape work performed live with audience interaction"
+
+  - year: 1961
+    title: "Duet II"
+    category: "acoustical_composition"
+    role: ["composer"]
+    instrumentation: "horn and piano"
+    description: "Performed extensively by Ashley and Gordon Mumma"
+
+  - year: 1964
+    title: "The Wolfman"
+    category: "live_electronic"
+    role: ["composer", "performer"]
+    description: "For highly amplified human voice with tape accompaniment"
+    significance: "Became staple of live-electronic repertoire"
+
+  - year: 1964
+    title: "symphony in memoriam ... Crazy Horse"
+    category: "orchestral"
+    role: ["composer"]
+    context: "Premiered at fourth ONCE Festival"
+
+  - year: 1965
+    title: "Kittyhawk"
+    category: "theater_work"
+    role: ["composer"]
+    description: "ONCE Group theater work involving manipulated sculpture and radio communication"
+    context: "Performed at Walker Art Center, Minneapolis"
+
+  - year: 1967
+    title: "That Morning Thing"
+    category: "opera"
+    role: ["composer", "librettist"]
+    structure:
+      - act: "Frogs"
+        description: "Four men with electronically processed froglike voices direct dancers against a background of frog sounds."
+      - act: "Purposeful Lady Slow Afternoon"
+        description: "Four women describe personal experiences against bell sounds and sweet music."
+    context: "Performed at the Once Festival 1967"
+    significance: "Early multimedia opera exploring nonlinear narrative"
+
+  - year: 1972
+    title: "In Sara, Mencken, Christ and Beethoven There Were Men and Women"
+    category: "vocal_electronic_hybrid"
+    role: ["composer"]
+    description: "Vocal work setting poem by John Barton Wolgamot, with live-electronic processing"
+    collaboration: "Electronic sounds developed with Paul DeMarinis"
+
+  - year: 1978
+    title: "Perfect Lives (Private Parts)"
+    category: "television_opera"
+    role: ["composer", "performer"]
+    description: "Landmark television opera in seven episodes"
+
+  - year: 1979
+    title: "Automatic Writing"
+    category: "electronic_composition"
+    role: ["composer", "performer"]
+    instrumentation: "voice, synthesizer, organ"
+    description: "Explores involuntary speech and subconscious language through repetitive phrases."
+
+  - year: 1980
+    title: "Improvement (Don Leaves Linda)"
+    category: "opera"
+    role: ["composer", "librettist"]
+    context: "Part of the Now Eleanor's Idea tetralogy"
+    description: "Examines themes of immigration, identity, and cultural dislocation."
+
+  - year: 1985
+    title: "Atalanta (Acts of God)"
+    category: "opera"
+    role: ["composer", "librettist"]
+
+  - year: 1994
+    title: "eL/Aficionado"
+    category: "opera"
+    role: ["composer", "librettist"]
+
+  - year: 1998
+    title: "Dust"
+    category: "opera"
+    role: ["composer", "performer"]
+
+  - year: 2003
+    title: "Celestial Excursions"
+    category: "opera"
+    role: ["composer", "performer"]
+
+collaborative_groups:
+  - name: "ONCE Group"
+    period: "1960s"
+    role: "Co-founder, composer, performer"
+    activities: "ONCE Festivals (1961–65, 1968), touring ensemble"
+    key_collaborators: ["Gordon Mumma", "George Cacioppo", "Mary Ashley", "Milton Cohen"]
+
+  - name: "Sonic Arts Union"
+    period: "1966–1977"
+    members: ["Robert Ashley", "David Behrman", "Alvin Lucier", "Gordon Mumma"]
+    role: "Composer, performer"
+    activities: "National and international tours of live-electronic music"
+
+  - name: "Cooperative Studio for Electronic Music"
+    period: "1958 onwards"
+    role: "Co-founder"
+    key_collaborators: ["Gordon Mumma"]
+    activities: "Electronic music for Space Theatre and independent films"
+
+instruments_built:
+  - name: "Electronic music studio equipment"
+    year: 1958
+    type: "studio_equipment"
+    technical_specs: |
+      - Three tape transports
+      - Five-channel mixer
+      - Audio-frequency oscillator
+      - Custom reverberation and filtering devices
+  - name: "Wolfman Feedback System"
+    year: 1964
+    type: "vocal_electronics"
+    technical_specs: |
+      - Microphone placement critical to room resonance
+      - Vocal cavity manipulation for timbral control
+      - Soft vocal sounds amplified to fill space
+    purpose: "Explore resonant relationships between voice and acoustic space"
+
+signature_characteristics:
+  - "Innovative use of spoken text and vocal techniques"
+  - "Integration of electronic and acoustic elements"
+  - "Exploration of American vernacular speech patterns"
+  - "Large-scale narrative structures in opera"
+  - "Collaborative, interdisciplinary approach"
+
+education:
+  - institution: "University of Michigan"
+    degree: "BA"
+    period: "1950s"
+
+teaching_positions:
+  - institution: "Mills College"
+    position: "Director of Center for Contemporary Music"
+    period: "1969–1981"

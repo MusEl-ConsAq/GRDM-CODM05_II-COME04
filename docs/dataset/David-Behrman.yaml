@@ -1,0 +1,112 @@
+name: "David Behrman"
+birth: "1937"
+
+works:
+  - year: 1966
+    title: "Wave Train"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    instrumentation: "acoustic feedback with conventional instruments"
+    description: "Explores acoustic feedback with conventional instruments."
+
+  - year: 1967
+    title: "Players with Circuits"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "electric guitar, zither, piano, live electronics"
+    description: "Piece where instrumental sounds are processed in real-time by performers operating electronic circuits. The work emphasizes the interaction between performers and electronic systems."
+    significance: "Exemplifies Behrman's early interest in interactive music systems."
+    context: "Performed in informal, experimental settings typical of the 1960s."
+
+  - year: 1968
+    title: "Runthrough"
+    category: "tape_music"
+    role: ["composer"]
+    description: "A tape piece using processed instrumental sounds and electronic tones, often played in gallery or loft settings."
+    equipment: ["tape recorder", "oscillators", "filters"]
+
+  - year: 1968
+    title: "Music for Walkaround Time"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "live_electronics"
+    description: "Composed for Merce Cunningham's choreography 'Walkaround Time'."
+    context: "Part of Cunningham Dance Company repertory"
+
+  - year: 1972
+    title: "sine rise"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    instrumentation: "purely electronic synthesizer with analog integrated circuits"
+    description: "Can be performed live by ensemble or alone, producing sliding chords of precisely tuned complex intervals with gently shifting sonorities."
+    equipment: ["electronic synthesizer with analog integrated circuits"]
+    context: "Featured at Metropolitan Museum of Art performance, February 1972"
+
+  - year: 1976
+    title: "On the Other Ocean"
+    category: "interactive_music"
+    role: ["composer"]
+    instrumentation: "instrumentalists with interactive computer system"
+    description: "One of Behrman's best-known works, using a computer system to respond to live performers in real-time."
+    significance: "Pioneering use of microcomputers in live performance."
+
+  - year: 1981
+    title: "A New Team Takes Over"
+    category: "computer_music"
+    role: ["composer"]
+    instrumentation: "computer-driven synthesizers"
+    description: "A composition using algorithmic processes to generate musical structure."
+
+  - year: 1984
+    title: "Leapday Night"
+    category: "interactive_music"
+    role: ["composer"]
+    instrumentation: "performers with computer system"
+    description: "Interactive piece where the computer responds to pitch and rhythm played by musicians."
+
+  - year: 1992
+    title: "My Dear Siegfried"
+    category: "computer_music"
+    role: ["composer"]
+    instrumentation: "samplers, computer"
+    description: "Uses sampled sounds and algorithmic processes to create a layered, evolving texture."
+
+collaborative_groups:
+  - name: "Sonic Arts Union"
+    period: "1966–1977"
+    members: ["Robert Ashley", "David Behrman", "Alvin Lucier", "Gordon Mumma"]
+    role: "Composer, performer"
+    activities: "Touring ensemble performing live-electronic music across the U.S. and Europe."
+    significance: "Key collective in the development of live-electronic music."
+
+  - name: "Merce Cunningham Dance Company"
+    period: "1970s"
+    role: "Composer, musician"
+    activities: "Provided electronic music for Cunningham's choreographies."
+
+  - name: "Communication in a Noisy Environment"
+    period: "1970"
+    members: ["David Behrman", "Gordon Mumma", "Anthony Braxton", "Leroy Jenkins", "Robert Watts"]
+    role: "Performer"
+    venue: "Automation House, New York, November 1970"
+    description: "Collaborative performance event"
+
+instruments_built:
+  - name: "Custom Interactive Computer Systems"
+    year: "1970s"
+    type: "computer-based_interactive_system"
+    used_in: ["On the Other Ocean", "Leapday Night"]
+    technical_specs: |
+      - Early microcomputers (e.g., Apple II, KIM-1)
+      - Custom software for real-time pitch tracking
+      - Synthesizer control via digital interfaces
+    role: ["composer", "system_designer", "programmer"]
+
+  - name: "Analog Electronic Circuits"
+    year: "1960s"
+    type: "analog_circuits"
+    used_in: ["Players with Circuits"]
+    technical_specs: |
+      - Custom-built modular analog circuits
+      - Real-time sound processing
+    role: ["circuit_designer", "composer"]

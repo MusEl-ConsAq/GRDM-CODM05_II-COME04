@@ -56,7 +56,7 @@ Il lavoro preparatorio per questa composizione lo vide impegnato in prima person
 
 Con Variations II (1961), Tudor compì un'ulteriore evoluzione, sviluppando procedure tecniche personali che estendevano le sperimentazioni di Cartridge Music, concentrandosi sulle risonanze acustiche interne del pianoforte. La performance presentata all'ONCE Festival di Ann Arbor nel 1965 trasformava radicalmente lo strumento: non più principalmente interfaccia tastiera, ma sorgente sonora da esplorare nella sua cassa armonica.
 
-In questo periodo di intensa sperimentazione, Tudor entrò in contatto con Gordon Mumma, ordinando due unità Cybersonics che sarebbero diventate strumenti fondamentali nel suo lavoro successivo, testimoniando la formazione di una rete collaborativa tra compositori e costruttori.
+Tudor fu 'ispirato e assistito dal pionieristico compositore/ingegnere Gordon Mumma' [@Collins2020]. Le unità Cybersonics che Tudor ordinò divennero strumenti che avrebbe utilizzato estensivamente per gli anni successivi. Mumma aveva già avviato la Cybersonics company insieme a William Ribbens, producendo dispositivi elettronici portatili specificamente per musicisti [@Mumma2015].
 
 ### L'incertezza identitaria e le prime composizioni
 
@@ -76,7 +76,8 @@ Questi sviluppi culminarono in Bandoneon!, presentato nell'ottobre 1966 al festi
 
 La complessità tecnica dell'allestimento era notevole: microfoni a contatto captavano i suoni dello strumento, processati attraverso filtri e frequency shifter; il dispositivo Vochrome di Robert Kieronski utilizzava ance di armonium attivate dai segnali microfonici; il Proportional Control di Fred Waldhauer regolava volumi sonori e intensità luminose; mentre il TV Oscilloscope di Lowell Cross generava pattern visuali.
 
-Tudor sviluppò per questa opera quelli che definì "instrumental loudspeakers", sfruttando le caratteristiche risonanti uniche di materiali fisici, concetto che sarebbe diventato centrale nella successiva serie Rainforest.
+Tudor sviluppò per questa opera quelli che definì *instrumental loudspeakers*, sfruttando le caratteristiche risonanti uniche di materiali fisici, concetto che sarebbe diventato centrale nella successiva serie Rainforest. Il principio degli instrumental loudspeakers che Tudor sviluppò per Bandoneon! estendeva direttamente le idee esplorate con Cage in Cartridge Music (1960), dove oggetti risonanti venivano già utilizzati come filtri acustici naturali [@Mumma2015, 152]. La differenza cruciale risiedeva nel fatto che ora era Tudor stesso a comporre l'intero sistema, non più limitandosi a realizzare le idee di altri compositori.
+
 
 ### Rainforest: l'opera che segna l'emersione come compositore
 

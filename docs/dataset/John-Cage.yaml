@@ -1,0 +1,734 @@
+name: "John Cage"
+birth: "1912"
+death: "1992"
+nationality: "American"
+role: ["composer", "philosopher", "writer", "performer", "visual artist"]
+
+early_background:
+  father_occupation: "inventor"
+  early_experience:
+    - "Assisted father in patent research"
+    - "Presented radio programs in Los Angeles (1932-1933)"
+    - "Worked as apprentice film editor with Oskar Fischinger (1936)"
+    - "Experimented with electronic equipment at Cornish School radio station (Seattle)"
+  key_influences: ["Arnold Schoenberg", "Lou Harrison", "Henry Cowell", "Marcel Duchamp", "László Moholy-Nagy (Dadaist ideas)"]
+
+works:
+  - year: 1939
+    title: "First Construction in Metal"
+    category: "percussion"
+    role: ["composer"]
+    instrumentation: "percussion ensemble"
+    materials: "brake drums and scrap iron from junkyards"
+    description: "Early percussion work using found metal objects"
+    significance: "early_diy_approach"
+    source: "Collins 2020, p. 40; Mumma 2015"
+
+  - year: 1939
+    title: "Imaginary Landscape No. 1"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "piano, bowed cymbal, two variable-speed turntables playing test-tone records"
+    description: "First documented piece of music to feature the DJ as a musical performer. Used disc recordings performed on variable-speed record players."
+    significance: "first_dj_performance_work"
+    technical_specs: |
+      - Two variable-speed phonographs used to perform with radio sound-testing records
+      - Large Chinese cymbal
+      - String piano (in the manner of Henry Cowell)
+      - Recommended for live radio broadcast performance
+    philosophical_concept: "Early instance of 'disc-jockey' culture, extension of 1920s radio broadcast techniques"
+    dadaist_influence: "Performative use of gramophone as Dadaist idea from László Moholy-Nagy"
+    source: "Collins 2020, p. 40; Mumma 1975, p. 291; Chadabe 1997, p. 26; Di Scipio 2021a; Mumma 2015, p. 169"
+
+  - year: 1940s
+    title: "Prepared Piano works"
+    category: "acoustical_composition"
+    role: ["composer", "inventor"]
+    description: "Series of works for piano prepared with screws, erasers, and other objects inserted into strings to create gamelan-like sounds"
+    context: "Developed as practical solution to have multi-timbral resource without moving heavy percussion instruments"
+    materials: "screws, erasers, bolts, and other 'pocket detritus'"
+    collaboration: "Lou Harrison"
+    significance: "transformation_of_everyday_objects_into_instruments"
+    source: "Collins 2020, p. 40; Mumma 2015, p. 162"
+
+  - year: 1942
+    title: "Imaginary Landscape No. 2 (Credo in Us)"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "radio, electric buzzers, amplified marimbula and wire coil, audio oscillators, variable-speed disc recordings"
+    description: "Employed performing of radio and various electronic devices"
+    context: "Experiments at CBS in Chicago in preparation for collaborative radio broadcast with poet Kenneth Patchen"
+    source: "Mumma 1975, p. 291"
+
+  - year: 1942
+    title: "Imaginary Landscape No. 3"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "audio oscillators, tin cans, percussion, electronics"
+    description: "First use of amplified small sounds by Cage. A resonating coil of wire attached to phonograph cartridge and amplified."
+    premiere: 
+      date: "February 7, 1943"
+      venue: "Museum of Modern Art, New York"
+    context: "Practical replacement for large metal gong taken to New York by Lora Deja"
+    significance: "first_microphone_amplification"
+    source: "Chadabe 1997, p. 26; Mumma 1975, p. 291; Mumma 2015, p. 169"
+
+  - year: 1946-1948
+    title: "Sonatas and Interludes for prepared piano"
+    category: "prepared_piano"
+    role: ["composer"]
+    description: "Major work for prepared piano"
+    later_use: "Excerpts used for Stan Brakhage's film 'In Between' (1953)"
+    source: "Mumma 2015, p. 170"
+
+  - year: 1951
+    title: "Imaginary Landscape No. 4"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "12 radios with 24 performers (2 per radio)"
+    description: "Exploration of radio receiver as live-performance instrument. Composed for a dozen ordinary radios."
+    significance: "radio_as_instrument"
+    context: "Part of series exploring radio receiver as live-performance instrument, followed by Radio Music (1952), Speech (1955), and Music Walk (1958)"
+    source: "Collins 2020, p. 40; Mumma 1975, p. 295; Chadabe 1997, p. 26"
+
+  - year: 1952
+    title: "Imaginary Landscape No. 5"
+    completion_date: "January 1952"
+    category: "tape_music"
+    role: ["composer"]
+    materials: "material from 42 phonograph records"
+    description: "Used material from phonograph records"
+    source: "Chadabe 1997, p. 26"
+
+  - year: 1952
+    title: "Williams Mix"
+    category: "tape_music"
+    role: ["composer"]
+    format: "eight tracks of tape"
+    collaborators: ["Earle Brown", "David Tudor", "Morton Feldman", "Christian Wolff"]
+    technical_assistance: ["Louis Barron", "Bebe Barron"]
+    venue: "Studios of Louis and Bebe Barron, New York City"
+    description: "First tape-sampling work. Complex tape-recording and editing of sound materials using chance operations and magnetic-tape technology."
+    methodology: |
+      - Created library of sounds catalogued as:
+        A (city sounds), B (country sounds), C (electronic sounds), 
+        D (manually produced sounds, including normal music), 
+        E (wind-produced sounds, including voice), 
+        F (small sounds requiring amplification)
+      - Further classified by: c (control/predictability) and v (lack of control)
+      - Applied to pitch, timbre, loudness
+      - Used I Ching to determine: type of sound, track placement, durations, attack/decay shapes
+    significance: "early_non_fixed_medium, tape_as_performed_medium"
+    score_characteristics: "Pattern for cutting and splicing tapes, establishes early premise for treating tape music as non-fixed medium"
+    philosophical_concept: "Defining a 'territory' (the world) rather than fixed musical object"
+    later_use: "Scraps used by Earle Brown for 'Octet' (1953)"
+    premiere:
+      date: "March 1953"
+      venue: "University of Illinois Arts Festival"
+      context: "Concert included Williams Mix, Brown's Octet, and works by Wolff, Stockhausen, Eimert, Boulez, Luening, and Ussachevsky"
+      technical_setup: "Eight mono Magnacorders on stage, eight loudspeakers equidistantly spaced around auditorium"
+    source: "Mumma 2015, p. 170; Chadabe 1997, pp. 55-58; Mumma 1975, p. 294"
+
+  - year: 1952-1967
+    title: "Music for Carillon series (No. 1-5)"
+    category: "electronic_carillon"
+    role: ["composer"]
+    individual_works:
+      - title: "Music for Carillon No. 1"
+        year: 1952
+      - title: "Music for Carillon No. 2"
+        year: 1954
+        context: "Birthday present for David Tudor, composed on cardboard at Brooklyn Academy"
+      - title: "Music for Carillon No. 3"
+        year: 1954
+        note: "Same cardboard as No. 2, read upside down"
+      - title: "Music for Carillon No. 4"
+        year: 1961
+        technical_feature: "with microphone feedback"
+      - title: "Music for Carillon No. 5"
+        year: 1967
+    description: "Series of pieces for electronic carillon"
+    source: "Mumma 1975, p. 296; Mumma 2015, p. 84"
+
+  - year: 1952
+    title: "Radio Music"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "radio receivers"
+    description: "Exploration of radio receiver as live-performance instrument"
+    source: "Mumma 1975, p. 295"
+
+  - year: 1955
+    title: "Speech"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "radio receivers"
+    description: "Exploration of radio receiver as live-performance instrument"
+    source: "Mumma 1975, p. 295"
+
+  - year: late 1950s
+    title: "Winter Music"
+    category: "amplified_piano"
+    role: ["composer"]
+    description: "Composition developed by David Tudor as work for amplified piano. Piano performed from keyboard and made ultra-loud."
+    performer_development: "David Tudor"
+    context: "Used with Cunningham choreography 'Aeon' (1961)"
+    source: "Mumma 1975, p. 295; Mumma 2015, p. 170"
+
+  - year: 1958
+    title: "Fontana Mix"
+    category: "tape_music_with_live_performance"
+    role: ["composer"]
+    format: "four tracks of tape"
+    venue: "Studio di Fonologia Musicale, Milan"
+    description: "Has a score used in live performance to modify and distribute sounds in space"
+    score_characteristics: "Transparency materials, open-ended structural principles"
+    later_use: "Often played simultaneously with Aria (1958)"
+    source: "Mumma 1975, p. 294; Chadabe 1997, p. 82"
+
+  - year: 1958
+    title: "Aria"
+    category: "vocal_music"
+    role: ["composer"]
+    often_performed_with: "Fontana Mix"
+    source: "Mumma 1975, p. 294"
+
+  - year: 1958
+    title: "Music Walk"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "radio receivers"
+    description: "Exploration of radio receiver as live-performance instrument"
+    source: "Mumma 1975, p. 295"
+
+  - year: 1958
+    title: "Variations I"
+    category: "graphic_notation"
+    role: ["composer"]
+    score_type: "transparency materials"
+    description: "First in series. Birthday present for David Tudor (January 1958). Graphic notation with points and lines for measuring parameters."
+    significance: "beginning_of_variations_series"
+    score_characteristics: "Six sheets: one with points, five with lines corresponding to parameter limits. Superimpose and measure perpendiculars."
+    source: "Chadabe 1997, p. 82; Nakai 2021, pp. 107-111"
+
+  - year: 1960
+    title: "Music for Amplified Toy Pianos"
+    category: "live_electronics"
+    role: ["composer"]
+    equipment: "contact microphones"
+    premiere:
+      date: "February 25, 1960"
+      venue: "Eastern Michigan University, Ypsilanti"
+    description: "Used contact microphones to amplify toy pianos"
+    significance: "exploration_of_microsounds"
+    source: "Mumma 1975, p. 295; Nakai 2021, p. 104"
+
+  - year: 1960
+    title: "Cartridge Music"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "phonograph cartridges, contact microphones"
+    materials_inserted: "toothpicks, matches, slinkies, piano wires, feathers, springs, twigs, pipe cleaners"
+    premiere:
+      date: "September 15, 1960"
+      venue: "Radio Bremen, Bremen, Germany (broadcast)"
+      first_public: "October 6, 1960, Mary Bauermeister Atelier, Cologne"
+      attendance_note: "Stockhausen reportedly present"
+    description: "Classic work where performers substitute various thin objects for needles in cheap record player pickups. The enormously amplified 'microsounds' revealed a whole new world of sound resources."
+    score_type: "graphic materials on transparent plastic sheets, can be overlaid in different juxtapositions"
+    philosophical_statement: "Cage stated the score could be used to 'musically examine an old Volkswagen'"
+    significance: |
+      - Coined term "live electronic music" (1962)
+      - "Moment of powerful discontinuity for European electroacoustic scene"
+      - Opened ears of generation to splendor of contact microphone
+      - Rivaled labor/capital-intensive synthetic sonorities from European electronic studios
+    historical_impact: "First time Cage used expression 'live electronic music' when discussing this work in 1962"
+    comparison: "While Stockhausen would respond with absolute control in Mikrophonie I, Cage proposed 'happy anarchy' based on chance processes"
+    performers: "Widely performed by David Tudor and composer"
+    source: "Collins 2020, p. 40; Chadabe 1997, pp. 81-82; Mumma 1975, p. 295; Di Scipio 2021a Parte Terza, p. 314; Nakai 2021, p. 104"
+
+  - year: 1961
+    title: "Variations II"
+    category: "graphic_notation_amplified_piano"
+    role: ["composer"]
+    score_type: "eleven transparency materials (6 with points, 5 with lines)"
+    description: "Personal gift for David Tudor. Puzzle-like score with extreme indeterminacy. Measurements determine six parameters: frequency, duration, amplitude, timbre, occurrence, structure."
+    performer_development: |
+      - Tudor developed own technical procedures extending Cartridge Music
+      - Enhanced complex internal acoustical resonances of piano
+      - Often performed as solo for piano with live electronics
+    premiere_performance: "March 24, 1961, The New School, New York"
+    notable_performance: "1962 ONCE Festival"
+    philosophical_concept: "'As indeterminate as I have yet managed' - encompasses potentially any piece of music that could be created"
+    source: "Chadabe 1997, p. 82; Mumma 1975, p. 295; Mumma 2015, p. 170; Nakai 2021, pp. 107-124"
+
+  - year: 1961-1962
+    title: "Atlas Eclipticalis"
+    category: "orchestral_live_electronics"
+    role: ["composer"]
+    instrumentation: "large ensemble (86 parts) with variable electronic modification"
+    description: "Work for large ensemble with variable electronic modification. Composed by copying star charts onto musical staves."
+    technical_requirements: |
+      - Contact microphones attached to instruments
+      - 36 Lafayette PK-522 three-transistor amplifiers (in telephone junction boxes)
+      - 50-Channel Mixer built by Max Matthews at Bell Labs
+    notorious_performance:
+      date: "February 9, 1964"
+      venue: "New York Philharmonic"
+      conductor: "Leonard Bernstein"
+      incident: "Musicians sabotaged performance, breaking Radio Shack contact microphones"
+    cunningham_use: "Often used for Cunningham Dance Company Events, notably Event no. 12 (Vienna, June 1964)"
+    often_performed_with: "Winter Music"
+    source: "Mumma 1975, p. 296; Mumma 2015, p. 84; Nakai 2021, pp. 267-270"
+
+  - year: 1962
+    title: "0'00\" (4'33\" No. 2)"
+    category: "performance_art"
+    role: ["composer"]
+    description: "Performance piece, continuation of 4'33\" concept"
+    source: "Nakai 2021 index"
+
+  - year: 1962
+    title: "Variations III"
+    category: "graphic_notation_amplified_actions"
+    role: ["composer"]
+    score_type: "circles on transparency sheets (no measurements)"
+    description: "Amplification of sounds that actions create as side effect. No measurements to be made, only circles."
+    premiere:
+      date: "September 6, 1962 (actually performed)"
+      venue: "Sender Freies Berlin"
+      duration: "80 minutes, broadcast live 6pm Monday evening"
+      actions: "Answering questions while smoking, typewriting letters, reciting typed text, all with contact microphones attached to body and objects"
+    philosophical_concept: "All activity productive of music - no distinction between art and life"
+    source: "Chadabe 1997, p. 82; Nakai 2021, pp. 123-125"
+
+  - year: 1963
+    title: "Variations IV"
+    category: "graphic_notation"
+    role: ["composer"]
+    description: "Continuation of Variations series with open-ended structural principles"
+    source: "Chadabe 1997, p. 82"
+
+  - year: 1964
+    title: "Electronic Music for Piano"
+    category: "live_electronics"
+    role: ["composer"]
+    source: "Nakai 2021 index"
+
+  - year: 1964
+    title: "Duet for Cymbal"
+    category: "live_electronics"
+    role: ["composer"]
+    source: "Nakai 2021 index"
+
+  - year: 1965
+    title: "Rozart Mix"
+    category: "participation_piece_tape_loops"
+    role: ["composer"]
+    description: "Participation piece with large ensemble of performed tape loops. Performers (may include audience members) supply tapes of sounds that are spliced into loops during performance."
+    significance: "audience_participation, performed_tape"
+    source: "Mumma 1975, p. 296; Mumma 2015, p. 84; Nakai 2021 index"
+
+  - year: 1965
+    title: "Variations V"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    premiere:
+      date: "July 23, 1965"
+      venue: "Lincoln Center, New York City"
+    collaborators:
+      dancers: "Merce Cunningham Dance Company"
+      musicians: ["John Cage", "Malcolm Goldstein", "Frederick Lieberman", "James Tenney", "David Tudor"]
+      films: "Stan VanDerBeek"
+      video: "Nam June Paik"
+      engineer: "Billy Klüver (Bell Labs)"
+      theremin_poles: "Robert Moog (12 modified theremins)"
+    description: "Extravagant theater-dance-music-video collaboration. Dancers' movements triggered sounds through proximity sensors and photoelectric cells."
+    technical_setup: |
+      - 12 poles (modified theremins) placed throughout stage
+      - Photoelectric cells at bases of poles
+      - Contact microphones attached to objects (plant, pillow, pad, table, chairs)
+      - Tape machines, oscillators, shortwave radios
+      - Final scene: Merce Cunningham rode bicycle around stage, wheels wired for sound
+    concept: "Sound affected by movement - choreography, music, decor simultaneous but separate, with technological component"
+    significance: "exploration_of_interactive_technology"
+    later_notation: "Thirty-seven Remarks Re Audio-Visual Performance (a posteriori score)"
+    tudor_credit: "Sound System designed by David Tudor"
+    source: "Chadabe 1997, pp. 83-84; Mumma 2015, pp. 170-171; Nakai 2021, pp. 166-169"
+
+  - year: 1966
+    title: "Variations VI"
+    category: "sound_systems"
+    role: ["composer"]
+    premiere:
+      date: "March 26, 1966"
+      venue: "Fine Arts Foundation, Hartford, Connecticut"
+    description: "Composed for 'plurality of sound-systems (any sources, components and loud-speakers)'. Now that Tudor's work had been given a name."
+    materials: "12 short straight lines, 38 triangles, 57 short bisected lines, 114 half-circles transparencies"
+    notation_system: |
+      - Triangles = loudspeakers
+      - Bisected lines = components (amplifiers, preamps, modulators, filters)
+      - Half-circles = sound sources
+      - Short lines = boundaries between systems
+    program_note: "John Cage: Composition (indeterminate) / David Tudor: Sound System"
+    contrasting_opinions: |
+      - Cage: "not very happy with our performances"
+      - Tudor: "one of the most enjoyable pieces to perform...very theatrical"
+    source: "Nakai 2021, pp. 169-172"
+
+  - year: 1966
+    title: "Variations VII"
+    category: "sound_installation"
+    role: ["composer"]
+    source: "Nakai 2021 index"
+
+  - year: 1967
+    title: "Musicircus"
+    category: "multimedia_event"
+    role: ["composer", "organizer"]
+    source: "Nakai 2021 index"
+
+  - year: 1967-1969
+    title: "HPSCHD"
+    category: "computer_music_multimedia"
+    role: ["composer", "collaborator"]
+    collaboration: "Lejaren Hiller"
+    commission: "Antoinette Vischer (Switzerland) for harpsichord piece"
+    venue_development: "University of Illinois at Urbana"
+    description: "Extravagant multimedia event combining computer-generated tapes with live harpsichords. One of first works of computer music."
+    technical_components: |
+      Computer programs:
+      - ICHING: subroutine generating random numbers 1-64
+      - DICEGAME: produced seven harpsichord versions based on Mozart's Musical Dice Game
+        * Version 1: Mozart's original
+        * Versions 2-3: Mozart replaced by Mozart (hands together/independent)
+        * Versions 4-5: Historical versions (Beethoven, Chopin, Schumann, Gottschalk, Ives, Schoenberg, Cage, Hiller)
+        * Version 6: Transcription of HPSCHD program output in 12-tone scale
+        * Version 7: "Play anything you desire for 20 minutes"
+      - HPSCHD: defined scales from 5-56 notes per octave, produced 51 audio tapes (20 min each)
+      - KNOBS: listener instructions for home stereo manipulation
+    premiere:
+      date: "May 16, 1969"
+      venue: "Assembly Hall, University of Illinois at Urbana"
+      attendance: "9,000 people"
+      setup: |
+        - All seven harpsichord solos
+        - All 51 computer-generated tapes
+        - 80 slide projectors
+        - 7 film projectors
+        - 5,000+ slides of spaceship/rocket technology and abstract designs
+        - Spatial arrangement: harpsichords in circle, tape speakers around perimeter, visuals
+    performance_concept: |
+      - Duration: typically 4 hours
+      - "Like the weather" - ongoing process, no structured beginning/end
+      - Performers come/go, make own decisions
+      - Audience free to move, come and go
+    tudor_involvement: "Cage showed Tudor 'Solo I' score - extremely difficult transcription requiring special pressure-sensitive amplitude control (30-35 changes/second)"
+    commercial_recording: "20-minute version with KNOBS program for home listening"
+    cage_quote_on_harpsichord: "I must admit I've never particularly liked the instrument. It sounded to me like a sewing machine"
+    philosophical_concept: "Moving away from unity toward multiplicity (Mozart vs Bach concept)"
+    source: "Collins 2020, p. 40; Chadabe 1997, pp. 275-277; Mumma 2015, pp. 84, 175, 187; Nakai 2021, pp. 371-374"
+
+  - year: 1968
+    title: "Reunion"
+    category: "performance_art_electronics"
+    role: ["composer", "chess player"]
+    premiere:
+      date: "March 1968"
+      venue: "Toronto"
+      duration: "five-hour series"
+    description: "Event of chess games between Cage and Marcel/Teeny Duchamp on electronically wired chessboard designed by Lowell Cross."
+    technical_setup: |
+      - Chessboard with electrical contacts
+      - Movements of chess pieces made contacts
+      - Music by Cross, Tudor, Behrman, Mumma gated through loudspeakers when contact made
+    participants:
+      chess_players: ["John Cage", "Marcel Duchamp", "Teeny Duchamp"]
+      musicians: ["Lowell Cross", "David Tudor", "David Behrman", "Gordon Mumma"]
+    outcome: "Teeny and John stopped before end, intending to complete another day"
+    duchamp_comment: "Oh oui, beaucoup de bruit" 
+    duchamp_note: "Refused payment to maintain amateur status as champion chess player"
+    source: "Chadabe 1997, p. 272; Mumma 2015, p. 175; Nakai 2021 index"
+
+  - year: 1970
+    title: "Mureau (Thoreau Mix)"
+    category: "vocal_performance"
+    role: ["composer", "performer"]
+    description: "Mesostics based on Thoreau's writings, performed in chanting voice"
+    context: "Performed simultaneously with Tudor's Rainforest III during 1972 European tour"
+    source: "Chadabe 1997, p. 273; Nakai 2021, p. 420"
+
+  - year: 1971
+    title: "Sixty-Two Mesostics Re Merce Cunningham"
+    category: "vocal_performance"
+    role: ["composer", "performer"]
+    instrumentation: "voice unaccompanied using microphone"
+    description: "Mesostics about Merce Cunningham"
+    premiere_with_untitled: "June 1972, Pamplona, Spain (final performance of 1972 tour with Tudor)"
+    source: "Nakai 2021, pp. 337, 413-414"
+
+  - year: 1972
+    title: "Bird Cage (Birdcage)"
+    category: "live_electronics"
+    role: ["composer"]
+    venue: "Electronic music studio, State University of New York at Albany"
+    description: "Composed with assistant Joel Chadabe. Used prerecorded tapes of singing birds, Cage singing his Mureau, and environmental sounds."
+    methodology: |
+      - Group A: singing birds from aviaries
+      - Group B: Cage singing Mureau in chanting voice
+      - Group C: environmental sounds (wild-track)
+      - Eight source tape recorders routed through mixer to one destination
+      - Cage used digital clock to follow time chart made with I Ching
+      - Called out processing types (e.g., "Now, ring modulation")
+      - Audio processing independent of sounds being processed
+    philosophical_concept: |
+      - Art of composing: (1) sounds of piece, (2) formulation of questions determining how piece composed
+      - Defining unique array of sounds and procedures for each composition
+      - Using random numbers to select from those arrays
+    source: "Chadabe 1997, pp. 270-271"
+
+  - year: 1975
+    title: "Child of Tree (Improvisation 1)"
+    category: "improvisation_amplified_plant_materials"
+    role: ["composer", "performer"]
+    materials: "amplified plant materials"
+    description: "Improvisation using amplified plant materials"
+    context: "Performed with live-electronic resources in Cunningham repertory"
+    source: "Mumma 2015, p. 162; Nakai 2021 index"
+
+  - year: 1975
+    title: "Études Australes"
+    category: "piano"
+    role: ["composer"]
+    description: "Reverted to more traditional instrumental resources"
+    source: "Collins 2020, p. 40"
+
+  - year: 1977
+    title: "Branches (Improvisation)"
+    category: "improvisation_amplified_plant_materials"
+    role: ["composer", "performer"]
+    materials: "amplified plant materials"
+    description: "Improvisation using amplified plant materials"
+    context: "Performed with live-electronic resources"
+    source: "Mumma 2015, p. 162"
+
+  - year: 1979
+    title: "Roaratorio (An Irish Circus on Finnegans Wake)"
+    category: "multimedia_tape_performance"
+    role: ["composer", "reader"]
+    based_on: "James Joyce's Finnegans Wake"
+    description: "Culminating simultaneous performance event. Reading of mesostics derived from Finnegans Wake with Irish folk musicians and 62 channels of tape."
+    commissions: |
+      - Klaus Schöning (WDR Cologne): radio reading accompaniment
+      - Pierre Boulez (IRCAM Paris): compose work there
+      - Festival d'Automne Paris: evening for "Autour de Merce Cunningham"
+    technical_components: |
+      - Cage reading "Writing for the Second Time through Finnegans Wake"
+      - Several Irish musicians playing traditional instruments
+      - 62 channels of tape conveying all sounds mentioned in Finnegans Wake
+    methodology: |
+      - Created "Listing through Finnegans Wake" - list of all sounds mentioned
+      - Traveled to Ireland with John Fullemann (sound engineer)
+      - Recorded sounds from the book
+    cage_father_quote: "If somebody says can't, that shows you what remains for you to do"
+    significance: "biggest example of simultaneous performance, 'Irish circus'"
+    source: "Chadabe 1997, pp. 74-75, 83"
+
+  - year: 1983-1985
+    title: "Ryoanji"
+    category: "mixed_ensemble"
+    role: ["composer"]
+    description: "For mixed ensemble, reverted to more traditional instrumental resources"
+    source: "Collins 2020, p. 40"
+
+  - year: 1987-1992
+    title: "Number Pieces"
+    category: "various"
+    role: ["composer"]
+    description: "Late works numbered according to number of performers"
+    source: "Nakai 2021 index"
+
+collaborative_groups:
+  - name: "Merce Cunningham Dance Company"
+    period: "1944-1992"
+    role: "Musical Director, composer, performer"
+    formation: "Black Mountain College, 1953"
+    significance: |
+      - Primary commitment for rest of Cage's life
+      - Enormously productive venue for collaborative exploration of electronic technology
+      - Music and dance independent but simultaneous
+    key_collaborator: "David Tudor (from early 1950s)"
+    repertory_examples: |
+      - Suite by Chance (1952) with Wolff's Music for Magnetic Tape I
+      - Pool of Darkness (1950) with Ben Weber's Ballet Op. 26
+      - Canfield (1969) with Pauline Oliveros's In Memoriam: Nikola Tesla
+      - Aeon (1961) with Winter Music and Atlas Eclipticalis
+      - Many works using amplified and electronic resources
+    source: "Mumma 2015, pp. 111-132, 170"
+
+  - name: "Project for Music for Magnetic Tape"
+    period: "1951-1954"
+    members: ["John Cage", "Earle Brown", "Morton Feldman", "David Tudor", "Christian Wolff"]
+    technical_assistance: ["Louis Barron", "Bebe Barron"]
+    role: "Co-founder, composer"
+    activities: |
+      - Established 1951 with funding from Paul Williams
+      - Categorized sounds for tape music library
+      - Recorded approximately 600 sounds
+      - Collaborative composition and tape splicing work
+    significance: "Early collaborative tape music project in New York, precursor to American experimental scene"
+    meeting_place: "Cage's loft on Monroe Street, underneath Williamsburg Bridge"
+    typical_day: "Work 10am-4pm, then meet with Morty, Merce Cunningham, Carolyn Brown at Cedar Bar. Fridays: attend Suzuki lectures at Columbia"
+    source: "Chadabe 1997, pp. 55-58; Mumma 1975, p. 294; Di Scipio 2021a"
+
+philosophical_concepts:
+  sound_philosophy: |
+    - "Use of noise to make music will continue and increase"
+    - "Any and all sounds that can be heard" should be available for musical purposes
+    - "Wherever we are, what we hear is mostly noise. When we ignore it, it disturbs us. When we listen to it, we find it fascinating."
+    - "Organization of sound" more meaningful term than "music"
+    - Opening doors: "Cage opened the door in the early 1950s, and others walked through"
+  
+  structure_concept: |
+    - Musical structure as "array of empty glasses of predetermined sizes to be filled with sounds or silences"
+    - Any sound or silence might fill the glasses
+    - "Territory" concept: define a sonic territory, not fixed musical object
+    - Williams Mix: territory = the world
+    - Cartridge Music: territory = sounds requiring amplification
+    - Birdcage: territory = birds and nature
+    - Roaratorio: territory = Finnegans Wake
+  
+  chance_operations: |
+    - Introduced around 1950
+    - Used I Ching (Chinese Book of Changes) from 1951 onwards
+    - Questions for chance: "How can I get beyond myself? How can I find things I would otherwise not have thought of?"
+    - Effect on awareness: "things which I didn't think would be pleasing were in fact pleasing"
+    - Composer's role: formulating questions, defining arrays from which to select
+    - Each composition differentiated by unique questions asked and procedures defined
+  
+  indeterminacy: |
+    - Explored through random numbers and complex underlying systems
+    - Examples: chess games in Reunion, transparency overlays in Variations series
+    - "Plans for societies of activity, not necessarily limited to musical activity"
+    - Allow for "updating of electronic and other means"
+  
+  collaboration_philosophy: |
+    - "A composer is simply someone who tells other people what to do. I find this an unattractive way of getting things done. I'd like our activities to be more social and anarchically so."
+    - Endorsed performer collaboration and collective decision-making
+    - Changed function: "to telephone, to raise money" (in context of Variations V)
+  
+  electronics_approach: |
+    - Son of inventor, familiar with technology from 1930s
+    - DIY approach: "lacking institutional support...chose to develop new instruments from everyday technology"
+    - "Father of invention" in hacker electronic culture
+    - Made do with available/found technology rather than expensive studio equipment
+    - "Opened ears of generation to splendor of contact mike"
+
+technical_contributions:
+  amplification_philosophy: |
+    - Prophetic use: not making sounds louder, but magnifying sounds of small magnitude
+    - "Sounds of such small magnitude that without amplification they were practically inaudible"
+    - "Electronically magnified, these micro-sounds revealed a whole new world of sound resources"
+    - Distinguished from traditional amplification that made instruments "not quite loud enough" louder
+  
+  instruments_explored:
+    - "Prepared piano (1940s)"
+    - "Variable-speed turntables (1939-1952)"
+    - "Radio receivers as instruments (1951-1958)"
+    - "Phonograph cartridges (1960)"
+    - "Contact microphones (1960s)"
+    - "Amplified toy pianos (1960)"
+    - "Electronic carillons (1952-1967)"
+    - "Computer-generated sounds (1967-1969)"
+    - "Proximity sensors and photocells (1965)"
+    - "Amplified plant materials (1970s)"
+  
+  notation_innovations:
+    - "Graphic scores with transparency materials"
+    - "Time-space notation (equating space to duration)"
+    - "Open-form scores allowing multiple realizations"
+    - "A posteriori scores (written after the fact)"
+    - "Scores as 'territories' rather than fixed objects"
+
+performance_practice:
+  as_performer:
+    - "Piano (until arthritis worsened)"
+    - "Prepared piano"
+    - "Electronics operator"
+    - "Vocal performer (third creative period)"
+    - "Reader (Indeterminacy, mesostics)"
+    - "Chess player (Reunion)"
+  
+  health_issues:
+    - "Arthritis from late 1950s"
+    - "Sciatica in 1980s"
+    - "Changed diet: minimized fatty foods, alcohol, gave up smoking"
+    - "Gradual retirement as pianist due to arthritis"
+    - "Shift to vocal performance and writing in later years"
+  
+  touring:
+    - "Extensive US and European tours from 1950s onwards"
+    - "With Merce Cunningham Dance Company (1953-1992)"
+    - "Solo performances and lectures worldwide"
+    - "Latin American tour with MCDC (1968)"
+
+relationship_with_david_tudor:
+  nature: |
+    - "Central to creative process from early 1950s"
+    - "By end of 1950s, working relationship essential to Cage's live-electronic music"
+    - "Tudor responsible for much technological and performance reification of works"
+    - Tudor as "major performer of innovative piano music in '50s"
+    - Tudor devoted "much time in '60s to proselytizing and performing live-electronic music"
+  
+  collaborative_process:
+    - "Cage composed with Tudor in mind after 1952"
+    - "Tudor developed own realizations, often extending Cage's concepts"
+    - "What you had to do was to make a situation that would interest him" 
+    - "Variations series: puzzles for Tudor to solve"
+    - "Tudor's technical procedures became integral to works"
+  
+  equipment_collaboration:
+    - "Late 1950s: Cage had Tudor searching for electronic transducers"
+    - "Transducers became part of instrumental 'ensemble' for Cartridge Music"
+    - "Tudor developed complex equipment setups for performances"
+    - "Space- and time-consuming menagerie of equipment"
+
+influence_and_legacy:
+  on_american_scene:
+    - "Philosophical inspiration for entire American DIY movement"
+    - "Influence on hacker electronic culture"
+    - "Opening to all sounds and chance processes"
+    - "Use of everyday, accessible technology"
+    - "Definition of performative 'territory' valorizing collective exploration"
+  
+  key_statements:
+    - "If I don't write for these virtuosos they'll have to play music by even worse composers"
+    - "can't means showing what remains for you to do"
+    - Score could be used to "musically examine an old Volkswagen" (on Cartridge Music)
+  
+  contrast_with_european_model:
+    - "American DIY vs European institutional"
+    - "'Happy anarchy' vs deterministic control"
+    - "Accessible technology vs expensive studio equipment"
+    - "Process-oriented vs object-oriented"
+    - "Collective exploration vs individual mastery"
+
+timeline_context:
+  pre_wwii: "Early percussion works, prepared piano development, first electronic explorations"
+  post_wwii: "Tape music projects, collaboration with Barrons, Project for Music for Magnetic Tape"
+  1950s: "Transition from tape to live electronics, radio works, collaborations with Tudor intensify"
+  early_1960s: "Breakthrough live electronics works (Cartridge Music), birth of 'live electronic music' term"
+  mid_1960s: "Multimedia collaborations, Variations series, Cunningham Dance Company work intensifies"
+  late_1960s: "Computer music (HPSCHD), large-scale multimedia events"
+  1970s: "Shift to vocal performance, continued collaborations, plant materials"
+  1980s-1990s: "Return to traditional instruments in some works, continued experimentation, death in 1992"
+
+sources_notes: |
+  Main sources:
+  - Nicolas Collins, "Handmade Electronic Music" (2020, 3rd edition)
+  - Joel Chadabe, "Electric Sound" (1997)
+  - Gordon Mumma essays in "Cybersonic Arts" (2015)
+  - Gordon Mumma, "Live-Electronic Music" in "The Development and Practice of Electronic Music" (1975)
+  - You Nakai, "Reminded by the Instruments: David Tudor's Music" (2021)
+  - Agostino Di Scipio, "Circuiti del tempo" (2021)
+  - Various project knowledge documents

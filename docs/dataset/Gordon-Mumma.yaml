@@ -1,0 +1,548 @@
+name: "Gordon Mumma"
+birth: "1935"
+
+works:
+  - year: 1957
+    title: "Etude on Oxford Changes"
+    category: "acoustical_composition"
+    role: ["composer"]
+    instrumentation: "unaccompanied violin"
+    description: "Earliest composition in Mumma's catalogue, resulting from association with university carillonneur Percival Price."
+    significance: "first_catalogued_work"
+
+  - year: 1959
+    title: "Vectors"
+    category: "tape_music"
+    role: ["composer"]
+    description: "First mature work for magnetic tape. Also known as 'Vectors—Soundblock 5'."
+    context: "Composed for Milton Cohen's Space Theatre."
+    equipment: ["Portable tape recorder", "amplifier", "turntable", "sound generator", "tape samples and loops"]
+    venue: "Space Theatre, Ann Arbor"
+
+  - year: "1958-60"
+    title: "Sinfonia for 12 Instruments and Magnetic Tape"
+    category: "mixed_media"
+    role: ["composer"]
+    premiere: "ONCE Festival, 1961, Ann Arbor"
+    description: "Premiered at the first ONCE Festival."
+
+  - year: "1960-61"
+    title: "Mirrors for Milton Cohen"
+    category: "tape_music"
+    role: ["composer"]
+    description: "4-channel tape piece for the dome of Milton Cohen's Space Theatre."
+    technical_notes: "Each track directed to a different loudspeaker encircling the dome."
+    venue: "Monday Evenings at the Firehouse, San Francisco, November 1961"
+    equipment: ["4-channel tape system", "multiple loudspeakers"]
+
+  - year: 1961
+    title: "Meanwhile, a Twopiece"
+    category: "acoustical_composition"
+    role: ["composer"]
+    premiere: "ONCE Festival, 1961, Ann Arbor"
+
+  - year: "1963-64"
+    title: "Music from the Venezia Space Theatre"
+    category: "tape_music"
+    role: ["composer"]
+    description: "Quadraphonic tape piece."
+    premiere: "Venice Biennale, September 1964"
+    context: "For Milton Cohen's Space Theatre project at the Biennale."
+    collaborators: ["Milton Cohen", "Robert Ashley"]
+    significance: "Led to friendships with Luigi Nono and Nuria Schoenberg Nono."
+    equipment: ["Quadraphonic tape system"]
+
+  - year: "1963-64"
+    title: "Megaton for Wm. Burroughs"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    description: "Iconic electronic-performance work."
+    premiere: "ONCE Festival, 1964"
+    technical_notes: "Featured performed electronic and cybersonic processes."
+    context: "Part of ONCE Group touring repertoire."
+    equipment: ["Custom electronic processing equipment"]
+
+  - year: 1963
+    title: "Medium Size Mograph 1963"
+    category: "live_electronics"
+    role: ["composer", "performer", "instrument_builder"]
+    instrumentation: "piano four hands and cybersonic console"
+    description: "First fully cybersonic composition. Piano sound amplified by vibration pickups and modified by cybersonic circuitry."
+    collaborators: ["Robert Ashley"]
+    premiere: "ONCE Festival, February 1965"
+    performance_history: "Became a mainstay of the Ashley-Mumma duo repertoire ('New Music for Pianos')."
+    technical_notes: "Piano lid closed and muffled; sound projected from loudspeaker under piano. Attack transient compressed, resonant decay extended."
+    equipment: ["Cybersonic console", "vibration pickups", "piano amplification system"]
+
+  - year: 1965
+    title: "The Dresden Interleaf 13 February 1945"
+    category: "tape_music"
+    role: ["composer", "technical_designer"]
+    description: "Four-channel fixed media piece with live alcohol-burning airplane engines."
+    premiere: "ONCE Festival, February 13, 1965 (20th anniversary of the Dresden firestorm)"
+    venue: "VFW Hall, Ann Arbor"
+    technical_notes: "Used 16 lightweight Lahti mini U-2 speakers hung around the hall for wide dispersion."
+    equipment: ["4-channel tape system", "16 Lahti mini U-2 speakers", "alcohol-burning airplane engines"]
+
+  - year: 1965
+    title: "Horn"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    instrumentation: "horn, two voices, cybersonic console"
+    description: "Sounds of all three players modified live via interconnected ring-modulators."
+    premiere: "March 1965, St. Andrew's Episcopal Church, Ann Arbor"
+    performers_premiere: ["Gordon Mumma (horn)", "Robert Ashley", "George Cacioppo (voices)", "William Ribbens (technician)"]
+    notable_performance: "November 26, 1966, Saville Theatre, London. Mumma (horn), John Cage and David Tudor (voices)."
+    technical_notes: "Two or three cybersonic units interconnected. Technician balanced spatial placement and levels."
+    equipment: ["Cybersonic console", "ring-modulators", "stereo sound system"]
+
+  - year: 1966
+    title: "Mesa"
+    category: "live_electronics"
+    role: ["composer", "technical_designer", "performer"]
+    instrumentation: "bandoneon and live-electronic processing"
+    description: "Commissioned for Merce Cunningham's choreography 'Place'. Sustained sounds interrupted by dynamic contrasts. Exploits bandoneon's capacity for long, sustained sounds."
+    collaborators: ["David Tudor (bandoneon)", "Merce Cunningham"]
+    premiere: "August 6, 1966, Saint-Paul de Vence, France"
+    technical_notes: "Complex electronic sound modification system with automatic control signals derived from bandoneon sounds."
+    equipment: [
+      "Six microphone system",
+      "Four voltage-controlled attenuators (VCA)",
+      "Spectrum Transfer (frequency shifter)",
+      "Multiplier", 
+      "Product Valve (amplitude/phase modulator)",
+      "Formant Modulation (voltage-controlled comb filter)",
+      "FM Logic and Route-Gate Logic modules",
+      "Frequency-sensitive thermal-delay circuitry"
+    ]
+    recording: "CBS studio, New York, July 1967 (Mumma at console, Tudor on bandoneon)."
+
+  - year: 1967
+    title: "Hornpipe"
+    category: "live_electronics"
+    role: ["composer", "performer", "instrument_builder"]
+    instrumentation: "solo horn (Waldhorn and valve horn) and cybersonic belt-box"
+    description: "Interactive piece exploring acoustical ecology. Cybersonic console responds to horn and room resonances."
+    premiere: "December 5, 1967, Pomona College, Claremont, CA"
+    performance_history: "At least 32 performances across US, Europe, and Japan until 1976."
+    technical_notes: "Wearable cybersonic belt-box with real-time sound processing and response."
+    equipment: [
+      "Cybersonic belt-box",
+      "Two lavalier microphones", 
+      "4 parallel voltage control amplifiers (VCA) per channel",
+      "Resonant circuits with feedback loops",
+      "Time-information storage",
+      "Gate control system",
+      "Modified Conn 6D horn by Carl Geyer",
+      "Waldhorn",
+      "Sarrusophone double reeds"
+    ]
+    recording: "Rose Art Museum, Brandeis University (Tzadik TZ 7074)"
+
+  - year: 1967
+    title: "Diastasis, as in Beer"
+    category: "live_electronics"
+    role: ["composer", "technical_designer"]
+    instrumentation: "two electric guitars"
+    description: "Interdependent guitars: pitch of each determined by amplitude envelope of the other. Frequency spectrum shifts continuously."
+    technical_notes: "Used special frequency modulators with frequency-sensitive amplitude-envelope sensor circuitry."
+    equipment: ["Custom frequency modulators", "amplitude-envelope sensors"]
+
+  - year: 1968
+    title: "Rainermusic"
+    category: "collaborative_work"
+    role: ["composer", "performer"]
+    collaborators: ["Yvonne Rainer"]
+    description: "Interactive performance with dancer Yvonne Rainer."
+
+  - year: 1969
+    title: "Beam"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    premiere: "Croostalk International Festival, Tokyo, 1969"
+    description: "Live-electronic touring piece."
+
+  - year: 1970
+    title: "1Saw Her Dance"
+    category: "collaborative_work"
+    role: ["composer", "performer"]
+    collaborators: ["Barbara Lloyd (dancer)"]
+    description: "Interactive performance with dancer Barbara Lloyd."
+
+  - year: 1970
+    title: "Schoolwork"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    instrumentation: "musical saw"
+    description: "Piece for amplified musical saw."
+    performance: "University of California, Santa Cruz, 1974"
+    equipment: ["Musical saw", "amplification system"]
+
+  - year: 1970
+    title: "Conspiracy 8"
+    category: "live_electronics"
+    role: ["composer", "performer", "technical_designer"]
+    collaborators: ["Stephen Smoliar (engineer-mathematician)"]
+    description: "Collaborative work using MIT's PDP-6 digital computer and teletype communication. A social piece reflecting the Chicago Conspiracy Trial."
+    premiere: "February 20, 1970, Artificial Intelligence Laboratory, MIT"
+    performers_premiere: ["Gordon Mumma (bowed musical saw and cybersonics)", "Stephen Smoliar (teletype)"]
+    technical_notes: "Real-time interaction via teletype link with PDP-6 computer."
+    equipment: [
+      "MIT PDP-6 digital computer",
+      "Teletype communication system",
+      "Bowed musical saw",
+      "Cybersonic processing equipment",
+      "High-speed telephone lines (for Guggenheim performance)"
+    ]
+    recording: "NWR 80632-2"
+
+  - year: 1970
+    title: "Sun(flower) Burst (Proposal)"
+    category: "conceptual_proposal"
+    role: ["composer", "technical_designer"]
+    description: "Proposed project for the Pepsi Pavilion, Expo '70, Osaka. Not realized due to cancellation of artistic program."
+    concept: "Visual and sound patterns derived from Fibonacci 'spiral' sequences of sunflowers and 'sunburst' motion of CRT displays."
+    elements: "Tape-stored sound, live sound, light sequencing, dance movement."
+    cycle_time: "~15 minutes"
+    collaborators: ["David Tudor (Pavilion sound system coordinator)"]
+    equipment: ["Sound-Modifier Console", "tape system", "light sequencing equipment"]
+
+  - year: 1972
+    title: "Ambivex"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    description: "Live-electronic touring piece."
+    performance_history: "Active in the early 1970s."
+
+  - year: 1972
+    title: "Telepos"
+    category: "live_electronics"
+    role: ["composer", "instrument_builder", "technical_designer"]
+    description: "Live-electronic music for Merce Cunningham's 'TV Rerun'. Dancers wore belts with accelerometers, voltage controlled oscillator, and radio transmitter."
+    collaborators: ["Merce Cunningham"]
+    technical_notes: "Telemetry process: dancers created music by their movements."
+    equipment: [
+      "Dancer belts with accelerometers",
+      "Voltage controlled oscillators",
+      "Radio transmitters",
+      "Telemetry reception system"
+    ]
+
+  - year: 1973
+    title: "Cybersonic Cantilevers"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    description: "Live-electronic work using interconnected circuitry principles developed from 'Horn'."
+
+  - year: 1976
+    title: "Equale: Zero Crossing"
+    category: "acoustical_composition"
+    role: ["composer"]
+    instrumentation: "seven instruments"
+
+  - year: 1978
+    title: "Eleven Note Pieces and Decimal Passacaglia"
+    category: "solo_instrument"
+    role: ["composer", "instrument_builder"]
+    instrumentation: "harpsichord (single-manual Flemish-style, built by Mumma)"
+    description: "Featured historically-based keyboard instrument built by Mumma."
+    equipment: ["Flemish-style harpsichord"]
+
+  - year: 1978
+    title: "Echo-D"
+    category: "live_electronics"
+    role: ["composer", "instrument_builder"]
+    instrumentation: "harpsichord, Buchla synthesizer, electronics"
+    description: "Used harpsichord and synthesizer as sound material."
+    equipment: ["Harpsichord", "Buchla synthesizer", "electronic processing equipment"]
+
+  - year: "1966-80"
+    title: "Pontpoint"
+    category: "tape_music"
+    role: ["composer"]
+    description: "Studio electronic composition, featured in choreographies by Portland Dance Theatre."
+
+  - year: 1980
+    title: "Cirqualz"
+    category: "tape_music"
+    role: ["composer"]
+    description: "Studio electronic composition, featured in choreographies by Portland Dance Theatre."
+
+  - year: 1984
+    title: "Faisandage et galimafrée"
+    category: "acoustical_composition"
+    role: ["composer"]
+    instrumentation: "variable trios in eight movements"
+
+  - year: 1985
+    title: "Than Particle"
+    category: "live_electronics"
+    role: ["composer", "performer"]
+    instrumentation: "live electronics and percussion"
+    collaborators: ["William Winant (percussionist)"]
+    technical_notes: "Employed digital home computer."
+    equipment: ["Digital home computer", "live electronics system"]
+
+  - year: 1987
+    title: "Alcadian Displacement"
+    category: "acoustical_composition"
+    role: ["composer"]
+    instrumentation: "chamber orchestra"
+
+  - year: 1987
+    title: "Orait"
+    category: "vocal_music"
+    role: ["composer"]
+    instrumentation: "vocal ensemble and body percussion"
+
+  - year: "1985-97"
+    title: "Sixpac Sonatas"
+    category: "solo_instrument"
+    role: ["composer", "instrument_builder"]
+    instrumentation: "piano"
+    description: "Set of six sonatas, the first five for harpsichord, the last for piano."
+    equipment: ["Harpsichord", "piano"]
+
+  - year: "1990-96"
+    title: "Graftings"
+    category: "solo_instrument"
+    role: ["composer"]
+    instrumentation: "piano"
+    description: "Poetic miniatures for piano."
+
+  - year: 1996
+    title: "Sushibox pieces"
+    category: "solo_instrument"
+    role: ["composer"]
+    instrumentation: "piano"
+    description: "Nineteen pieces assembled in 1996, source of the 'construction-set' principle."
+
+  - year: 1997
+    title: "Jardin"
+    category: "solo_instrument"
+    role: ["composer"]
+    instrumentation: "piano"
+    description: "Piano suite including 'Poplars', evoking memory of poplar trees lost in the 1938 hurricane."
+
+  - year: "1990s"
+    title: "Songs without Words"
+    category: "solo_instrument"
+    role: ["composer"]
+    instrumentation: "piano"
+    description: "Notable pieces for George Exon, David Tudor, and Christian Wolff."
+
+  - year: 1999
+    title: "Ambulare"
+    category: "live_electronics"
+    role: ["composer"]
+    technical_notes: "Quadraphonic electronic piece."
+    equipment: ["Quadraphonic sound system"]
+
+  - year: 2003
+    title: "Yawawot—Spectral Portrait"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "live solo violin and electro-acoustical soundscape"
+
+  - year: 2006
+    title: "From the Rendition Series"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "solo piano with internal electronics"
+    description: "'Construction set' for piano."
+    equipment: ["Piano with internal electronics"]
+
+  - year: 2007
+    title: "Gambreled Tapestry"
+    category: "live_electronics"
+    role: ["composer"]
+    instrumentation: "piano and electronics"
+
+  - year: 2009
+    title: "Comitatus 2"
+    category: "chamber_music"
+    role: ["composer"]
+    instrumentation: "violin and piano"
+
+  - year: 2011
+    title: "Abrupted Edges, for Alvin Lucier 'a diamond among . . .'"
+    category: "chamber_music"
+    role: ["composer"]
+    instrumentation: "string quartet and piano"
+
+collaborative_groups:
+  - name: "ONCE Group"
+    period: "1960s"
+    role: "Co-founder, composer, performer, organizer"
+    activities: "ONCE Festivals (1961–65, 1968), touring ensemble"
+    key_collaborators: ["Robert Ashley", "George Cacioppo", "Roger Reynolds", "Donald Scavarda", "Harold Borkin", "Joseph Wehrer", "George Manupelli", "Mary Ashley", "Milton Cohen"]
+
+  - name: "Sonic Arts Union (originally Sonic Arts Group)"
+    period: "1966–1977"
+    members: ["Robert Ashley", "David Behrman", "Alvin Lucier", "Gordon Mumma"]
+    role: "Composer, performer"
+    first_billing: "February 21, 1967, Winter Fest, Boston"
+    activities: "National and international tours of live-electronic music."
+    significance: "Important creative collective for live-electronic music"
+
+  - name: "Merce Cunningham Dance Company"
+    period: "1966–1973 (full-time), listed until 1975"
+    role: "Musician, technical assistant, composer, performer"
+    collaborators: ["John Cage", "David Tudor", "Merce Cunningham", "Robert Rauschenberg", "Jasper Johns"]
+    compositions_for_company: ["Place (1966)", "TV Rerun (1972)"]
+    collaborative_works: ["Assemblage (1968)", "Signals (1970)", "Landrover (1972)"]
+    instruments_played: ["Horn", "piano", "bandoneon", "musical saw", "live electronics"]
+
+  - name: "Cooperative Studio for Electronic Music"
+    period: "Founded 1958"
+    co_founder: "Robert Ashley"
+    role: "Co-founder, technical designer"
+    purpose: "Production of live electronic and tape music for Milton Cohen's Space Theatre and independent filmmakers (e.g., George Manupelli)."
+
+  - name: "Cybersonics"
+    period: "Founded 1960"
+    co_founder: "William Ribbens"
+    role: "Co-founder, technical designer"
+    purpose: "Design and production of sound-editing and processing equipment for live-electronic music, film, and television."
+
+instruments_built:
+  - name: "Cybersonic Console for Medium Size Mograph 1963"
+    year: 1963
+    type: "portable_sound_processor"
+    used_in: "Medium Size Mograph 1963"
+    technical_specs: |
+      - Vibration pickups attached to piano soundboard
+      - Cybersonic circuitry in small portable sound box
+      - Attack transient compression
+      - Resonant decay extension
+      - Connected to loudspeaker under piano
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Cybersonic Belt-Box for Hornpipe"
+    year: 1966-1967
+    type: "wearable_analog_computer"
+    used_in: "Hornpipe"
+    technical_specs: |
+      - Small metal box with belt clip
+      - Two lavalier microphone inputs
+      - Four parallel voltage control amplifiers (VCA) per channel
+      - Resonant circuits with feedback loops
+      - Time-information storage (T)
+      - Gate control (G) based on sound interactions
+      - Peak-limiting function
+      - Umbilical cable to stereo sound system
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Mesa Electronic Processing System"
+    year: 1966
+    type: "complex_sound_modification_system"
+    used_in: "Mesa"
+    collaborators: ["William Ribbens"]
+    technical_specs: |
+      - Six microphone system (four on bandoneon, two ambient)
+      - Four voltage-controlled attenuators (VCA)
+      - Spectrum Transfer (frequency shifter with equalization)
+      - Multiplier (frequency spectrum translation)
+      - Product Valve (amplitude and phase modulator)
+      - Formant Modulation (voltage-controlled comb filter)
+      - FM Logic and Route-Gate Logic modules
+      - Frequency-sensitive thermal-delay circuitry
+      - Control signals derived from bandoneon sounds
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Cooperative Studio Electronic Equipment"
+    year: "1958-1964"
+    type: "studio_equipment"
+    collaborators: ["Robert Ashley"]
+    location: "Ann Arbor, Michigan"
+    components: |
+      - Multiple tape transports with variable speed control
+      - Custom pre-amplification and equalization
+      - Passive and active mixers
+      - Wien bridge oscillators with low-frequency extension
+      - Wave shapers (half-sine, variable-width pulse, sawtooth)
+      - Passive diode modulators and active modulators
+      - Balanced-output modulator with variable bias
+      - Random noise generator
+      - Frequency-selective amplifier with variable bandwidth
+      - Active R-C comb filter (9-octave, 28 dB/octave slope)
+      - Passive R-C filters
+      - Regulated power supply
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Sound-Modifier Console for Expo '70 Osaka"
+    year: 1969-1970
+    type: "multi_channel_audio_processor"
+    used_in: "Pepsi Pavilion, Osaka World's Fair"
+    collaborators: ["David Tudor", "Larry Owens"]
+    technical_specs: |
+      - 8 separate channels
+      - 12 controls per channel (96 total configurations)
+      - Three basic modifiers per channel: FM, AM, High-pass Filter
+      - Input: sum of up to 4 sound sources from 32 total
+      - Output: programmable to 37 loudspeakers in rhombic grid
+      - Envelope-variable circuitry
+      - FM functions: register (H/M/L), mode (fixed/variable shift/vibrato)
+      - AM functions: rate, width, rate modulation
+      - Filter: high-pass with fixed 12 dB/octave slope, variable cut-off
+      - Used newest transistor technology (required security clearance)
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Telepos Dancer Belts"
+    year: 1972
+    type: "wearable_motion_sensors"
+    used_in: "TV Rerun (Merce Cunningham Dance Company)"
+    technical_specs: |
+      - Small accelerometers
+      - Voltage controlled oscillator
+      - Radio transmitter
+      - Telemetry process for sound generation from movement
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Cybersonic Equipment for Horn"
+    year: 1965
+    type: "ensemble_processing_units"
+    used_in: "Horn"
+    technical_specs: |
+      - Two or three interconnected cybersonic units
+      - Audio inputs for horn and two voices
+      - Ensemble of ring-modulators
+      - Carrier frequency input derived from other performers' sounds
+      - Stereo sound system output
+    role: ["instrument_builder", "technical_designer"]
+
+  - name: "Historical Keyboard Instruments"
+    year: "1970s-1980s"
+    type: "acoustical_instruments"
+    instruments: |
+      - Single-manual Flemish-style harpsichord
+      - Other historically based keyboard instruments
+    used_in: ["Eleven Note Pieces and Decimal Passacaglia", "Sixpac Sonatas"]
+    role: ["instrument_builder"]
+
+  - name: "Electronic Modifications for Standard Instruments"
+    year: "1960s-1970s"
+    modifications: |
+      - 1949 Conn 6D horn modified by Carl Geyer (removable bell)
+      - Secondary control cable attachment for valve horn
+      - Microphone attachments for bandoneon
+      - Vibration pickups for piano
+    role: ["instrument_builder", "technical_designer"]
+
+key_concepts:
+  - term: "Cybersonics"
+    definition: "Live-electronic feedback principle by which some aspect of the sound is fed back into the electronic process, modifying sound 'by characteristics derived directly from the sound itself.' Also a social metaphor for interactive collaboration between people, instruments, technology, and performance space."
+    first_use: "Applied to Mumma's creative work from 1961."
+
+  - term: "Live-Electronic Music"
+    definition: "Music involving the real-time electronic processing of primarily acoustical sounds during performance, as opposed to studio-based tape music."
+    significance: "Central to Mumma's work from the late 1950s onward."
+
+awards:
+  - year: 2000
+    award: "John Cage Award"
+    institution: "Foundation for Contemporary Performance Arts"
+
+  - year: 2000
+    event: "Major retrospective of his music"
+    venue: "Mills College"
