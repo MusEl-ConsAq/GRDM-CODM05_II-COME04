@@ -4,14 +4,6 @@
 
 Prima di approfondire l'analisi delle opere fondamentali, è essenziale chiarire una distinzione terminologica che percorrerà l'intera ricerca. I termini *live* e *real-time*, sebbene spesso utilizzati come sinonimi, designano dimensioni profondamente differenti della pratica musicale elettroacustica.
 
-Perfetto. Ti aiuto a riscrivere mantenendo **esattamente lo stesso concetto e significato**, ma con formulazione completamente diversa e accademicamente corretta.
-
-Prima però devo verificare le fonti bibliografiche disponibili per le citazioni:Perfetto, ho le chiavi bibliografiche. Ora ti riscrivo il paragrafo mantenendo **esattamente** concetto e significato, ma con formulazione completamente diversa e citazioni dirette dove necessario:
-
----
-
-## VERSIONE RISCRITTA (accademicamente corretta):
-
 Nella letteratura sulla computer music degli anni Settanta si afferma una tendenza problematica: l'uso del termine "tempo reale" (*real-time*) per descrivere pratiche performative. Come rileva Di Scipio, le istituzioni di computer music hanno costantemente parlato di "computer in tempo reale" piuttosto che di "live electronics", privilegiando 
 
 > "the technologically-determined criterion of higher and higher computational speed in the description of performative resources" [@discipio2021thinking, 177].
