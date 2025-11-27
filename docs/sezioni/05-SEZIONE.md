@@ -79,7 +79,6 @@ You Nakai identifica in *Fluorescent Sound* (13 settembre 1964) una pietra milia
 ### La filosofia cybersonica
 
 Gordon Mumma sviluppò un approccio distintivo al live electronics che chiamò **cybersonics**: "live-electronic feedback principle by which some aspect of the sound is fed back into the electronic process, thus modifying sound *by characteristics derived directly from the sound itself*"[@mumma2015]. Questa definizione indica un sistema **autoreattivo** dove il processamento elettronico risponde in tempo reale alle caratteristiche del suono che sta processando, creando loop di feedback complessi.
-
 L'opera paradigmatica è *Hornpipe* (1967), per corno francese con circuiteria cybersonica portatile. Mumma spiega: 
 
 > "The electronic circuitry senses the tones from the horn, and modifies them to produce additional sounds. The modifications are determined by characteristics of the horn tones—their loudness, their pitch, and their timbre"[@mumma1975, 324]. 
@@ -102,42 +101,40 @@ L'opera fu presentata ai **9 Evenings: Theatre & Engineering** (ottobre 1966, 69
 
 Alvin Lucier sviluppò un approccio al live electronics che privilegiava l'esplorazione di **fenomeni fisici** piuttosto che la costruzione di strumenti complessi. La sua opera più famosa, *I Am Sitting in a Room* (1969), usava il **feedback acustico** come materiale compositivo: "I am sitting in a room different from the one you are in now. I am recording the sound of my speaking voice and I am going to play it back into the room again and again until the resonant frequencies of the room reinforce themselves so that any semblance of my speech, with perhaps the exception of rhythm, is destroyed"[@lucier1988].
 
-*Music for Solo Performer* (1965) utilizzava le **onde cerebrali** (EEG) amplificate per far vibrare strumenti a percussione via transducers. Collins osserva che questo approccio rendeva il performer "part of a complex feedback system involving brain waves, audio, and acoustics"[@collins2004]. Il compositore non controllava direttamente il suono, ma progettava un *sistema* dove fenomeni naturali (brain waves, room resonance) diventavano i veri "performers".
+In *Music for Solo Performer* (1965), le **onde cerebrali** (EEG) amplificate venivano utilizzate per attivare strumenti a percussione attraverso trasduttori. Come osserva Collins questo approccio rendeva il performer parte di un sistema di feedback complesso che coinvolgeva onde cerebrali, audio e acustica. Il compositore non controllava direttamente il suono, ma progettava un sistema in cui fenomeni naturali—come le risonanze ambientali o l'attività cerebrale—diventavano i veri "interpreti".[@collins2004].
 
 ### Robert Ashley: electronic music theater
 
-Robert Ashley sviluppò quello che chiamò **electronic music theater**, dove la tecnologia elettronica non era strumentale ma teatrale. Opere come *The Wolfman* (1964) e *in memoriam... Crazy Horse* (1964) usavano feedback vocale estremo per creare "sonic situations" piuttosto che composizioni nel senso tradizionale.
+Robert Ashley sviluppò quello che definì **electronic music theater**, dove la tecnologia elettronica assumeva una funzione teatrale più che strettamente strumentale. Opere come *The Wolfman* (1964) e *in memoriam... Crazy Horse* (1964) usavano feedback vocale estremo per creare "sonic situations" piuttosto che composizioni nel senso tradizionale.
 
-Ashley spiega: "The whole notion of live-electronic music theater came from the idea that you could make a theatrical situation out of electronic feedback"[@chadabe1997, 87]. In *in memoriam... Crazy Horse*, Ashley cantava molto forte vicino a un microfono, cercando deliberatamente il feedback: "The feedback would come up and I'd ride it, and then I'd bring it back down"[@chadabe1997, 87]. Il performer diventava un "feedback operator" più che un musicista nel senso convenzionale.
+Ashley spiegava che l'idea del teatro musicale elettronico live nasceva dalla possibilità di creare una situazione teatrale a partire dal feedback elettronico[@chadabe1997, 87]. In *in memoriam... Crazy Horse*, cantava ad alto volume vicino a un microfono cercando deliberatamente il feedback, imparando a controllarne l'intensità salendo e scendendo con la voce. In questo contesto, il performer diventava un "operatore di feedback" più che un musicista convenzionale.
 
 ### David Behrman: circuiti semi-autonomi
 
-David Behrman esplorò sistemi con **indeterminacy incorporata** nei circuiti stessi. *Runthrough* usava **photocells** (cellule fotoelettriche) per creare un sistema dove "sounds are produced by shadows cast by the performers' hands on photocells"[@collins2020]. Il compositore progettava il sistema, ma il comportamento preciso era determinato dalle azioni imprevedibili dei performer.
+David Behrman esplorò sistemi con **indeterminacy incorporata** nei circuiti stessi. In *Runthrough*, l'utilizzo di fotocellule permetteva di generare suoni attraverso le ombre proiettate dalle mani dei performer, creando un sistema in cui il compositore definiva la struttura ma il comportamento sonoro preciso emergeva da azioni imprevedibili[@collins2020].
 
-Come scrive nella prefazione a *Handmade Electronic Music*: "There was a tradition that came from Tudor and Mumma to build your own electronic music devices. And one could say that there's an American tradition that goes back to Harry Partch about building your own instrument"[@collins2020, Foreword]. Behrman collega esplicitamente l'hardware hacking alla tradizione americana di costruzione strumentale.
+Come scrive nella prefazione a *Handmade Electronic Music*, esisteva una tradizione che da Tudor e Mumma portava a costruire i propri dispositivi elettronici, collegandosi esplicitamente alla tradizione americana della costruzione strumentale che risale fino a Harry Partch. Behrman colloca così la pratica dell'hacking hardware all'interno di una precisa genealogia culturale americana[@collins2020, Foreword].
 
 ## Organizzazione sociale: da Ann Arbor al Sonic Arts Union
 
 ### Il Cooperative Studio for Electronic Music (Ann Arbor, 1960)
 
-Gordon Mumma fondò nel 1960 ad Ann Arbor il **Cooperative Studio for Electronic Music**, il primo studio indipendente del suo genere negli Stati Uniti. Mumma spiega la filosofia: "The idea was that individuals can come together and pool their resources. It's important that the word 'cooperative' is there because it had some political ramifications that we felt were necessary"[@mumma2015].
+Gordon Mumma fondò nel 1960 ad Ann Arbor il **Cooperative Studio for Electronic Music**, il primo studio indipendente del suo genere negli Stati Uniti. Come spiega Mumma, l'idea centrale era che gli individui potessero riunirsi e mettere in comune le risorse, dove il termine "cooperativo" aveva precise ramificazioni politiche che il gruppo considerava necessarie[@mumma2015].
 
-Lo studio si distingueva dai modelli europei per la sua **mobilità**: "The equipment was not permanently installed—it was portable. We could take it to performances, to other venues"[@mumma2015]. Questa portabilità fu resa possibile dalla tecnologia transistor, che "reduced energy costs, increased reliability compared to tubes"[@rbma2016].
+Lo studio si distingueva dai modelli europei per la sua essenziale **mobilità**:  L'attrezzatura non era installata in modo permanente ma progettata per essere portatile, consentendo di trasportarla per performance in diversi spazi. Questa caratteristica fu resa possibile dall'avvento della tecnologia a transistor, che ridusse i costi energetici e aumentò l'affidabilità rispetto ai precedenti sistemi a valvole[@rbma2016].
 
 ### Il ONCE Festival (1961-1965)
 
 Il **ONCE Festival** (Ann Arbor, 1961-1965) fu il principale venue per la scena sperimentale di Ann Arbor. Organizzato inizialmente dal poeta Robert Waldrop, divenne rapidamente un punto di riferimento internazionale. Mumma ricorda: "ONCE became a kind of beacon. People would come from all over—Cage, Tudor, Charlotte Moorman, Takehisa Kosugi"[@mumma2015].
 
-Il festival si caratterizzava per venues **non convenzionali**: "We used the Dramatic Arts Center basement, warehouses, outdoor spaces—anywhere but a traditional concert hall"[@mumma2015]. Questa scelta rifletteva una critica implicita alle istituzioni musicali accademiche che avevano rifiutato di supportare il festival.
+Il festival si caratterizzava per la scelta di sedi non convenzionali, utilizzando spazi come il seminterrato del Dramatic Arts Center, magazzini e aree all'aperto, evitando deliberatamente le tradizionali sale da concerto. Questa scelta rappresentava una critica implicita alle istituzioni musicali accademiche che si erano rifiutate di sostenere l'iniziativa.
 
 ### Il Sonic Arts Union (1966-1976)
 
-Il **Sonic Arts Union** fu fondato nel 1966 da Gordon Mumma, Robert Ashley, David Behrman e Alvin Lucier. Il nome stesso rivelava la loro filosofia: "We liked the word 'sonic' because it suggested all sounds, not just musical sounds in the traditional sense"[@chadabe1997, 102].
+Fondato nel 1966 da Gordon Mumma, Robert Ashley, David Behrman e Alvin Lucier, il Sonic Arts Union traeva la sua filosofia dall'uso del termine "sonic", che evocava tutti i suoni possibili, non solo quelli musicali in senso tradizionale[@chadabe1997, 102].
 
-Mumma descrive la formazione: "We first performed together at Brandeis in April 1966. We realized that we had very different aesthetics, but we liked the differences of each other's music. That became the basis for the group"[@chadabe1997, 102]. Questa **diversità estetica** era un valore, non un problema. Come ricorda Lucier: "We did each other's pieces. We did David's *Runthrough*. Once when he wasn't there, we did Gordon's *Mesa* with mouth organs. We did Bob's *Wolfman* and *Fancy Free*"[@chadabe1997, 102].
-
-Il Sonic Arts Union fece tour estensivi: "We went everywhere, from Rome to Oslo, Helsinki, Switzerland, London. We did almost sixteen performances in thirty days" (tour europeo 1969)[@chadabe1997, 102]. Questi tour erano fisicamente esaurenti—"We had to set up all the equipment before each concert"—ma cruciali per diffondere l'approccio americano al live electronics in Europa.
-
+Mumma descrive la formazione del gruppo come frutto di una performance congiunta nel 1966, dopo la quale compresero di condividere un apprezzamento per le rispettive differenze estetiche. Questa diversità estetica divenne la base del collettivo. Lucier ricorda come si eseguissero i pezzi l'uno dell'altro, adattando le opere come Runthrough di Behrman o Mesa di Mumma anche in assenza dell'autore.
+Il Sonic Arts Union intraprese tournée internazionali estenuanti ma fondamentali, toccando città come Roma, Oslo e Londra, con un ritmo serrato di sedici performance in trenta giorni durante il tour europeo del 1969. Questi viaggi furono cruciali per diffondere in Europa l'approccio americano al live electronics.
 Il gruppo si sciolse nel 1976 quando i membri presero posizioni accademiche: Ashley divenne direttore del Center for Contemporary Music al Mills College, Lucier si unì alla faculty della Wesleyan University, Mumma all'University of California, Santa Cruz, e Behrman al Mills College[@chadabe1997, 102].
 
 ### Composers Inside Electronics (1973-1990s)
