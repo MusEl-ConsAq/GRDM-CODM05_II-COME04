@@ -1,41 +1,5 @@
 # IL MODELLO AMERICANO: COMUNITÀ, DIY E SPERIMENTAZIONE COLLETTIVA
 
-### John Cage: Dal Prepared Piano ai Microsuoni Amplificati**
-
-Se nel capitolo precedente John Cage è emerso come pioniere a livello globale, in dialogo e contrapposizione con Stockhausen, per comprendere la specificità del modello americano è necessario considerarlo come l'ispiratore filosofico di un intero movimento. La sua ricerca, iniziata ben prima del seminale *Cartridge Music* (1960), gettò le basi per un approccio alla tecnologia musicale che fosse accessibile, processuale e radicalmente performativo.
-
-La formazione di Cage fu atipica e profondamente segnata da una familiarità con la tecnologia fin dagli anni '30. Figlio di un inventore, assisteva il padre nelle ricerche per i brevetti, sviluppando "una sufficiente padronanza dei concetti e del vocabolario del campo per comunicare con i professionisti" [@mumma2015, 167]. Questo retroterra spiega la sua disinvoltura nell'approccio alla tecnica. La sua curiosità per i nuovi media si manifestò precocemente: tra il 1932 e il 1933 presentava programmi radiofonici a Los Angeles, e nel 1936 lavorava come apprendista montatore con il filmmaker Oskar Fischinger, sperimentando tecniche di sincronizzazione suono-immagine che anticipavano il lavoro sul nastro magnetico [@mumma2015, 167].
-
-**La traiettoria verso i "microsuoni amplificati"**
-Il percorso di Cage verso il live electronics non fu un fulmine a ciel sereno, ma il culmine di una ricerca ventennale sul suono, la performance e la tecnologia, caratterizzata da una grande coerenza di pensiero.
-
-1.  **Percussioni e Prepared Piano (anni '40):** Già nel 1939, con *First Construction in Metal*, Cage utilizzava "ceppi dei freni e altro ferro vecchio recuperato dalle discariche" (Collins, 2020, p. 40). Il ricorso al prepared piano nello stesso decennio, oltre a creare sonorità inedite, rispondeva a un'esigenza pratica: "avere una risorsa multi-timbrica senza il duro lavoro di spostare strumenti a percussione" (Mumma, 2015, p. 162). L'idea di trasformare oggetti di uso comune in strumenti musicali era già pienamente presente.
-
-2.  **La serie "Imaginary Landscape" (1939-1952):** Questa serie rappresenta il vero e proprio laboratorio delle sue future idee. *Imaginary Landscape No. 1* (1939) è storicamente significativa come "il primo brano documentato di musica a presentare il DJ come un performer musicale" (Collins, 2020, p. 40), utilizzando giradischi a velocità variabile. Di Scipio (2021a) nota come l'uso performativo del grammofono fosse un'idea dadaista che Cage mutuò da László Moholy-Nagy. Un passaggio cruciale avvenne nel 1942 con *Imaginary Landscape No. 3*, che segnò "il primo uso di piccoli suoni amplificati" da parte di Cage [@mumma2015, 169]. La serie culmina con *Imaginary Landscape No. 4* (1951) per dodici radio, che, insieme a *Radio Music* (1952) e *Music Walk* (1958), esplorò sistematicamente "il ricevitore radio come strumento per la performance dal vivo" (Mumma, 1975, p. 293).
-
-3.  **Il periodo del nastro: *Williams Mix* (1952):** Sebbene si tratti di un'opera su nastro, *Williams Mix* è fondamentale per la sua metodologia. Cage, con l'aiuto di Earle Brown e David Tudor, creò una biblioteca di suoni catalogati (città, campagna, suoni elettronici, etc.) e utilizzò l'I Ching per decidere tramite operazioni casuali "che tipo di suono utilizzare, su quali tracce posizionarlo, e le durate di suoni e silenzi" (Chadabe, 1997, p. 56). Questo approccio, volto a definire un "territorio" sonoro (in questo caso, il mondo) piuttosto che un oggetto musicale finito, sarebbe diventato centrale nella sua filosofia (Chadabe, 1997, p. 83).
-
-### *Cartridge Music* (1960) e la nascita di un nuovo paradigma 
-
-Tutti questi fili si riuniscono in *Cartridge Music*. Alla fine degli anni '50, Cage coinvolse David Tudor nella ricerca di trasduttori elettronici, componenti che andavano diffondendosi con la tecnologia a transistor [@mumma2015, 170]. L'opera utilizza cartucce di giradischi in cui, al posto degli aghi, vengono inseriti "stuzzicadenti, molle, piume" (Chadabe, 1997, p. 81-82), i cui suoni microscopici sono amplificati fino a rivelare un intero universo sonoro. Nicolas Collins (2020, p. 40) nota come "la sorprendente ricchezza di questi 'microsuoni' enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) che uscivano dagli studi di musica elettronica europei".
-
-La partitura, composta da fogli trasparenti sovrapponibili, istituisce "un campo di possibilità aperto all'esplorazione dei performer piuttosto che un oggetto musicale rigidamente definito" (Chadabe, 1997, p. 82). È in questo contesto che, parlando di *Cartridge Music* nel 1962, Cage coniò per la prima volta l'espressione "live electronic music" (Di Scipio, 2021a, Parte Terza, p. 314), suggellando la rottura con il paradigma della musica su nastro.
-
-L'impatto fu dirompante. La prima esecuzione a Colonia nel 1960, alla quale pare assistette Stockhausen, rappresentò "un momento di potente discontinuità per il panorama elettroacustico europeo" (Di Scipio, 2021a, Parte Terza, p. 314). Mentre Stockhausen avrebbe risposto con il controllo assoluto di *Mikrophonie I*, Cage proponeva, nelle parole di Joel Chadabe (1997, p. 83), un'"anarchia felice" basata su processi e giustapposizioni casuali. La sua filosofia si cristallizza nella celebre affermazione secondo cui la sua partitura poteva servire a "esaminare musicalmente una vecchia Volkswagen" (Roth, 2023, p. 64), dimostrando una disponibilità totale al mondo sonoro che lo circondava.
-
-L'eredità di Cage per il modello americano che di lì a poco sarebbe fiorito ad Ann Arbor è quindi triplice: filosofica (L'apertura a tutti i suoni e l'uso di processi indeterminati), pragmatica (L'uso della tecnologia quotidiana e accessibile, in opposizione agli apparati degli studi istituzionali) e sociale (La definizione di un "territorio" performativo che valorizza l'esplorazione collettiva).
-
-Queste idee, concretizzatesi nella prassi di David Tudor, avrebbero trovato nel fertile ecosistema di Ann Arbor il terreno ideale per evolversi in un vero e proprio movimento.
-
-### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage (1942-1960)
-
-*Cartridge Music* non è un fulmine a ciel sereno nel percorso compositivo di Cage, ma piuttosto il culmine di un processo di ricerca durato almeno due decenni.
-
-Dopo otto anni di lavoro innovativo con il *prepared piano*, Cage riprese la composizione con mezzi elettroacustici con *Imaginary Landscape No. 4* (1951), opera per dodici radio con ventiquattro esecutori [@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplorò sistematicamente il ricevitore radio come strumento per la performance dal vivo [@mumma1975, 293].
-
-Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizzato microfoni a contatto in *Imaginary Landscape No. 1* (1939), ma non vi tornò fino a *Winter Music* e *Variations II*[@mumma1975, 293]. David Tudor sviluppò entrambe le opere come composizioni per pianoforte amplificato: in *Winter Music* la parte pianistica veniva eseguita dalla tastiera e resa ultra-forte, mentre in *Variations II* i microfoni a contatto elevavano i microsuoni dall'interno del pianoforte a un'udibilità da concerto [@mumma1975, 293].
-
-Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispettivamente microfoni a contatto (*Music for Amplified Toy Pianos*) e tesinte fonografiche (*Cartridge Music*)[@mumma1975, 293]. Queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dallo stesso compositore, costituendo uno stimolo considerevole alla sperimentazione nel live electronics[@mumma1975, 293-294].
 
 \clearpage
 
