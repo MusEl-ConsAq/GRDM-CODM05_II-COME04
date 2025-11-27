@@ -78,21 +78,23 @@ You Nakai identifica in *Fluorescent Sound* (13 settembre 1964) una pietra milia
 
 ### La filosofia cybersonica
 
-Gordon Mumma sviluppò un approccio distintivo al live electronics che chiamò **cybersonics**: "live-electronic feedback principle by which some aspect of the sound is fed back into the electronic process, thus modifying sound 'by characteristics derived directly from the sound itself'"[@mumma2015]. Questa definizione indica un sistema **autoreattivo** dove il processamento elettronico risponde in tempo reale alle caratteristiche del suono che sta processando, creando loop di feedback complessi.
+Gordon Mumma sviluppò un approccio distintivo al live electronics che chiamò **cybersonics**: "live-electronic feedback principle by which some aspect of the sound is fed back into the electronic process, thus modifying sound *by characteristics derived directly from the sound itself*"[@mumma2015]. Questa definizione indica un sistema **autoreattivo** dove il processamento elettronico risponde in tempo reale alle caratteristiche del suono che sta processando, creando loop di feedback complessi.
 
-L'opera paradigmatica è *Hornpipe* (1967), per corno francese con circuiteria cybersonica portatile. Mumma spiega: "The electronic circuitry senses the tones from the horn, and modifies them to produce additional sounds. The modifications are determined by characteristics of the horn tones—their loudness, their pitch, and their timbre"[@mumma1975, 324]. Il sistema non applicava preset effects, ma **rispondeva** dinamicamente al materiale sonoro in ingresso.
+L'opera paradigmatica è *Hornpipe* (1967), per corno francese con circuiteria cybersonica portatile. Mumma spiega: 
+
+> "The electronic circuitry senses the tones from the horn, and modifies them to produce additional sounds. The modifications are determined by characteristics of the horn tones—their loudness, their pitch, and their timbre"[@mumma1975, 324]. 
+
+Il sistema non applicava preset effects, ma **rispondeva** dinamicamente al materiale sonoro in ingresso.
 
 ### La Cybersonics Company e la costruzione collaborativa
 
-Nel 1965, Mumma fondò con l'ingegnere William Ribbens la **Cybersonics Company**, producendo dispositivi custom per vari compositori. Il più famoso fu il **Spectrum Transfer**, un ring modulator versatile costruito per David Tudor nel 1965. Nicolas Collins scrive: "The Spectrum Transfer was Gordon Mumma's contribution to the canon of live electronic music-making. It was inspired by and subsequently used extensively by David Tudor, from 1965 until as late as the early 1990s"[@collins2020, 265].
-
-You Nakai documenta come Mumma riconoscesse i propri strumenti dallo "stile costruttivo": guardando una fotografia del Beat Frequency Oscillator, Mumma commentò: "I can't swear in a court of law, but that's the way I worked with stuff!"[@nakai2021, 198-199]. Questa "signature stilistica" nella costruzione hardware rivelava una pratica artigianale dove ogni builder aveva un proprio approccio riconoscibile.
+Nel 1965, Mumma fondò con l'ingegnere William Ribbens la **Cybersonics Company**, producendo dispositivi custom per vari compositori. Il più famoso fu il **Spectrum Transfer**, un ring modulator versatile costruito per David Tudor, che divenne, come scrive Nicolas Collins, un contributo fondamentale al canone della live electronic music, ampiamente utilizzato da Tudor per decenni[@collins2020, 265]. You Nakai documenta come Mumma riconoscesse i propri strumenti da uno "stile costruttivo" riconoscibile, una sorta di firma artigianale che rivelava l'approccio personale di ogni costruttore di hardware.
 
 ### *Mesa* (1966) e la collaborazione Tudor-Mumma
 
-*Mesa* (1966) fu composta per il **bandoneon** di David Tudor processato attraverso circuiteria Cybersonics costruita da Mumma. Il bandoneon fu scelto per la sua natura **bi-strumentale**: "one of the very few instruments which are two-sided"[@nakai2021, 230-231]. Mumma spiegò che questo offriva tre caratteristiche ideali per il processing: "(a) signal fluctuating with complex spectrum, (b) one side modulates the other, (c) phase differences between the two sides"[@nakai2021, 230-231].
+*Mesa* (1966) fu composta per il **bandoneon** di David Tudor processato attraverso circuiteria Cybersonics costruita da Mumma. La scelta del bandoneon fu strategica, dovuta alla sua natura bi-strumentale, essendo uno dei pochi strumenti con due lati distinti. Mumma spiegò che questa caratteristica offriva tre qualità ideali per il processing: uno spettro complesso e fluttuante, la capacità di un lato di modulare l'altro, e le differenze di fase tra i due lati.[@nakai2021, 230-231].
 
-L'opera fu presentata ai **9 Evenings: Theatre & Engineering** (October 1966, 69th Regiment Armory, New York), un evento cruciale che mise in contatto artisti sperimentali con ingegneri dei Bell Labs. Mumma ricorda: "There was this magic triangle between the scientists and the artists and the hardware"[@mumma2015].
+L'opera fu presentata ai **9 Evenings: Theatre & Engineering** (ottobre 1966, 69th Regiment Armory, New York), un evento cruciale che mise in contatto artisti sperimentali con ingegneri dei Bell Labs. Mumma ricorda: "There was this magic triangle between the scientists and the artists and the hardware"[@mumma2015].
 
 ## Poetiche divergenti all'interno di un'estetica condivisa
 
