@@ -161,10 +161,15 @@ Il primo ONCE Festival (febbraio-marzo 1961) consistette di quattro concerti in 
 Tutti i concerti furono registrati per ritrasmissione FM sulla radio universitaria WUOM. Il pubblico raggiunse quasi la capienza massima. Il costo totale del festival ammontò a $3,000. I ricavi dei biglietti: $1,700. Il Dramatic Arts Center coprì la differenza.
 
 I festival successivi crebbero in dimensioni e ambizione:
+
 - **ONCE 1962** (febbraio): sei concerti, accesa controversia seguì il programma di La Monte Young e Terry Jennings
+
 - **ONCE 1963** (febbraio): quattro concerti
+
 - **ONCE 1964**: controversie, volantino provocatorio
+
 - **ONCE 1965** (febbraio): quattro concerti più una lezione, con ensemble di Lukas Foss, musicisti da New York (David Behrman, Philip Corner, Malcolm Goldstein, Max Neuhaus), Udo Kasemets da Toronto
+
 - **ONCE AGAIN 1965** (settembre): sul tetto del parcheggio di Maynard Street, capienza di 500 posti a sedere più 200 in piedi, enormi sold-out
 
 Complessivamente: 29 concerti presentati durante sei ONCE Festivals, includendo 67 prime esecuzioni su un totale di 147 opere di 88 compositori contemporanei.
