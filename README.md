@@ -134,42 +134,6 @@ Questo ricco e policentrico contesto rivela come il live electronics non fosse s
 
 # IL MODELLO AMERICANO: COMUNITÀ, DIY E SPERIMENTAZIONE COLLETTIVA
 
-### John Cage: Dal Prepared Piano ai Microsuoni Amplificati**
-
-Se nel capitolo precedente John Cage è emerso come pioniere a livello globale, in dialogo e contrapposizione con Stockhausen, per comprendere la specificità del modello americano è necessario considerarlo come l'ispiratore filosofico di un intero movimento. La sua ricerca, iniziata ben prima del seminale *Cartridge Music* (1960), gettò le basi per un approccio alla tecnologia musicale che fosse accessibile, processuale e radicalmente performativo.
-
-La formazione di Cage fu atipica e profondamente segnata da una familiarità con la tecnologia fin dagli anni '30. Figlio di un inventore, assisteva il padre nelle ricerche per i brevetti, sviluppando "una sufficiente padronanza dei concetti e del vocabolario del campo per comunicare con i professionisti" [@mumma2015, 167]. Questo retroterra spiega la sua disinvoltura nell'approccio alla tecnica. La sua curiosità per i nuovi media si manifestò precocemente: tra il 1932 e il 1933 presentava programmi radiofonici a Los Angeles, e nel 1936 lavorava come apprendista montatore con il filmmaker Oskar Fischinger, sperimentando tecniche di sincronizzazione suono-immagine che anticipavano il lavoro sul nastro magnetico [@mumma2015, 167].
-
-**La traiettoria verso i "microsuoni amplificati"**
-Il percorso di Cage verso il live electronics non fu un fulmine a ciel sereno, ma il culmine di una ricerca ventennale sul suono, la performance e la tecnologia, caratterizzata da una grande coerenza di pensiero.
-
-1.  **Percussioni e Prepared Piano (anni '40):** Già nel 1939, con *First Construction in Metal*, Cage utilizzava "ceppi dei freni e altro ferro vecchio recuperato dalle discariche" (Collins, 2020, p. 40). Il ricorso al prepared piano nello stesso decennio, oltre a creare sonorità inedite, rispondeva a un'esigenza pratica: "avere una risorsa multi-timbrica senza il duro lavoro di spostare strumenti a percussione" (Mumma, 2015, p. 162). L'idea di trasformare oggetti di uso comune in strumenti musicali era già pienamente presente.
-
-2.  **La serie "Imaginary Landscape" (1939-1952):** Questa serie rappresenta il vero e proprio laboratorio delle sue future idee. *Imaginary Landscape No. 1* (1939) è storicamente significativa come "il primo brano documentato di musica a presentare il DJ come un performer musicale" (Collins, 2020, p. 40), utilizzando giradischi a velocità variabile. Di Scipio (2021a) nota come l'uso performativo del grammofono fosse un'idea dadaista che Cage mutuò da László Moholy-Nagy. Un passaggio cruciale avvenne nel 1942 con *Imaginary Landscape No. 3*, che segnò "il primo uso di piccoli suoni amplificati" da parte di Cage [@mumma2015, 169]. La serie culmina con *Imaginary Landscape No. 4* (1951) per dodici radio, che, insieme a *Radio Music* (1952) e *Music Walk* (1958), esplorò sistematicamente "il ricevitore radio come strumento per la performance dal vivo" (Mumma, 1975, p. 293).
-
-3.  **Il periodo del nastro: *Williams Mix* (1952):** Sebbene si tratti di un'opera su nastro, *Williams Mix* è fondamentale per la sua metodologia. Cage, con l'aiuto di Earle Brown e David Tudor, creò una biblioteca di suoni catalogati (città, campagna, suoni elettronici, etc.) e utilizzò l'I Ching per decidere tramite operazioni casuali "che tipo di suono utilizzare, su quali tracce posizionarlo, e le durate di suoni e silenzi" (Chadabe, 1997, p. 56). Questo approccio, volto a definire un "territorio" sonoro (in questo caso, il mondo) piuttosto che un oggetto musicale finito, sarebbe diventato centrale nella sua filosofia (Chadabe, 1997, p. 83).
-
-### *Cartridge Music* (1960) e la nascita di un nuovo paradigma 
-
-Tutti questi fili si riuniscono in *Cartridge Music*. Alla fine degli anni '50, Cage coinvolse David Tudor nella ricerca di trasduttori elettronici, componenti che andavano diffondendosi con la tecnologia a transistor [@mumma2015, 170]. L'opera utilizza cartucce di giradischi in cui, al posto degli aghi, vengono inseriti "stuzzicadenti, molle, piume" (Chadabe, 1997, p. 81-82), i cui suoni microscopici sono amplificati fino a rivelare un intero universo sonoro. Nicolas Collins (2020, p. 40) nota come "la sorprendente ricchezza di questi 'microsuoni' enormemente amplificati rivaleggiasse con le sonorità sintetiche più laboriose (e costose) che uscivano dagli studi di musica elettronica europei".
-
-La partitura, composta da fogli trasparenti sovrapponibili, istituisce "un campo di possibilità aperto all'esplorazione dei performer piuttosto che un oggetto musicale rigidamente definito" (Chadabe, 1997, p. 82). È in questo contesto che, parlando di *Cartridge Music* nel 1962, Cage coniò per la prima volta l'espressione "live electronic music" (Di Scipio, 2021a, Parte Terza, p. 314), suggellando la rottura con il paradigma della musica su nastro.
-
-L'impatto fu dirompante. La prima esecuzione a Colonia nel 1960, alla quale pare assistette Stockhausen, rappresentò "un momento di potente discontinuità per il panorama elettroacustico europeo" (Di Scipio, 2021a, Parte Terza, p. 314). Mentre Stockhausen avrebbe risposto con il controllo assoluto di *Mikrophonie I*, Cage proponeva, nelle parole di Joel Chadabe (1997, p. 83), un'"anarchia felice" basata su processi e giustapposizioni casuali. La sua filosofia si cristallizza nella celebre affermazione secondo cui la sua partitura poteva servire a "esaminare musicalmente una vecchia Volkswagen" (Roth, 2023, p. 64), dimostrando una disponibilità totale al mondo sonoro che lo circondava.
-
-L'eredità di Cage per il modello americano che di lì a poco sarebbe fiorito ad Ann Arbor è quindi triplice: filosofica (L'apertura a tutti i suoni e l'uso di processi indeterminati), pragmatica (L'uso della tecnologia quotidiana e accessibile, in opposizione agli apparati degli studi istituzionali) e sociale (La definizione di un "territorio" performativo che valorizza l'esplorazione collettiva).
-
-Queste idee, concretizzatesi nella prassi di David Tudor, avrebbero trovato nel fertile ecosistema di Ann Arbor il terreno ideale per evolversi in un vero e proprio movimento.
-
-### Dal prepared piano ai microsounds amplificati: la traiettoria di Cage (1942-1960)
-
-*Cartridge Music* non è un fulmine a ciel sereno nel percorso compositivo di Cage, ma piuttosto il culmine di un processo di ricerca durato almeno due decenni.
-
-Dopo otto anni di lavoro innovativo con il *prepared piano*, Cage riprese la composizione con mezzi elettroacustici con *Imaginary Landscape No. 4* (1951), opera per dodici radio con ventiquattro esecutori [@mumma1975, 293]. Quest'opera, insieme a *Radio Music* (1952), *Speech* (1955) e *Music Walk* (1958), esplorò sistematicamente il ricevitore radio come strumento per la performance dal vivo [@mumma1975, 293].
-
-Un passaggio cruciale avviene alla fine degli anni '50. Cage aveva già utilizzato microfoni a contatto in *Imaginary Landscape No. 1* (1939), ma non vi tornò fino a *Winter Music* e *Variations II*[@mumma1975, 293]. David Tudor sviluppò entrambe le opere come composizioni per pianoforte amplificato: in *Winter Music* la parte pianistica veniva eseguita dalla tastiera e resa ultra-forte, mentre in *Variations II* i microfoni a contatto elevavano i microsuoni dall'interno del pianoforte a un'udibilità da concerto [@mumma1975, 293].
-
-Nel 1960, questa ricerca culmina in due opere fondamentali che utilizzano rispettivamente microfoni a contatto (*Music for Amplified Toy Pianos*) e tesinte fonografiche (*Cartridge Music*)[@mumma1975, 293]. Queste quattro opere di Cage furono eseguite ampiamente, in particolare da David Tudor e dallo stesso compositore, costituendo uno stimolo considerevole alla sperimentazione nel live electronics[@mumma1975, 293-294].
 
 \clearpage
 
@@ -737,7 +701,6 @@ Il live electronics, da esperimento marginale di pochi pionieri, divenne tra il 
 
 
 # Circuiti come partiture: tecnologia DIY e poetiche compositive nella scena americana (1960-1976)
-
 ## Contesto tecnologico-economico: dalla necessità alla scelta estetica
 
 ### Il transistor come rivoluzione tecnica
@@ -756,13 +719,28 @@ Il contesto economico era tale che, come ricorda Robert Ashley, non si aveva acc
 
 Quando i primi sintetizzatori commerciali, come il Moog e il Buchla, arrivarono sul mercato, molti compositori del Sonic Arts Union li rifiutarono esplicitamente. Gordon Mumma tracciava una distinzione fondamentale tra la "explorer tendency" dei musicisti della Cunningham Dance Company e l'omogeneità rappresentata dalla produzione di massa e dai synth commerciali. In questa visione, "The idea of 'product' was fundamental in that regressive cultural tide"[@chadabe1997, 102].
 
-## La notazione grafica come sistema aperto
+### John Cage: Dal Prepared Piano ai Microsuoni Amplificati**
 
-L'opera che segnò la svolta storica dal tape music al live electronics fu Cartridge Music di John Cage, composta nel 1960. Come nota Gordon Mumma, questo lavoro, assieme alla Music for Amplified Toy Pianos, fu eseguito frequentemente da Cage e David Tudor, essendo "a considerable stimulus to experimentation in live-electronic music"[@appleton1975, 295]. Nicolas Collins sintetizza che la sorprendente ricchezza di questi "microsuoni" enormemente amplificati rivaleggiava con le sonorità sintetiche e costose degli studi europei e "opened the ears of a generation of sound artists to the splendor of the contact mike"[@collins2020, 40].
+Se nel capitolo precedente John Cage è emerso come pioniere a livello globale, in dialogo e contrapposizione con Stockhausen, per comprendere la specificità del modello americano è necessario considerarlo come l'ispiratore filosofico di un intero movimento (infatti come vedremo in seguito è poi la figura di David Tudor a catalizzare le proposte di Cage in una nuova prassi compositiva). La sua ricerca, iniziata ben prima del seminale *Cartridge Music* (1960), gettò le basi per un approccio alla tecnologia musicale che fosse accessibile, processuale e radicalmente performativo.
 
+La formazione di Cage fu atipica e profondamente segnata da una familiarità con la tecnologia fin dagli anni '30. Figlio di un inventore, assisteva il padre nelle ricerche per i brevetti, sviluppando "una sufficiente padronanza dei concetti e del vocabolario del campo per comunicare con i professionisti" [@mumma2015, 167]. Questo retroterra spiega la sua disinvoltura nell'approccio alla tecnica. La sua curiosità per i nuovi media si manifestò precocemente: tra il 1932 e il 1933 presentava programmi radiofonici a Los Angeles, e nel 1936 lavorava come apprendista montatore con il filmmaker Oskar Fischinger, sperimentando tecniche di sincronizzazione suono-immagine che anticipavano il lavoro sul nastro magnetico [@mumma2015, 167].
+
+**La traiettoria verso i "microsuoni amplificati"**
+Il percorso di Cage verso il live electronics non fu un fulmine a ciel sereno, ma il culmine di una ricerca ventennale sul suono, la performance e la tecnologia, caratterizzata da una grande coerenza di pensiero.
+
+1.  **Percussioni e Prepared Piano (anni '40):** Già nel 1939, con *First Construction in Metal*, Cage utilizzava "ceppi dei freni e altro ferro vecchio recuperato dalle discariche" (Collins, 2020, p. 40). Il ricorso al prepared piano nello stesso decennio, oltre a creare sonorità inedite, rispondeva a un'esigenza pratica: "avere una risorsa multi-timbrica senza il duro lavoro di spostare strumenti a percussione" (Mumma, 2015, p. 162). L'idea di trasformare oggetti di uso comune in strumenti musicali era già pienamente presente.
+
+2.  **La serie "Imaginary Landscape" (1939-1952):** Questa serie rappresenta il vero e proprio laboratorio delle sue future idee. *Imaginary Landscape No. 1* (1939) è storicamente significativa come "il primo brano documentato di musica a presentare il DJ come un performer musicale" (Collins, 2020, p. 40), utilizzando giradischi a velocità variabile. Di Scipio (2021a) nota come l'uso performativo del grammofono fosse un'idea dadaista che Cage mutuò da László Moholy-Nagy. Un passaggio cruciale avvenne nel 1942 con *Imaginary Landscape No. 3*, che segnò "il primo uso di piccoli suoni amplificati" da parte di Cage [@mumma2015, 169]. La serie culmina con *Imaginary Landscape No. 4* (1951) per dodici radio, che, insieme a *Radio Music* (1952) e *Music Walk* (1958), esplorò sistematicamente "il ricevitore radio come strumento per la performance dal vivo" (Mumma, 1975, p. 293).
+
+3.  **Il periodo del nastro: *Williams Mix* (1952):** Sebbene si tratti di un'opera su nastro, *Williams Mix* è fondamentale per la sua metodologia. Cage, con l'aiuto di Earle Brown e David Tudor, creò una biblioteca di suoni catalogati (città, campagna, suoni elettronici, etc.) e utilizzò l'I Ching per decidere tramite operazioni casuali "che tipo di suono utilizzare, su quali tracce posizionarlo, e le durate di suoni e silenzi" (Chadabe, 1997, p. 56). Questo approccio, volto a definire un "territorio" sonoro (in questo caso, il mondo) piuttosto che un oggetto musicale finito, sarebbe diventato centrale nella sua filosofia (Chadabe, 1997, p. 83).
+
+Tutti questi fili si riuniscono in *Cartridge Music*. Alla fine degli anni '50, Cage coinvolse David Tudor nella ricerca di trasduttori elettronici, componenti che andavano diffondendosi con la tecnologia a transistor [@mumma2015, 170]. 
+Come nota Gordon Mumma, questo lavoro, assieme alla Music for Amplified Toy Pianos, fu eseguito frequentemente da Cage e David Tudor, essendo "a considerable stimulus to experimentation in live-electronic music"[@appleton1975, 295]. Nicolas Collins sintetizza che la sorprendente ricchezza di questi "microsuoni" enormemente amplificati rivaleggiava con le sonorità sintetiche e costose degli studi europei e "opened the ears of a generation of sound artists to the splendor of the contact mike"[@collins2020, 40].
 La partitura di Cartridge Music si basava su un sistema indeterminato ma strutturato. Essa consisteva in materiali grafici su fogli trasparenti che i performer potevano sovrapporre in combinazioni diverse per definire la struttura di una specifica esecuzione. Questo approccio permetteva a Cage di strutturare diverse situazioni performative, incluse quelle collaborative.
-
 David Tudor affrontò queste partiture grafiche con un rigore quasi scientifico, sviluppando un sistema personale per la loro interpretazione. Come documenta You Nakai, Tudor creò template e righelli su misura e elaborò "nomographs" (tradotto nomografi)—sistemi di misurazione grafica—applicando una polarità semplice/complesso a sei parametri musicali[@nakai2021, varie pagine]. In questo modo, la notazione grafica non eliminava la precisione, ma la spostava dalla prescrizione del compositore all'interpretazione attiva e metodica del performer.
+
+L'eredità di Cage per il modello americano che di lì a poco sarebbe fiorito ad Ann Arbor è quindi triplice: filosofica (L'apertura a tutti i suoni e l'uso di processi indeterminati), pragmatica (L'uso della tecnologia quotidiana e accessibile, in opposizione agli apparati degli studi istituzionali) e sociale (La definizione di un "territorio" performativo che valorizza l'esplorazione collettiva).
+Queste idee, concretizzatesi nella prassi di David Tudor, avrebbero trovato nel fertile ecosistema di Ann Arbor il terreno ideale per evolversi in un vero e proprio movimento.
 
 ## Circuit Music: lo schema circuitale come partitura
 
