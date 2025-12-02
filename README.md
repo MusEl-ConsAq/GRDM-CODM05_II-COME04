@@ -340,29 +340,7 @@ L'eredità del live electronics americano (1960-1976) è profondamente presente 
 
 Keith Potter, nell'obituario per Hugh Davies, osservò che l'approccio "innovative, do-it-yourself, lo-fi" di Davies—e per estensione dell'intera scena americana—"in several respects prefigured today's laptop culture"[@davies2005]. La differenza è che oggi questi approcci sono **scelte estetiche** più che necessità economiche. Ma la filosofia sottostante rimane: la tecnologia come materiale da esplorare, non come servizio da consumare.
 
----
-
-## Note bibliografiche
-
-**IMPORTANTE**: Tutte le chiavi bibliografiche utilizzate in questo documento (es. @discipio2021, @collins2020, @mumma2015, @nakai2021, @appleton1975, @chadabe1997, ecc.) devono essere verificate contro il file bibliografia.bib presente su GitHub prima dell'inserimento nel testo finale della tesina.
-
-Le citazioni seguono il formato Pandoc e sono tutte tracciate a fonti specifiche:
-- @discipio2021: Agostino Di Scipio, *Circuiti del tempo* (2021)
-- @collins2020: Nicolas Collins, *Handmade Electronic Music* (3rd ed., 2020)
-- @mumma2015: Gordon Mumma, *Cybersonic Arts* (2015)
-- @nakai2021: You Nakai, *Reminded by the Instruments: David Tudor's Music* (2021)
-- @appleton1975: Jon H. Appleton & Ronald C. Perera, *The Development and Practice of Electronic Music* (1975)
-- @chadabe1997: Joel Chadabe, *Electric Sound* (1997)
-- @lucier1988: Alvin Lucier, liner notes e varie interviste
-- @collins2004: Nicolas Collins, "Composers Inside Electronics", Leonardo Music Journal (2004)
-- @Teboul2023: Ezra Teboul, "Circuit music, circuit scores" (2015)
-- @Dewar2018: Red Bull Music Academy, interviste varie (2016)
-- @davies2005: Hugh Davies obituary (2005)
-- @haskell1984: Barbara Haskell, essay (1984)
-
----
-
-
+\clearpage
 
 # CAP. 3: IRCAM E IL MODELLO ISTITUZIONALE
 
