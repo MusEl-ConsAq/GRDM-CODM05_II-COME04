@@ -1,6 +1,6 @@
 ---
-title: "Live Electronics: un racconto plurale."
-subtitle: "Oltre i confini di una storiografia eurocentrica."
+title: "Live Electronics"
+subtitle: "Un racconto plurale."
 author: "Giulio Romano De Mattia"
 date: "15/03/2026"
 conservatorio: "Conservatorio A. Casella, L'Aquila"
