@@ -168,20 +168,14 @@ Il modello del "Do It Yourself" americano, pur enfatizzando l'indipendenza, era 
 
 Questa rete di condivisione si estese globalmente. Collins documenta: "Mills College (California): Behrman, Ashley students. Wesleyan University: Lucier students (Collins, Kuivila). CalArts: Serge Tcherepnin students"[@collins2020]. Il know-how tecnico si diffondeva attraverso workshop, residenze, collaborazioni informali—un network transnazionale basato sulla **reciprocità** piuttosto che sul mercato.
 
-## Dalla notazione al network: un nuovo modello di autorialità
-
-### La ridefinizione del "comporre"
+## Dalla notazione al network
 
 La pratica del circuit music richiese una ridefinizione radicale di cosa significhi "comporre". David Tudor riflette su questa trasformazione: "Composing instruments that make music, rather than making music, is an act one step removed"[@nakai2021, 138-139]. Il compositore non scrive più *suoni*, ma progetta *sistemi* che generano comportamenti sonori.
 
 Questo spostamento autoriale fu teorizzato da Cage. Come documenta Nakai, Tudor citava Busoni per descrivere la propria liberazione: "Notation is an invention of the devil"[@nakai2021, 139]. Opere come *Fontana Mix*, *Music Walk*, *Bussotti Piano Piece No. 3* liberarono Tudor dalla "devil's invention" della notazione tradizionale, permettendogli di esplorare un nuovo tipo di autorialità.
 
-### Co-composizione e instrumental agency
-
 La pratica del live electronics introduceva quello che Tudor chiamava **co-composizione**. Discutendo *Variations II* di Cage, Tudor osservò: "When you go that far, then in a sense you are co-composer"[@nakai2021, 138]. Il confine tra compositore e performer, tra progetto e realizzazione, si sfumava.
-
 Ma c'era un terzo "autore": lo **strumento stesso**. La filosofia di Tudor—"the object should teach you what it wants to hear"[@collins2004]—attribuiva agency ai dispositivi elettronici. Questo non era antropomorfismo ingenuo, ma riconoscimento che ogni circuito ha un **bias**, proprietà intrinseche che determinano il range dei comportamenti possibili.
-
 Mumma spiegò: "The equipment imposes control"[@nakai2021, 139]. I compositori del live electronics non cercavano di superare o nascondere questi limiti, ma li **esploravano** come materiale compositivo. Ogni resistore, ogni condensatore, ogni transistor surplus con le sue tolleranze specifiche contribuiva all'identità sonora del sistema.
 
 ### Network come forma compositiva
@@ -212,4 +206,16 @@ L'eredità del live electronics americano (1960-1976) è profondamente presente 
 
 Keith Potter, nell'obituario per Hugh Davies, osservò che l'approccio "innovative, do-it-yourself, lo-fi" di Davies—e per estensione dell'intera scena americana—"in several respects prefigured today's laptop culture"[@davies2005]. La differenza è che oggi questi approcci sono **scelte estetiche** più che necessità economiche. Ma la filosofia sottostante rimane: la tecnologia come materiale da esplorare, non come servizio da consumare.
 
-\clearpage
+## Il modello britannico: improvvisazione e materialità
+
+### Hugh Davies e la filosofia del materiale di scarto
+
+Dopo due anni come assistente di Karlheinz Stockhausen a Colonia, Hugh Davies si trovò, al suo rientro a Londra nel 1967, in una situazione paradossalmente simile a quella dei colleghi americani. Privato dell'accesso all'attrezzatura sofisticata dello studio tedesco e senza le risorse per procurarsene una propria, Davies trasformò questo limite in un catalizzatore creativo.
+
+La svolta avvenne grazie all'incontro con Annea Lockwood, che gli mostrò il potenziale musicale di oggetti comuni, come dei fischietti per bambole, aprendolo a un universo sonoro "far removed from the avantgarde context I had largely worked in beforehand" [@davies2002soundsheard, 55]. Da qui, tra il 1968 e il 1974, sviluppò la sua pratica costruttiva, dando vita agli strumenti della serie **Shozyg** e **Springboard**. Questi assemblaggi amplificati utilizzavano oggetti di recupero domestico—dalle molle metalliche alle scatole del pane—attivati da microfoni a contatto e pickup ricavati da vecchie cornette telefoniche.
+
+Il documentarista David Roberts notò come Davies adottasse sistematicamente un linguaggio che attribuiva agency allo strumento, usando frasi come "the instrument tells me what to do". Questa filosofia, che vedeva nel materiale un interlocutore attivo, lo avvicinava all'approccio dei compositori americani, pur applicandola a un repertorio di oggetti radicalmente diverso e quotidiano.
+
+Da necessità pratica, la sua ricerca si consolidò in una precisa posizione estetica ed ecologica. Davies motivava il suo lavoro come un atto di sensibilizzazione, dichiarando: **"I invent new musical instruments for people to enjoy new experiences and to increase their sensitivity to the environment of our polluted world, as a small gesture against consumerism and the tendency to throw everything away instead of recycling the waste materials of our society"** [@davies2002soundsheard, 31]. Questa visione, emersa nel clima di crisi economica e crescente coscienza ambientale degli anni Settanta in Gran Bretagna, si propose esplicitamente come correttivo allo spreco della società dei consumi, dimostrando attraverso workshop come gli scarti potessero avere una seconda vita utile.
+
+Davies stesso definì i suoi strumenti "sintetizzatori di musique concrète", concettualizzando una significativa cortocircuitazione storica. La sua pratica portava infatti la logica fondante della *musique concrète*—l'esplorazione e manipolazione di suoni reali—direttamente nella dimensione della performance istantanea, senza la mediazione dello studio su nastro. Questo approccio democratizzava tecniche compositive un tempo confinate nelle istituzioni, rendendole accessibili attraverso l'artigianato e il riuso del domestico.
