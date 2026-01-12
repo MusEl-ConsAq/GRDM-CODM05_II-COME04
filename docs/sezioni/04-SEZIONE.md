@@ -1,4 +1,4 @@
-# Circuiti come partiture: tecnologia DIY e poetiche compositive nella scena americana (1960-1976)
+# Circuiti come partiture: tecnologia DIY e poetiche compositive (1960-1976)
 ## Contesto tecnologico-economico: dalla necessità alla scelta estetica
 
 ### Il transistor come rivoluzione tecnica
