@@ -31,8 +31,6 @@ Nonostante le crescenti competenze tecniche e creative, Tudor mantenne a lungo u
 
 Il 1964 segnò una tappa significativa con la realizzazione di Fluorescent Sound per la produzione teatrale di Robert Rauschenberg al Moderna Museet di Stoccolma. In questa installazione, Tudor amplificò elettronicamente le risonanze meccaniche delle lampade fluorescenti del museo, in un'operazione che rappresentò un decisivo passo verso l'autonomia creativa da Cage. Tuttavia, persino dopo questo lavoro spesso considerato la sua prima composizione, Tudor continuò a nutrire dubbi sul proprio status di compositore, un'incertezza che persistette fino almeno al 1966.
 
-### Bandoneon! e l'esplorazione del bandoneon
-
 Un elemento cruciale nella maturazione compositiva di Tudor fu la scoperta del bandoneon, strumento a mantice che acquisì a metà degli anni Sessanta. Per il musicista, questo strumento rappresentava una sorta di cugino degli organi a canne dell'infanzia, ma con la fondamentale differenza della portabilità e della connessione fisica diretta tra esecutore e produzione sonora.
 
 Il bandoneon esercitò su Tudor un effetto liberatorio, offrendo sonorità sostenute simili agli strumenti a fiato e emancipandolo dal peso storico del pianoforte. In questo periodo, il suo approccio compositivo si sviluppò seguendo percorsi analoghi a quelli già esplorati con l'organo: sperimentazione sonora e transizione dalle modificazioni acustiche a quelle elettroniche.
