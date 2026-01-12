@@ -115,13 +115,11 @@ Lo studio si distingueva dai modelli europei per la sua essenziale **mobilità**
 ### Il ONCE Festival (1961-1965)
 
 Il **ONCE Festival** (Ann Arbor, 1961-1965) fu il principale venue per la scena sperimentale di Ann Arbor. Organizzato inizialmente dal poeta Robert Waldrop, divenne rapidamente un punto di riferimento internazionale. Mumma ricorda: "ONCE became a kind of beacon. People would come from all over—Cage, Tudor, Charlotte Moorman, Takehisa Kosugi"[@mumma2015].
-
 Il festival si caratterizzava per la scelta di sedi non convenzionali, utilizzando spazi come il seminterrato del Dramatic Arts Center, magazzini e aree all'aperto, evitando deliberatamente le tradizionali sale da concerto. Questa scelta rappresentava una critica implicita alle istituzioni musicali accademiche che si erano rifiutate di sostenere l'iniziativa.
 
 ### Il Sonic Arts Union (1966-1976)
 
 Fondato nel 1966 da Gordon Mumma, Robert Ashley, David Behrman e Alvin Lucier, il Sonic Arts Union traeva la sua filosofia dall'uso del termine "sonic", che evocava tutti i suoni possibili, non solo quelli musicali in senso tradizionale[@chadabe1997, 102].
-
 Mumma descrive la formazione del gruppo come frutto di una performance congiunta nel 1966, dopo la quale compresero di condividere un apprezzamento per le rispettive differenze estetiche. Questa diversità estetica divenne la base del collettivo. Lucier ricorda come si eseguissero i pezzi l'uno dell'altro, adattando le opere come Runthrough di Behrman o Mesa di Mumma anche in assenza dell'autore.
 Il Sonic Arts Union intraprese tournée internazionali estenuanti ma fondamentali, toccando città come Roma, Oslo e Londra, con un ritmo serrato di sedici performance in trenta giorni durante il tour europeo del 1969. Questi viaggi furono cruciali per diffondere in Europa l'approccio americano al live electronics.
 Il gruppo si sciolse nel 1976 quando i membri presero posizioni accademiche: Ashley divenne direttore del Center for Contemporary Music al Mills College, Lucier si unì alla faculty della Wesleyan University, Mumma all'University of California, Santa Cruz, e Behrman al Mills College[@chadabe1997, 102].
@@ -129,7 +127,6 @@ Il gruppo si sciolse nel 1976 quando i membri presero posizioni accademiche: Ash
 ### Composers Inside Electronics (1973-1990s)
 
 Il collettivo Composers Inside Electronics si formò nel 1973 a partire da un workshop dedicato a Rainforest di David Tudor. Secondo Nicolas Collins, i partecipanti, tra cui John Driscoll e Paul DeMarinis, imparavano facendo: smontavano gli strumenti di Tudor, ne costruivano versioni proprie e ne comprendevano il funzionamento attraverso la replicazione[@collins2004].
-
 Questo modello pedagogico-collaborativo si rivelò fondamentale per trasmettere il sapere tecnico a una nuova generazione. Collins sottolinea come l'hacking hardware spostasse l'attenzione dall'inventare nuovi prodotti all'esplorazione di processi, con circuiti e tecniche che formavano un patrimonio di conoscenza condivisa e non protetta da copyright[@collins2020].
 
 ## Portabilità e performance: l'estetica della precarietà
@@ -139,11 +136,9 @@ Questo modello pedagogico-collaborativo si rivelò fondamentale per trasmettere 
 Come già anticipato nel capitolo 1, la musica su nastro soffriva di un problema fondamentale: la sua immobilità. Gli studi istituzionali, come il Columbia-Princeton Center, erano installazioni massive e fisse. Fu la tecnologia a transistor, con la sua miniaturizzazione[@Dewar2018], l'affidabilità e i ridotti costi energetici, a rendere finalmente possibile portare l'elettronica fuori dallo studio.
 Pioniere in questo fu David Tudor, il cui lavoro con la Merce Cunningham Dance Company richiedeva setup portatili, progettati secondo criteri di flessibilità, portabilità e basso costo. Gordon Mumma portò avanti questa ricerca costruendo per Hornpipe (1967) una console cybersonica indossabile, una "belt-box" che permetteva al performer di suonare il corno con le mani libere[@mumma1975, 324].
 Questa portabilità, tuttavia, aveva un prezzo: i setup erano notoriamente instabili. Come riportato in una testimonianza citata da Collins, i circuiti potevano sembrare grovigli di fili e richiedevano cure costanti, paragonabili a quelle di "un'anziana signora con tre dozzine di gatti". La performance diventava così un evento rischioso, in cui il fallimento tecnico era un'evenienza sempre presente[@collins2020].
-
 L'episodio leggendario del disastroso debutto di Bandoneon! - che avevamo accennato sopra - dovuto a circuit boards cablati al contrario, è esemplare. Eppure, questa precarietà non era considerata un difetto, ma una caratteristica intrinseca all'approccio esplorativo del gruppo, in netto contrasto con l'omogeneità e la stabilità dei sistemi commerciali.
 
 Prendiamo come esempio un altro lavoro fondamentale di Tudor: *Rainforest* (1968) Questo rappresentò una soluzione elegante al problema della portabilità: invece di trasportare strumenti elettronici pesanti, Tudor usava **transducers** (Rolen-Star) applicati a "physical materials" — oggetti trovati sul posto — trasformandoli in **instrumental loudspeakers**[@nakai2021, 246].
-
 You Nakai spiega che gli oggetti, scelti per le loro specifiche caratteristiche risonanti, non erano semplicemente amplificati, ma diventavano parte attiva e parametrica del sistema sonoro. Nella versione collaborativa Rainforest IV, ogni performer selezionava i propri "oggetti risonanti", creando un ecosistema sonoro unico per ogni esecuzione. Questa soluzione incarnava perfettamente l'etica della circuit music: progettare un sistema che si adattasse e valorizzasse le proprietà specifiche dei materiali disponibili localmente, piuttosto che imporre un comportamento standardizzato attraverso attrezzature industriali.
 
 ## Resistenza alla corporatizzazione e "post-optimality"
