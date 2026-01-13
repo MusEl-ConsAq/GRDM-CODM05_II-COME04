@@ -1,24 +1,6 @@
 ---
-title: "Live Electronics"
-subtitle: "Un racconto plurale."
-author: "Giulio Romano De Mattia"
-date: "15/03/2026"
-conservatorio: "Conservatorio A. Casella, L'Aquila"
-corso: "Musica Elettronica DCSL34"
-esame: "Storia della musica elettrocustica e Storia delle tecnologie elettroacustiche"
 abstract: |
   questo dovrebbe essere il sommario...
-header-includes:
-  - \usepackage{styles/tesina}
-documentclass: article
-fontsize: 12pt
-toc: true
-toc-depth: 2
-bibliography:
-  bib: docs/bibliografia.bib
-  sit: docs/sitografia.bib
-csl: styles/consAq-author-date.csl
-nocite: "@*"
 ---
 
 # INTRODUZIONE
