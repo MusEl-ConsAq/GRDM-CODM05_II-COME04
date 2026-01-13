@@ -1,0 +1,17 @@
+title: "Live Electronics"
+subtitle: "Un racconto plurale."
+author: "Giulio Romano De Mattia"
+conservatorio: "Conservatorio A. Casella"
+citta: "L'Aquila"
+corso: "Musica Elettronica DCSL34"
+esame: "Storia della musica elettrocustica e Storia delle tecnologie elettroacustiche"
+date: "15/03/2026"
+documentclass: article
+fontsize: 12pt
+toc: true
+toc-depth: 2
+csl: styles/consAq-author-date.csl
+nocite: "@*"
+mainfont:
+sansfont:
+monofont:

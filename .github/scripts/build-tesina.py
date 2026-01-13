@@ -9,16 +9,7 @@ from pathlib import Path
 
 def main():
     # ==========================================
-    # 1. LEGGI CONFIG.YML
-    # ==========================================
-    print("[*] Reading config.yml...")
-    with open('config.yml', 'r', encoding='utf-8') as f:
-        config = yaml.safe_load(f)
-    
-    tesina_data = config.get('tesina', {})
-
-    # ==========================================
-    # 2. LEGGI IL RIASSUNTO (ABSTRACT) DA FILE
+    # 1. LEGGI IL RIASSUNTO (ABSTRACT) DA FILE
     # ==========================================
     print("[*] Reading abstract from RIASSUNTO.md...")
     docs_dir = Path("docs/sezioni")
@@ -38,7 +29,7 @@ def main():
         print(f"    [WARN] {riassunto_file} not found. Using default text.")
 
     # ==========================================
-    # 3. TROVA E ORDINA I FILE DELLE SEZIONI
+    # 2. TROVA E ORDINA I FILE DELLE SEZIONI
     # ==========================================
     print("[*] Finding and sorting markdown section files...")
     if not docs_dir.exists():
@@ -51,7 +42,7 @@ def main():
         print(f"[WARN] No section .md files found in {docs_dir} (excluding RIASSUNTO.md).")
     
     # ==============================================================================
-    # 3.5. VERSIONE FINALE: SCANSIONE AUTOMATICA E GESTIONE CONFLITTI NUMERATA
+    # 2.5. VERSIONE FINALE: SCANSIONE AUTOMATICA E GESTIONE CONFLITTI NUMERATA
     # ==============================================================================
     print("[*] Automatically scanning for bibliography files in docs/...")
     bib_dir = Path("docs")
@@ -77,44 +68,27 @@ def main():
         else:
              print(f"    [OK] Found: {file_path.name} -> Mapped to key '{final_key}'")
 
+    if found_bib_files:
+        with open("bibliography.yaml", "w", encoding='utf-8') as bib_file:
+            bib_file.write("---\n")
+            bib_file.write("bibliography:\n")
+            for key, path in sorted(found_bib_files.items()):
+                bib_file.write(f"  {key}: {path}\n")
+            bib_file.write("---\n")
+    else:
+        print("[WARN] No bibliography files found. Skipping bibliography.yaml.")
+
+    
     # ==========================================
-    # 4. CREA README.MD CON FRONTMATTER E CONTENUTI
+    # 3. CREA README.MD CON FRONTMATTER E CONTENUTI
     # ==========================================
     print("[*] Creating README.md with full frontmatter...")
     with open("README.md", "w", encoding='utf-8') as out:
         # --- Scrivi il frontmatter YAML completo ---
         out.write("---\n")
-        
-        out.write(f"title: \"{tesina_data.get('titolo', 'Senza Titolo')}\"\n")
-        out.write(f"subtitle: \"{tesina_data.get('sottotitolo', '')}\"\n")
-        out.write(f"author: \"{tesina_data.get('autore', 'Autore Sconosciuto')}\"\n")
-        out.write(f"date: \"{tesina_data.get('data', '')}\"\n")
-        out.write(f"conservatorio: \"{tesina_data.get('conservatorio', '')}, {tesina_data.get('citta', '')}\"\n")
-        out.write(f"corso: \"{tesina_data.get('corso', '')}\"\n")
-        out.write(f"esame: \"{tesina_data.get('esame', '')}\"\n")
-
         out.write("abstract: |\n")
         for line in abstract_content.split('\n'):
             out.write(f"  {line}\n")
-
-        out.write("header-includes:\n")
-        out.write("  - \\usepackage{styles/tesina}\n")
-        out.write("documentclass: article\n")
-        out.write("fontsize: 12pt\n")
-        out.write("toc: true\n")
-        out.write("toc-depth: 2\n")
-
-
-        if found_bib_files:
-            out.write("bibliography:\n")
-            for key, path in sorted(found_bib_files.items()):
-                out.write(f"  {key}: {path}\n")
-        else:
-            print("[WARN] No bibliography files found. 'bibliography' field will not be added to frontmatter.")
-
-        out.write("csl: styles/consAq-author-date.csl\n")
-        out.write(r'nocite: "@*"' + "\n")
-
         out.write("---\n\n")
         
         # --- Concatena i file markdown delle sezioni ---
@@ -124,7 +98,7 @@ def main():
             out.write(file.read_text(encoding='utf-8') + "\n\n")
         
         # =================================================================
-        # 5. AGGIUNGI I DIV PER LE BIBLIOGRAFIE MULTIPLE
+        # 4. AGGIUNGI I DIV PER LE BIBLIOGRAFIE MULTIPLE
         # =================================================================
         print("[*] Appending bibliography placeholder divs...")
         if found_bib_files:

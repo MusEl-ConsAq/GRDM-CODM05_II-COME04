@@ -2,7 +2,7 @@
 import yaml
 
 # File di input e output
-config_file = "config.yml"
+config_file = "styles/config.yml"
 output_file = "styles/config_fonts.tex"
 
 try:
