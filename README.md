@@ -353,7 +353,9 @@ Questa opposizione non era meramente terminologica ma rifletteva una crisi più 
 
 > "L'ala di produzione musicale là, Boulez e [il Direttore Artistico], si rifiutano di capire quale sia questo processo perché non sono stati lì dentro a lottare con lo sviluppo loro stessi. Non vogliono sapere di tutta quella 'spazzatura' [di ricerca], solo del risultato musicale finale. C'è una sorta di impazienza, e capisco. Ma so che per arrivarci, devi passare attraverso certi passaggi" [@born1995, pp. 214-215].
 
-### Composer visits: frustrazioni e mediazioni
+
+### Composer visits: frustrazioni e mediazioni
+
 
 Il problema non era astratto: impattava direttamente sulla produzione musicale. Nel 1984, quello che doveva essere un anno di intensa attività compositiva si rivelò invece "eccezionalmente improduttivo" [@born1995, p. 105]. Erano state pianificate quattro commissioni di compositori visitatori, ma solo tre ebbero luogo, e una di queste non risultò in un pezzo [@born1995, p. 105]. L'obiettivo dal 1985 era avere dodici compositori visitatori all'anno [@born1995, p. 105] — un target che rivelava quanto la produzione musicale effettiva fosse ben al di sotto delle aspettative.
 Le ragioni erano radicate nel problema della stabilizzazione della ricerca. HM spiegò il dilemma usando Chant come esempio:
@@ -363,7 +365,9 @@ Le ragioni erano radicate nel problema della stabilizzazione della ricerca. HM s
 Il problema era ancora più acuto con Formes, che "è stato in evoluzione costantemente, ed è stato una vera frustrazione per le persone che lo usavano" [@born1995, p. 214]. La tensione tra ricerca e produzione creava un circolo vizioso: i ricercatori avevano bisogno di tempo per sviluppare sistemi musicalmente potenti, ma i compositori visitatori avevano bisogno di strumenti stabili e documentati per produrre musica nei loro tre mesi di permanenza.
 Le note etnografiche di Born documentano questa frustrazione quotidiana. Un compositore visitatore ironizzò amaramente: "la computer music è lo stato più alto dell'esperienza umana perché devi solo impegnarti e godere del processo di lavoro in sé, piuttosto che del risultato finale di un pezzo: rinunciare alla gratificazione di un risultato" [@born1995, p. 244]. Era una battuta che mascherava una critica feroce: il processo tecnologico aveva eclissato l'obiettivo musicale.
 
-### Il dibattito "small systems" interno a IRCAM
+
+### Il dibattito "small systems" interno a IRCAM
+
 
 Una manifestazione particolare di questa tensione fu il dibattito sui "small systems" — sistemi commerciali accessibili come Apple Macintosh e Yamaha DX7. Il Pedagogy director RIG aveva stabilito contatti con entrambe le compagnie e nell'estate 1984 aveva organizzato un accordo con Apple per ricevere sei Mac gratuitamente in cambio di diritti su software sviluppato con essi [@born1995, pp. 283-284]. La reazione di Boulez fu categorica: riferì a RIG che i Mac sarebbero entrati in IRCAM "sopra il mio cadavere" (over my dead body) [@born1995, p. 284].
 L'ostilità non era solo di Boulez. Il musicians' group stesso era diviso sulla questione. Mentre RIG proponeva ricerca su "trasferimento di informazioni da grandi macchine a small systems" come uno dei temi futuri di music research, questa proposta ricevette solo "un supporto debole e retorico" [@born1995, p. 203]. Per molti, i small systems rappresentavano una minaccia alla stessa ragion d'essere di IRCAM.
@@ -376,7 +380,9 @@ Ma la critica più devastante venne dalla crescente disillusione di Boulez stess
 L'ambivalenza di Boulez verso la music research divenne proverbiale. Un ricercatore la descrisse così: "Pierre è difficile da capire, è ambivalente. È d'accordo che ci debba essere la ricerca, ma diventa impaziente se non vede risultati abbastanza presto. Un minuto sta dicendo: 'Quello che viene fatto non serve a niente!' Il minuto dopo ha la sua idea di 'utopie de la recherche musicale' [utopia della ricerca musicale] in corso! [Dubbioso] Dice di esserci impegnato..." [@born1995, p. 216].
 Questa ambivalenza fu persino satirizzata in un memo interno con una falsa voce bibliografica: "BU [designer del 4X] e Boulez, P. (1985) — 'La recherche en musique?,' Revue de Neurospeculation, 69: 123-145" [@born1995, p. 216] — una presa in giro del crescente scetticismo sia del designer hardware che di Boulez verso l'intero progetto di music research.
 
+
 ### Un modello insostenibile
+
 
 Il fallimento del modello IRCAM di integrare ricerca fondamentale e produzione musicale rivelava contraddizioni strutturali più profonde. Come osservò Born, "quelle persone più vicine all'ideale di Boulez — tutors, junior tutors, ricercatori puri orientati alla musica, cioè l'avanguardia di musicisti e scienziati di IRCAM — piuttosto che essere il nucleo meglio supportato dei lavoratori di IRCAM, erano il personale di produzione meno sicuro e moderatamente pagato" [@born1995, pp. 141-142]. L'inversione tra status culturale e sicurezza economica creava una situazione insostenibile: chi faceva il lavoro considerato culturalmente più importante era anche il più precario e mal pagato.
 Il modello richiedeva anche una produttività musicale che la complessità tecnologica rendeva impossibile. Mentre IRCAM aveva investito enormi risorse nello sviluppo del 4X, solo Répons e pochi altri pezzi usarono la macchina con successo [@born1995, pp. 140, 186]. La tecnologia esclusiva, invece di democratizzare l'accesso a nuove possibilità compositive, aveva creato un collo di bottiglia: pochi compositori potevano usarla, e quelli che lo facevano dipendevano totalmente da tutors specializzati e da tecnologie cronicamente instabili.
