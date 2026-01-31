@@ -219,7 +219,7 @@ Questa etica trovò radicalizzazione nella *Scratch Orchestra*, che democratizz�
 
 Questa priorità sociale distinse l'approccio britannico da quello americano. Mentre negli Stati Uniti si manteneva la competenza tecnica come prerequisito, in Inghilterra si eliminò ogni barriera tecnica per un'accessibilità totale. Come osservato da Hugh Davies, le partiture verbali dell'epoca riducevano il controllo tradizionale del compositore a favore di un coinvolgimento più ampio[@davies2002soundsheard, 14]. La tecnologia venne così subordinata all'obiettivo di creare spazi di produzione musicale orizzontali e non gerarchici.
 
-# CAP. 3: IRCAM E IL MODELLO ISTITUZIONALE
+# IRCAM E IL MODELLO ISTITUZIONALE
 
 ## Genesi di IRCAM: dalla crisi del serialismo all'istituzione (1970–1977)
 
@@ -376,7 +376,7 @@ Ma la critica più devastante venne dalla crescente disillusione di Boulez stess
 L'ambivalenza di Boulez verso la music research divenne proverbiale. Un ricercatore la descrisse così: "Pierre è difficile da capire, è ambivalente. È d'accordo che ci debba essere la ricerca, ma diventa impaziente se non vede risultati abbastanza presto. Un minuto sta dicendo: 'Quello che viene fatto non serve a niente!' Il minuto dopo ha la sua idea di 'utopie de la recherche musicale' [utopia della ricerca musicale] in corso! [Dubbioso] Dice di esserci impegnato..." [@born1995, p. 216].
 Questa ambivalenza fu persino satirizzata in un memo interno con una falsa voce bibliografica: "BU [designer del 4X] e Boulez, P. (1985) — 'La recherche en musique?,' Revue de Neurospeculation, 69: 123-145" [@born1995, p. 216] — una presa in giro del crescente scetticismo sia del designer hardware che di Boulez verso l'intero progetto di music research.
 
-### Un modello insostenibile
+### Un modello insostenibile
 
 Il fallimento del modello IRCAM di integrare ricerca fondamentale e produzione musicale rivelava contraddizioni strutturali più profonde. Come osservò Born, "quelle persone più vicine all'ideale di Boulez — tutors, junior tutors, ricercatori puri orientati alla musica, cioè l'avanguardia di musicisti e scienziati di IRCAM — piuttosto che essere il nucleo meglio supportato dei lavoratori di IRCAM, erano il personale di produzione meno sicuro e moderatamente pagato" [@born1995, pp. 141-142]. L'inversione tra status culturale e sicurezza economica creava una situazione insostenibile: chi faceva il lavoro considerato culturalmente più importante era anche il più precario e mal pagato.
 Il modello richiedeva anche una produttività musicale che la complessità tecnologica rendeva impossibile. Mentre IRCAM aveva investito enormi risorse nello sviluppo del 4X, solo Répons e pochi altri pezzi usarono la macchina con successo [@born1995, pp. 140, 186]. La tecnologia esclusiva, invece di democratizzare l'accesso a nuove possibilità compositive, aveva creato un collo di bottiglia: pochi compositori potevano usarla, e quelli che lo facevano dipendevano totalmente da tutors specializzati e da tecnologie cronicamente instabili.
