@@ -55,11 +55,7 @@ Questa modalità di lavoro confinava i compositori in dei veri e propri laborato
 
 Il problema non era meramente tecnico o estetico, ma toccava il cuore stesso della presentazione musicale. I compositori che lavoravano con nastro magnetico si trovavano continuamente a sperimentare modalità per presentare le proprie opere al pubblico [@mumma1975, p. 294]. La radiodiffusione e le registrazioni domestiche funzionavano bene perché permettevano all'ascoltatore di determinare autonomamente il grado di formalità con cui ascoltare. Ma la presentazione dal vivo poneva sfide del tutto diverse: il pubblico da concerto portava con sé aspettative tradizionali consolidate: "Audiences expect to see as well as hear a performance, and loudspeakers aren't much to look at."[@mumma1975, p. 294]
 
-Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].[^1]
-
-
-[^1]: Non a caso le esperienze di Cage in ambito elettroacustico, come vedremo sotto, sono inscrivibili a pratiche multi-mediali spesso con teatro, danza e luci in un panorama di sperimentazione dove la musica assolve il ruolo di un unico senso, affidando il resto alle altre arti.
-vedi sezione 1.boh.
+Questa tensione tra il medium acusmatico — il suono privo di fonte visibile — e le convenzioni del rituale concertistico tradizionale si inseriva, come ha osservato Nicola Bernardini, in una crisi più generale del rituale del concerto stesso [@bernardini1986, 62]. L'introduzione dell'elettronica dal vivo coincise, specialmente negli Stati Uniti e in Giappone, con un momento in cui il rituale del concerto veniva rivisto, modificato, distrutto, de-strutturato praticamente per ogni nuovo brano [@bernardini1986, 62].
 
 I fattori scatenanti di questa crisi erano interconnessi [@bernardini1986, 62]: l'enorme influenza di John Cage sui suoi contemporanei (paragonabile all'influenza della scuola di Darmstadt); il progressivo indebolimento del linguaggio musicale, ormai giunto ai minimi termini, che metteva in crisi la stessa legittimità del compositore; l'assenza di una prassi strumentale codificata per gli strumenti elettronici, che aprì la strada a una partecipazione del pubblico molto più attiva; l'affermarsi dell'improvvisazione libera.
 
@@ -121,7 +117,7 @@ Parallelamente, Hugh Davies, dopo aver lavorato come assistente di Stockhausen a
 
 Questo ricco e policentrico contesto rivela come il live electronics non fosse semplicemente l'antitesi della tape music, ma rappresentasse piuttosto un campo di sperimentazione multiplo in cui convergevano preoccupazioni estetiche, necessità tecnologiche, modelli organizzativi e visioni culturali profondamente diverse. I compositori attivi in questi vari contesti condividevano l'urgenza di superare la fissazione su nastro e recuperare la dimensione performativa, ma elaboravano soluzioni radicalmente diverse: dalla residenza artistica prolungata di Nono a Friburgo, agli studi cooperativi e ai festival indipendenti di Ann Arbor, dai collettivi improvvisativi romani alle collaborazioni transpacifiche. È a questo ecosistema nordamericano — caratterizzato dall'autocostruzione dei circuiti, dalla collaborazione orizzontale, dalla portabilità delle tecnologie e dalla necessità trasformata in filosofia — che dedicheremo il prossimo capitolo, esplorando come figure come Gordon Mumma, David Tudor, Alvin Lucier e i membri del Sonic Arts Union abbiano elaborato non solo nuove tecnologie, ma un modello completamente alternativo di prassi compositiva e performativa.
 
-# Circuiti come partiture: tecnologia DIY e poetiche compositive (1960-1976)
+# Tecnologia DIY e poetiche compositive (1960-1976)
 ## Contesto tecnologico-economico: dalla necessità alla scelta estetica
 
 ### Il transistor come rivoluzione tecnica
