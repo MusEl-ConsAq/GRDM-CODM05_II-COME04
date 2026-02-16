@@ -382,7 +382,8 @@ $if(title)$
     % Dati esame
     {
         \normalsize
-        esame di $esame$ \\
+        $esame1$ \\
+        $esame2$ \\
         $date$ \par
     }
     \vspace{.5cm}

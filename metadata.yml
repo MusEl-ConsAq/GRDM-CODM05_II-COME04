@@ -4,8 +4,9 @@ author: "Giulio Romano De Mattia"
 conservatorio: "Conservatorio A. Casella"
 citta: "L'Aquila"
 corso: "Musica Elettronica DCSL34"
-esame: "Storia della musica elettrocustica e Storia delle tecnologie elettroacustiche"
-date: "15/03/2026"
+esame1: "Storia della musica elettrocustica"
+esame2: "Storia delle tecnologie elettroacustiche"
+date: "05/03/2026"
 documentclass: article
 fontsize: 12pt
 toc: true
