@@ -17,7 +17,7 @@ Il contesto economico era tale che, come ricorda Robert Ashley, non si aveva acc
 
 Quando i primi sintetizzatori commerciali, come il Moog e il Buchla, arrivarono sul mercato, molti compositori del Sonic Arts Union li rifiutarono esplicitamente. Gordon Mumma tracciava una distinzione fondamentale tra la "explorer tendency" dei musicisti della Cunningham Dance Company e l'omogeneità rappresentata dalla produzione di massa e dai synth commerciali. In questa visione, "The idea of 'product' was fundamental in that regressive cultural tide"[@chadabe1997, 102].
 
-### John Cage: dal Prepared Piano ai microsuoni amplificati
+### John Cage: dal prepared piano ai microsuoni amplificati
 
 Se nel capitolo precedente John Cage è emerso come pioniere a livello globale, in dialogo e contrapposizione con Stockhausen, per comprendere la specificità del modello americano è necessario considerarlo come l'ispiratore filosofico di un intero movimento (infatti come vedremo in seguito è poi la figura di David Tudor a catalizzare le proposte di Cage in una nuova prassi compositiva). La sua ricerca, iniziata ben prima del seminale *Cartridge Music* (1960), gettò le basi per un approccio alla tecnologia musicale che fosse accessibile, processuale e radicalmente performativo.
 
