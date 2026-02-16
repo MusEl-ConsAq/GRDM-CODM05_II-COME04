@@ -17,7 +17,7 @@ Il contesto economico era tale che, come ricorda Robert Ashley, non si aveva acc
 
 Quando i primi sintetizzatori commerciali, come il Moog e il Buchla, arrivarono sul mercato, molti compositori del Sonic Arts Union li rifiutarono esplicitamente. Gordon Mumma tracciava una distinzione fondamentale tra la "explorer tendency" dei musicisti della Cunningham Dance Company e l'omogeneità rappresentata dalla produzione di massa e dai synth commerciali. In questa visione, "The idea of 'product' was fundamental in that regressive cultural tide"[@chadabe1997, 102].
 
-### John Cage: Dal Prepared Piano ai Microsuoni Amplificati
+### John Cage: dal Prepared Piano ai microsuoni amplificati
 
 Se nel capitolo precedente John Cage è emerso come pioniere a livello globale, in dialogo e contrapposizione con Stockhausen, per comprendere la specificità del modello americano è necessario considerarlo come l'ispiratore filosofico di un intero movimento (infatti come vedremo in seguito è poi la figura di David Tudor a catalizzare le proposte di Cage in una nuova prassi compositiva). La sua ricerca, iniziata ben prima del seminale *Cartridge Music* (1960), gettò le basi per un approccio alla tecnologia musicale che fosse accessibile, processuale e radicalmente performativo.
 
@@ -90,7 +90,7 @@ Come accennato nel capitolo precedente, la scena londinese di fine anni Sessanta
 
 Dopo due anni come assistente di Karlheinz Stockhausen a Colonia, Hugh Davies si trovò, al suo rientro a Londra nel 1967, in una situazione paradossalmente simile a quella dei colleghi americani. Privato dell'accesso all'attrezzatura sofisticata dello studio tedesco e senza le risorse per procurarsene una propria, Davies trasformò questo limite in un catalizzatore creativo.
 
-La svolta avvenne grazie all'incontro con Annea Lockwood, che gli mostrò il potenziale musicale di oggetti comuni, come dei fischietti per bambole, aprendolo a un universo sonoro "far removed from the avantgarde context I had largely worked in beforehand" [@davies2002soundsheard, 55]. Da qui, tra il 1968 e il 1974, sviluppò la sua pratica costruttiva, dando vita agli strumenti della serie *Shozyg* e *Springboard*. Questi assemblaggi amplificati utilizzavano oggetti di recupero domestico—dalle molle metalliche alle scatole del pane—attivati da microfoni a contatto e pickup ricavati da vecchie cornette telefoniche.
+L'esperienza come assistente di Stockhausen (proprio con il brano Mikrophonie tra l'altro) insieme all'incontro con Annea Lockwood, che gli mostrò il potenziale musicale di oggetti comuni, come dei fischietti per bambole, aprendolo a un universo sonoro "far removed from the avantgarde context I had largely worked in beforehand" [@davies2002soundsheard, 55]. Da qui, tra il 1968 e il 1974, sviluppò la sua pratica costruttiva, dando vita agli strumenti della serie *Shozyg* e *Springboard*. Questi assemblaggi amplificati utilizzavano oggetti di recupero domestico—dalle molle metalliche alle scatole del pane—attivati da microfoni a contatto e pickup ricavati da vecchie cornette telefoniche.
 
 Il documentarista David Roberts notò come Davies adottasse sistematicamente un linguaggio che attribuiva agency allo strumento, usando frasi come "the instrument tells me what to do". Questa filosofia, che vedeva nel materiale un interlocutore attivo, lo avvicinava all'approccio dei compositori americani, pur applicandola a un repertorio di oggetti radicalmente diverso e quotidiano.
 
