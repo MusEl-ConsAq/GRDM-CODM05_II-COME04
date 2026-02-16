@@ -393,7 +393,7 @@ $if(title)$
     \begin{minipage}{0.9\textwidth}
         \centering\large\bfseries RIASSUNTO \par
         \vspace{0.5cm}
-        \normalsize\raggedright\mdseries
+        \normalsize\mdseries
         $abstract$
     \end{minipage}
     $endif$
