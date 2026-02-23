@@ -113,8 +113,6 @@ Come ha chiarito Emmerson, la relazione fisica tra un gesto e l'evento sonoro ch
 
 La stessa definizione di *live electronics* incontra ulteriori problematiche. Infatti la gestione di mezzi elettroacustici in concerto non nasce certo negli anni Sessanta, dato che i primi strumenti elettronici del Novecento erano concepiti per un uso dal vivo [@discipio2021]. L'espressione rappresenta piuttosto il tentativo di riunire sotto un'unica denominazione una molteplicità eterogenea di pratiche esecutive sviluppatesi in contesti geografici e istituzionali molto differenziati nel corso di decenni.
 
-Sebbene la storiografia individui spesso in opere come *Cartridge Music* (1960) e *Mikrophonie* (1964) la nascita codificata di questa prassi, nei prossimi paragrafi ci soffermeremo sugli aspetti che ne hanno preparato il terreno, a cominciare dalla crisi della *tape music*.
-
 ## Limiti del modello: ricerca fondamentale vs produzione musicale
 
 ### Tensione research vs production
