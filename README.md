@@ -329,8 +329,6 @@ Come ha chiarito Emmerson, la relazione fisica tra un gesto e l'evento sonoro ch
 
 La stessa definizione di *live electronics* incontra ulteriori problematiche. Infatti la gestione di mezzi elettroacustici in concerto non nasce certo negli anni Sessanta, dato che i primi strumenti elettronici del Novecento erano concepiti per un uso dal vivo [@discipio2021]. L'espressione rappresenta piuttosto il tentativo di riunire sotto un'unica denominazione una molteplicità eterogenea di pratiche esecutive sviluppatesi in contesti geografici e istituzionali molto differenziati nel corso di decenni.
 
-Sebbene la storiografia individui spesso in opere come *Cartridge Music* (1960) e *Mikrophonie* (1964) la nascita codificata di questa prassi, nei prossimi paragrafi ci soffermeremo sugli aspetti che ne hanno preparato il terreno, a cominciare dalla crisi della *tape music*.
-
 ## Limiti del modello: ricerca fondamentale vs produzione musicale
 
 ### Tensione research vs production
@@ -368,6 +366,11 @@ Dall’altro lato, il modello DIY e comunitario sviluppatosi principalmente negl
 Alla domanda iniziale – *in risposta a cosa* è nato il live electronics – possiamo quindi rispondere: è nato in risposta a un desiderio di riconnessione. Riconnessione del suono con il gesto che lo genera, della tecnologia con il corpo che la manipola, del compositore con il performer e con il pubblico all’interno di uno spazio condiviso. La storia qui raccontata è, volontariamente, una storia al plurale. Non esiste una linea di progresso che da Cage conduca a IRCAM, o viceversa. Esistono invece storie parallele, a volte intrecciate, spesso antagoniste, che testimoniano come la stessa esigenza artistica possa dare vita a ecosistemi culturali opposti.
 
 La lezione che questo racconto plurale offre al presente è più che mai attuale. In un panorama musicale dominato da tecnologie digitali sempre più standardizzate, omogenee e “opache”, l’eredità del live electronics DIY ci ricorda che la tecnologia è sempre una scelta culturale e, quindi, politica. Scegliere strumenti modificabili, pratiche cooperative e un’estetica della scoperta piuttosto che del controllo, significa preservare uno spazio per una liveness autentica: non la perfetta esecuzione di un programma, ma l’apertura imprevedibile di un evento in cui, come avrebbe detto David Tudor, è lo strumento stesso a “insegnarci cosa vuole ascoltare”. La sfida futura non sarà forse quella di costruire macchine più potenti, ma di progettare, collettivamente, le condizioni per cui la tecnologia serva, e non soffochi, questa irriducibile vita del suono.
+
+# APPROFONDIMENTI
+
+::: {#refs-app}
+:::
 
 # BIBLIOGRAFIA
 
