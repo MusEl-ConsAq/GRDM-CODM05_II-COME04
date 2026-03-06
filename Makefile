@@ -12,3 +12,17 @@ open:
 	open *.pdf
 clean: 
 	rm *.pdf *.svg *.html
+
+key:
+	rm -f docs/slides.key
+	cp slides.key docs/slides.key
+	open docs/slides.key
+	osascript -e 'tell application "Keynote"' \
+	          -e 'repeat until (exists document "slides.key")' \
+	          -e 'delay 0.5' \
+	          -e 'end repeat' \
+	          -e 'end tell'
+	md2key docs/slides.md
+
+		
+PHONY: key clean open timeline sync
